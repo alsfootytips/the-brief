@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-17T22:23:02.156278+00:00",
+  "generated_at": "2026-10-18T00:10:45.103778+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -47,7 +47,7 @@ window.theBriefLive = {
       "change_pct": -6.78,
       "price": 12.24,
       "is_watchlist": true,
-      "timestamp": "2026-10-17T22:23:02.154584+00:00",
+      "timestamp": "2026-10-18T00:10:45.100967+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -59,7 +59,7 @@ window.theBriefLive = {
       "change_pct": -8.21,
       "price": 184.05,
       "is_watchlist": false,
-      "timestamp": "2026-10-17T22:23:02.154582+00:00",
+      "timestamp": "2026-10-18T00:10:45.100963+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -71,7 +71,7 @@ window.theBriefLive = {
       "change_pct": -4.96,
       "price": 31.81,
       "is_watchlist": true,
-      "timestamp": "2026-10-17T22:23:02.154580+00:00",
+      "timestamp": "2026-10-18T00:10:45.100959+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -83,7 +83,7 @@ window.theBriefLive = {
       "change_pct": -12.19,
       "price": 165.45,
       "is_watchlist": true,
-      "timestamp": "2026-10-17T22:23:02.154578+00:00",
+      "timestamp": "2026-10-18T00:10:45.100956+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -95,7 +95,7 @@ window.theBriefLive = {
       "change_pct": -12.48,
       "price": 60.99,
       "is_watchlist": true,
-      "timestamp": "2026-10-17T22:23:02.154571+00:00",
+      "timestamp": "2026-10-18T00:10:45.100944+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -107,7 +107,7 @@ window.theBriefLive = {
       "change_pct": 4.15,
       "price": 49.19,
       "is_watchlist": true,
-      "timestamp": "2026-10-17T22:23:02.154569+00:00",
+      "timestamp": "2026-10-18T00:10:45.100940+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -119,7 +119,7 @@ window.theBriefLive = {
       "change_pct": -6.25,
       "price": 527.09,
       "is_watchlist": true,
-      "timestamp": "2026-10-17T22:23:02.154564+00:00",
+      "timestamp": "2026-10-18T00:10:45.100930+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -127,11 +127,89 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "JetBlue chief digital & tech officer disposes of $8,580 in stock",
+      "headline": "Maze Therapeutics CEO Jason Coloma sells $932,259 in Maze shares",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/jetblue-chief-digital--tech-officer-disposes-of-8580-in-stock-93CH-4955615",
+      "url": "https://www.investing.com/news/insider-trading-news/maze-therapeutics-ceo-jason-coloma-sells-932259-in-maze-shares-93CH-4955685",
       "is_watchlist": false,
-      "timestamp": "2026-10-17T22:01:07+00:00",
+      "timestamp": "2026-10-17T23:46:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "PagerDuty executive chair Jennifer Tejada sells $1.6 million in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/pagerduty-executive-chair-jennifer-tejada-sells-16-million-in-shares-93CH-4955675",
+      "is_watchlist": false,
+      "timestamp": "2026-10-17T23:31:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "First Guaranty Bancshares director Smith buys $822,013 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/first-guaranty-bancshares-director-smith-buys-822013-in-stock-93CH-4955666",
+      "is_watchlist": false,
+      "timestamp": "2026-10-17T23:16:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Could another France downgrade put the EU\u2019s credit rating at risk?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/could-another-france-downgrade-put-the-eus-credit-rating-at-risk-4955657",
+      "is_watchlist": false,
+      "timestamp": "2026-10-17T23:10:55+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Venezuela expects nearly $76 billion in oil investment over five years, acting president says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/venezuela-expects-nearly-76-billion-in-oil-investment-over-five-years-acting-president-says-4955647",
+      "is_watchlist": false,
+      "timestamp": "2026-10-17T22:54:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Limoneira VP, CFO Hamm sells $11,905 of common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/limoneira-vp-cfo-hamm-sells-11905-of-common-stock-93CH-4955645",
+      "is_watchlist": false,
+      "timestamp": "2026-10-17T22:45:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Zelenskiy criticizes Trump\u2019s waiver of sanctions on Russia as \u2019wrong\u2019",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/trump-waives-many-russiarelated-sanctions-tariffs-before-they-were-to-take-effect-under-new-law-4955088",
+      "is_watchlist": false,
+      "timestamp": "2026-10-17T22:36:18+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Protagonist CFO Ali Asif sells $8.3 million in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/protagonist-cfo-ali-asif-sells-83-million-in-company-stock-93CH-4955634",
+      "is_watchlist": false,
+      "timestamp": "2026-10-17T22:31:13+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -158,17 +236,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4955590",
-      "is_watchlist": false,
-      "timestamp": "2026-10-17T21:20:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -220,50 +287,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "On Semiconductor group president Sudhir Gopalswamy sells $1.25m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/on-semiconductor-group-president-sudhir-gopalswamy-sells-125m-in-shares-93CH-4955555",
-      "is_watchlist": false,
-      "timestamp": "2026-10-17T20:16:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Powell Industries VP Mauney sells $56,488 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/powell-industries-vp-mauney-sells-56488-in-stock-93CH-4955554",
-      "is_watchlist": false,
-      "timestamp": "2026-10-17T20:16:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Citi says interest rates may matter more for economy than stock valuations",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/citi-says-interest-rates-may-matter-more-for-economy-than-stock-valuations-4955545",
-      "is_watchlist": false,
-      "timestamp": "2026-10-17T19:54:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gilead chairman & CEO O\u2019Day sells $2.2m in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/gilead-chairman--ceo-oday-sells-22m-in-stock-93CH-4955543",
-      "is_watchlist": false,
-      "timestamp": "2026-10-17T19:46:19+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
@@ -281,28 +304,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4654028-key-deals-this-week-international-paper-ionq-bumble-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-10-17T19:15:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin coils at 23.6% Fib level near $81,495: Live levels",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
-      "is_watchlist": false,
-      "timestamp": "2026-10-17T19:02:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bitcoin price holds above $81,000 as ETF outflows weigh on sentiment",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-above-81000-as-etf-outflows-weigh-on-sentiment-4955253",
-      "is_watchlist": false,
-      "timestamp": "2026-10-17T19:00:45+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -539,6 +540,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "Egypt's Sisi seeks parliament's backing to help defend Saudi Arabia if asked - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ013QTYtQ0JudFVITVllWWh1Y3Y4WXVXOW80UmlXbEw1YXcxSG5RUkc4djV1X255M3BrWFl1ektoZU5vS1pMYzd4MW5jQ19wS3o4NEFDdHEyT3BsdGl6dDRTNXRDTGVKUnFlVkxSamlaVXRRaGhCeTBCblhQaDZUbHh2TlFRbHYzWUQtODRtVDFjdGlyRUxJR3A1OGdXWU1NalRGRnlhTExDbktfdHpWMmpoY1ZpdTlacmtiN0o1TEJaZ28?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-10-17T14:23:45+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "Iran's Guards say two tankers hit mines in Strait of Hormuz - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZWFxZjNZNnY5cVR3VDhKUnNnV1JOcG1vOVB5dEZGdWRybEtqdE9YRWgwY0ZVSXZ0bHYzTWRpX2duSkxpTENtY0s0WW5jMzFUZlZIME16d0FpUXluV2ZGbFJ3alNZaDh0VVVSVFhOMWVIbEZTNVgyTVdwaXNLNXRrMjE4SjZvQXZtblNUNVVHSjFIUmlIaU41TGRHYmIzOUxoa25BODFKaG1FZw?oc=5",
@@ -765,6 +777,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Brent crude hits $110 a barrel for first time since May as supply concerns mount",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-16/oil-tops-110-for-first-time-since-may-as-supply-risk-grows",
+      "is_watchlist": false,
+      "timestamp": "2026-10-16T23:41:15+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "GEV",
       "headline": "Baker Hughes (BKR) Signed Long Term Energy Infrastructure Agreements",
       "source": "Yahoo",
@@ -843,28 +866,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why did CoreWeave stock get crushed this week? Look to this corner of the debt market for clues",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/10/16/coreweave-credit-default-swaps.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-16T20:33:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "EXCLUSIVE: Trump move to restart direct US flights with Lebanon hits roadblock - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNjlHdlpLN0M4ZWJ5WmRvaUkyX2p0V0RNcnBqMmFaWVhqRzVUY2l6YlJkb2xpWXNXWXBZUlRXNzUyRHVhOXl2Wlh2bHROTWdQc1BYVkdjTVR3aFNaazVxOXR1REMtdW9HM0g3R3I0SW42T05qV3pOcDA0R2d3eC0xLWlxVS1MOFRiWHhyeFNzR0ZCWVl3dVplLU9wWmNNS3JhSGRBNjBTZjduSVp5TnlDd1pQN3ljajFBMHc?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-10-16T19:37:19+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1055,6 +1056,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-16T11:02:24+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1277,17 +1289,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-10-14T07:16:02+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Airport attacks put aviation in crosshairs of geopolitical conflicts",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/13/riyadh-airport-attacks-aviation.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-13T18:33:42+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {

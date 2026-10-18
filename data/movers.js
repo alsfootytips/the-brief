@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-17T22:23:02.151149+00:00",
+  "generated_at": "2026-10-18T00:10:45.094435+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -633,14 +633,14 @@ window.theBriefMovers = {
         "Moved -12.19% \u2014 a 2.4\u03c3 move vs typical 5.1% daily vol",
         "3 news items in the last 3 days",
         "Earnings within 7 days",
-        "9 insider sells vs 1 buys (last 90 days)",
+        "7 insider sells vs 3 buys (last 90 days)",
         "-42.3% from 52-week high"
       ],
       "reasons": [
         "Moved -12.19% \u2014 a 2.4\u03c3 move vs typical 5.1% daily vol",
         "3 news items in the last 3 days",
         "Earnings within 7 days",
-        "9 insider sells vs 1 buys (last 90 days)",
+        "7 insider sells vs 3 buys (last 90 days)",
         "-42.3% from 52-week high"
       ],
       "tags": [
@@ -696,13 +696,13 @@ window.theBriefMovers = {
         "Moved +4.15% \u2014 a 1.7\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 10.4 (cheap on absolute basis)"
+        "Forward P/E 10.6 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved +4.15% \u2014 a 1.7\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 10.4 (cheap on absolute basis)"
+        "Forward P/E 10.6 (cheap on absolute basis)"
       ],
       "tags": [
         "moderate-move",
