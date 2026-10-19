@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-18T23:31:10.892109+00:00",
+  "generated_at": "2026-10-19T01:44:31.342493+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"S&P 500 Top Movers: Today's Gainers and Losers\""
+      "move_reason": "Tracking XLE sector (+2.54% today)"
     },
     {
       "ticker": "OXY",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Sector Update: Energy Stocks Rise Friday Afternoon\""
+      "move_reason": ""
     },
     {
       "ticker": "XLU",
@@ -103,7 +103,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Secret shoppers caught Dollar General overcharging on about 14% of items \u2014 it now owes $1....\""
+      "move_reason": "Tracking XLP sector (+1.08% today)"
     },
     {
       "ticker": "XLRE",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Rise Amid AI Fears; Can Meta, SpaceX, Tesla Earnings Save The Day?\""
+      "move_reason": "News: \"Dow Jones Futures Rebound After AI Sell-Off; Meta, SpaceX, Tesla Earnings Key\""
     },
     {
       "ticker": "NBIS",
@@ -176,7 +176,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 AI Stocks With Earnings Growth Over 33% To Watch\""
+      "move_reason": "News: \"NVIDIA And 2 Other Fast Growing Stocks To Own\""
     },
     {
       "ticker": "OSCR",
@@ -188,7 +188,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health vs. Molina: Which Healthcare Stock Is a Better Buy?\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "SOFI",
@@ -293,7 +293,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Where Will CRISPR Therapeutics Stock Be in 2030?\""
+      "move_reason": "News: \"Here\u2019s What a $10,000 Investment in Nvidia Stock Will Be Worth by 2030\""
     }
   ],
   "watchlist": [
@@ -307,7 +307,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 AI Stocks With Earnings Growth Over 33% To Watch\""
+      "move_reason": "News: \"NVIDIA And 2 Other Fast Growing Stocks To Own\""
     },
     {
       "ticker": "APA",
@@ -319,7 +319,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"S&P 500 Top Movers: Today's Gainers and Losers\""
+      "move_reason": "Tracking XLE sector (+2.54% today)"
     },
     {
       "ticker": "CRWV",
@@ -331,7 +331,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Rise Amid AI Fears; Can Meta, SpaceX, Tesla Earnings Save The Day?\""
+      "move_reason": "News: \"Dow Jones Futures Rebound After AI Sell-Off; Meta, SpaceX, Tesla Earnings Key\""
     },
     {
       "ticker": "DG",
@@ -343,7 +343,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Secret shoppers caught Dollar General overcharging on about 14% of items \u2014 it now owes $1....\""
+      "move_reason": "Tracking XLP sector (+1.08% today)"
     },
     {
       "ticker": "GEV",
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Where Will CRISPR Therapeutics Stock Be in 2030?\""
+      "move_reason": "News: \"Here\u2019s What a $10,000 Investment in Nvidia Stock Will Be Worth by 2030\""
     },
     {
       "ticker": "OSCR",
@@ -403,7 +403,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health vs. Molina: Which Healthcare Stock Is a Better Buy?\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "OXY",
@@ -463,7 +463,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Sector Update: Energy Stocks Rise Friday Afternoon\""
+      "move_reason": ""
     }
   ],
   "indices": [
@@ -887,11 +887,11 @@ window.theBriefMovers = {
       "change_pct": 0.42,
       "score": 3.5,
       "signals": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "5 insider buys vs 1 sells (last 90 days)"
       ],
       "reasons": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "5 insider buys vs 1 sells (last 90 days)"
       ],
       "tags": [
