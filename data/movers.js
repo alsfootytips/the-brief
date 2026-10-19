@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-19T01:44:31.342493+00:00",
+  "generated_at": "2026-10-19T06:55:29.289298+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "Tracking XLE sector (+2.54% today)"
+      "move_reason": "News: \"The Winners Inside SCHD - October 2026\""
     },
     {
       "ticker": "OXY",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Rebound After AI Sell-Off; Meta, SpaceX, Tesla Earnings Key\""
+      "move_reason": "News: \"CoreWeave, Oracle have an interest rate problem\""
     },
     {
       "ticker": "NBIS",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout\""
+      "move_reason": "News: \"CRWV, NBIS, IREN Bounce Overnight After Brutal Week \u2014 But Industry Execs Reportedly See On...\""
     },
     {
       "ticker": "PLTR",
@@ -176,7 +176,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"NVIDIA And 2 Other Fast Growing Stocks To Own\""
+      "move_reason": "News: \"INTC, AMD, MU, SNDK: US Chip Stocks Rebound After Worst Week Since March\""
     },
     {
       "ticker": "OSCR",
@@ -270,7 +270,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Data Continues To Defy Sentiment\""
+      "move_reason": "News: \"What Would Stop The AI Selloff\""
     },
     {
       "ticker": "XLC",
@@ -293,7 +293,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here\u2019s What a $10,000 Investment in Nvidia Stock Will Be Worth by 2030\""
+      "move_reason": "News: \"If I Could Only Own 1 Artificial Intelligence (AI) Stock Through the Next Bubble Scare, It...\""
     }
   ],
   "watchlist": [
@@ -307,7 +307,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"NVIDIA And 2 Other Fast Growing Stocks To Own\""
+      "move_reason": "News: \"INTC, AMD, MU, SNDK: US Chip Stocks Rebound After Worst Week Since March\""
     },
     {
       "ticker": "APA",
@@ -319,7 +319,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "Tracking XLE sector (+2.54% today)"
+      "move_reason": "News: \"The Winners Inside SCHD - October 2026\""
     },
     {
       "ticker": "CRWV",
@@ -331,7 +331,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Rebound After AI Sell-Off; Meta, SpaceX, Tesla Earnings Key\""
+      "move_reason": "News: \"CoreWeave, Oracle have an interest rate problem\""
     },
     {
       "ticker": "DG",
@@ -367,7 +367,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Data Continues To Defy Sentiment\""
+      "move_reason": "News: \"What Would Stop The AI Selloff\""
     },
     {
       "ticker": "NBIS",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout\""
+      "move_reason": "News: \"CRWV, NBIS, IREN Bounce Overnight After Brutal Week \u2014 But Industry Execs Reportedly See On...\""
     },
     {
       "ticker": "NVDA",
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here\u2019s What a $10,000 Investment in Nvidia Stock Will Be Worth by 2030\""
+      "move_reason": "News: \"If I Could Only Own 1 Artificial Intelligence (AI) Stock Through the Next Bubble Scare, It...\""
     },
     {
       "ticker": "OSCR",
@@ -696,13 +696,13 @@ window.theBriefMovers = {
         "Moved +4.15% \u2014 a 1.7\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 10.6 (cheap on absolute basis)"
+        "Forward P/E 10.4 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved +4.15% \u2014 a 1.7\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 10.6 (cheap on absolute basis)"
+        "Forward P/E 10.4 (cheap on absolute basis)"
       ],
       "tags": [
         "moderate-move",
