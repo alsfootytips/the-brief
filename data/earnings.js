@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-10-19T14:23:26+00:00",
+  "generated_at": "2026-10-19T17:59:23+00:00",
   "by_date": {
     "2026-10-22": [
       {
@@ -6609,6 +6609,62 @@ window.theBriefEarnings = {
         "eps_estimate": 2.4141,
         "revenue_estimate": 6673786595,
         "is_watchlist": false
+      },
+      {
+        "ticker": "MSCI",
+        "date": "2026-10-20",
+        "hour": "bmo",
+        "eps_estimate": 5.1244,
+        "revenue_estimate": 903888810,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NFBK",
+        "date": "2026-10-20",
+        "hour": "",
+        "eps_estimate": 0.357,
+        "revenue_estimate": 39035400,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NFLX",
+        "date": "2026-10-20",
+        "hour": "amc",
+        "eps_estimate": 0.8391,
+        "revenue_estimate": 13136855206,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NIC",
+        "date": "2026-10-20",
+        "hour": "",
+        "eps_estimate": 3.0946,
+        "revenue_estimate": 140314250,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NLY",
+        "date": "2026-10-20",
+        "hour": "amc",
+        "eps_estimate": 0.7814,
+        "revenue_estimate": 1830355663,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NOC",
+        "date": "2026-10-20",
+        "hour": "bmo",
+        "eps_estimate": 7.2565,
+        "revenue_estimate": 11251757257,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NP",
+        "date": "2026-10-20",
+        "hour": "amc",
+        "eps_estimate": 0.1639,
+        "revenue_estimate": 57849362,
+        "is_watchlist": false
       }
     ],
     "2026-10-21": [
@@ -10759,14 +10815,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "ALM",
-        "date": "2026-11-02",
-        "hour": "",
-        "eps_estimate": 0.1818,
-        "revenue_estimate": 123669450,
-        "is_watchlist": false
-      },
-      {
         "ticker": "ALX",
         "date": "2026-11-02",
         "hour": "",
@@ -10900,14 +10948,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 0.4197,
         "revenue_estimate": 310183020,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "CBLL",
-        "date": "2026-11-02",
-        "hour": "",
-        "eps_estimate": -0.5202,
-        "revenue_estimate": 29747025,
         "is_watchlist": false
       },
       {
@@ -11228,14 +11268,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -0.1979,
         "revenue_estimate": 0,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "GRAB",
-        "date": "2026-11-02",
-        "hour": "",
-        "eps_estimate": 0.0286,
-        "revenue_estimate": 1091128343,
         "is_watchlist": false
       },
       {
@@ -11575,14 +11607,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "NVGS",
-        "date": "2026-11-02",
-        "hour": "amc",
-        "eps_estimate": 1.0016,
-        "revenue_estimate": 141567840,
-        "is_watchlist": false
-      },
-      {
         "ticker": "O",
         "date": "2026-11-02",
         "hour": "amc",
@@ -11692,14 +11716,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 0.1304,
         "revenue_estimate": 78975136,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "PYXS",
-        "date": "2026-11-02",
-        "hour": "bmo",
-        "eps_estimate": -0.2926,
-        "revenue_estimate": 0,
         "is_watchlist": false
       },
       {
@@ -11844,14 +11860,6 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": -1.6346,
         "revenue_estimate": 278797314,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "SRAD",
-        "date": "2026-11-02",
-        "hour": "bmo",
-        "eps_estimate": 0.1021,
-        "revenue_estimate": 365256267,
         "is_watchlist": false
       },
       {
@@ -12084,14 +12092,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "XGN",
-        "date": "2026-11-02",
-        "hour": "",
-        "eps_estimate": -0.1847,
-        "revenue_estimate": 18526288,
         "is_watchlist": false
       },
       {
