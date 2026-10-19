@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-10-19T06:55:29+00:00",
+  "generated_at": "2026-10-19T14:23:26+00:00",
   "by_date": {
     "2026-10-22": [
       {
@@ -4433,14 +4433,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "FBLG",
-        "date": "2026-10-29",
-        "hour": "",
-        "eps_estimate": -0.6426,
-        "revenue_estimate": 0,
-        "is_watchlist": false
-      },
-      {
         "ticker": "FBTT",
         "date": "2026-10-29",
         "hour": "",
@@ -4468,16 +4460,16 @@ window.theBriefEarnings = {
         "ticker": "FDXF",
         "date": "2026-10-29",
         "hour": "",
-        "eps_estimate": 0.5341,
-        "revenue_estimate": 2263505256,
+        "eps_estimate": 1.3856,
+        "revenue_estimate": 2419092180,
         "is_watchlist": false
       },
       {
         "ticker": "FDXF",
         "date": "2026-10-29",
         "hour": "",
-        "eps_estimate": 1.3856,
-        "revenue_estimate": 2419092180,
+        "eps_estimate": 0.5341,
+        "revenue_estimate": 2263505256,
         "is_watchlist": false
       },
       {
@@ -6608,6 +6600,14 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": 2.3584,
         "revenue_estimate": 97742750,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MMM",
+        "date": "2026-10-20",
+        "hour": "bmo",
+        "eps_estimate": 2.4141,
+        "revenue_estimate": 6673786595,
         "is_watchlist": false
       }
     ],
