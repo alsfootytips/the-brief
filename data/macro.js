@@ -1,17 +1,17 @@
 window.theBriefMacro = {
-  "generated_at": "2026-10-20T16:03:37.949192+00:00",
+  "generated_at": "2026-10-20T17:59:03.589788+00:00",
   "snapshot": {
     "^TNX": {
       "name": "10Y Treasury yield",
       "value": 5.12,
-      "change_pct_1d": -0.41,
-      "change_pct_1w": -1.45
+      "change_pct_1d": -0.37,
+      "change_pct_1w": -1.41
     },
     "^FVX": {
       "name": "5Y Treasury yield",
       "value": 4.93,
-      "change_pct_1d": -0.06,
-      "change_pct_1w": -1.32
+      "change_pct_1d": 0.12,
+      "change_pct_1w": -1.14
     },
     "^IRX": {
       "name": "13W T-Bill yield",
@@ -22,38 +22,38 @@ window.theBriefMacro = {
     "^TYX": {
       "name": "30Y Treasury yield",
       "value": 5.43,
-      "change_pct_1d": -0.71,
-      "change_pct_1w": -1.67
+      "change_pct_1d": -0.77,
+      "change_pct_1w": -1.72
     },
     "^VIX": {
       "name": "VIX (volatility)",
-      "value": 17.91,
-      "change_pct_1d": -2.87,
-      "change_pct_1w": 6.16
+      "value": 17.39,
+      "change_pct_1d": -5.69,
+      "change_pct_1w": 3.08
     },
     "GC=F": {
       "name": "Gold futures",
-      "value": 4151.9,
-      "change_pct_1d": -0.2,
-      "change_pct_1w": 1.07
+      "value": 4142.0,
+      "change_pct_1d": -0.44,
+      "change_pct_1w": 0.83
     },
     "CL=F": {
       "name": "WTI Crude futures",
-      "value": 97.37,
-      "change_pct_1d": -6.07,
-      "change_pct_1w": 2.4
+      "value": 97.91,
+      "change_pct_1d": -5.55,
+      "change_pct_1w": 2.97
     },
     "DX-Y.NYB": {
       "name": "US Dollar Index",
-      "value": 101.75,
-      "change_pct_1d": -0.23,
-      "change_pct_1w": -0.78
+      "value": 101.71,
+      "change_pct_1d": -0.26,
+      "change_pct_1w": -0.82
     },
     "BTC-USD": {
       "name": "Bitcoin",
-      "value": 82488.42,
-      "change_pct_1d": 0.78,
-      "change_pct_1w": 1.21
+      "value": 82707.63,
+      "change_pct_1d": 1.04,
+      "change_pct_1w": 1.48
     },
     "_yield_curve": {
       "spread_10y_13w_bps": 104,
