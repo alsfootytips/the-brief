@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-20T00:51:21.832425+00:00",
+  "generated_at": "2026-10-20T02:07:54.218682+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -43,45 +43,133 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Crowdstrike CEO George Kurtz sells shares worth $4.7 million",
+      "headline": "Ionis Pharma EVP Devers sells $59,081 in stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-shares-worth-47-million-93CH-4958578",
+      "url": "https://www.investing.com/news/insider-trading-news/ionis-pharma-evp-devers-sells-59081-in-stock-93CH-4958665",
       "is_watchlist": false,
-      "timestamp": "2026-10-20T00:31:22+00:00",
+      "timestamp": "2026-10-20T02:01:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Crowdstrike director Johanna Flower disposes of $2.27m in stock",
+      "headline": "Ionis Pharmaceuticals EVP research Eric Swayze sells $2,307 in stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/crowdstrike-director-johanna-flower-disposes-of-227m-in-stock-93CH-4958579",
+      "url": "https://www.investing.com/news/insider-trading-news/ionis-pharmaceuticals-evp-research-eric-swayze-sells-2307-in-stock-93CH-4958664",
       "is_watchlist": false,
-      "timestamp": "2026-10-20T00:31:22+00:00",
+      "timestamp": "2026-10-20T02:01:01+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Palantir director Alexander Moore sells $3.1m in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/palantir-director-alexander-moore-sells-31m-in-shares-93CH-4958577",
+      "headline": "Every look from the Victoria's Secret Fashion Show - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa2lPVEdrVzBfenM5SXI3MVNXTDdLQ1R5Si12OHFWQzF1TUtJaUZYdjl6SmZjSkdZeS1FSWV2a2JzeXc5TEFGdkliY09WTFE2SWYwRUQwVUJaWWsxV2dSNGZwYWlOMFMyd0kzaTZoN0xJZmJTRm9NUjdmdmhPeG9sYlJ5d05PVDREcWlFbF9YZ0U?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-10-20T00:31:21+00:00",
+      "timestamp": "2026-10-20T01:57:11+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "EOS Climbs 11% In Rally",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-11-in-rally-4958658",
+      "is_watchlist": false,
+      "timestamp": "2026-10-20T01:53:58+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Black Pearl Q2 FY27 slides: 34% closer to profit, AI lead widens",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/black-pearl-q2-fy27-slides-34-closer-to-profit-ai-lead-widens-93CH-4958569",
+      "headline": "JD Vance refrains from endorsing Israeli leader Netanyahu as Trump offers praise",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/20/vance-israel-netanyahu-midterms-election-.html",
       "is_watchlist": false,
-      "timestamp": "2026-10-20T00:30:05+00:00",
+      "timestamp": "2026-10-20T01:53:34+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Top venture capitalist Jenny Lee says Asian startups are speeding toward IPOs",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/20/venture-capital-jenny-lee-granite-asia-startups.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-20T01:52:05+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Hazer Q1 FY27 slides: Japan study secured, graphite hits battery grade",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/hazer-q1-fy27-slides-japan-study-secured-graphite-hits-battery-grade-93CH-4958647",
+      "is_watchlist": false,
+      "timestamp": "2026-10-20T01:44:41+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gold slips as investors weigh Fed rate outlook",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/gold-slips-as-investors-weigh-fed-rate-outlook-4958646",
+      "is_watchlist": false,
+      "timestamp": "2026-10-20T01:36:58+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "China leaves loan rates steady for 17th consecutive month",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/china-leaves-loan-rates-steady-for-17th-consecutive-month-4958644",
+      "is_watchlist": false,
+      "timestamp": "2026-10-20T01:36:26+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Hazer Group highlights cash runway in Q1 2026",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-hazer-group-highlights-cash-runway-in-q1-2026-93CH-4958639",
+      "is_watchlist": false,
+      "timestamp": "2026-10-20T01:32:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wayfair CEO Niraj Shah sells $13.02 million in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/wayfair-ceo-niraj-shah-sells-1302-million-in-company-stock-93CH-4958638",
+      "is_watchlist": false,
+      "timestamp": "2026-10-20T01:31:21+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Three big takeaways from the IMF-World Bank meetings",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-20T00:33:34+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -98,55 +186,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "BHP Q1 copper output falls 19% on lower grades, disruptions",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/bhp-q1-copper-output-falls-19-on-lower-grades-disruptions-4958568",
-      "is_watchlist": false,
-      "timestamp": "2026-10-20T00:21:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings call transcript: Black Pearl Group narrows loss to profitability in Q2 2026",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-black-pearl-group-narrows-loss-to-profitability-in-q2-2026-93CH-4958567",
-      "is_watchlist": false,
-      "timestamp": "2026-10-20T00:17:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "ServisFirst outlines 5-7 bps quarterly margin expansion as it launches 2m-share repurchase plan",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4654448-servisfirst-outlines-5minus-7-bps-quarterly-margin-expansion-as-it-launches-2m-share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-10-20T00:14:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Honeywell Aerospace sees business aviation growth on rising aircraft use",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/honeywell-aerospace-sees-business-aviation-growth-on-rising-aircraft-use-4958553",
-      "is_watchlist": false,
-      "timestamp": "2026-10-20T00:12:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Waymo plans to quintuple fleet to 20,000, Semafor reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/waymo-plans-to-quintuple-fleet-to-20000-semafor-reports-4958528",
-      "is_watchlist": false,
-      "timestamp": "2026-10-20T00:12:18+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -200,11 +244,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Every look from the Victoria's Secret Fashion Show - Reuters",
+      "headline": "Hegseth meets Netanyahu in unannounced visit to Israel, reports Axios - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa2lPVEdrVzBfenM5SXI3MVNXTDdLQ1R5Si12OHFWQzF1TUtJaUZYdjl6SmZjSkdZeS1FSWV2a2JzeXc5TEFGdkliY09WTFE2SWYwRUQwVUJaWWsxV2dSNGZwYWlOMFMyd0kzaTZoN0xJZmJTRm9NUjdmdmhPeG9sYlJ5d05PVDREcWlFbF9YZ0U?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOazNPMm5GbVJUYTRwVVVraElGMVptZkdyb0pkbklkdWMzY01zYWlkYTNNTDlxMFVnanBvVkczd3ozNUxZbDJ0Wl9JQ1hDOGtLZjJsM0hzeXRDTUpFYkhnWHFnQUFqRnZEVFFXZ1hHY1Vrb2hmbk1kaVNUTWZEZ0hoWURkZ080ZUlNQnVBaFhLWVNpTDliV3BmVHMzU05EQWUzTWdlNVd4dHpFNmhEUTZoRWVYVFJLQ1U?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-10-19T23:22:12+00:00",
+      "timestamp": "2026-10-19T23:09:10+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -251,6 +295,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-10-19T22:53:03+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Houthi attack kills 58 at Yemen government training camp, governor says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXFqMTJmVlRrSjR1NmNocW1VRWFpV1pSMjlNZDh1YXBsS2gyRkE0c19uRXJCQXN4Nklqajh6Tk4yeHhlRWRpWG81WXJMRVJmWXREaXZ2UkJfT3FNOFJndW9PNHBTZFRvVGJnbmFkeU10ZDlWdWY2N0kzVkFDVTh5NG0zZlZiM0N3bWthZmF2LUJjUXlEd29WOVRLZFdodFA0YlcwRl9fX0ptQ2dyN2I5RjVfRWJxRW1vYmF6VURGWQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-10-19T22:26:26+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -310,6 +365,18 @@ window.theBriefLive = {
       "timestamp": "2026-10-19T22:02:39+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "OSCR",
+      "headline": "Moderna, Progyny, Azenta, Oscar Health, and agilon health Shares Skyrocket, What You Need To Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=10c4037b3f6f104f99d09839a8c3778e12c0fa7c38338132c3f43a56b7735375",
+      "is_watchlist": true,
+      "timestamp": "2026-10-19T22:00:55+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -486,6 +553,22 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Putin"
+      ],
+      "ticker": null,
+      "headline": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
+      "is_watchlist": true,
+      "timestamp": "2026-10-19T21:00:02+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
       "headline": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
@@ -509,6 +592,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-19T20:54:40+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "XLE",
       "headline": "Sector Update: Energy Stocks Softer Late Afternoon",
       "source": "Yahoo",
@@ -527,6 +621,17 @@ window.theBriefLive = {
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNU5NeHoza1RQRlByV2lvS2dQTDZXOExwUktiVjJnaUE2YUJoVE1BN3N4VlhMNm1wd25CanBNSGlUeGhuSzZMTDlLUUdsMEtka0x5aWNBNGNpUEpwd1AxMnowV3RIYnZHZGxzb1ZNNGZqenFkbHNQLWlCcUxuekpVZ09UYUVlaWVsVjNmNjJpMHpjLVJiTnFiSnJLaVgyM1FlMEZuYnBUOXVhQQ?oc=5",
       "is_watchlist": false,
       "timestamp": "2026-10-19T19:54:46+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-19T19:46:07+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -558,6 +663,17 @@ window.theBriefLive = {
       "type": "news",
       "ticker": null,
       "headline": "Crushed tech stocks bounce \u2014 plus, new doctor survey keeps us positive on Lilly",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/investingclub/2026/10/19/crushed-tech-stocks-bounce-new-doctor-survey-keeps-us-positive-on-lilly.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-19T19:13:00+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Crushed tech stocks bounce \u2014 plus, new doctor survey keeps us positive on Lilly",
       "source": "CNBC",
       "url": "https://www.cnbc.com/investingclub/2026/10/19/crushed-tech-stocks-bounce-new-doctor-survey-keeps-us-positive-on-lilly.html",
       "is_watchlist": false,
@@ -579,6 +695,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "TTD",
+      "headline": "Why Is Everyone Ignoring Trade Desk Stock's High Cash Yield?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=53b56f0e608b39d16235263c21fffbe5d1b2c13f69e2b1f3abbbe2eb0722a046",
+      "is_watchlist": true,
+      "timestamp": "2026-10-19T18:27:49+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "US bans DeepSeek AI from government use as tech tension with China continues",
       "source": "BBC Business",
@@ -596,6 +724,17 @@ window.theBriefLive = {
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMTBxMkF3RnVSeWFVMnUwOEZFYVAyeFRhRE9IVll1Q2czRDV3aWEtNzdvcV81TFZ1YzNjNDRkSHloSUFCUW9va0NyNEtSa1k0Wm9MeG9ZVE1sYkFpd0JoUjNXYm96NFdyY1FjNUFnNlljcEZQR3ByMUdXYVZOY2RDdnk3cEZXVHlfaTMzV19Xc0JTMDdPQmJlNHRrUE1Ua1ZtM0E5Umc2T3FrVmpXa3o3U29pZWdoSjNl?oc=5",
       "is_watchlist": false,
       "timestamp": "2026-10-19T17:45:49+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Canadian dollar notches nearly four-week high on BoC rate hike bets - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQejFjMHFhbTY3RGNrb3ZLNnZvd2QtWjl4eDg5cG9vRmR3Qk9zbGNBWXM1VXE5Z0ZWamFZYUptd0RwTmdieTRjQXVjWE5YVEhlVzFOUEo3WnF4aVRqSmNvUUFTZnVwVHo2aHVuTXZybk5UT0ZqSmtGNHdfRXZhNWdzVnpDRWRja2ExdFFHNTYwUDg2bmxzWjdRekRHeUtKU3RuY1Z3M2FZSktjdXliQlpZZjBn?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-10-19T17:41:13+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
     },
@@ -661,28 +800,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Christiane Amanpour to leave CNN after four decades as Ellison era begins - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb1RuM0JKcU9Qaks5eThna1hYUlptN2YyRWlqc2dDX1kySU51MWZPNFd6bXpCVnVPZXptVl80VmlwLU9NbTVrVmNjeWpNUEs4WFFKekVFRGU2NTZJQlZxeEFINFJRa3RmTEVJbnhvUm83R2gyMDVEb3V5cmgxNHFBWnd6OVN5ZlBKQ09HcWJnSlhvM0FxTm9ORkNBdzg4RzJSZzhVWHdROU1oT0d6VEY3LXdLdUV5VkwzZGkxWlVjOTlqcG1l?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-10-19T17:12:25+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gartner analyst behind tech rout: AI returns are not yet large enough to justify neocloud build-out",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/19/gartner-analyst-warns-about-ai-neccloud-build-out.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-19T16:57:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Vinted blocks French looters listing stolen goods for sale",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
@@ -694,11 +811,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Rubio seeks to expand Central Asia ties with pomp-filled Uzbekistan visit - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRjBMUkU1SEVNclFaMVR1SnljVENrS3N5RUdNcnV5UFZkdlB3RHdiWTFoSFRxcVRBVkRSOEowM0h4bHZyYmd4dDhKYlJQSzUzTUJ2QmxzaGtha2lxUldoLXRPSmczQndXbTNHRWxwRHBhZF9vdDdZRVl4WXJ0M3B0dEJrOWh1SkVzTXhIUTVydk11cEFPaXc3dGZBX0JnMk9hYlpOdkpXc3R3cllKTllGRG5MVC01QkZHNl9Td3J1VHhSckE?oc=5",
+      "headline": "Anthropic is AI trade's last big hope for a major IPO this year",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
       "is_watchlist": false,
-      "timestamp": "2026-10-19T16:16:25+00:00",
+      "timestamp": "2026-10-19T16:42:14+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -811,6 +928,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "TTD",
+      "headline": "The Trade Desk Broadens CTV Ad Reach in Italy: A New Catalyst for TTD?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=46b04d936fd049f9a2dba7c5ef8dbaa170926cc3391903e01f2def234e1205eb",
+      "is_watchlist": true,
+      "timestamp": "2026-10-19T13:16:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": "PWR",
       "headline": "Can Quanta Overcome Macro Headwinds With Record Project Demand?",
       "source": "Yahoo",
@@ -858,6 +987,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "TTD",
+      "headline": "Can The Trade Desk's Cash Reserves Strengthen Its Competitive Edge?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fabfd55f801e823ff41ac91a5b3657b8880e532044358e4e184f848057cb9b3d",
+      "is_watchlist": true,
+      "timestamp": "2026-10-19T12:30:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": "GEV",
       "headline": "Bloom Energy Q3 Earnings on Deck: Should Investors Buy or Wait?",
       "source": "Yahoo",
@@ -894,50 +1035,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-19T07:48:53+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/19/takaichi-weak-yen-jgb-yields.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-19T05:29:51+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-19T04:36:39+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Indonesian stocks plunge to six-year low as MSCI downgrade fears mount",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/19/indonesian-stocks-msci-downgrade-fears-mount.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-19T03:00:33+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Noah Adams, longtime host of NPR's All Things Considered, has died",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/10/18/nx-s1-5556931/noah-adams-all-things-considered-has-died",
@@ -960,55 +1057,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/17/timberland-investing-returns-risk.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-17T16:31:06+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump's student loan overhaul could lead to more bankruptcy filings, former judge says",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html",
-      "is_watchlist": true,
-      "timestamp": "2026-10-17T13:30:01+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "'Everyone laughed' when he started a pumpkin farm\u2014now it brings in $2 million a year",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/make-it/2026/10/17/great-pumpkin-farm-new-york-2-million-revenue.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-17T13:00:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "TTD",
-      "headline": "The Trade Desk (NASDAQ:TTD): A Growth-at-a-Reasonable-Price Candidate",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=8c43d18a122c750452fa203ca152a2d32fcd73ccb35b3e5e74b81e30766bfcc0",
-      "is_watchlist": true,
-      "timestamp": "2026-10-17T11:41:04+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Weddings are expensive. How about a grocery store cake?",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/10/17/nx-s1-5976921/grocery-store-wedding-cakes",
@@ -1019,30 +1067,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "TTD",
-      "headline": "Prediction: Here's Where The Trade Desk Stock Will Be in 2029",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e8d8592f526099ea5165543582700a5126d44ae3aa502bc9062b97a6065d5db6",
-      "is_watchlist": true,
-      "timestamp": "2026-10-17T07:58:01+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "TTD",
-      "headline": "Are You Overpaying For AppLovin Stock Versus Its Rivals?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=03b2e385dd3efe19a6b6a91ede2ee0de4f4bd18117ee09c406b61b7f315b1035",
-      "is_watchlist": true,
-      "timestamp": "2026-10-17T02:36:39+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "The Austin Powers steamroller: How to trade CoreWeave's slow moving crisis",
       "source": "CNBC Markets",
@@ -1050,17 +1074,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-10-16T18:24:35+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-16T16:46:18+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
