@@ -1,15 +1,15 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-10-19T23:42:45.330983+00:00",
+  "generated_at": "2026-10-20T00:51:22.293314+00:00",
   "by_ticker": {
     "CRWV": {
-      "return_1m": -24.88,
-      "return_3m": -23.2,
-      "return_6m": -47.95,
+      "return_1m": -23.15,
+      "return_3m": -15.97,
+      "return_6m": -47.46,
       "return_1y": null,
-      "return_ytd": -22.95,
-      "return_52w_high": -56.32,
-      "return_52w_low": 0.49,
-      "realized_vol_30d_pct": 5.39,
+      "return_ytd": -22.6,
+      "return_52w_high": -56.13,
+      "return_52w_low": 0.94,
+      "realized_vol_30d_pct": 5.53,
       "trailing_pe": null,
       "forward_pe": -33.096516,
       "price_to_sales": 4.441359,
@@ -26,15 +26,15 @@ window.theBriefFundamentals = {
       "short_ratio": 2.08,
       "short_percent_of_float": 0.1924,
       "analyst_recs": {
-        "strongBuy": 10,
-        "buy": 22,
-        "hold": 12,
+        "strongBuy": 11,
+        "buy": 26,
+        "hold": 11,
         "sell": 1,
         "strongSell": 1,
-        "period": "2026-09-01"
+        "period": "2026-10-01"
       },
       "analyst_recs_change": {
-        "buy_delta": 1,
+        "buy_delta": 4,
         "sell_delta": 0
       },
       "insider_recent_90d": {
@@ -44,39 +44,39 @@ window.theBriefFundamentals = {
       }
     },
     "NBIS": {
-      "return_1m": -23.84,
-      "return_3m": -21.52,
-      "return_6m": 6.96,
+      "return_1m": -24.09,
+      "return_3m": -9.39,
+      "return_6m": 5.3,
       "return_1y": null,
-      "return_ytd": 89.26,
-      "return_52w_high": -40.62,
-      "return_52w_low": 130.46,
-      "realized_vol_30d_pct": 4.92,
+      "return_ytd": 83.96,
+      "return_52w_high": -42.28,
+      "return_52w_low": 124.0,
+      "realized_vol_30d_pct": 5.11,
       "trailing_pe": 133.0,
       "forward_pe": -47.84697,
-      "price_to_sales": 31.897003,
+      "price_to_sales": 34.152927,
       "price_to_book": 4.513016,
-      "enterprise_to_ebitda": 189.159,
+      "enterprise_to_ebitda": 189.212,
       "profit_margin": 0.03129,
       "gross_margin": 0.7426,
       "operating_margin": -0.00223,
       "revenue_growth_yoy": 4.54,
       "earnings_growth_qoq": null,
-      "market_cap": 43223629824,
+      "market_cap": 46280634368,
       "beta": 1.46,
       "dividend_yield": 0.0,
       "short_ratio": 2.98,
       "short_percent_of_float": 0.1893,
       "analyst_recs": {
-        "strongBuy": 7,
-        "buy": 11,
-        "hold": 7,
+        "strongBuy": 8,
+        "buy": 12,
+        "hold": 9,
         "sell": 0,
         "strongSell": 0,
-        "period": "2026-09-01"
+        "period": "2026-10-01"
       },
       "analyst_recs_change": {
-        "buy_delta": 0,
+        "buy_delta": 1,
         "sell_delta": 0
       },
       "insider_recent_90d": {
@@ -86,14 +86,14 @@ window.theBriefFundamentals = {
       }
     },
     "TTD": {
-      "return_1m": -11.93,
-      "return_3m": -32.82,
-      "return_6m": -49.02,
+      "return_1m": -14.24,
+      "return_3m": -34.39,
+      "return_6m": -45.57,
       "return_1y": null,
-      "return_ytd": -67.46,
-      "return_52w_high": -77.35,
-      "return_52w_low": 2.85,
-      "realized_vol_30d_pct": 2.78,
+      "return_ytd": -67.54,
+      "return_52w_high": -77.41,
+      "return_52w_low": 2.6,
+      "realized_vol_30d_pct": 2.87,
       "trailing_pe": 14.771085,
       "forward_pe": 12.200098,
       "price_to_sales": 1.9385285,
@@ -110,16 +110,16 @@ window.theBriefFundamentals = {
       "short_ratio": 3.25,
       "short_percent_of_float": 0.2235,
       "analyst_recs": {
-        "strongBuy": 2,
+        "strongBuy": 1,
         "buy": 4,
-        "hold": 27,
+        "hold": 28,
         "sell": 10,
         "strongSell": 2,
-        "period": "2026-09-01"
+        "period": "2026-10-01"
       },
       "analyst_recs_change": {
-        "buy_delta": -9,
-        "sell_delta": 7
+        "buy_delta": 0,
+        "sell_delta": 0
       },
       "insider_recent_90d": {
         "buys": 5,
@@ -128,14 +128,14 @@ window.theBriefFundamentals = {
       }
     },
     "OSCR": {
-      "return_1m": 1.28,
-      "return_3m": 5.75,
-      "return_6m": 97.93,
+      "return_1m": -0.28,
+      "return_3m": 7.74,
+      "return_6m": 101.96,
       "return_1y": null,
-      "return_ytd": 117.37,
-      "return_52w_high": -5.19,
-      "return_52w_low": 199.91,
-      "realized_vol_30d_pct": 2.64,
+      "return_ytd": 113.03,
+      "return_52w_high": -7.08,
+      "return_52w_low": 193.92,
+      "realized_vol_30d_pct": 2.62,
       "trailing_pe": 25.224808,
       "forward_pe": 14.651454,
       "price_to_sales": 0.6556269,
@@ -153,14 +153,14 @@ window.theBriefFundamentals = {
       "short_percent_of_float": 0.0651,
       "analyst_recs": {
         "strongBuy": 2,
-        "buy": 7,
-        "hold": 9,
+        "buy": 8,
+        "hold": 8,
         "sell": 1,
         "strongSell": 0,
-        "period": "2026-09-01"
+        "period": "2026-10-01"
       },
       "analyst_recs_change": {
-        "buy_delta": 0,
+        "buy_delta": 1,
         "sell_delta": 0
       },
       "insider_recent_90d": {
@@ -170,16 +170,16 @@ window.theBriefFundamentals = {
       }
     },
     "APA": {
-      "return_1m": 10.9,
-      "return_3m": 40.09,
-      "return_6m": 40.24,
+      "return_1m": 8.12,
+      "return_3m": 42.07,
+      "return_6m": 39.42,
       "return_1y": null,
-      "return_ytd": 100.81,
+      "return_ytd": 98.35,
       "return_52w_high": 0.0,
-      "return_52w_low": 135.11,
-      "realized_vol_30d_pct": 2.42,
+      "return_52w_low": 132.23,
+      "realized_vol_30d_pct": 2.51,
       "trailing_pe": 10.520084,
-      "forward_pe": 10.732048,
+      "forward_pe": 10.487048,
       "price_to_sales": 2.0337718,
       "price_to_book": 2.4852662,
       "enterprise_to_ebitda": 3.81,
@@ -194,12 +194,12 @@ window.theBriefFundamentals = {
       "short_ratio": 4.3,
       "short_percent_of_float": 0.096,
       "analyst_recs": {
-        "strongBuy": 4,
+        "strongBuy": 5,
         "buy": 8,
-        "hold": 16,
+        "hold": 17,
         "sell": 3,
         "strongSell": 0,
-        "period": "2026-09-01"
+        "period": "2026-10-01"
       },
       "analyst_recs_change": {
         "buy_delta": 0,
@@ -212,15 +212,15 @@ window.theBriefFundamentals = {
       }
     },
     "TPL": {
-      "return_1m": -2.29,
-      "return_3m": -17.6,
-      "return_6m": -20.5,
+      "return_1m": 1.07,
+      "return_3m": -13.4,
+      "return_6m": -16.7,
       "return_1y": null,
-      "return_ytd": 16.15,
-      "return_52w_high": -35.96,
-      "return_52w_low": 26.51,
-      "realized_vol_30d_pct": 2.76,
-      "trailing_pe": 43.955353,
+      "return_ytd": 18.28,
+      "return_52w_high": -34.79,
+      "return_52w_low": 28.83,
+      "realized_vol_30d_pct": 2.75,
+      "trailing_pe": 45.76494,
       "forward_pe": 4.7129374,
       "price_to_sales": 26.482761,
       "price_to_book": 14.21248,
@@ -236,12 +236,12 @@ window.theBriefFundamentals = {
       "short_ratio": 10.85,
       "short_percent_of_float": 0.0721,
       "analyst_recs": {
-        "strongBuy": 2,
+        "strongBuy": 1,
         "buy": 4,
         "hold": 1,
         "sell": 0,
         "strongSell": 1,
-        "period": "2026-09-01"
+        "period": "2026-10-01"
       },
       "analyst_recs_change": {
         "buy_delta": 0,
@@ -254,13 +254,13 @@ window.theBriefFundamentals = {
       }
     },
     "OXY": {
-      "return_1m": 6.59,
-      "return_3m": 11.52,
-      "return_6m": 16.19,
+      "return_1m": 5.21,
+      "return_3m": 13.55,
+      "return_6m": 17.04,
       "return_1y": null,
-      "return_ytd": 50.07,
-      "return_52w_high": -4.44,
-      "return_52w_low": 63.41,
+      "return_ytd": 49.26,
+      "return_52w_high": -4.96,
+      "return_52w_low": 62.52,
       "realized_vol_30d_pct": 2.09,
       "trailing_pe": 17.818182,
       "forward_pe": 12.9537,
@@ -279,14 +279,14 @@ window.theBriefFundamentals = {
       "short_percent_of_float": 0.0304,
       "analyst_recs": {
         "strongBuy": 4,
-        "buy": 9,
+        "buy": 11,
         "hold": 16,
         "sell": 0,
         "strongSell": 0,
-        "period": "2026-09-01"
+        "period": "2026-10-01"
       },
       "analyst_recs_change": {
-        "buy_delta": -1,
+        "buy_delta": 2,
         "sell_delta": 0
       },
       "insider_recent_90d": {
@@ -296,14 +296,14 @@ window.theBriefFundamentals = {
       }
     },
     "XLE": {
-      "return_1m": 6.05,
-      "return_3m": 16.59,
-      "return_6m": 24.74,
+      "return_1m": 6.46,
+      "return_3m": 18.48,
+      "return_6m": 25.66,
       "return_1y": null,
-      "return_ytd": 51.46,
-      "return_52w_high": -0.64,
-      "return_52w_low": 60.88,
-      "realized_vol_30d_pct": 1.36,
+      "return_ytd": 52.45,
+      "return_52w_high": 0.0,
+      "return_52w_low": 61.92,
+      "realized_vol_30d_pct": 1.37,
       "trailing_pe": 19.315138,
       "forward_pe": null,
       "price_to_sales": null,
@@ -321,13 +321,13 @@ window.theBriefFundamentals = {
       "short_percent_of_float": null
     },
     "IWM": {
-      "return_1m": -4.51,
-      "return_3m": -8.28,
-      "return_6m": -1.7,
+      "return_1m": -5.25,
+      "return_3m": -7.24,
+      "return_6m": -1.45,
       "return_1y": null,
-      "return_ytd": 9.78,
-      "return_52w_high": -10.85,
-      "return_52w_low": 19.61,
+      "return_ytd": 9.44,
+      "return_52w_high": -11.13,
+      "return_52w_low": 19.24,
       "realized_vol_30d_pct": 0.82,
       "trailing_pe": 15.959778,
       "forward_pe": null,
@@ -346,16 +346,16 @@ window.theBriefFundamentals = {
       "short_percent_of_float": null
     },
     "AMD": {
-      "return_1m": -3.89,
-      "return_3m": -1.17,
-      "return_6m": 95.69,
+      "return_1m": -3.0,
+      "return_3m": 5.0,
+      "return_6m": 89.93,
       "return_1y": null,
-      "return_ytd": 140.77,
-      "return_52w_high": -17.15,
-      "return_52w_low": 181.78,
-      "realized_vol_30d_pct": 3.58,
+      "return_ytd": 136.61,
+      "return_52w_high": -18.58,
+      "return_52w_low": 176.9,
+      "realized_vol_30d_pct": 3.65,
       "trailing_pe": 137.25764,
-      "forward_pe": 34.150433,
+      "forward_pe": 34.1357,
       "price_to_sales": 21.265057,
       "price_to_book": 13.062319,
       "enterprise_to_ebitda": 90.935,
@@ -371,14 +371,14 @@ window.theBriefFundamentals = {
       "short_percent_of_float": 0.0242,
       "analyst_recs": {
         "strongBuy": 17,
-        "buy": 32,
+        "buy": 33,
         "hold": 10,
         "sell": 0,
         "strongSell": 0,
-        "period": "2026-09-01"
+        "period": "2026-10-01"
       },
       "analyst_recs_change": {
-        "buy_delta": 0,
+        "buy_delta": 1,
         "sell_delta": 0
       },
       "insider_recent_90d": {
@@ -388,14 +388,14 @@ window.theBriefFundamentals = {
       }
     },
     "NVDA": {
-      "return_1m": -2.33,
-      "return_3m": 4.84,
-      "return_6m": 7.68,
+      "return_1m": -2.38,
+      "return_3m": 5.46,
+      "return_6m": 6.42,
       "return_1y": null,
-      "return_ytd": 15.22,
-      "return_52w_high": -9.26,
-      "return_52w_low": 31.73,
-      "realized_vol_30d_pct": 1.64,
+      "return_ytd": 13.65,
+      "return_52w_high": -10.5,
+      "return_52w_low": 29.94,
+      "realized_vol_30d_pct": 1.63,
       "trailing_pe": 27.445007,
       "forward_pe": 13.640933,
       "price_to_sales": 17.30228,
@@ -412,12 +412,12 @@ window.theBriefFundamentals = {
       "short_ratio": 2.75,
       "short_percent_of_float": 0.0134000005,
       "analyst_recs": {
-        "strongBuy": 24,
+        "strongBuy": 25,
         "buy": 41,
-        "hold": 3,
+        "hold": 2,
         "sell": 1,
         "strongSell": 0,
-        "period": "2026-09-01"
+        "period": "2026-10-01"
       },
       "analyst_recs_change": {
         "buy_delta": 0,
@@ -430,14 +430,14 @@ window.theBriefFundamentals = {
       }
     },
     "DG": {
-      "return_1m": 9.41,
-      "return_3m": 8.71,
-      "return_6m": 6.45,
+      "return_1m": 8.07,
+      "return_3m": 8.24,
+      "return_6m": 7.13,
       "return_1y": null,
-      "return_ytd": -0.72,
-      "return_52w_high": -13.43,
-      "return_52w_low": 41.58,
-      "realized_vol_30d_pct": 2.11,
+      "return_ytd": 0.09,
+      "return_52w_high": -12.72,
+      "return_52w_low": 42.74,
+      "realized_vol_30d_pct": 2.12,
       "trailing_pe": 17.307793,
       "forward_pe": 16.035664,
       "price_to_sales": 0.6737614,
@@ -455,14 +455,14 @@ window.theBriefFundamentals = {
       "short_percent_of_float": 0.0341,
       "analyst_recs": {
         "strongBuy": 10,
-        "buy": 8,
-        "hold": 21,
+        "buy": 9,
+        "hold": 20,
         "sell": 1,
         "strongSell": 0,
-        "period": "2026-09-01"
+        "period": "2026-10-01"
       },
       "analyst_recs_change": {
-        "buy_delta": 0,
+        "buy_delta": 1,
         "sell_delta": 0
       },
       "insider_recent_90d": {
@@ -472,14 +472,14 @@ window.theBriefFundamentals = {
       }
     },
     "PWR": {
-      "return_1m": -2.86,
-      "return_3m": -3.24,
-      "return_6m": 2.25,
+      "return_1m": 2.5,
+      "return_3m": -0.09,
+      "return_6m": 5.02,
       "return_1y": null,
-      "return_ytd": 40.72,
-      "return_52w_high": -21.22,
-      "return_52w_low": 50.14,
-      "realized_vol_30d_pct": 2.48,
+      "return_ytd": 43.78,
+      "return_52w_high": -19.51,
+      "return_52w_low": 53.41,
+      "realized_vol_30d_pct": 2.45,
       "trailing_pe": 70.83734,
       "forward_pe": 31.14013,
       "price_to_sales": 2.8255115,
@@ -496,15 +496,15 @@ window.theBriefFundamentals = {
       "short_ratio": 3.74,
       "short_percent_of_float": 0.024400001,
       "analyst_recs": {
-        "strongBuy": 11,
+        "strongBuy": 12,
         "buy": 17,
-        "hold": 8,
+        "hold": 7,
         "sell": 0,
         "strongSell": 0,
-        "period": "2026-09-01"
+        "period": "2026-10-01"
       },
       "analyst_recs_change": {
-        "buy_delta": 2,
+        "buy_delta": 0,
         "sell_delta": 0
       },
       "insider_recent_90d": {
@@ -514,14 +514,14 @@ window.theBriefFundamentals = {
       }
     },
     "GEV": {
-      "return_1m": -3.39,
-      "return_3m": -15.79,
-      "return_6m": -8.21,
+      "return_1m": -0.4,
+      "return_3m": -14.64,
+      "return_6m": -8.09,
       "return_1y": null,
-      "return_ytd": 33.93,
-      "return_52w_high": -22.68,
-      "return_52w_low": 66.09,
-      "realized_vol_30d_pct": 2.79,
+      "return_ytd": 35.81,
+      "return_52w_high": -21.59,
+      "return_52w_low": 68.43,
+      "realized_vol_30d_pct": 2.78,
       "trailing_pe": 26.044724,
       "forward_pe": 35.94892,
       "price_to_sales": 5.848819,
@@ -539,15 +539,15 @@ window.theBriefFundamentals = {
       "short_percent_of_float": 0.0277,
       "analyst_recs": {
         "strongBuy": 11,
-        "buy": 24,
+        "buy": 23,
         "hold": 7,
-        "sell": 0,
+        "sell": 1,
         "strongSell": 0,
-        "period": "2026-09-01"
+        "period": "2026-10-01"
       },
       "analyst_recs_change": {
-        "buy_delta": 0,
-        "sell_delta": 0
+        "buy_delta": -1,
+        "sell_delta": 1
       },
       "insider_recent_90d": {
         "buys": 9,
