@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-20T02:07:54.208974+00:00",
+  "generated_at": "2026-10-20T07:34:34.991218+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Will AI Rack Expansion Change AMD Stock Narrative\""
+      "move_reason": "News: \"An Oil Refiner Is Beating Nvidia This Year: Analyst Thinks It Can Rally 16% More From Here\""
     },
     {
       "ticker": "XLY",
@@ -82,7 +82,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meet the Dividend King Stock That Yields More Than Quintuple the Nasdaq-100. Here's Why It...\""
+      "move_reason": "News: \"Compound Interest Will Create More Millionaires by 2030 Than Any Other Strategy\""
     },
     {
       "ticker": "XLK",
@@ -163,18 +163,17 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Hated, Unloved, And Yielding 5%: Is It Time To Reconsider Bonds? Here's My Take\""
+      "move_reason": "News: \"Tech Investors Bought The Dips\""
     },
     {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 112.28,
-      "change_pct": 0.27,
-      "volume_ratio": 0.84,
+      "ticker": "XLB",
+      "name": "Materials Select Sector",
+      "price": 50.95,
+      "change_pct": 0.06,
+      "volume_ratio": 0.83,
       "is_watchlist": false,
       "is_index": false,
-      "is_sector": false,
-      "market_state": null,
+      "is_sector": true,
       "move_reason": ""
     }
   ],
@@ -224,7 +223,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Musk: AI\u2019s Hard Part Is \u201cScaling Power\u201d: 3 Stocks Uniquely Suited to Win This New Bottlene...\""
+      "move_reason": "News: \"What Is Venture Global (VG) Building With 10 GW Of New Compute Power?\""
     },
     {
       "ticker": "TPL",
@@ -273,6 +272,18 @@ window.theBriefMovers = {
       "move_reason": "News: \"WMT, TGT & DG Bet Big on Capital Spending to Drive Next Growth Wave\""
     },
     {
+      "ticker": "VWRP.L",
+      "name": "VWRP.L",
+      "price": 142.96,
+      "change_pct": -0.65,
+      "volume_ratio": 0.2,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
+    },
+    {
       "ticker": "XLI",
       "name": "Industrial Select Sector",
       "price": 166.68,
@@ -292,6 +303,18 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
+      "move_reason": ""
+    },
+    {
+      "ticker": "VUAG.L",
+      "name": "VUAG.L",
+      "price": 111.64,
+      "change_pct": -0.57,
+      "volume_ratio": 0.21,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
       "move_reason": ""
     },
     {
@@ -328,29 +351,6 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
-    },
-    {
-      "ticker": "CRWV",
-      "name": "CoreWeave",
-      "price": 61.25,
-      "change_pct": -0.23,
-      "volume_ratio": 1.07,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"Nasdaq 100 Sees Best Day In Nearly A Month As AI Rout Cools \u2014 AMZN, BE, CRWV, AAPL, PLTR I...\""
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services Select",
-      "price": 110.09,
-      "change_pct": -0.21,
-      "volume_ratio": 0.69,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
     }
   ],
   "watchlist": [
@@ -364,7 +364,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Will AI Rack Expansion Change AMD Stock Narrative\""
+      "move_reason": "News: \"An Oil Refiner Is Beating Nvidia This Year: Analyst Thinks It Can Rally 16% More From Here\""
     },
     {
       "ticker": "APA",
@@ -388,7 +388,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nasdaq 100 Sees Best Day In Nearly A Month As AI Rout Cools \u2014 AMZN, BE, CRWV, AAPL, PLTR I...\""
+      "move_reason": "News: \"CoreWeave Stock Has Fallen 57% in a Year: Wells Fargo Sees 162% Upside\""
     },
     {
       "ticker": "DG",
@@ -412,7 +412,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Musk: AI\u2019s Hard Part Is \u201cScaling Power\u201d: 3 Stocks Uniquely Suited to Win This New Bottlene...\""
+      "move_reason": "News: \"What Is Venture Global (VG) Building With 10 GW Of New Compute Power?\""
     },
     {
       "ticker": "IWM",
@@ -424,7 +424,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Hated, Unloved, And Yielding 5%: Is It Time To Reconsider Bonds? Here's My Take\""
+      "move_reason": "News: \"Tech Investors Bought The Dips\""
     },
     {
       "ticker": "NBIS",
@@ -448,7 +448,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meet the Dividend King Stock That Yields More Than Quintuple the Nasdaq-100. Here's Why It...\""
+      "move_reason": "News: \"Compound Interest Will Create More Millionaires by 2030 Than Any Other Strategy\""
     },
     {
       "ticker": "OSCR",
