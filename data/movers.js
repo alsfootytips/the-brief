@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-21T00:06:19.652228+00:00",
+  "generated_at": "2026-10-21T00:16:54.367883+00:00",
   "gainers": [
     {
       "ticker": "CRWV",
@@ -95,7 +95,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Surprising Case For Investing When The Fed's Raising Rates\""
+      "move_reason": "News: \"Choppy Trading Leaves Dow Higher And Nasdaq Flat\""
     },
     {
       "ticker": "XLY",
@@ -424,7 +424,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Surprising Case For Investing When The Fed's Raising Rates\""
+      "move_reason": "News: \"Choppy Trading Leaves Dow Higher And Nasdaq Flat\""
     },
     {
       "ticker": "NBIS",
@@ -465,8 +465,8 @@ window.theBriefMovers = {
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "price": 62.75,
-      "change_pct": 0.05,
+      "price": 62.65,
+      "change_pct": -0.11,
       "volume_ratio": 0.91,
       "is_watchlist": true,
       "is_index": false,
@@ -889,8 +889,8 @@ window.theBriefMovers = {
     {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
-      "price": 62.75,
-      "change_pct": 0.05,
+      "price": 62.65,
+      "change_pct": -0.11,
       "score": 4.0,
       "signals": [
         "3 news items in the last 3 days",

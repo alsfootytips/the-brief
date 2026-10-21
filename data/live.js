@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-21T00:06:19.661550+00:00",
+  "generated_at": "2026-10-21T00:16:54.499557+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -73,7 +73,7 @@ window.theBriefLive = {
       "change_pct": 3.02,
       "price": 12.63,
       "is_watchlist": true,
-      "timestamp": "2026-10-21T00:06:19.658850+00:00",
+      "timestamp": "2026-10-21T00:16:54.372646+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -85,7 +85,7 @@ window.theBriefLive = {
       "change_pct": 4.03,
       "price": 33.85,
       "is_watchlist": true,
-      "timestamp": "2026-10-21T00:06:19.658846+00:00",
+      "timestamp": "2026-10-21T00:16:54.372643+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -97,7 +97,7 @@ window.theBriefLive = {
       "change_pct": 6.14,
       "price": 180.7,
       "is_watchlist": true,
-      "timestamp": "2026-10-21T00:06:19.658842+00:00",
+      "timestamp": "2026-10-21T00:16:54.372640+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -109,10 +109,32 @@ window.theBriefLive = {
       "change_pct": 6.35,
       "price": 65.0,
       "is_watchlist": true,
-      "timestamp": "2026-10-21T00:06:19.658822+00:00",
+      "timestamp": "2026-10-21T00:16:54.372626+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tesla\u2019s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-10-21T00:14:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "This Janus Henderson fund manager owns CoreWeave debt \u2014 here's why he's sticking with it",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/10/20/coreweave-debt-janus-henderson-lloyd.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-21T00:12:44+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -121,8 +143,107 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/10/21/japan-trade-exports-semiconductor-yen.html",
       "is_watchlist": false,
-      "timestamp": "2026-10-21T00:01:49+00:00",
+      "timestamp": "2026-10-21T00:12:17+00:00",
       "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Netflix vows to revive viewership trends, but investors hit \u2018sell\u2019 on the stock",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-10-21T00:12:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alaska Air earnings missed by $0.06, revenue was in line with estimates",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/earnings/alaska-air-earnings-missed-by-006-revenue-was-in-line-with-estimates-4961395",
+      "is_watchlist": false,
+      "timestamp": "2026-10-21T00:11:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "29Metals Q3 2026 slides: output falls, costs rise amid transition",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/29metals-q3-2026-slides-output-falls-costs-rise-amid-transition-93CH-4961394",
+      "is_watchlist": false,
+      "timestamp": "2026-10-21T00:10:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ferguson Enterprises CSO Jake Schlicher sells $118,369 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/ferguson-enterprises-cso-jake-schlicher-sells-118369-in-stock-93CH-4961392",
+      "is_watchlist": false,
+      "timestamp": "2026-10-21T00:06:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cathie Wood\u2019s ARK sells Palantir stock, buys Oklo",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-palantir-stock-buys-oklo-93CH-4961391",
+      "is_watchlist": false,
+      "timestamp": "2026-10-21T00:06:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Buda Juice at LD Micro main event: growth, cash and cold chain",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/buda-juice-at-ld-micro-main-event-growth-cash-and-cold-chain-93CH-4961389",
+      "is_watchlist": false,
+      "timestamp": "2026-10-21T00:02:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "First Breach at LD Micro: defense maker eyes scale, demand",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/first-breach-at-ld-micro-defense-maker-eyes-scale-demand-93CH-4961388",
+      "is_watchlist": false,
+      "timestamp": "2026-10-21T00:01:56+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Kairos Pharma at LD Micro Main Event: antibody bets on resistance",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/kairos-pharma-at-ld-micro-main-event-antibody-bets-on-resistance-93CH-4961387",
+      "is_watchlist": false,
+      "timestamp": "2026-10-21T00:00:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Japan September exports rise 16.7% y/y, slower than forecast",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/japan-september-exports-rise-167-yy-slower-than-forecast-4961386",
+      "is_watchlist": false,
+      "timestamp": "2026-10-21T00:00:22+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -139,100 +260,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Ferguson CEO Kevin Murphy sells $549,843 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ferguson-ceo-kevin-murphy-sells-549843-in-company-stock-93CH-4961383",
-      "is_watchlist": false,
-      "timestamp": "2026-10-20T23:50:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dow outperforms as Wall Street rises,\u00a0healthcare stocks lead gains",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-dip-as-oil-prices-climb-earnings-loom-4959413",
-      "is_watchlist": false,
-      "timestamp": "2026-10-20T23:48:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ferguson COO sells $127,125 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ferguson-coo-sells-127125-in-stock-93CH-4961376",
-      "is_watchlist": false,
-      "timestamp": "2026-10-20T23:46:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ferguson chief legal officer sells $75,273 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ferguson-chief-legal-officer-sells-75273-in-company-stock-93CH-4961375",
-      "is_watchlist": false,
-      "timestamp": "2026-10-20T23:45:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ferguson CHRO Allison Stirrup sells $207,450 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ferguson-chro-allison-stirrup-sells-207450-in-company-stock-93CH-4961373",
-      "is_watchlist": false,
-      "timestamp": "2026-10-20T23:45:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ferguson senior VP Camposano sells $85,879 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ferguson-senior-vp-camposano-sells-85879-in-company-stock-93CH-4961374",
-      "is_watchlist": false,
-      "timestamp": "2026-10-20T23:45:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bath & Body Works director Sarah Nash sells $14 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/bath--body-works-director-sarah-nash-sells-14-in-company-stock-93CH-4961367",
-      "is_watchlist": false,
-      "timestamp": "2026-10-20T23:35:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Capital One's strong quarter and progressing Discover integration are rewarded on Wall Street",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/investingclub/2026/10/20/capital-one-strong-quarter-and-progressing-discover-integration-are-rewarded.html",
       "is_watchlist": false,
       "timestamp": "2026-10-20T23:34:14+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "LiveOne at LD Micro 20th Annual Main Event Conference: turnaround gains",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/liveone-at-ld-micro-20th-annual-main-event-conference-turnaround-gains-93CH-4961363",
-      "is_watchlist": false,
-      "timestamp": "2026-10-20T23:33:41+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -352,31 +385,9 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Tesla\u2019s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-10-20T22:33:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re in our 60s and have $4 million. Do I keep working?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-10-20T22:30:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Netflix vows to revive viewership trends, but investors hit \u2018sell\u2019 on the stock",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-10-20T22:30:00+00:00",
       "relevance_score": 0.0,
@@ -412,17 +423,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4654971-neste-says-european-union-should-ease-restrictions-on-biofuel-feedstocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-10-20T22:26:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "This Janus Henderson fund manager owns CoreWeave debt \u2014 here's why he's sticking with it",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/10/20/coreweave-debt-janus-henderson-lloyd.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-20T22:06:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -622,6 +622,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "IWM",
+      "headline": "Choppy Trading Leaves Dow Higher And Nasdaq Flat",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=75f43f3fa0765253b630db98a765d149c37a05c0670952d060ea25fa8fd63ea3",
+      "is_watchlist": true,
+      "timestamp": "2026-10-20T19:45:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Boeing wins FAA approval for 737 Max 10 after years of delays",
       "source": "CNBC",
@@ -630,6 +642,18 @@ window.theBriefLive = {
       "timestamp": "2026-10-20T19:41:23+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "AI: A Global Financial Trap With No Easy Way Out",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=20f3d5ba75be20abdaf228fa1be917a2fd05c0f5618dab5ef85d19b4e3fcf218",
+      "is_watchlist": true,
+      "timestamp": "2026-10-20T19:38:09+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -890,18 +914,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Fiera Capital Global Asset Allocation - October 2026 Market Update",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=761b296fb507995f1ec56105cc9744da962583ab4d64e3355e0e856b8f4f733a",
-      "is_watchlist": true,
-      "timestamp": "2026-10-20T14:10:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "XLE",
       "headline": "CII: Strong Recent Performance, But AI Exposure Could Trigger Losses",
       "source": "SeekingAlpha",
@@ -920,18 +932,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=2acc20303e63f3e2750fed4fea23eb6efa77fe99a2f05374cf9c0318edce2bd9",
       "is_watchlist": true,
       "timestamp": "2026-10-20T13:33:50+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "This Is Not The Start Of The Feared Bear",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=fd4b2e1570ebc52e2a8baac3e16ee6d7653f0d128dbecab01f61d27ab4e8db54",
-      "is_watchlist": true,
-      "timestamp": "2026-10-20T13:33:38+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
