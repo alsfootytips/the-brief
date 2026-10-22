@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-22T00:20:42.372472+00:00",
+  "generated_at": "2026-10-22T00:49:29.565606+00:00",
   "gainers": [
     {
       "ticker": "PLTR",
@@ -69,7 +69,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Western Digital, Nova, Amtech, Monolithic Power Systems, and Texas Instruments shares skyr...\""
+      "move_reason": "News: \"Act Now to Lower Your Taxes for 2026\""
     },
     {
       "ticker": "XLU",
@@ -160,7 +160,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Sector Update: Energy Stocks Mixed Late Afternoon\""
+      "move_reason": "News: \"Sector Update: Energy Stocks Rise Late Afternoon\""
     },
     {
       "ticker": "SOFI",
@@ -378,7 +378,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Western Digital, Nova, Amtech, Monolithic Power Systems, and Texas Instruments shares skyr...\""
+      "move_reason": "News: \"Act Now to Lower Your Taxes for 2026\""
     },
     {
       "ticker": "OSCR",
@@ -450,7 +450,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Sector Update: Energy Stocks Mixed Late Afternoon\""
+      "move_reason": "News: \"Sector Update: Energy Stocks Rise Late Afternoon\""
     }
   ],
   "indices": [
@@ -676,12 +676,12 @@ window.theBriefMovers = {
       "signals": [
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 10.7 (cheap on absolute basis)"
+        "Forward P/E 9.6 (cheap on absolute basis)"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 10.7 (cheap on absolute basis)"
+        "Forward P/E 9.6 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",

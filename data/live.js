@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-22T00:20:42.553907+00:00",
+  "generated_at": "2026-10-22T00:49:29.574419+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -73,7 +73,7 @@ window.theBriefLive = {
       "change_pct": -3.18,
       "price": 166.0,
       "is_watchlist": true,
-      "timestamp": "2026-10-22T00:20:42.377143+00:00",
+      "timestamp": "2026-10-22T00:49:29.571724+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -85,10 +85,78 @@ window.theBriefLive = {
       "change_pct": -3.91,
       "price": 59.7,
       "is_watchlist": true,
-      "timestamp": "2026-10-22T00:20:42.377127+00:00",
+      "timestamp": "2026-10-22T00:49:29.571709+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "LVS targets $700M quarterly Macao EBITDA while planning Singapore opening in early 2031",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4655655-lvs-targets-700m-quarterly-macao-ebitda-while-planning-singapore-opening-in-early-2031?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-22T00:35:45+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump administration taps heating oil reserve in bid to lower prices as election looms",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4655649-trump-administration-taps-heating-oil-reserve-in-bid-to-lower-prices-as-election-looms?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-22T00:30:26+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Meta projects Q4 2026 revenue of $73B-$76B while targeting Reality Labs loss around $15B next year",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4655653-meta-projects-q4-2026-revenue-of-73b-76b-while-targeting-reality-labs-loss-around-15b-next?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-22T00:24:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Act Now to Lower Your Taxes for 2026",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4674b1c80d2a56c7a361ab555ae3a14df6c2d1fda234563eb25a61206138349a",
+      "is_watchlist": true,
+      "timestamp": "2026-10-22T00:23:48+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "UnitedHealth's Earnings Jumped 60%. Is the Comeback Stock a Buy, Sell, or Hold?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd3d78b25a6bd9003697455d0e28122a5ea2127c694ba387e40c6fb53576191d",
+      "is_watchlist": true,
+      "timestamp": "2026-10-22T00:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tesla outlines $20B 2026 CapEx while targeting 5 million vehicles a year by 2030",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4655652-tesla-outlines-20b-2026-capex-while-targeting-5-million-vehicles-a-year-by-2030?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-22T00:14:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -206,6 +274,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NVDA",
+      "headline": "MACOM, Semtech, FormFactor, Penguin Solutions, and Seagate stocks trade up, what you need to know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1018d0f1eea16329a3ccf653a61cb5348be8708c052c9ed0f31a4416cc97f2aa",
+      "is_watchlist": true,
+      "timestamp": "2026-10-21T23:58:39+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Pathward reiterates fiscal 2027 EPS guidance of $9.50 to $10.00 as it extends H&R Block partnership to mid-2030",
       "source": "Seeking Alpha Market",
@@ -224,30 +304,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=f6fa8dce563dd44a89d9545727c15418eeed7e26bb6ebcb4cc0785938862fe44",
       "is_watchlist": true,
       "timestamp": "2026-10-21T23:50:39+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Western Digital, Nova, Amtech, Monolithic Power Systems, and Texas Instruments shares skyrocket, what you need to know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f6fa8dce563dd44a89d9545727c15418eeed7e26bb6ebcb4cc0785938862fe44",
-      "is_watchlist": true,
-      "timestamp": "2026-10-21T23:50:39+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Cathie Wood Trimmed Ark's Alphabet Stake Even as Google Search Revenue Grew, While Ark Piled Into Rocket Lab Even After Its Neutron Launch Delay. Is Ark Betting Against the Wrong AI Winner?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=028ad676e5d15edc6914371c7fd5b34a6468974233aaf327cfc19b1cadf00b52",
-      "is_watchlist": true,
-      "timestamp": "2026-10-21T23:50:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -287,18 +343,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "SpaceX shares soar on possible tie-up with Tesla",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=967b3ef0d1aba9da774b5b149d41199f4daa474a56479b401e1fc6c437a12667",
-      "is_watchlist": true,
-      "timestamp": "2026-10-21T23:23:23+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "Teradyne, Vishay Intertechnology, Allegro MicroSystems, Entegris, and AMD shares are soaring, what you need to know",
       "source": "Yahoo",
@@ -308,17 +352,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "EXCLUSIVE: US orders diplomats to depart Saudi Arabia amid Houthi strikes - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONDg0WFNBeGFxeHpUVUsya2RYd0k3XzF6bXU3eGpZVnh2T25MWHVsQzVrbE9PNEdaWnpfN1dmRmtxajMtbl8yZ29EWUxYaXAxcnkxcFN1NEVDLVE3bUtkR0NwZDVPN2haVXFERXRUeHRnQ2QyVDhVdjBNa2FIUFVDOWFicGJOQVVWR0JFMnZSM0NLV09nZHk5UzA2LTgtbmFEVnlYZDI1Uk9ic1hyLTZ0Z2NKbWI5QWgtWWE3ZzV4eE11bmpCcGstTFAzQnVGUQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-10-21T23:12:29+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -384,50 +417,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-10-21T22:50:35+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump administration asks court to reconsider another U.S. offshore wind farm permit",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4655647-trump-administration-asks-court-to-reconsider-another-us-offshore-wind-farm-permit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-21T22:23:33+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Arcus Biosciences slides 20% on stock offering, kidney-cancer data",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4655524-arcus-biosciences-slides-20-on-stock-offering-kidney-cancer-data?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-21T22:06:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Medpace raises 2026 EPS guidance range",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4655645-medpace-raises-2026-eps-guidance-range?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-21T22:05:53+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tesla earnings call: Musk talks EV demand, Optimus production, and Terafab value",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4655637-tesla-earnings-call-musk-talks-ev-demand-optimus-production-and-terafab-value?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-21T22:03:47+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -689,6 +678,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "XLE",
+      "headline": "Sector Update: Energy Stocks Rise Late Afternoon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=98e666974931697666afc3a1ac8e2b8bf29230101a6015d2341a9203820d6c50",
+      "is_watchlist": true,
+      "timestamp": "2026-10-21T19:52:40+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "SpaceX gives the AI trade a shot in the arm. What it means for our stocks",
       "source": "CNBC",
@@ -696,6 +697,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-10-21T19:01:23+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "EXCLUSIVE: US orders diplomats to depart Saudi Arabia amid Houthi strikes - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONDg0WFNBeGFxeHpUVUsya2RYd0k3XzF6bXU3eGpZVnh2T25MWHVsQzVrbE9PNEdaWnpfN1dmRmtxajMtbl8yZ29EWUxYaXAxcnkxcFN1NEVDLVE3bUtkR0NwZDVPN2haVXFERXRUeHRnQ2QyVDhVdjBNa2FIUFVDOWFicGJOQVVWR0JFMnZSM0NLV09nZHk5UzA2LTgtbmFEVnlYZDI1Uk9ic1hyLTZ0Z2NKbWI5QWgtWWE3ZzV4eE11bmpCcGstTFAzQnVGUQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-10-21T18:58:00+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -720,6 +732,18 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": "XLE",
+      "headline": "Sector Update: Energy Stocks Edge Higher in Afternoon Trading",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ca8a516f0a56e6bde50967d2a7c9315a337fa7d882b9c6c5f1512a32f546873c",
+      "is_watchlist": true,
+      "timestamp": "2026-10-21T17:58:39+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -753,6 +777,18 @@ window.theBriefLive = {
       "timestamp": "2026-10-21T17:27:34+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "XLE",
+      "headline": "Exchange-Traded Funds Higher as US Equities Rise After Midday",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=54f0ba8245d3c794bd17f43f716a4044d6b4128ffecd5a1295e007831c4378d1",
+      "is_watchlist": true,
+      "timestamp": "2026-10-21T17:12:18+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -874,6 +910,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "TTD",
+      "headline": "The Trade Desk Rallies Off Lows as Skydance Deal Expands Its CTV Reach",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=71f023e0fc61b0180f8c8873caa8289e9093339d145be0479e6640a678189f00",
+      "is_watchlist": true,
+      "timestamp": "2026-10-21T13:24:23+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": "OXY",
       "headline": "Is HF Sinclair (DINO) Stock Outpacing Its Oils-Energy Peers This Year?",
       "source": "Yahoo",
@@ -892,6 +940,18 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=9f1eb6d6f751049a7db4a050efa90b30e51da7ecefae3daaab507418a14c9fdb",
       "is_watchlist": true,
       "timestamp": "2026-10-21T12:15:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "TTD",
+      "headline": "The Trade Desk (TTD) is Attracting Investor Attention: Here is What You Should Know",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=54a689de43d7f58c4cfdc23cc2754045e09ed045237ff2f6247eb6b09ba46d60",
+      "is_watchlist": true,
+      "timestamp": "2026-10-21T12:00:04+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -1050,18 +1110,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "XLE",
-      "headline": "Sector Update: Energy Stocks Mixed Late Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=23ed01602eac34719a827f64ef57cbbbfbbbf13916b5bd16760ff11f8a35cd3c",
-      "is_watchlist": true,
-      "timestamp": "2026-10-20T19:54:37+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "PWR",
       "headline": "S&P 500 Top Movers: EFX and HAS Lead Today's Gainers, GM and DVA Fall",
       "source": "ChartMill",
@@ -1074,60 +1122,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "XLE",
-      "headline": "Energy ETFs: How to Play the Sector's Surge",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a8d7a4c055739d326f8b98cb9a3071aaff8dd906deb77e48123a72344b7e24fa",
-      "is_watchlist": true,
-      "timestamp": "2026-10-20T18:09:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "XLE",
-      "headline": "Cruise Stocks Rally While Energy Shares Slip: Norwegian, Royal Caribbean and Carnival Rise 3%",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3ee263c3d2cfa02e9b5c525f113e2a72201883549edd4c5d0a3501722f891e92",
-      "is_watchlist": true,
-      "timestamp": "2026-10-20T17:57:47+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "OSCR",
       "headline": "3 Big Reasons to Love Oscar Health (OSCR)",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=0fbe85ebec87b7387c5ad7e765511bdd731d10a8c93d6e85dc1590925df85ab2",
       "is_watchlist": true,
       "timestamp": "2026-10-20T16:45:50+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "TTD",
-      "headline": "How Customer Hesitancy Will Impact Trade Desk Stock Investors",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=091029c6b750b9bc65f35d16d63f1e686418af43bb03d2fb890b415b3e7a991c",
-      "is_watchlist": true,
-      "timestamp": "2026-10-20T11:12:02+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "TTD",
-      "headline": "The Trade Desk Stock Moves Higher: What's Happening?",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=65e5d70b32a16e49a617c96fb7a835ca087b525c9ce27af68a8a03a710239dc8",
-      "is_watchlist": true,
-      "timestamp": "2026-10-20T10:58:11+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
