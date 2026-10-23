@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-23T01:24:05.142399+00:00",
+  "generated_at": "2026-10-23T06:19:13.722361+00:00",
   "gainers": [
     {
       "ticker": "DG",
@@ -150,7 +150,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Goldman Sachs sends CoreWeave shareholders a surprising signal\""
+      "move_reason": "News: \"Nebius borrows $3.5 billion as investors question neocloud debt\""
     },
     {
       "ticker": "GEV",
@@ -162,7 +162,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"BofA stays ahead of the curve on GE Vernova as AI power demand surges\""
+      "move_reason": "News: \"Why Is GE Vernova (GEV) Tied To 16 Off Grid Power Units?\""
     },
     {
       "ticker": "NBIS",
@@ -198,7 +198,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is nVent Electric (NVT) Undervalued On Its AMD AI Data Center Cooling Deal?\""
+      "move_reason": "News: \"SOXX, SOXL, SMH Plunge As Chip Stocks Sell Off Amid Supply Chain Concerns\""
     },
     {
       "ticker": "META",
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Micron Stock Dropped on Thursday\""
+      "move_reason": "News: \"Not IonQ. Not D-Wave. This Quantum Stock Could Be 2027's Surprise Winner.\""
     },
     {
       "ticker": "XLK",
@@ -328,7 +328,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is nVent Electric (NVT) Undervalued On Its AMD AI Data Center Cooling Deal?\""
+      "move_reason": "News: \"SOXX, SOXL, SMH Plunge As Chip Stocks Sell Off Amid Supply Chain Concerns\""
     },
     {
       "ticker": "APA",
@@ -352,7 +352,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Goldman Sachs sends CoreWeave shareholders a surprising signal\""
+      "move_reason": "News: \"Nebius borrows $3.5 billion as investors question neocloud debt\""
     },
     {
       "ticker": "DG",
@@ -376,7 +376,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"BofA stays ahead of the curve on GE Vernova as AI power demand surges\""
+      "move_reason": "News: \"Why Is GE Vernova (GEV) Tied To 16 Off Grid Power Units?\""
     },
     {
       "ticker": "IWM",
@@ -412,7 +412,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Micron Stock Dropped on Thursday\""
+      "move_reason": "News: \"Not IonQ. Not D-Wave. This Quantum Stock Could Be 2027's Surprise Winner.\""
     },
     {
       "ticker": "OSCR",
@@ -484,7 +484,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Defensives Lead Sectors In Thursday Trading As Growth Trails\""
+      "move_reason": "News: \"Sector Update: Energy Stocks Decline Late Afternoon\""
     }
   ],
   "indices": [
@@ -885,12 +885,12 @@ window.theBriefMovers = {
       "signals": [
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 10.7 (cheap on absolute basis)"
+        "Forward P/E 9.4 (cheap on absolute basis)"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 10.7 (cheap on absolute basis)"
+        "Forward P/E 9.4 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",
