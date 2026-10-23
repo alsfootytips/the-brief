@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-10-23T20:06:39+00:00",
+  "generated_at": "2026-10-23T23:09:07+00:00",
   "by_date": {
     "2026-11-03": [
       {
@@ -9961,7 +9961,7 @@ window.theBriefEarnings = {
       {
         "ticker": "ABBV",
         "date": "2026-10-30",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 3.8231,
         "revenue_estimate": 17702881065,
         "is_watchlist": false
@@ -9993,7 +9993,7 @@ window.theBriefEarnings = {
       {
         "ticker": "AN",
         "date": "2026-10-30",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 5.2313,
         "revenue_estimate": 7176206956,
         "is_watchlist": false
@@ -10025,7 +10025,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CCJ",
         "date": "2026-10-30",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.3191,
         "revenue_estimate": 720579854,
         "is_watchlist": false
@@ -10049,7 +10049,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CPRI",
         "date": "2026-10-30",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.2103,
         "revenue_estimate": 796442601,
         "is_watchlist": false
@@ -10129,7 +10129,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FRT",
         "date": "2026-10-30",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": 0.7315,
         "revenue_estimate": 340709026,
         "is_watchlist": false
@@ -10153,7 +10153,7 @@ window.theBriefEarnings = {
       {
         "ticker": "GTES",
         "date": "2026-10-30",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.4486,
         "revenue_estimate": 923033394,
         "is_watchlist": false
@@ -10169,7 +10169,7 @@ window.theBriefEarnings = {
       {
         "ticker": "KRG",
         "date": "2026-10-30",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.0808,
         "revenue_estimate": 189053416,
         "is_watchlist": false
@@ -10201,7 +10201,7 @@ window.theBriefEarnings = {
       {
         "ticker": "MHH",
         "date": "2026-10-30",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.0758,
         "revenue_estimate": 41807435,
         "is_watchlist": false
