@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-10-23T06:19:13+00:00",
+  "generated_at": "2026-10-23T11:56:28+00:00",
   "by_date": {
     "2026-11-03": [
       {
@@ -9599,14 +9599,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "ACIW",
-        "date": "2026-10-29",
-        "hour": "",
-        "eps_estimate": 0.3733,
-        "revenue_estimate": 430348608,
-        "is_watchlist": false
-      },
-      {
         "ticker": "AD",
         "date": "2026-10-29",
         "hour": "",
@@ -9797,6 +9789,14 @@ window.theBriefEarnings = {
         "eps_estimate": 0.1912,
         "revenue_estimate": 39714383,
         "is_watchlist": false
+      },
+      {
+        "ticker": "ATEC",
+        "date": "2026-10-29",
+        "hour": "amc",
+        "eps_estimate": 0.0966,
+        "revenue_estimate": 229649501,
+        "is_watchlist": false
       }
     ],
     "2026-10-30": [
@@ -9886,14 +9886,6 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": 0.9535,
         "revenue_estimate": 5494503955,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "CNK",
-        "date": "2026-10-30",
-        "hour": "bmo",
-        "eps_estimate": 0.9184,
-        "revenue_estimate": 1022152067,
         "is_watchlist": false
       },
       {
@@ -10022,6 +10014,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 0.0808,
         "revenue_estimate": 189053416,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "KVUE",
+        "date": "2026-10-30",
+        "hour": "bmo",
+        "eps_estimate": 0.3004,
+        "revenue_estimate": 3939498978,
         "is_watchlist": false
       },
       {
