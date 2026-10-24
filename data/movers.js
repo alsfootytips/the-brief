@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-24T17:53:18.302465+00:00",
+  "generated_at": "2026-10-24T20:19:59.824975+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -177,7 +177,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The AI Power Bill Comes Due: Will GE Vernova\u2019s Q3 Earnings Oct. 28 Prove Its $176B Backlog...\""
+      "move_reason": "News: \"Power Supply Deals Might Change The Case For Investing In GE Vernova Stock (GEV)\""
     },
     {
       "ticker": "XLY",
@@ -200,7 +200,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here's Why The Trade Desk (TTD) Fell More Than Broader Market\""
+      "move_reason": "News: \"The Trade Desk: Great Tech, Bad Timing - Hold\""
     },
     {
       "ticker": "META",
@@ -342,7 +342,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The AI Power Bill Comes Due: Will GE Vernova\u2019s Q3 Earnings Oct. 28 Prove Its $176B Backlog...\""
+      "move_reason": "News: \"Power Supply Deals Might Change The Case For Investing In GE Vernova Stock (GEV)\""
     },
     {
       "ticker": "IWM",
@@ -378,7 +378,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Can Amazon Take Market Share From Nvidia in the AI Chip Race?\""
+      "move_reason": "News: \"The Nasdaq Just Had Its Worst Day in 4 Months. Here's the Level That Would Signal a Correc...\""
     },
     {
       "ticker": "OSCR",
@@ -438,7 +438,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here's Why The Trade Desk (TTD) Fell More Than Broader Market\""
+      "move_reason": "News: \"The Trade Desk: Great Tech, Bad Timing - Hold\""
     },
     {
       "ticker": "XLE",
