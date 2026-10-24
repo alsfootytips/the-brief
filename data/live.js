@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-23T23:09:07.762891+00:00",
+  "generated_at": "2026-10-24T00:10:45.024290+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -70,10 +70,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "OSCR",
       "name": "Oscar Health",
-      "change_pct": -6.75,
-      "price": 31.07,
+      "change_pct": -6.96,
+      "price": 31.0,
       "is_watchlist": true,
-      "timestamp": "2026-10-23T23:09:07.760136+00:00",
+      "timestamp": "2026-10-24T00:10:44.859837+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -85,7 +85,7 @@ window.theBriefLive = {
       "change_pct": -4.82,
       "price": 132.4,
       "is_watchlist": true,
-      "timestamp": "2026-10-23T23:09:07.760125+00:00",
+      "timestamp": "2026-10-24T00:10:44.859827+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,13 +94,123 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "APA",
       "name": "APA Corp",
-      "change_pct": 4.98,
-      "price": 51.9,
+      "change_pct": 5.18,
+      "price": 52.0,
       "is_watchlist": true,
-      "timestamp": "2026-10-23T23:09:07.760116+00:00",
+      "timestamp": "2026-10-24T00:10:44.859817+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Exclusive-Boeing supplier dispute has halted 777 freighter production for two months, sources say",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/exclusiveboeing-supplier-dispute-has-halted-777-freighter-production-for-two-months-sources-say-4970513",
+      "is_watchlist": false,
+      "timestamp": "2026-10-23T23:48:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wall Street closes lower to end rocky week",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-dip-after-ai-rout-telecoms-slide-4968816",
+      "is_watchlist": false,
+      "timestamp": "2026-10-23T23:48:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Instacart gains on report it's in talks to sell itself (update)",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4656752-instacart-gains-on-report-its-in-talks-to-sell-itself?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-23T23:47:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How should investors think about GTA VI pre-order performance?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/how-should-investors-think-about-gta-vi-preorder-performance-4970510",
+      "is_watchlist": false,
+      "timestamp": "2026-10-23T23:33:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Middle East physical oil prices are falling while Brent crude soars to six-month highs",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4656889-middle-east-physical-oil-prices-are-falling-while-brent-crude-soars-to-six-month-highs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-23T23:17:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Lumen Technologies updates executive severance plan and CEO agreement",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/sec-filings/lumen-technologies-updates-executive-severance-plan-and-ceo-agreement-93CH-4970507",
+      "is_watchlist": false,
+      "timestamp": "2026-10-23T23:14:49+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/amazon-cloud-capacity-sold-out-through-2027-ceo-jassy-says-4970506",
+      "is_watchlist": false,
+      "timestamp": "2026-10-23T23:12:17+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "PNC Financial Services completes $1.5 billion senior notes offering",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/sec-filings/pnc-financial-services-completes-15-billion-senior-notes-offering-93CH-4970505",
+      "is_watchlist": false,
+      "timestamp": "2026-10-23T23:10:41+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dr. Reddy\u2019s outlines semaglutide relaunch in November 2026 and reiterates 6M-7M devices target",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4656893-dr-reddy-s-outlines-semaglutide-relaunch-in-november-2026-and-reiterates-6mminus-7m-devices?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-23T23:10:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Wynn Resorts subsidiary to invest up to MOP1.37 billion in Macau government fund",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/sec-filings/wynn-resorts-subsidiary-to-invest-up-to-mop137-billion-in-macau-government-fund-93CH-4970504",
+      "is_watchlist": false,
+      "timestamp": "2026-10-23T23:06:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -111,17 +221,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-10-23T23:02:36+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Acadia Pharmaceuticals announces retirement of R&D head, names interim consultant",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/acadia-pharmaceuticals-announces-retirement-of-rd-head-names-interim-consultant-93CH-4970500",
-      "is_watchlist": false,
-      "timestamp": "2026-10-23T22:58:16+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -138,62 +237,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Arc Group Securities Acquisition I receives Nasdaq notice on warrant listing",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/arc-group-securities-acquisition-i-receives-nasdaq-notice-on-warrant-listing-93CH-4970499",
-      "is_watchlist": false,
-      "timestamp": "2026-10-23T22:54:50+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "JetBlue creditors working with restructuring adviser PJT Partners, WSJ reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/jetblue-creditors-working-with-restructuring-adviser-pjt-partners-wsj-reports-4970498",
-      "is_watchlist": false,
-      "timestamp": "2026-10-23T22:54:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "SpaceX\u2019s $40bn AI debt deal faces hurdles amid credit market turmoil - Bloomberg",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/spacexs-40bn-ai-debt-deal-faces-hurdles-amid-credit-market-turmoil--bloomberg-4970497",
-      "is_watchlist": false,
-      "timestamp": "2026-10-23T22:52:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Graphano Energy amends private placement to add flow-through shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/graphano-energy-amends-private-placement-to-add-flowthrough-shares-93CH-4970496",
-      "is_watchlist": false,
-      "timestamp": "2026-10-23T22:52:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ardent Health reclassifies former CEO\u2019s exit as termination for cause",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/ardent-health-reclassifies-former-ceos-exit-as-termination-for-cause-93CH-4970495",
-      "is_watchlist": false,
-      "timestamp": "2026-10-23T22:50:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
@@ -205,22 +248,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life. Is that so bad?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "headline": "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
       "is_watchlist": false,
-      "timestamp": "2026-10-23T22:49:00+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-10-23T22:49:04+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Allegiant Travel exercises Boeing aircraft options and signs new executive contracts",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/allegiant-travel-exercises-boeing-aircraft-options-and-signs-new-executive-contracts-93CH-4970493",
+      "headline": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life. Is that so bad?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
       "is_watchlist": false,
-      "timestamp": "2026-10-23T22:46:43+00:00",
+      "timestamp": "2026-10-23T22:49:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -293,45 +336,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "BP, Louisiana reach deal to accelerate Deepwater Horizon payments",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4656885-bp-louisiana-reach-deal-to-accelerate-deepwater-horizon-payments?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-23T22:02:46+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-10-23T22:00:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Elme Communities faces NYSE delisting; OTC trading to begin October 26; shares crash",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4656887-elme-communities-faces-nyse-delisting-otc-trading-to-begin-october-26-shares-crash?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-23T21:58:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Howard Hughes Holdings to replace Arcosa in S&P SmallCap 600",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4656886-howard-hughes-holdings-to-replace-arcosa-in-s-and-p-smallcap-600?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-23T21:55:44+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -394,6 +404,18 @@ window.theBriefLive = {
       "timestamp": "2026-10-23T21:43:02+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "In Florida, Trump vows to deal with Cuba after Iran settled - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaW1UZUdScXEwTWVUNUJxcDkyWmV1TDREckM1RnRCTFR4VjBuVmk2Vm9OVF83d2FLdTdnSGN2N0FGNURpVXJKbzR4bWI3b05TY3pPWGgzRnZvX2N4SEQ4cmw3blpTZktVMXd4UDlFeWpFcG9jX1FJcTN3OW1WVW5UTnFfQ3BqdHRwNFAzOGRsc1Nyc0N6TENyVDJaeW9ZSExlSl9adExjYmQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-10-23T21:36:55+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -626,18 +648,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-23T19:19:08+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
       "ticker": "OXY",
       "headline": "Stock Market Today: Dow Sheds 600 Points As Oil Jumps; Samsara Breaks Out (Live Coverage)",
       "source": "Yahoo",
@@ -761,17 +771,6 @@ window.theBriefLive = {
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYVpLTzd4NkFaVmRUa3lENmlHdGxvZmJuWHN0TG1DeXVNbXhlSkVDc3RxeV91MkNLYjJtdUlQY1BlUXo0TlFuOXZNTGpFd1JoWVRFMERXTVlYZEpqb2Y5WTFqd1ptMVd0ZmVjM0hWLWxtWmMtQWpyd0dhYVpaTlJZbDVfS0VQY1hMTTdZWXdtUjdmc0tENjFUMUlWNHY3QQ?oc=5",
       "is_watchlist": false,
       "timestamp": "2026-10-23T17:17:50+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "EXCLUSIVE: Saudi missile plant expansion may produce more powerful missiles, study says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUTNudHNub01PQk1mQ1pIc3I0d2N5TGJPTG5lSlkwSWZKc05VMHpaNGtRTmpmd1pDblNPYjZGbEw3d05QeThxdjNJWDhYX09KMDdPeTlOeWxhX0txVTVrVzRvdWwzMEFfN01jYUNoN1dEVkRQMjlrUENUNVcxMkNuZDlyTnVQMlBkNmhJRzRjRkRESDVJZmdWYzJFMUtzUzBMdFpXVWNoM0hzOTBaajZhRDJtQ0U5ZFlzMkdaZ3BZa2ZPN0RwUHR6cQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-10-23T17:08:44+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },

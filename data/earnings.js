@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-10-23T23:09:07+00:00",
+  "generated_at": "2026-10-24T00:10:44+00:00",
   "by_date": {
     "2026-11-03": [
       {
@@ -10197,22 +10197,6 @@ window.theBriefEarnings = {
         "eps_estimate": 2.5939,
         "revenue_estimate": 8962862210,
         "is_watchlist": false
-      },
-      {
-        "ticker": "MHH",
-        "date": "2026-10-30",
-        "hour": "bmo",
-        "eps_estimate": 0.0758,
-        "revenue_estimate": 41807435,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "MMI",
-        "date": "2026-10-30",
-        "hour": "",
-        "eps_estimate": 0.1111,
-        "revenue_estimate": 207151000,
-        "is_watchlist": false
       }
     ],
     "2026-11-02": [
@@ -12160,6 +12144,24 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -0.0238,
         "revenue_estimate": 26022240,
+        "is_watchlist": false
+      }
+    ],
+    "2026-11-07": [
+      {
+        "ticker": "AEI",
+        "date": "2026-11-07",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MNR",
+        "date": "2026-11-07",
+        "hour": "",
+        "eps_estimate": 0.2697,
+        "revenue_estimate": 342559346,
         "is_watchlist": false
       }
     ]
