@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-24T20:19:59.824975+00:00",
+  "generated_at": "2026-10-24T22:39:20.815286+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oil Prices Are Soaring: How To Profit No Matter What Happens Next\""
+      "move_reason": "News: \"Berkshire Owns Both Chevron and Occidental. Which Oil Stock Is the Better Buy Now?\""
     },
     {
       "ticker": "AMD",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here's Why AMD Investors Should Consider Selling Before Nov. 3\""
+      "move_reason": "News: \"3 AI Stocks To Watch In October 2026\""
     },
     {
       "ticker": "TPL",
@@ -131,7 +131,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar Tree, Dollar General Stocks Slide as Their Core Shoppers Get Squeezed\""
+      "move_reason": "News: \"This Dividend Winner Just Announced Its 676th Consecutive Monthly Dividend. Is It Worth a ...\""
     },
     {
       "ticker": "CRWV",
@@ -143,7 +143,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Setbacks Mounting On The AI Data Center Front\""
+      "move_reason": "News: \"5 Oversold AI Stocks: Where Wall Street Analysts Are Spotting 50%+ Upside\""
     },
     {
       "ticker": "XLP",
@@ -177,7 +177,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Power Supply Deals Might Change The Case For Investing In GE Vernova Stock (GEV)\""
+      "move_reason": "News: \"GE Vernova Stock Fell 11% in a Day. Here's What I Think It Could Be Worth by 2030.\""
     },
     {
       "ticker": "XLY",
@@ -294,7 +294,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here's Why AMD Investors Should Consider Selling Before Nov. 3\""
+      "move_reason": "News: \"3 AI Stocks To Watch In October 2026\""
     },
     {
       "ticker": "APA",
@@ -318,7 +318,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Setbacks Mounting On The AI Data Center Front\""
+      "move_reason": "News: \"5 Oversold AI Stocks: Where Wall Street Analysts Are Spotting 50%+ Upside\""
     },
     {
       "ticker": "DG",
@@ -330,7 +330,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar Tree, Dollar General Stocks Slide as Their Core Shoppers Get Squeezed\""
+      "move_reason": "News: \"This Dividend Winner Just Announced Its 676th Consecutive Monthly Dividend. Is It Worth a ...\""
     },
     {
       "ticker": "GEV",
@@ -342,7 +342,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Power Supply Deals Might Change The Case For Investing In GE Vernova Stock (GEV)\""
+      "move_reason": "News: \"GE Vernova Stock Fell 11% in a Day. Here's What I Think It Could Be Worth by 2030.\""
     },
     {
       "ticker": "IWM",
@@ -378,7 +378,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Nasdaq Just Had Its Worst Day in 4 Months. Here's the Level That Would Signal a Correc...\""
+      "move_reason": "News: \"Netflix Stock Has Always Overcome the Odds. Has It Finally Hit a Wall?\""
     },
     {
       "ticker": "OSCR",
@@ -402,7 +402,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oil Prices Are Soaring: How To Profit No Matter What Happens Next\""
+      "move_reason": "News: \"Berkshire Owns Both Chevron and Occidental. Which Oil Stock Is the Better Buy Now?\""
     },
     {
       "ticker": "PWR",
@@ -650,13 +650,13 @@ window.theBriefMovers = {
         "Moved +5.18% \u2014 a 2.1\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 11.2 (cheap on absolute basis)"
+        "Forward P/E 9.9 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved +5.18% \u2014 a 2.1\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 11.2 (cheap on absolute basis)"
+        "Forward P/E 9.9 (cheap on absolute basis)"
       ],
       "tags": [
         "moderate-move",
