@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-24T00:10:45.024290+00:00",
+  "generated_at": "2026-10-24T01:35:13.076855+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -73,7 +73,7 @@ window.theBriefLive = {
       "change_pct": -6.96,
       "price": 31.0,
       "is_watchlist": true,
-      "timestamp": "2026-10-24T00:10:44.859837+00:00",
+      "timestamp": "2026-10-24T01:35:13.074615+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -85,7 +85,7 @@ window.theBriefLive = {
       "change_pct": -4.82,
       "price": 132.4,
       "is_watchlist": true,
-      "timestamp": "2026-10-24T00:10:44.859827+00:00",
+      "timestamp": "2026-10-24T01:35:13.074606+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -97,32 +97,183 @@ window.theBriefLive = {
       "change_pct": 5.18,
       "price": 52.0,
       "is_watchlist": true,
-      "timestamp": "2026-10-24T00:10:44.859817+00:00",
+      "timestamp": "2026-10-24T01:35:13.074598+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Musk"
+      ],
+      "ticker": null,
+      "headline": "U.S. repeatedly asked Musk to restrict or expand Starlink access, Reuters says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/us-repeatedly-asked-musk-to-restrict-or-expand-starlink-access-reuters-says-4970542",
+      "is_watchlist": true,
+      "timestamp": "2026-10-24T01:19:07+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
-      "headline": "Exclusive-Boeing supplier dispute has halted 777 freighter production for two months, sources say",
+      "headline": "Vertex at ASN Kidney Week 2026: renal push gathers pace",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/exclusiveboeing-supplier-dispute-has-halted-777-freighter-production-for-two-months-sources-say-4970513",
+      "url": "https://www.investing.com/news/transcripts/vertex-at-asn-kidney-week-2026-renal-push-gathers-pace-93CH-4970541",
       "is_watchlist": false,
-      "timestamp": "2026-10-23T23:48:39+00:00",
+      "timestamp": "2026-10-24T01:17:47+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Wall Street closes lower to end rocky week",
+      "headline": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-dip-after-ai-rout-telecoms-slide-4968816",
+      "url": "https://www.investing.com/news/stock-market-news/openai-resumes-frontier-ai-training-with-enhanced-security-no-internet-access-4970304",
       "is_watchlist": false,
-      "timestamp": "2026-10-23T23:48:23+00:00",
+      "timestamp": "2026-10-24T00:55:01+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UK\u2019s Healey to give two state-backed lenders \u00a320 billion capital boost in budget",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/uks-healey-to-give-two-statebacked-lenders-20-billion-capital-boost-in-budget-4970530",
+      "is_watchlist": false,
+      "timestamp": "2026-10-24T00:54:25+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump ends tariffs on some Canadian products, as Senator Collins faces close race",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/us-to-remove-50-tariffs-on-some-canadian-goods-to-help-republicans-in-midterms-wsj-reports-4970225",
+      "is_watchlist": false,
+      "timestamp": "2026-10-24T00:48:26+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Therma Bright plans private placement of up to $420,000",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/therma-bright-plans-private-placement-of-up-to-420000-93CH-4970528",
+      "is_watchlist": false,
+      "timestamp": "2026-10-24T00:44:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russia, Ukraine agree to local ceasefire as new peace talks planned - Reuters",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/russia-ukraine-agree-to-local-ceasefire-as-new-peace-talks-planned--reuters-4970527",
+      "is_watchlist": false,
+      "timestamp": "2026-10-24T00:41:30+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-10-24T00:36:47+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Goldcana closes C$1 million flow-through private placement",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/goldcana-closes-c1-million-flowthrough-private-placement-93CH-4970525",
+      "is_watchlist": false,
+      "timestamp": "2026-10-24T00:36:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "JetBlue creditors hire restructuring advisors as bonds, stock drops - WSJ",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4656894-jetblue-creditors-hire-restructuring-advisors-as-bonds-stock-drops---wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-24T00:12:42+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How does the UK state pension compare with other countries?",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-10-24T00:09:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Elon Musk Eyes SpaceX-Tesla Merger, Huang Pitches \u2018Financeable\u2019 Chips, Zuckerberg Wants More Compute: Mag 7 Voices This Week",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fe43de533c45bf6f5d8417e02de229e7b6db28ac87d2c8c26bfb06f165495f10",
+      "is_watchlist": true,
+      "timestamp": "2026-10-24T00:07:10+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UK to invest \u00a3100m in 'world first' AI Biosecurity Lab",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-10-24T00:05:45+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "In Florida, Trump vows to deal with Cuba after Iran gets settled - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaW1UZUdScXEwTWVUNUJxcDkyWmV1TDREckM1RnRCTFR4VjBuVmk2Vm9OVF83d2FLdTdnSGN2N0FGNURpVXJKbzR4bWI3b05TY3pPWGgzRnZvX2N4SEQ4cmw3blpTZktVMXd4UDlFeWpFcG9jX1FJcTN3OW1WVW5UTnFfQ3BqdHRwNFAzOGRsc1Nyc0N6TENyVDJaeW9ZSExlSl9adExjYmQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-10-23T23:52:55+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Procter & Gamble's Earnings Show a Resilient Consumer Despite Price Hikes. Is the Dividend King Stock a Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=87af113463dffacd686da1c9c9ce71fff8d30d944bd6b0f48d132a743c45d01b",
+      "is_watchlist": true,
+      "timestamp": "2026-10-23T23:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -137,14 +288,27 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "How should investors think about GTA VI pre-order performance?",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/how-should-investors-think-about-gta-vi-preorder-performance-4970510",
-      "is_watchlist": false,
-      "timestamp": "2026-10-23T23:33:48+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "CRWV",
+      "headline": "A Surprising New Rival Is Threatening CoreWeave (and It's Not Best Known as an AI Cloud Company)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da278e70b6c425497032f4339c665b7d36897202ef6e117d694e6c6ed6769921",
+      "is_watchlist": true,
+      "timestamp": "2026-10-23T23:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "A Surprising New Rival Is Threatening CoreWeave (and It's Not Best Known as an AI Cloud Company)",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da278e70b6c425497032f4339c665b7d36897202ef6e117d694e6c6ed6769921",
+      "is_watchlist": true,
+      "timestamp": "2026-10-23T23:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -160,78 +324,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Lumen Technologies updates executive severance plan and CEO agreement",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/lumen-technologies-updates-executive-severance-plan-and-ceo-agreement-93CH-4970507",
-      "is_watchlist": false,
-      "timestamp": "2026-10-23T23:14:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/amazon-cloud-capacity-sold-out-through-2027-ceo-jassy-says-4970506",
-      "is_watchlist": false,
-      "timestamp": "2026-10-23T23:12:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "PNC Financial Services completes $1.5 billion senior notes offering",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/pnc-financial-services-completes-15-billion-senior-notes-offering-93CH-4970505",
-      "is_watchlist": false,
-      "timestamp": "2026-10-23T23:10:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Dr. Reddy\u2019s outlines semaglutide relaunch in November 2026 and reiterates 6M-7M devices target",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4656893-dr-reddy-s-outlines-semaglutide-relaunch-in-november-2026-and-reiterates-6mminus-7m-devices?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-10-23T23:10:30+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Wynn Resorts subsidiary to invest up to MOP1.37 billion in Macau government fund",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/wynn-resorts-subsidiary-to-invest-up-to-mop137-billion-in-macau-government-fund-93CH-4970504",
-      "is_watchlist": false,
-      "timestamp": "2026-10-23T23:06:35+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Picard Medical exchanges warrants for 200,000 shares of common stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/picard-medical-exchanges-warrants-for-200000-shares-of-common-stock-93CH-4970503",
-      "is_watchlist": false,
-      "timestamp": "2026-10-23T23:02:36+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-10-23T22:54:57+00:00",
-      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -266,6 +364,18 @@ window.theBriefLive = {
       "timestamp": "2026-10-23T22:49:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "CRWV",
+      "headline": "CoreWeave appears to have a lender problem, not a customer one",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e94102d078746696f22353ad593998a40af02909b605ff4f7d843f8826e77aa5",
+      "is_watchlist": true,
+      "timestamp": "2026-10-23T22:33:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -324,14 +434,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Comfort Systems targets mid-20% same-store revenue growth in 2027 as backlog reaches $17.8B",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4656888-comfort-systems-targets-midminus-20-percent-same-store-revenue-growth-in-2027-as-backlog?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-23T22:08:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "CRWV",
+      "headline": "Webull And 2 Other Top Insider Growth Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=566d6ed35d5ca883ecea8e059f45a40a5a06ac246525ac3aff520cf6f9ea6022",
+      "is_watchlist": true,
+      "timestamp": "2026-10-23T22:12:01+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -343,45 +454,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-23T22:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Musk"
-      ],
-      "ticker": "NVDA",
-      "headline": "Elon Musk Says a SpaceX-Tesla Merger Is a \u201cGood Idea.\u201d Here\u2019s What Stands in the Way.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=5e234762848ac80360dddf23773d810b4b3dc9712f60e5561314d5d62ef1dc70",
-      "is_watchlist": true,
-      "timestamp": "2026-10-23T21:54:02+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Will Apple Take Over Your (Smart) Home?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e146adee7ed6f5dcffaccda44facbc11367a369e42aa36fbcdec298f9cc6f6e9",
-      "is_watchlist": true,
-      "timestamp": "2026-10-23T21:50:02+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why RingCentral Stock Is Up Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=167440955dd21c1fef08ff43004fb56f02174afe8401a797619a7816de72d302",
-      "is_watchlist": true,
-      "timestamp": "2026-10-23T21:48:24+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -404,18 +476,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-23T21:43:02+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "In Florida, Trump vows to deal with Cuba after Iran settled - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaW1UZUdScXEwTWVUNUJxcDkyWmV1TDREckM1RnRCTFR4VjBuVmk2Vm9OVF83d2FLdTdnSGN2N0FGNURpVXJKbzR4bWI3b05TY3pPWGgzRnZvX2N4SEQ4cmw3blpTZktVMXd4UDlFeWpFcG9jX1FJcTN3OW1WVW5UTnFfQ3BqdHRwNFAzOGRsc1Nyc0N6TENyVDJaeW9ZSExlSl9adExjYmQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-10-23T21:36:55+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -476,6 +536,30 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "PWR",
+      "headline": "Here's Why Quanta Services (PWR) Fell More Than Broader Market",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=59b81108efbb4ec1006e59b4b089a8223eefcc1f1d5a45e7cf183ee715ef8cb8",
+      "is_watchlist": true,
+      "timestamp": "2026-10-23T21:00:04+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "OSCR",
+      "headline": "Why Oscar Health, Inc. (OSCR) Dipped More Than Broader Market Today",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bd4c5878f9debc95e790fb52a8d31f427e856d0f8507b6528b7e6fd23237f4d5",
+      "is_watchlist": true,
+      "timestamp": "2026-10-23T21:00:03+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
       "source": "CNBC Top",
@@ -484,6 +568,18 @@ window.theBriefLive = {
       "timestamp": "2026-10-23T20:52:23+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "GEV",
+      "headline": "GE Vernova (GEV) Suffers a Larger Drop Than the General Market: Key Insights",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aa8dde9bab86c1d82f357aa92f9cc3fff43a2eabaf5227579b0ecef8277e5a02",
+      "is_watchlist": true,
+      "timestamp": "2026-10-23T20:50:03+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -613,12 +709,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "CRWV",
-      "headline": "CoreWeave Heads for Third Weekly Loss, Weighing on Stocks and Bitcoin Over AI Financing Fears",
+      "ticker": "XLE",
+      "headline": "Sector Update: Energy Stocks Gain Late Afternoon",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=67963642d8c1bee44ed63ed9acf1189c1d97ea4414cb066b73262b8dad05da72",
+      "url": "https://finnhub.io/api/news?id=ca71211b352001053e3157dda2d2e6e6be801b500fc0998f7f3bb1add916f8e0",
       "is_watchlist": true,
-      "timestamp": "2026-10-23T19:44:00+00:00",
+      "timestamp": "2026-10-23T19:48:04+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -645,6 +741,18 @@ window.theBriefLive = {
       "timestamp": "2026-10-23T19:25:18+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "XLE",
+      "headline": "Sector Update: Energy",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5e8d1693c4481ea4431d2a1700a888e589a147b5109097405d2d934a4543f076",
+      "is_watchlist": true,
+      "timestamp": "2026-10-23T19:23:38+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -706,18 +814,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "CRWV",
-      "headline": "Elon Musk's $1B Skydance Investment",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b3aadcf4a09065b9098ca881b17e73120bf61ceec03f614c1957fa813c27b13e",
-      "is_watchlist": true,
-      "timestamp": "2026-10-23T18:33:20+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "These 2 Neocloud\u00a0Stocks Could Rebound Over 90%, Say Analysts",
       "source": "Yahoo",
@@ -741,12 +837,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "CRWV",
-      "headline": "Sector Update: Tech Stocks Advance Friday Afternoon",
+      "ticker": "XLE",
+      "headline": "Sector Update: Energy Stocks Gain Friday Afternoon",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=dca9e5368f79624cb77294f9b4e9da3cfcc6a35a471b3e7e3d05da107ae89ef1",
+      "url": "https://finnhub.io/api/news?id=b0861feb8b70208018f0198d8940bfa4bb2c8dddea6a3ee596c4b8602d6d1739",
       "is_watchlist": true,
-      "timestamp": "2026-10-23T17:40:20+00:00",
+      "timestamp": "2026-10-23T17:37:32+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -894,18 +990,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "GEV",
-      "headline": "Constellation Energy vs. GE Vernova: Which Utilities Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d5d921117474470ffa9f1e02eaddd10b48c4190d207f99b02cae8217c7d4d61d",
-      "is_watchlist": true,
-      "timestamp": "2026-10-23T14:38:45+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "TPL",
       "headline": "Here's What to Expect From Texas Pacific Land Corporation\u2019s Next Earnings Report",
       "source": "Yahoo",
@@ -974,18 +1058,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "XLE",
-      "headline": "Strategic Petroleum Reserve Is Emptying, Here\u2019s Why Permian Producers Can\u2019t Fill It Up",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=324238a711bac7e36d2f754cfb3c56954c38de3b5697cd0a5a8f35b381511f97",
-      "is_watchlist": true,
-      "timestamp": "2026-10-23T07:26:13+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Lights will stay on this winter, grid operator says after concerns",
       "source": "BBC Business",
@@ -1003,64 +1075,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-10-22T23:20:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-10-22T22:27:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "PWR",
-      "headline": "Quanta Services (PWR) Suffers a Larger Drop Than the General Market: Key Insights",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=66a5d507320a1ef28e8a74455d7162aeb2ace3370c0eb17c71066e396670ff05",
-      "is_watchlist": true,
-      "timestamp": "2026-10-22T21:15:03+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "XLE",
-      "headline": "Sector Update: Energy Stocks Decline Late Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3a0f1ef8e6e9a5d9a64a62f212283c4be59c7e72e80c1286a8bc2b63f15e6fab",
-      "is_watchlist": true,
-      "timestamp": "2026-10-22T19:58:39+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "XLE",
-      "headline": "Sector Update: Energy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=eba887663a867082105ff1861e3a850673b63567f8869b2e20201555dd961ef6",
-      "is_watchlist": true,
-      "timestamp": "2026-10-22T19:43:57+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-10-22T18:26:56+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1250,18 +1264,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=40a002bac31f89e89aeb12faf4369cb5c13b8e81859c5403ce5c45d49494b244",
       "is_watchlist": true,
       "timestamp": "2026-10-21T13:02:19+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "OSCR",
-      "headline": "Oscar Health (NYSE:OSCR) Pairs High Growth Momentum With a Breakout Setup",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=a5ef5e9e25f9d4b37beabc4399367fac09b97b88b7badd1a110c04e3a9d8d27a",
-      "is_watchlist": true,
-      "timestamp": "2026-10-21T11:20:43+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
