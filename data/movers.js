@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-24T14:48:03.755217+00:00",
+  "generated_at": "2026-10-24T17:53:18.302465+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -143,7 +143,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Tesla, SpaceX, Micron and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week\""
+      "move_reason": "News: \"Setbacks Mounting On The AI Data Center Front\""
     },
     {
       "ticker": "XLP",
@@ -177,7 +177,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This $6 Billion Investment Could Open a Relief Valve for America\u2019s AI and Power-Grid Boom\""
+      "move_reason": "News: \"The AI Power Bill Comes Due: Will GE Vernova\u2019s Q3 Earnings Oct. 28 Prove Its $176B Backlog...\""
     },
     {
       "ticker": "XLY",
@@ -224,7 +224,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Breakfast: What Moved Markets This Week\""
+      "move_reason": "News: \"Vistra Stock Fell Nearly 10% in a Day After Meta\u2019s Earnings. Here\u2019s Why Its Forecast Alrea...\""
     },
     {
       "ticker": "XLF",
@@ -318,7 +318,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Tesla, SpaceX, Micron and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week\""
+      "move_reason": "News: \"Setbacks Mounting On The AI Data Center Front\""
     },
     {
       "ticker": "DG",
@@ -342,7 +342,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This $6 Billion Investment Could Open a Relief Valve for America\u2019s AI and Power-Grid Boom\""
+      "move_reason": "News: \"The AI Power Bill Comes Due: Will GE Vernova\u2019s Q3 Earnings Oct. 28 Prove Its $176B Backlog...\""
     },
     {
       "ticker": "IWM",
@@ -354,7 +354,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Buying Main Street's Pain Won't Work This Time\""
+      "move_reason": "News: \"The AI Bubble Has A $3.6 Trillion Problem, And It's Getting Worse\""
     },
     {
       "ticker": "NBIS",
@@ -378,7 +378,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Puzzle Pieces for a Stock Market Crash Are Taking Shape, With 4 Historically Flawless ...\""
+      "move_reason": "News: \"Can Amazon Take Market Share From Nvidia in the AI Chip Race?\""
     },
     {
       "ticker": "OSCR",
@@ -414,7 +414,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Breakfast: What Moved Markets This Week\""
+      "move_reason": "News: \"Vistra Stock Fell Nearly 10% in a Day After Meta\u2019s Earnings. Here\u2019s Why Its Forecast Alrea...\""
     },
     {
       "ticker": "TPL",
@@ -650,13 +650,13 @@ window.theBriefMovers = {
         "Moved +5.18% \u2014 a 2.1\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 9.9 (cheap on absolute basis)"
+        "Forward P/E 11.2 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved +5.18% \u2014 a 2.1\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 9.9 (cheap on absolute basis)"
+        "Forward P/E 11.2 (cheap on absolute basis)"
       ],
       "tags": [
         "moderate-move",
