@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-24T11:29:46.616098+00:00",
+  "generated_at": "2026-10-24T14:48:03.755217+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Sector Update: Energy Stocks Gain Late Afternoon\""
+      "move_reason": "News: \"Oil Prices Are Soaring: How To Profit No Matter What Happens Next\""
     },
     {
       "ticker": "OXY",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why the Market Dipped But Occidental Petroleum (OXY) Gained Today\""
+      "move_reason": "News: \"Oil Prices Are Soaring: How To Profit No Matter What Happens Next\""
     },
     {
       "ticker": "AMD",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Credo Stock Has The Bull Case Changed As AEC Competition Grows\""
+      "move_reason": "News: \"Here's Why AMD Investors Should Consider Selling Before Nov. 3\""
     },
     {
       "ticker": "TPL",
@@ -143,7 +143,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The tech \u2018death spiral\u2019 that could destroy the AI boom\""
+      "move_reason": "News: \"Tesla, SpaceX, Micron and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week\""
     },
     {
       "ticker": "XLP",
@@ -177,7 +177,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Caterpillar Stock Fell Nearly 5% as Power-Equipment Stocks Slid a Week Before Its Q3 Repor...\""
+      "move_reason": "News: \"This $6 Billion Investment Could Open a Relief Valve for America\u2019s AI and Power-Grid Boom\""
     },
     {
       "ticker": "XLY",
@@ -224,7 +224,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 U.S. LNG Infrastructure Stocks Investors Are Watching After Russian Project Scrutiny\""
+      "move_reason": "News: \"Wall Street Breakfast: What Moved Markets This Week\""
     },
     {
       "ticker": "XLF",
@@ -294,7 +294,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Credo Stock Has The Bull Case Changed As AEC Competition Grows\""
+      "move_reason": "News: \"Here's Why AMD Investors Should Consider Selling Before Nov. 3\""
     },
     {
       "ticker": "APA",
@@ -318,7 +318,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The tech \u2018death spiral\u2019 that could destroy the AI boom\""
+      "move_reason": "News: \"Tesla, SpaceX, Micron and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week\""
     },
     {
       "ticker": "DG",
@@ -342,7 +342,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Caterpillar Stock Fell Nearly 5% as Power-Equipment Stocks Slid a Week Before Its Q3 Repor...\""
+      "move_reason": "News: \"This $6 Billion Investment Could Open a Relief Valve for America\u2019s AI and Power-Grid Boom\""
     },
     {
       "ticker": "IWM",
@@ -354,7 +354,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Commentary: Need To Talk\""
+      "move_reason": "News: \"Buying Main Street's Pain Won't Work This Time\""
     },
     {
       "ticker": "NBIS",
@@ -378,7 +378,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 Unloved Stocks of 2026 to Consider Buying Now\""
+      "move_reason": "News: \"The Puzzle Pieces for a Stock Market Crash Are Taking Shape, With 4 Historically Flawless ...\""
     },
     {
       "ticker": "OSCR",
@@ -402,7 +402,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why the Market Dipped But Occidental Petroleum (OXY) Gained Today\""
+      "move_reason": "News: \"Oil Prices Are Soaring: How To Profit No Matter What Happens Next\""
     },
     {
       "ticker": "PWR",
@@ -414,7 +414,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 U.S. LNG Infrastructure Stocks Investors Are Watching After Russian Project Scrutiny\""
+      "move_reason": "News: \"Wall Street Breakfast: What Moved Markets This Week\""
     },
     {
       "ticker": "TPL",
@@ -450,7 +450,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Sector Update: Energy Stocks Gain Late Afternoon\""
+      "move_reason": "News: \"Oil Prices Are Soaring: How To Profit No Matter What Happens Next\""
     }
   ],
   "indices": [
@@ -650,13 +650,13 @@ window.theBriefMovers = {
         "Moved +5.18% \u2014 a 2.1\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 11.2 (cheap on absolute basis)"
+        "Forward P/E 9.9 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved +5.18% \u2014 a 2.1\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 11.2 (cheap on absolute basis)"
+        "Forward P/E 9.9 (cheap on absolute basis)"
       ],
       "tags": [
         "moderate-move",
