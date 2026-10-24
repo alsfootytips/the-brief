@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-24T01:35:13.069683+00:00",
+  "generated_at": "2026-10-24T06:29:11.582029+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Stock Fell 8% in a Day as Lam Research\u2019s Supply Warning Sank Chip Stocks. Here\u2019s Where...\""
+      "move_reason": "News: \"Credo Stock Has The Bull Case Changed As AEC Competition Grows\""
     },
     {
       "ticker": "TPL",
@@ -143,7 +143,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A Surprising New Rival Is Threatening CoreWeave (and It's Not Best Known as an AI Cloud Co...\""
+      "move_reason": "News: \"Wells Fargo, Arm and Intuit Reject Tokenized Shares on OKX-ICE\""
     },
     {
       "ticker": "XLP",
@@ -200,7 +200,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Rowan Street Capital Exits The Trade Desk (TTD) as Thesis Breaks\""
+      "move_reason": "News: \"Here's Why The Trade Desk (TTD) Fell More Than Broader Market\""
     },
     {
       "ticker": "META",
@@ -294,7 +294,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Stock Fell 8% in a Day as Lam Research\u2019s Supply Warning Sank Chip Stocks. Here\u2019s Where...\""
+      "move_reason": "News: \"Credo Stock Has The Bull Case Changed As AEC Competition Grows\""
     },
     {
       "ticker": "APA",
@@ -318,7 +318,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A Surprising New Rival Is Threatening CoreWeave (and It's Not Best Known as an AI Cloud Co...\""
+      "move_reason": "News: \"Wells Fargo, Arm and Intuit Reject Tokenized Shares on OKX-ICE\""
     },
     {
       "ticker": "DG",
@@ -354,7 +354,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meta Tumbles 6% on AI Spending Fears, 10-Year Yield Falls Below 5%: Stock Market Today\""
+      "move_reason": "News: \"U.S. Flash PMI Signals Sustained Strong Growth, But Also Further Inflation Uplift In Octob...\""
     },
     {
       "ticker": "NBIS",
@@ -378,7 +378,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Elon Musk Eyes SpaceX-Tesla Merger, Huang Pitches \u2018Financeable\u2019 Chips, Zuckerberg Wants Mo...\""
+      "move_reason": "News: \"If History Is Any Guide, This Cryptocurrency Is About to Go Parabolic in 2027\""
     },
     {
       "ticker": "OSCR",
@@ -438,7 +438,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Rowan Street Capital Exits The Trade Desk (TTD) as Thesis Breaks\""
+      "move_reason": "News: \"Here's Why The Trade Desk (TTD) Fell More Than Broader Market\""
     },
     {
       "ticker": "XLE",
