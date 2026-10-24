@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-24T06:29:11.582029+00:00",
+  "generated_at": "2026-10-24T11:29:46.616098+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Today's S&P 500 Top Movers: Crown Castle Leads Gainers, Bloom Energy Leads Losers\""
+      "move_reason": "News: \"APA CORP (NASDAQ:APA): A Quality Investing Candidate With Mixed Growth Signals\""
     },
     {
       "ticker": "XLE",
@@ -143,7 +143,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wells Fargo, Arm and Intuit Reject Tokenized Shares on OKX-ICE\""
+      "move_reason": "News: \"The tech \u2018death spiral\u2019 that could destroy the AI boom\""
     },
     {
       "ticker": "XLP",
@@ -224,7 +224,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here's Why Quanta Services (PWR) Fell More Than Broader Market\""
+      "move_reason": "News: \"3 U.S. LNG Infrastructure Stocks Investors Are Watching After Russian Project Scrutiny\""
     },
     {
       "ticker": "XLF",
@@ -306,7 +306,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Today's S&P 500 Top Movers: Crown Castle Leads Gainers, Bloom Energy Leads Losers\""
+      "move_reason": "News: \"APA CORP (NASDAQ:APA): A Quality Investing Candidate With Mixed Growth Signals\""
     },
     {
       "ticker": "CRWV",
@@ -318,7 +318,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wells Fargo, Arm and Intuit Reject Tokenized Shares on OKX-ICE\""
+      "move_reason": "News: \"The tech \u2018death spiral\u2019 that could destroy the AI boom\""
     },
     {
       "ticker": "DG",
@@ -354,7 +354,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"U.S. Flash PMI Signals Sustained Strong Growth, But Also Further Inflation Uplift In Octob...\""
+      "move_reason": "News: \"Weekly Commentary: Need To Talk\""
     },
     {
       "ticker": "NBIS",
@@ -378,7 +378,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"If History Is Any Guide, This Cryptocurrency Is About to Go Parabolic in 2027\""
+      "move_reason": "News: \"2 Unloved Stocks of 2026 to Consider Buying Now\""
     },
     {
       "ticker": "OSCR",
@@ -414,7 +414,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here's Why Quanta Services (PWR) Fell More Than Broader Market\""
+      "move_reason": "News: \"3 U.S. LNG Infrastructure Stocks Investors Are Watching After Russian Project Scrutiny\""
     },
     {
       "ticker": "TPL",
@@ -650,13 +650,13 @@ window.theBriefMovers = {
         "Moved +5.18% \u2014 a 2.1\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 9.9 (cheap on absolute basis)"
+        "Forward P/E 11.2 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved +5.18% \u2014 a 2.1\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 9.9 (cheap on absolute basis)"
+        "Forward P/E 11.2 (cheap on absolute basis)"
       ],
       "tags": [
         "moderate-move",

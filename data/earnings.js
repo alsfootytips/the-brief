@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-10-24T06:29:11+00:00",
+  "generated_at": "2026-10-24T11:29:46+00:00",
   "by_date": {
     "2026-11-03": [
       {
@@ -9975,14 +9975,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "AMCX",
-        "date": "2026-10-30",
-        "hour": "",
-        "eps_estimate": 0.6747,
-        "revenue_estimate": 625440203,
-        "is_watchlist": false
-      },
-      {
         "ticker": "AMR",
         "date": "2026-10-30",
         "hour": "bmo",
@@ -10196,6 +10188,14 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": 2.5939,
         "revenue_estimate": 8962862210,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MHH",
+        "date": "2026-10-30",
+        "hour": "bmo",
+        "eps_estimate": 0.0758,
+        "revenue_estimate": 41807435,
         "is_watchlist": false
       }
     ],
