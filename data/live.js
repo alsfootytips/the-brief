@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-25T00:32:43.537724+00:00",
+  "generated_at": "2026-10-25T05:20:31.926152+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -73,7 +73,7 @@ window.theBriefLive = {
       "change_pct": -6.96,
       "price": 31.0,
       "is_watchlist": true,
-      "timestamp": "2026-10-25T00:32:43.535129+00:00",
+      "timestamp": "2026-10-25T05:20:31.923394+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -85,7 +85,7 @@ window.theBriefLive = {
       "change_pct": -4.82,
       "price": 132.4,
       "is_watchlist": true,
-      "timestamp": "2026-10-25T00:32:43.535118+00:00",
+      "timestamp": "2026-10-25T05:20:31.923382+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -97,7 +97,7 @@ window.theBriefLive = {
       "change_pct": 5.18,
       "price": 52.0,
       "is_watchlist": true,
-      "timestamp": "2026-10-25T00:32:43.535107+00:00",
+      "timestamp": "2026-10-25T05:20:31.923369+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -105,25 +105,83 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Braskem creditors, shareholders near deal on $11bn debt restructuring - Bloomberg",
+      "headline": "Bitcoin price today: BTC recovers to $80,800 ahead of Fed meeting",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/braskem-creditors-shareholders-near-deal-on-11bn-debt-restructuring--bloomberg-4971002",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-btc-recovers-to-80800-ahead-of-fed-meeting-4971035",
       "is_watchlist": false,
-      "timestamp": "2026-10-25T00:09:15+00:00",
+      "timestamp": "2026-10-25T04:54:18+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Obama attacks Trump over inflation as Democrats fight for Michigan Senate seat",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/obama-attacks-trump-over-inflation-as-democrats-fight-for-michigan-senate-seat-4971031",
+      "is_watchlist": false,
+      "timestamp": "2026-10-25T04:07:10+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Portuguese police clear Lisbon housing protest camp, make arrests",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/portuguese-police-clear-lisbon-housing-protest-camp-make-arrests-4971028",
+      "is_watchlist": false,
+      "timestamp": "2026-10-25T03:36:21+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "Trump touts $4 billion Audi plant in Georgia as he defends tariffs",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/trump-touts-4-billion-audi-plant-in-georgia-as-he-defends-tariffs-4971027",
+      "is_watchlist": false,
+      "timestamp": "2026-10-25T03:29:51+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
       "ticker": "NVDA",
-      "headline": "Flying Cars, Smart Homes, and Cracks in the AI Boom",
+      "headline": "Should Investors Buy the Meta Platforms Dip?",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d44c6fda1e9cd03278ddcbf27024081b94429ead88d0cbaa9de0d3b9b3971f05",
+      "url": "https://finnhub.io/api/news?id=1a5047d420722fa683a4e4667ad8252d7ced1c8c06e667d396e21b196a7f43ab",
       "is_watchlist": true,
-      "timestamp": "2026-10-24T23:50:02+00:00",
+      "timestamp": "2026-10-25T03:20:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Prediction: The Stock Market Will Soar After Midterm Elections",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c09bb498a25a966a9a154ea539f92a0bfe312a9f3b376f40574f5f503737f117",
+      "is_watchlist": true,
+      "timestamp": "2026-10-25T03:05:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Budget to include \u00a31bn for social and affordable housing",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-10-25T02:57:30+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -131,11 +189,11 @@ window.theBriefLive = {
         "Trump"
       ],
       "ticker": null,
-      "headline": "Trump set to announce Audi plan to build US factory in Georgia, source says",
+      "headline": "Trump announces Audi will build $4 billion US factory in Georgia",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/trump-set-to-announce-plan-by-audi-to-build-us-factory-in-georgia-source-says-4970975",
       "is_watchlist": true,
-      "timestamp": "2026-10-24T23:48:24+00:00",
+      "timestamp": "2026-10-25T02:48:34+00:00",
       "relevance_score": 5.5,
       "relevance_tier": "medium",
       "relevance_label": "Market Mover"
@@ -143,22 +201,68 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Abuse survivors approve $800 million settlement with Archdiocese of New York",
+      "headline": "HSBC sees cautious optimism in VC and PE activity",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/abuse-survivors-approve-800-million-settlement-with-archdiocese-of-new-york-4971001",
+      "url": "https://www.investing.com/news/stock-market-news/hsbc-sees-cautious-optimism-in-vc-and-pe-activity-4971023",
       "is_watchlist": false,
-      "timestamp": "2026-10-24T23:42:03+00:00",
+      "timestamp": "2026-10-25T02:48:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Chemed president and CEO Kevin McNamara sells $1.03M in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/chemed-president-and-ceo-kevin-mcnamara-sells-103m-in-stock-93CH-4971022",
+      "is_watchlist": false,
+      "timestamp": "2026-10-25T02:45:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Verizon evp and group ceo Kyle Malady sells $51,040 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/verizon-evp-and-group-ceo-kyle-malady-sells-51040-in-stock-93CH-4971021",
+      "is_watchlist": false,
+      "timestamp": "2026-10-25T02:45:58+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": "NVDA",
-      "headline": "UPS Stock Is Down 57% From Its Record. Is It a Buy Before Its Oct. 27 Report?",
+      "headline": "Constellation, Vistra, and GE Vernova Ranked From Worst to First for the AI Power Boom",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=02786ed76bd5e8eb26cfda4bb62c1c5aafc268f0cd6d0b1dd8ad6a9932f5b12b",
+      "url": "https://finnhub.io/api/news?id=7389b6adbcd1822881abf2e633edb45ba19a2ccaaed63b9f0c8940d3a7e7110d",
       "is_watchlist": true,
-      "timestamp": "2026-10-24T23:38:01+00:00",
+      "timestamp": "2026-10-25T02:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "GEV",
+      "headline": "Constellation, Vistra, and GE Vernova Ranked From Worst to First for the AI Power Boom",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7389b6adbcd1822881abf2e633edb45ba19a2ccaaed63b9f0c8940d3a7e7110d",
+      "is_watchlist": true,
+      "timestamp": "2026-10-25T02:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "1 Red Flag That Keeps Me From Buying AMD Stock",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d941c616c2c9aa9cca36c937e875fa72de63a915c3365a21d944f24bbce159a7",
+      "is_watchlist": true,
+      "timestamp": "2026-10-25T00:54:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -166,47 +270,24 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Climb Bio reports early data on budoprutug for kidney diseases",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/climb-bio-reports-early-data-on-budoprutug-for-kidney-diseases-93CH-4971000",
+      "headline": "Audi to build $4.2B auto plant in Georgia, pledging long-term investment in U.S. market",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4656939-audi-to-build-42b-auto-plant-in-georgia-pledging-long-term-investment-in-us-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-10-24T23:36:47+00:00",
+      "timestamp": "2026-10-25T00:50:22+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trade Desk CEO overrides investor opposition to option repricing - WSJ",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/trade-desk-ceo-overrides-investor-opposition-to-option-repricing--wsj-4970999",
+      "headline": "Yemen's Houthis renew warning against using Riyadh airport - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT0JBTVByRUdVWnYzNWpyRUlfbGRFR2RnQzZpbTgzR05tX1AzU2VkVC10RUswYWthSGtJa2FZamVSa2E2ckdSeG5FN3VGTFU5SVJfbjY4NEZjR2tQSWJfZmxtbTJvUU5YSEpKWHRQQWpHMGRfR29xeFhkR1BwcHA5NlA3MnJmRnloYzF6Q0tBZG92ZDgzWmRubVNpNi1CajBmdXdNZmNTYnkzLWFnMldvaQ?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-10-24T23:34:20+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-10-24T23:57:43+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bodies of ambushed Salvadoran soldiers found in Haiti, New York Times\u00a0reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/bodies-of-ambushed-salvadoran-soldiers-found-in-haiti-new-york-timesreports-4970997",
-      "is_watchlist": false,
-      "timestamp": "2026-10-24T23:24:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Forget the FDA Delay: 3 Reasons Exelixis Is Still a Buy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7f808db52a19bb4c8311a73e69902a8daf69e92a641c00cf5f957b5d7bff8377",
-      "is_watchlist": true,
-      "timestamp": "2026-10-24T23:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -232,17 +313,6 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "Why South Korea\u2019s stock market represents the purest AI trade",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-south-koreas-stock-market-represents-the-purest-ai-trade-4970991",
-      "is_watchlist": false,
-      "timestamp": "2026-10-24T22:55:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Iran"
@@ -256,17 +326,6 @@ window.theBriefLive = {
       "relevance_score": 8.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Inside the Trump-administration campaign to return Brazil\u2019s Bolsonaro clan to power",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/inside-the-trumpadministration-campaign-to-return-brazils-bolsonaro-clan-to-power-4970978",
-      "is_watchlist": false,
-      "timestamp": "2026-10-24T21:48:24+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -490,6 +549,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "CRWV",
+      "headline": "Piper Sandler Says Financing Concerns for CoreWeave Are Overblown. Not Everyone Is Convinced.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f65b7c564d19419852d1ba8d3e98fd60c6fe42ea5c5b619a46dc558799eb8eb5",
+      "is_watchlist": true,
+      "timestamp": "2026-10-24T18:33:04+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Insider trades: Blackberry, Accenture and Cleveland-Cliffs among notable names",
       "source": "Seeking Alpha Market",
@@ -501,36 +572,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "CRWV",
-      "headline": "5 of the Fastest-Growing Stocks in the Market",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=43c3fefddd0450363dbdf6aaffb63654b9df586b297466095df03b5bd0c933c6",
-      "is_watchlist": true,
-      "timestamp": "2026-10-24T18:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "5 of the Fastest-Growing Stocks in the Market",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=43c3fefddd0450363dbdf6aaffb63654b9df586b297466095df03b5bd0c933c6",
       "is_watchlist": true,
       "timestamp": "2026-10-24T18:20:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "GEV",
-      "headline": "GE Vernova (GEV) Stock May Be Fully Priced After Fresh AI Power Orders",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f16cf7f2a927c7cb56595511c123b4859539f4d099a1cb0ab782f05f0f30ff53",
-      "is_watchlist": true,
-      "timestamp": "2026-10-24T18:14:58+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -598,17 +645,6 @@ window.theBriefLive = {
       "url": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-10-24T16:59:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Couche-Tard makes bid for Cumberland Farms: report",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4656933-couche-tard-makes-bid-cumberland-farms?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-24T16:30:05+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -747,21 +783,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran's Pezeshkian blames US for interim deal failure, urges new try - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd0xVa2UzLXppdXQ4c2xJaWNFcUlFWWswS3NYT0ZwQkZ3by1HNGJTakpQTDdUYzhSTUpwUHMzRnMtRzNEWmhieTJqTjZOdTlUN3c3YlNFMHVGd2V5RUZUcXNnbXFMMTlQLVBsRXNUT0ZndHM5SmswcFE5U0dCRlBnMndsNnRIQk00OXhIMnFzVDlSTWVVUjJGNkdnUFprRXBhY01RdnJFcnUzb1pzMDd4Ri1nUUdJdw?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-10-24T13:27:12+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "news",
       "ticker": "IWM",
       "headline": "The AI Bubble Has A $3.6 Trillion Problem, And It's Getting Worse",
@@ -887,18 +908,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=9c3b14fd55e6351fefa7014f629b168ccd49e216312db7fe9db241b9454ec845",
       "is_watchlist": true,
       "timestamp": "2026-10-24T08:09:49+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Benzinga Bulls and Bears: SpaceX, Meta, Netflix",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=2dbd047ec13ea95e87545abdcb75ee9bc5445ba70112a57ee6e61ab28ac3fdac",
-      "is_watchlist": true,
-      "timestamp": "2026-10-24T08:00:09+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -1179,17 +1188,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-10-23T08:04:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Lights will stay on this winter, grid operator says after concerns",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-10-23T06:47:10+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },

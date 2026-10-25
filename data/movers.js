@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-25T00:32:43.528700+00:00",
+  "generated_at": "2026-10-25T05:20:31.916597+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 AI Stocks To Watch In October 2026\""
+      "move_reason": "News: \"1 Red Flag That Keeps Me From Buying AMD Stock\""
     },
     {
       "ticker": "TPL",
@@ -177,7 +177,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova Stock Fell 11% in a Day. Here's What I Think It Could Be Worth by 2030.\""
+      "move_reason": "News: \"Constellation, Vistra, and GE Vernova Ranked From Worst to First for the AI Power Boom\""
     },
     {
       "ticker": "XLY",
@@ -294,7 +294,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 AI Stocks To Watch In October 2026\""
+      "move_reason": "News: \"1 Red Flag That Keeps Me From Buying AMD Stock\""
     },
     {
       "ticker": "APA",
@@ -342,7 +342,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova Stock Fell 11% in a Day. Here's What I Think It Could Be Worth by 2030.\""
+      "move_reason": "News: \"Constellation, Vistra, and GE Vernova Ranked From Worst to First for the AI Power Boom\""
     },
     {
       "ticker": "IWM",
@@ -378,7 +378,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Flying Cars, Smart Homes, and Cracks in the AI Boom\""
+      "move_reason": "News: \"Should Investors Buy the Meta Platforms Dip?\""
     },
     {
       "ticker": "OSCR",
@@ -650,13 +650,13 @@ window.theBriefMovers = {
         "Moved +5.18% \u2014 a 2.1\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 11.2 (cheap on absolute basis)"
+        "Forward P/E 9.9 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved +5.18% \u2014 a 2.1\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 11.2 (cheap on absolute basis)"
+        "Forward P/E 9.9 (cheap on absolute basis)"
       ],
       "tags": [
         "moderate-move",
