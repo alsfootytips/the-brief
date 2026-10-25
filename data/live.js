@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-25T05:20:31.926152+00:00",
+  "generated_at": "2026-10-25T10:00:53.312168+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -73,7 +73,7 @@ window.theBriefLive = {
       "change_pct": -6.96,
       "price": 31.0,
       "is_watchlist": true,
-      "timestamp": "2026-10-25T05:20:31.923394+00:00",
+      "timestamp": "2026-10-25T10:00:53.310156+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -85,7 +85,7 @@ window.theBriefLive = {
       "change_pct": -4.82,
       "price": 132.4,
       "is_watchlist": true,
-      "timestamp": "2026-10-25T05:20:31.923382+00:00",
+      "timestamp": "2026-10-25T10:00:53.310148+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -97,7 +97,7 @@ window.theBriefLive = {
       "change_pct": 5.18,
       "price": 52.0,
       "is_watchlist": true,
-      "timestamp": "2026-10-25T05:20:31.923369+00:00",
+      "timestamp": "2026-10-25T10:00:53.310143+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -105,57 +105,114 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bitcoin price today: BTC recovers to $80,800 ahead of Fed meeting",
+      "headline": "Dlh Holdings director Mink Brook Asset Management buys $208 stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-btc-recovers-to-80800-ahead-of-fed-meeting-4971035",
+      "url": "https://www.investing.com/news/insider-trading-news/dlh-holdings-director-mink-brook-asset-management-buys-208-stock-93CH-4971095",
       "is_watchlist": false,
-      "timestamp": "2026-10-25T04:54:18+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Obama attacks Trump over inflation as Democrats fight for Michigan Senate seat",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/obama-attacks-trump-over-inflation-as-democrats-fight-for-michigan-senate-seat-4971031",
-      "is_watchlist": false,
-      "timestamp": "2026-10-25T04:07:10+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Portuguese police clear Lisbon housing protest camp, make arrests",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economic-indicators/portuguese-police-clear-lisbon-housing-protest-camp-make-arrests-4971028",
-      "is_watchlist": false,
-      "timestamp": "2026-10-25T03:36:21+00:00",
+      "timestamp": "2026-10-25T09:46:17+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump touts $4 billion Audi plant in Georgia as he defends tariffs",
+      "headline": "Brookfield to open Qatar office as it expands Middle East operations",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/trump-touts-4-billion-audi-plant-in-georgia-as-he-defends-tariffs-4971027",
+      "url": "https://www.investing.com/news/company-news/brookfield-to-open-qatar-office-as-it-expands-middle-east-operations-4971088",
       "is_watchlist": false,
-      "timestamp": "2026-10-25T03:29:51+00:00",
-      "relevance_score": 3.0,
+      "timestamp": "2026-10-25T09:44:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump announces Audi will build $4 billion US factory in Georgia",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/trump-set-to-announce-plan-by-audi-to-build-us-factory-in-georgia-source-says-4970975",
+      "is_watchlist": true,
+      "timestamp": "2026-10-25T09:36:21+00:00",
+      "relevance_score": 5.5,
       "relevance_tier": "medium",
-      "relevance_label": "Macro"
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Should Investors Buy the Meta Platforms Dip?",
+      "ticker": null,
+      "headline": "Saudi Arabia intercepts drones and missiles as fighting with Yemen\u2019s Houthis continues",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/saudi-arabia-intercepts-drones-and-missiles-as-fighting-with-yemens-houthis-continues-4971080",
+      "is_watchlist": false,
+      "timestamp": "2026-10-25T09:00:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Goldman Sachs cuts Kospi target by 25% amid AI stock selloff",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-cuts-kospi-target-by-25-amid-ai-stock-selloff-4971079",
+      "is_watchlist": false,
+      "timestamp": "2026-10-25T08:50:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Xencor reports phase 1 data for cancer drug XmAb819",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/xencor-reports-phase-1-data-for-cancer-drug-xmab819-93CH-4971076",
+      "is_watchlist": false,
+      "timestamp": "2026-10-25T08:40:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Anixa Biosciences president, COO, & CFO buys $15,620 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/anixa-biosciences-president-coo--cfo-buys-15620-in-shares-93CH-4971073",
+      "is_watchlist": false,
+      "timestamp": "2026-10-25T08:31:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "North Korea\u2019s Kim Jong Un makes surprise China visit as ties strengthen",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/north-koreas-kim-jong-un-makes-surprise-china-visit-as-ties-strengthen-4971072",
+      "is_watchlist": false,
+      "timestamp": "2026-10-25T08:17:00+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-25T08:06:11+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "CRWV",
+      "headline": "SpaceX Just Shared Great News for Artificial Intelligence (AI) Investors. Here Are 2 Stocks That Could Benefit",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1a5047d420722fa683a4e4667ad8252d7ced1c8c06e667d396e21b196a7f43ab",
+      "url": "https://finnhub.io/api/news?id=f57d68627dd796c1b0f218cd3882ca0874a7cc3be4ce4c19636eb1e358643cdf",
       "is_watchlist": true,
-      "timestamp": "2026-10-25T03:20:00+00:00",
+      "timestamp": "2026-10-25T07:28:01+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -163,11 +220,95 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": "NVDA",
-      "headline": "Prediction: The Stock Market Will Soar After Midterm Elections",
+      "headline": "SpaceX Just Shared Great News for Artificial Intelligence (AI) Investors. Here Are 2 Stocks That Could Benefit",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=c09bb498a25a966a9a154ea539f92a0bfe312a9f3b376f40574f5f503737f117",
+      "url": "https://finnhub.io/api/news?id=f57d68627dd796c1b0f218cd3882ca0874a7cc3be4ce4c19636eb1e358643cdf",
       "is_watchlist": true,
-      "timestamp": "2026-10-25T03:05:00+00:00",
+      "timestamp": "2026-10-25T07:28:01+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Disenchanted Netanyahu supporters are prize of Israel election campaign - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORkR4bHJlcGYyMi1nYkI4Wm9SeThiSEh4ZUVrdHM1NnpJSjV4eWdVOUxOWS13NzhWZ3RLbXY4Skp2aVhhT0ZUOFR1a0pNYkZzRFRjVjEtSEttMjY1Z1RKMHNvZFI5RVZidV9ONzFuc1lfdjFnRlJlUG84Qy1SNmM5UFkwU0FGYmFLeXFiYTlqU2hsci01T2JwVW1PZFZKT0RCVlVpMTg5VVZDQktaTi01R1pDc2p3RVN3YmpWeWlER1I?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-10-25T07:27:43+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iranian army says it shot down US drone over Bandar Abbas, Tasnim reports - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNjlxWUNjczg2SHFQamFEZDV0SVhZaHA5bFdqaVQzT1oxSjd0b2ZQQjd6MldHeEhKcUstbGJEa1QxMmFBMFhad2VnREVIa2xoT0tPWlFXVW5lcXVEYjMwdUd5NTRIYm0zTFpabXUxY2pCakRGM3JnWE1iNHc3MmtlbWduRno3ZWVGVWVpa2JtRjF4VDh5TEFHN21hUV9sQUhxOWpJMVVPNlhFMDd5SkJMekZkTFdtQzlnYnBQNkd2MG1TNzZy?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-10-25T07:22:39+00:00",
+      "relevance_score": 6.5,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "This Stock Market Metric Warns History May Be Repeating Itself. Here's How the Smartest Investors Are Preparing.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=565ad13e6ccaf5c1506756d0e1cf03b28eadf112688abc6ed572ca22aceda34c",
+      "is_watchlist": true,
+      "timestamp": "2026-10-25T07:20:00+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Rosebank: Life on the oil field at the centre of a political storm",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-10-25T07:15:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Adobe Stock Looks Different After Record Quarter And Raised Guidance",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da626d6c2b30f91ad5246e15deebdb242787912fe8e546070d52748b81a74237",
+      "is_watchlist": true,
+      "timestamp": "2026-10-25T07:12:54+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Four ways Labour could raise money in the Budget without hiking income tax",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-10-25T06:00:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NBIS",
+      "headline": "Nebius Group (NBIS) Starts On Site Power At Its 300 MW New Jersey Data Center",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d483365a30414e215993db4f4c0b4534bf94b749f045cd569fadf6d2368a9d50",
+      "is_watchlist": true,
+      "timestamp": "2026-10-25T04:18:36+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -182,66 +323,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-25T02:57:30+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump announces Audi will build $4 billion US factory in Georgia",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/trump-set-to-announce-plan-by-audi-to-build-us-factory-in-georgia-source-says-4970975",
-      "is_watchlist": true,
-      "timestamp": "2026-10-25T02:48:34+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "HSBC sees cautious optimism in VC and PE activity",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/hsbc-sees-cautious-optimism-in-vc-and-pe-activity-4971023",
-      "is_watchlist": false,
-      "timestamp": "2026-10-25T02:48:10+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Chemed president and CEO Kevin McNamara sells $1.03M in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/chemed-president-and-ceo-kevin-mcnamara-sells-103m-in-stock-93CH-4971022",
-      "is_watchlist": false,
-      "timestamp": "2026-10-25T02:45:59+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Verizon evp and group ceo Kyle Malady sells $51,040 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/verizon-evp-and-group-ceo-kyle-malady-sells-51040-in-stock-93CH-4971021",
-      "is_watchlist": false,
-      "timestamp": "2026-10-25T02:45:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Constellation, Vistra, and GE Vernova Ranked From Worst to First for the AI Power Boom",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7389b6adbcd1822881abf2e633edb45ba19a2ccaaed63b9f0c8940d3a7e7110d",
-      "is_watchlist": true,
-      "timestamp": "2026-10-25T02:35:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -281,23 +362,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Yemen's Houthis renew warning against using Riyadh airport - Reuters",
+      "headline": "Saudi Arabia intercepts drones and missiles as fighting with Yemen's Houthis continues - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT0JBTVByRUdVWnYzNWpyRUlfbGRFR2RnQzZpbTgzR05tX1AzU2VkVC10RUswYWthSGtJa2FZamVSa2E2ckdSeG5FN3VGTFU5SVJfbjY4NEZjR2tQSWJfZmxtbTJvUU5YSEpKWHRQQWpHMGRfR29xeFhkR1BwcHA5NlA3MnJmRnloYzF6Q0tBZG92ZDgzWmRubVNpNi1CajBmdXdNZmNTYnkzLWFnMldvaQ?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-10-24T23:57:43+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Rosebank: Life on the oil field at the centre of a political storm",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-10-24T23:15:18+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-10-24T23:56:00+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -311,21 +381,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Iran has ramped up efforts to target US personnel, intelligence memo warns - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSnBGckdpTkdaSnNZeFIyenI0MVVDMHd6R2ZDcTlUX3I4OWNNMlRjd0FTXzhCY09zakU1MWx2RzBpRW1QYTRxY2M3UWpBZHR3S1JlNjQ0WlIyRlh3ZnhNaVZ0OVcwU21YMjUyVVF0RXB0VXFLMWpGdEVtak1DUktTdUdLWmQyWGRFQ0xmb2Z3WG1nSHdfVUxlbUlsc2RJRmNmWVRHS1Qtd0RCVU92d2t1S19HbjlFVzdoREJONTRNYk1iZw?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-10-24T22:06:52+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -549,18 +604,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "CRWV",
-      "headline": "Piper Sandler Says Financing Concerns for CoreWeave Are Overblown. Not Everyone Is Convinced.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f65b7c564d19419852d1ba8d3e98fd60c6fe42ea5c5b619a46dc558799eb8eb5",
-      "is_watchlist": true,
-      "timestamp": "2026-10-24T18:33:04+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Insider trades: Blackberry, Accenture and Cleveland-Cliffs among notable names",
       "source": "Seeking Alpha Market",
@@ -671,6 +714,21 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
+      "type": "mover_statement",
+      "movers": [
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Iran has ramped up efforts to target US personnel, intelligence memo warns - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSnBGckdpTkdaSnNZeFIyenI0MVVDMHd6R2ZDcTlUX3I4OWNNMlRjd0FTXzhCY09zakU1MWx2RzBpRW1QYTRxY2M3UWpBZHR3S1JlNjQ0WlIyRlh3ZnhNaVZ0OVcwU21YMjUyVVF0RXB0VXFLMWpGdEVtak1DUktTdUdLWmQyWGRFQ0xmb2Z3WG1nSHdfVUxlbUlsc2RJRmNmWVRHS1Qtd0RCVU92d2t1S19HbjlFVzdoREJONTRNYk1iZw?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-10-24T16:03:00+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
+    },
+    {
       "type": "news",
       "ticker": null,
       "headline": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation - Reuters",
@@ -717,17 +775,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Retail investors are not more sophisticated than 30 years ago, says former hedge fund manager",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/24/stock-picking-could-hurt-investors-warns-former-hedge-fund-manager.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-24T15:00:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "PWR",
       "headline": "Vistra Stock Fell Nearly 10% in a Day After Meta\u2019s Earnings. Here\u2019s Why Its Forecast Already Discounts the Data Center Hype",
       "source": "Yahoo",
@@ -758,28 +805,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-10-24T14:30:01+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Jordan church attack survivor says assailant pointed handgun at him - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZVhBcHBITVRDY2hGb1hueUEwVnhWbUhBc3dvc2NXTk5Yd3NybDQyUW15R3NfVnBmOHpJLVo5b2UyVmN5NjdURndGT2xQb05hSlE4UU52cnFYMDdjbnlQTm9LRHpBSkdLSDUtTlhKdGJYVjN1cGY3c2hEelZjN3FhRXM1X0ZYbVk1Q05lX3ZPdWtBRHE4U3BHUjJtNUpMemJTbXhRcEVERGFZTUt2QW1JbXlSWUpWOGZ6UWc?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-10-24T14:10:20+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "An ex-bookkeeper spent $375 to launch a sewing business: 'I hadn't felt so sure about something like that in a long time'",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/make-it/2026/10/24/sewing-workshop-business-stitch-lab-atx.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-24T14:00:01+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -842,15 +867,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NBIS",
-      "headline": "Setbacks Mounting On The AI Data Center Front",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=891776cbeeed0d6092d102a7561bf6e66a2de8552b9362f35ebfe4db1191747a",
-      "is_watchlist": true,
-      "timestamp": "2026-10-24T10:51:32+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
+      "ticker": null,
+      "headline": "America by the numbers: How voters feel about the economy, inflation, AI and Trump",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/23/america-by-the-numbers-how-voters-feel-about-the-economy-inflation-ai-and-trump.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-24T10:58:30+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -939,17 +964,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-24T06:23:02+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "White House lifts tariffs on some Canadian goods as midterm elections loom",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
@@ -977,6 +991,17 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-10-24T00:05:45+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Are California voters about to impose 'world's first' tax on billionaires?",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-10-23T23:11:31+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -1114,17 +1139,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-10-23T15:15:13+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "TPL",
       "headline": "Here's What to Expect From Texas Pacific Land Corporation\u2019s Next Earnings Report",
       "source": "Yahoo",
@@ -1146,17 +1160,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Earnings limit of up to \u00a3140K for first-time buyers loan scheme",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-10-23T11:48:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",

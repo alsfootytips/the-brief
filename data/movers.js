@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-25T05:20:31.916597+00:00",
+  "generated_at": "2026-10-25T10:00:53.306429+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -143,7 +143,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Berkshire Bending the Rules With Bending Spoons?\""
+      "move_reason": "News: \"SpaceX Just Shared Great News for Artificial Intelligence (AI) Investors. Here Are 2 Stock...\""
     },
     {
       "ticker": "XLP",
@@ -238,18 +238,6 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "SOFI",
-      "name": "SOFI",
-      "price": 14.58,
-      "change_pct": -1.29,
-      "volume_ratio": 0.98,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
       "ticker": "XLI",
       "name": "Industrial Select Sector",
       "price": 164.62,
@@ -277,6 +265,17 @@ window.theBriefMovers = {
       "price": 179.28,
       "change_pct": -1.11,
       "volume_ratio": 0.95,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials Select Sector",
+      "price": 51.31,
+      "change_pct": -0.74,
+      "volume_ratio": 0.9,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -318,7 +317,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Berkshire Bending the Rules With Bending Spoons?\""
+      "move_reason": "News: \"SpaceX Just Shared Great News for Artificial Intelligence (AI) Investors. Here Are 2 Stock...\""
     },
     {
       "ticker": "DG",
@@ -366,7 +365,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"5 Oversold AI Stocks: Where Wall Street Analysts Are Spotting 50%+ Upside\""
+      "move_reason": "News: \"Nebius Group (NBIS) Starts On Site Power At Its 300 MW New Jersey Data Center\""
     },
     {
       "ticker": "NVDA",
@@ -378,7 +377,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Should Investors Buy the Meta Platforms Dip?\""
+      "move_reason": "News: \"SpaceX Just Shared Great News for Artificial Intelligence (AI) Investors. Here Are 2 Stock...\""
     },
     {
       "ticker": "OSCR",
