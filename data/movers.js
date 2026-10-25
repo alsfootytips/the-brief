@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-25T14:17:31.601884+00:00",
+  "generated_at": "2026-10-25T17:45:51.923177+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Oil Prices Are Soaring: How To Profit No Matter What Happens Next\""
+      "move_reason": "News: \"XLE, VDE, IXC ETFs Hit Record Highs as Inflows Jump as Brent Crude Targets $120\""
     },
     {
       "ticker": "OXY",
@@ -143,7 +143,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Debt Has Exploded 4X To Nearly $500 Billion: What It Means For NVDA, ORCL And CRWV, Acc...\""
+      "move_reason": "News: \"CoreWeave Slides 11% Toward a 52-Week Low as a $640 Million Interest Bill Rattles Investor...\""
     },
     {
       "ticker": "XLP",
@@ -224,7 +224,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Vistra Stock Fell Nearly 10% in a Day After Meta\u2019s Earnings. Here\u2019s Why Its Forecast Alrea...\""
+      "move_reason": "News: \"Earnings Volatility Watch: SanDisk and 11 Other Stocks Are Priced for at Least 10% Swings ...\""
     },
     {
       "ticker": "XLF",
@@ -318,7 +318,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Debt Has Exploded 4X To Nearly $500 Billion: What It Means For NVDA, ORCL And CRWV, Acc...\""
+      "move_reason": "News: \"CoreWeave Slides 11% Toward a 52-Week Low as a $640 Million Interest Bill Rattles Investor...\""
     },
     {
       "ticker": "DG",
@@ -366,7 +366,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Top 3 Insider Owned Growth Stocks To Watch In October 2026\""
+      "move_reason": "News: \"Nebius Secures $3.5 Billion From Citi as It Shifts From Converts to Secured Debt\""
     },
     {
       "ticker": "NVDA",
@@ -378,7 +378,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Netflix Is Down 51% From Its High. History Suggests This Is What Happens Next.\""
+      "move_reason": "News: \"Is SpaceX Stock a Buy Right Now?\""
     },
     {
       "ticker": "OSCR",
@@ -414,7 +414,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Vistra Stock Fell Nearly 10% in a Day After Meta\u2019s Earnings. Here\u2019s Why Its Forecast Alrea...\""
+      "move_reason": "News: \"Earnings Volatility Watch: SanDisk and 11 Other Stocks Are Priced for at Least 10% Swings ...\""
     },
     {
       "ticker": "TPL",
@@ -450,7 +450,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Oil Prices Are Soaring: How To Profit No Matter What Happens Next\""
+      "move_reason": "News: \"XLE, VDE, IXC ETFs Hit Record Highs as Inflows Jump as Brent Crude Targets $120\""
     }
   ],
   "indices": [
@@ -650,13 +650,13 @@ window.theBriefMovers = {
         "Moved +5.18% \u2014 a 2.1\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 11.2 (cheap on absolute basis)"
+        "Forward P/E 9.9 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved +5.18% \u2014 a 2.1\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 11.2 (cheap on absolute basis)"
+        "Forward P/E 9.9 (cheap on absolute basis)"
       ],
       "tags": [
         "moderate-move",
