@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-25T10:00:53.306429+00:00",
+  "generated_at": "2026-10-25T14:17:31.601884+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 Red Flag That Keeps Me From Buying AMD Stock\""
+      "move_reason": "News: \"Here's What $10,000 Invested Equally in Nvidia, AMD, and Broadcom Could Be Worth by 2030\""
     },
     {
       "ticker": "TPL",
@@ -143,7 +143,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SpaceX Just Shared Great News for Artificial Intelligence (AI) Investors. Here Are 2 Stock...\""
+      "move_reason": "News: \"AI Debt Has Exploded 4X To Nearly $500 Billion: What It Means For NVDA, ORCL And CRWV, Acc...\""
     },
     {
       "ticker": "XLP",
@@ -177,7 +177,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Constellation, Vistra, and GE Vernova Ranked From Worst to First for the AI Power Boom\""
+      "move_reason": "News: \"Can GE Vernova's Gas Turbines Make Up for a Collapsing Wind Business?\""
     },
     {
       "ticker": "XLY",
@@ -238,6 +238,18 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "SOFI",
+      "name": "SOFI",
+      "price": 14.58,
+      "change_pct": -1.29,
+      "volume_ratio": 0.98,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
+    },
+    {
       "ticker": "XLI",
       "name": "Industrial Select Sector",
       "price": 164.62,
@@ -269,17 +281,6 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials Select Sector",
-      "price": 51.31,
-      "change_pct": -0.74,
-      "volume_ratio": 0.9,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
     }
   ],
   "watchlist": [
@@ -293,7 +294,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 Red Flag That Keeps Me From Buying AMD Stock\""
+      "move_reason": "News: \"Here's What $10,000 Invested Equally in Nvidia, AMD, and Broadcom Could Be Worth by 2030\""
     },
     {
       "ticker": "APA",
@@ -317,7 +318,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SpaceX Just Shared Great News for Artificial Intelligence (AI) Investors. Here Are 2 Stock...\""
+      "move_reason": "News: \"AI Debt Has Exploded 4X To Nearly $500 Billion: What It Means For NVDA, ORCL And CRWV, Acc...\""
     },
     {
       "ticker": "DG",
@@ -341,7 +342,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Constellation, Vistra, and GE Vernova Ranked From Worst to First for the AI Power Boom\""
+      "move_reason": "News: \"Can GE Vernova's Gas Turbines Make Up for a Collapsing Wind Business?\""
     },
     {
       "ticker": "IWM",
@@ -353,7 +354,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The AI Bubble Has A $3.6 Trillion Problem, And It's Getting Worse\""
+      "move_reason": "News: \"The Stock Market May Be About To Break As The Earnings Trade Unwinds\""
     },
     {
       "ticker": "NBIS",
@@ -365,7 +366,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Group (NBIS) Starts On Site Power At Its 300 MW New Jersey Data Center\""
+      "move_reason": "News: \"Top 3 Insider Owned Growth Stocks To Watch In October 2026\""
     },
     {
       "ticker": "NVDA",
@@ -377,7 +378,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SpaceX Just Shared Great News for Artificial Intelligence (AI) Investors. Here Are 2 Stock...\""
+      "move_reason": "News: \"Netflix Is Down 51% From Its High. History Suggests This Is What Happens Next.\""
     },
     {
       "ticker": "OSCR",
@@ -649,13 +650,13 @@ window.theBriefMovers = {
         "Moved +5.18% \u2014 a 2.1\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 9.9 (cheap on absolute basis)"
+        "Forward P/E 11.2 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved +5.18% \u2014 a 2.1\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 9.9 (cheap on absolute basis)"
+        "Forward P/E 11.2 (cheap on absolute basis)"
       ],
       "tags": [
         "moderate-move",
