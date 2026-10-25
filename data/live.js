@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-24T22:39:20.824213+00:00",
+  "generated_at": "2026-10-25T00:32:43.537724+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -73,7 +73,7 @@ window.theBriefLive = {
       "change_pct": -6.96,
       "price": 31.0,
       "is_watchlist": true,
-      "timestamp": "2026-10-24T22:39:20.821515+00:00",
+      "timestamp": "2026-10-25T00:32:43.535129+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -85,7 +85,7 @@ window.theBriefLive = {
       "change_pct": -4.82,
       "price": 132.4,
       "is_watchlist": true,
-      "timestamp": "2026-10-24T22:39:20.821504+00:00",
+      "timestamp": "2026-10-25T00:32:43.535118+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -97,10 +97,150 @@ window.theBriefLive = {
       "change_pct": 5.18,
       "price": 52.0,
       "is_watchlist": true,
-      "timestamp": "2026-10-24T22:39:20.821495+00:00",
+      "timestamp": "2026-10-25T00:32:43.535107+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Braskem creditors, shareholders near deal on $11bn debt restructuring - Bloomberg",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/braskem-creditors-shareholders-near-deal-on-11bn-debt-restructuring--bloomberg-4971002",
+      "is_watchlist": false,
+      "timestamp": "2026-10-25T00:09:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Flying Cars, Smart Homes, and Cracks in the AI Boom",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d44c6fda1e9cd03278ddcbf27024081b94429ead88d0cbaa9de0d3b9b3971f05",
+      "is_watchlist": true,
+      "timestamp": "2026-10-24T23:50:02+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump set to announce Audi plan to build US factory in Georgia, source says",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/trump-set-to-announce-plan-by-audi-to-build-us-factory-in-georgia-source-says-4970975",
+      "is_watchlist": true,
+      "timestamp": "2026-10-24T23:48:24+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Abuse survivors approve $800 million settlement with Archdiocese of New York",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/abuse-survivors-approve-800-million-settlement-with-archdiocese-of-new-york-4971001",
+      "is_watchlist": false,
+      "timestamp": "2026-10-24T23:42:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "UPS Stock Is Down 57% From Its Record. Is It a Buy Before Its Oct. 27 Report?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=02786ed76bd5e8eb26cfda4bb62c1c5aafc268f0cd6d0b1dd8ad6a9932f5b12b",
+      "is_watchlist": true,
+      "timestamp": "2026-10-24T23:38:01+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Climb Bio reports early data on budoprutug for kidney diseases",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/climb-bio-reports-early-data-on-budoprutug-for-kidney-diseases-93CH-4971000",
+      "is_watchlist": false,
+      "timestamp": "2026-10-24T23:36:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trade Desk CEO overrides investor opposition to option repricing - WSJ",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/trade-desk-ceo-overrides-investor-opposition-to-option-repricing--wsj-4970999",
+      "is_watchlist": false,
+      "timestamp": "2026-10-24T23:34:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bodies of ambushed Salvadoran soldiers found in Haiti, New York Times\u00a0reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/bodies-of-ambushed-salvadoran-soldiers-found-in-haiti-new-york-timesreports-4970997",
+      "is_watchlist": false,
+      "timestamp": "2026-10-24T23:24:24+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Forget the FDA Delay: 3 Reasons Exelixis Is Still a Buy",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7f808db52a19bb4c8311a73e69902a8daf69e92a641c00cf5f957b5d7bff8377",
+      "is_watchlist": true,
+      "timestamp": "2026-10-24T23:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Rosebank: Life on the oil field at the centre of a political storm",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-10-24T23:15:18+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "CRWV",
+      "headline": "Is Berkshire Bending the Rules With Bending Spoons?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=44a6ff364e2d334a53de4351166f3c8c5ed75264794a984750b28095d8c8ad86",
+      "is_watchlist": true,
+      "timestamp": "2026-10-24T23:01:17+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why South Korea\u2019s stock market represents the purest AI trade",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-south-koreas-stock-market-represents-the-purest-ai-trade-4970991",
+      "is_watchlist": false,
+      "timestamp": "2026-10-24T22:55:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -119,18 +259,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Netflix Stock Has Always Overcome the Odds. Has It Finally Hit a Wall?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e582d41b8b5036391852c73b2f195265a74f3102e4364ede1cfc14d4ea5af172",
-      "is_watchlist": true,
-      "timestamp": "2026-10-24T21:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Inside the Trump-administration campaign to return Brazil\u2019s Bolsonaro clan to power",
       "source": "Investing.com News",
@@ -139,48 +267,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-24T21:48:24+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Buffett"
-      ],
-      "ticker": "NVDA",
-      "headline": "Jim Cramer warns investors against going all-in on Warren Buffett",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=07d77405017ffbf8cc5ab5ce6be9c471a1f5805cc9b8f34c794dcae00313b9e6",
-      "is_watchlist": true,
-      "timestamp": "2026-10-24T21:47:00+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Before You Buy the Vanguard S&P 500 ETF, There's 1 Sneaky Risk Investors Should Know",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d9ae078aed65de54e1b3572e59e65e57a8c216759e9f919f8e26e2683b83bcb6",
-      "is_watchlist": true,
-      "timestamp": "2026-10-24T21:43:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump set to announce plan by Audi to build US factory in Georgia, source says",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/trump-set-to-announce-plan-by-audi-to-build-us-factory-in-georgia-source-says-4970975",
-      "is_watchlist": true,
-      "timestamp": "2026-10-24T21:36:22+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -212,34 +298,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Policy choices will matter crucially amid growing socioeconomic challenges",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/policy-choices-will-matter-crucially-amid-growing-socioeconomic-challenges-4970967",
+      "headline": "Trade tariffs cause whiplash at Port Milwaukee",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
       "is_watchlist": false,
-      "timestamp": "2026-10-24T21:26:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Volkswagen to build Georgia Audi plant, expand in SC - Bloomberg",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/volkswagen-to-build-georgia-audi-plant-expand-in-sc--bloomberg-4970968",
-      "is_watchlist": false,
-      "timestamp": "2026-10-24T21:26:33+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Adlai Nortye director Ji Ping sells $163,274 in ANL stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/adlai-nortye-director-ji-ping-sells-163274-in-anl-stock-93CH-4970965",
-      "is_watchlist": false,
-      "timestamp": "2026-10-24T21:16:28+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-10-24T21:20:55+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -292,28 +356,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Can silver recover from its latest sell-off? UBS weighs in",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/can-silver-recover-from-its-latest-selloff-ubs-weighs-in-4970956",
-      "is_watchlist": false,
-      "timestamp": "2026-10-24T20:34:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Woori Financial ADR earnings beat by $0.29, revenue topped estimates",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/woori-financial-adr-earnings-beat-by-029-revenue-topped-estimates-4970952",
-      "is_watchlist": false,
-      "timestamp": "2026-10-24T20:15:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. How can I keep him from becoming destitute?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
@@ -356,21 +398,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Musk"
-      ],
-      "ticker": null,
-      "headline": "Ukraine says military Starlink service restored as Musk cites terms violations",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/ukraine-says-military-starlink-service-restored-after-10day-disruption-4970760",
-      "is_watchlist": true,
-      "timestamp": "2026-10-24T19:59:37+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -794,18 +821,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "CRWV",
-      "headline": "Setbacks Mounting On The AI Data Center Front",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=891776cbeeed0d6092d102a7561bf6e66a2de8552b9362f35ebfe4db1191747a",
-      "is_watchlist": true,
-      "timestamp": "2026-10-24T10:51:32+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "Setbacks Mounting On The AI Data Center Front",
       "source": "SeekingAlpha",
@@ -1181,17 +1196,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-10-22T23:20:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Americans can't get enough of mahjong. These traditional makers are cashing in",
       "source": "NPR Business",
       "url": "https://www.npr.org/2026/10/22/nx-s1-6000127/china-mahjong-tile-game-taixing-manufacturing",
@@ -1246,21 +1250,6 @@ window.theBriefLive = {
       "relevance_tier": "low"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Musk"
-      ],
-      "ticker": null,
-      "headline": "Elon Musk says Space X and Tesla are considering a merger",
-      "source": "NPR Business",
-      "url": "https://www.npr.org/2026/10/22/nx-s1-6010634/elon-musk-says-space-x-and-tesla-are-considering-a-merger",
-      "is_watchlist": true,
-      "timestamp": "2026-10-22T08:56:38+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
       "type": "filing",
       "ticker": "NBIS",
       "form": "6-K",
@@ -1282,18 +1271,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-21T19:54:16+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "OSCR",
-      "headline": "Centene, Oscar, UnitedHealthcare sidle into some new counties in 2027 ACA plans",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d2864890f3326e15445239af0c9896984676eb742b5ad8585c1f44d6d866e081",
-      "is_watchlist": true,
-      "timestamp": "2026-10-21T13:09:58+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",

@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-24T22:39:20.815286+00:00",
+  "generated_at": "2026-10-25T00:32:43.528700+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -143,7 +143,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"5 Oversold AI Stocks: Where Wall Street Analysts Are Spotting 50%+ Upside\""
+      "move_reason": "News: \"Is Berkshire Bending the Rules With Bending Spoons?\""
     },
     {
       "ticker": "XLP",
@@ -318,7 +318,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"5 Oversold AI Stocks: Where Wall Street Analysts Are Spotting 50%+ Upside\""
+      "move_reason": "News: \"Is Berkshire Bending the Rules With Bending Spoons?\""
     },
     {
       "ticker": "DG",
@@ -366,7 +366,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (6-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"5 Oversold AI Stocks: Where Wall Street Analysts Are Spotting 50%+ Upside\""
     },
     {
       "ticker": "NVDA",
@@ -378,7 +378,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Netflix Stock Has Always Overcome the Odds. Has It Finally Hit a Wall?\""
+      "move_reason": "News: \"Flying Cars, Smart Homes, and Cracks in the AI Boom\""
     },
     {
       "ticker": "OSCR",
@@ -650,13 +650,13 @@ window.theBriefMovers = {
         "Moved +5.18% \u2014 a 2.1\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 9.9 (cheap on absolute basis)"
+        "Forward P/E 11.2 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved +5.18% \u2014 a 2.1\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 9.9 (cheap on absolute basis)"
+        "Forward P/E 11.2 (cheap on absolute basis)"
       ],
       "tags": [
         "moderate-move",
@@ -750,12 +750,12 @@ window.theBriefMovers = {
       "score": 5.0,
       "signals": [
         "Moved -6.96% \u2014 a 2.4\u03c3 move vs typical 2.9% daily vol",
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "Forward P/E 14.0 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved -6.96% \u2014 a 2.4\u03c3 move vs typical 2.9% daily vol",
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "Forward P/E 14.0 (cheap on absolute basis)"
       ],
       "tags": [
