@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-10-25T20:01:31.598555+00:00",
+  "generated_at": "2026-10-25T22:33:38.478041+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -59,9 +59,9 @@ window.theBriefPicks = {
       "status": "hit",
       "horizon_label": "Short-term",
       "direction": "long",
-      "current_price": 234.15,
-      "current_pct": 31.21,
-      "change_pct_today": 4.75,
+      "current_price": 158.74,
+      "current_pct": -11.05,
+      "change_pct_today": -0.27,
       "name": "Nebius Group",
       "news_count": 3,
       "days_elapsed": 1,

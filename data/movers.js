@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-25T20:01:31.414048+00:00",
+  "generated_at": "2026-10-25T22:33:38.295057+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here's What $10,000 Invested Equally in Nvidia, AMD, and Broadcom Could Be Worth by 2030\""
+      "move_reason": "News: \"Dell, Lenovo, Cisco, HPE, Supermicro: Why AMD\u2019s New AI Blueprint Has Everyone Signing On\""
     },
     {
       "ticker": "TPL",
@@ -177,7 +177,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Can GE Vernova's Gas Turbines Make Up for a Collapsing Wind Business?\""
+      "move_reason": "News: \"The Fed, Inflation, Verizon, Boeing, Alphabet, GE Vernova, Amazon, and Many More Stocks to...\""
     },
     {
       "ticker": "XLY",
@@ -294,7 +294,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here's What $10,000 Invested Equally in Nvidia, AMD, and Broadcom Could Be Worth by 2030\""
+      "move_reason": "News: \"Dell, Lenovo, Cisco, HPE, Supermicro: Why AMD\u2019s New AI Blueprint Has Everyone Signing On\""
     },
     {
       "ticker": "APA",
@@ -342,7 +342,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Can GE Vernova's Gas Turbines Make Up for a Collapsing Wind Business?\""
+      "move_reason": "News: \"The Fed, Inflation, Verizon, Boeing, Alphabet, GE Vernova, Amazon, and Many More Stocks to...\""
     },
     {
       "ticker": "IWM",
@@ -357,6 +357,18 @@ window.theBriefMovers = {
       "move_reason": "News: \"The Stock Market May Be About To Break As The Earnings Trade Unwinds\""
     },
     {
+      "ticker": "NBIS",
+      "name": "Nebius Group",
+      "price": 158.74,
+      "change_pct": -0.27,
+      "volume_ratio": 0.62,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Nebius Secures $3.5 Billion From Citi as It Shifts From Converts to Secured Debt\""
+    },
+    {
       "ticker": "NVDA",
       "name": "NVIDIA",
       "price": 211.11,
@@ -366,7 +378,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"'The world's super company': Wall Street weighs SpaceX earnings, company's likely Tesla ti...\""
+      "move_reason": "News: \"Stock-Split Watch: Is Sandisk Next?\""
     },
     {
       "ticker": "OSCR",
@@ -704,6 +716,30 @@ window.theBriefMovers = {
         "off-highs"
       ],
       "narrative": "<strong>CRWV</strong> is accumulating signals worth tracking.",
+      "sector_etf": "XLK"
+    },
+    {
+      "ticker": "NBIS",
+      "name": "Nebius Group",
+      "price": 158.74,
+      "change_pct": -0.27,
+      "score": 5.0,
+      "signals": [
+        "3 news items in the last 3 days",
+        "1 SEC filing in the last 7 days",
+        "-44.6% from 52-week high"
+      ],
+      "reasons": [
+        "3 news items in the last 3 days",
+        "1 SEC filing in the last 7 days",
+        "-44.6% from 52-week high"
+      ],
+      "tags": [
+        "news-flow",
+        "filing",
+        "off-highs"
+      ],
+      "narrative": "<strong>NBIS</strong> just filed material disclosures with the SEC.",
       "sector_etf": "XLK"
     },
     {
