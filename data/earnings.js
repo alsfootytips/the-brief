@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-10-26T11:24:11+00:00",
+  "generated_at": "2026-10-26T17:32:52+00:00",
   "by_date": {
     "2026-11-03": [
       {
@@ -1854,6 +1854,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -0.4692,
         "revenue_estimate": 5202000,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "SNBR",
+        "date": "2026-11-03",
+        "hour": "",
+        "eps_estimate": 0.102,
+        "revenue_estimate": 369964200,
         "is_watchlist": false
       }
     ],
@@ -5049,17 +5057,17 @@ window.theBriefEarnings = {
       {
         "ticker": "SVC",
         "date": "2026-11-04",
-        "hour": "amc",
-        "eps_estimate": -0.3333,
-        "revenue_estimate": 379328730,
+        "hour": "",
+        "eps_estimate": -0.2954,
+        "revenue_estimate": 395087083,
         "is_watchlist": false
       },
       {
         "ticker": "SVC",
         "date": "2026-11-04",
-        "hour": "",
-        "eps_estimate": -0.2954,
-        "revenue_estimate": 395087083,
+        "hour": "amc",
+        "eps_estimate": -0.3333,
+        "revenue_estimate": 379328730,
         "is_watchlist": false
       },
       {
@@ -11402,14 +11410,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -0.5266,
         "revenue_estimate": 16521817,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "SEPN",
-        "date": "2026-11-09",
-        "hour": "",
-        "eps_estimate": -0.4233,
-        "revenue_estimate": 21195600,
         "is_watchlist": false
       },
       {
