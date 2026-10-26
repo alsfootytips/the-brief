@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-26T00:44:24.549780+00:00",
+  "generated_at": "2026-10-26T05:25:21.106040+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: 2 Stocks That Will Be Worth More Than AMD 5 Years From Now\""
+      "move_reason": "News: \"Chip Stocks to Buy After Their Worst Day Since June\""
     },
     {
       "ticker": "TPL",
@@ -143,7 +143,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Elon Musk Says 200+ AI Cloud Firms Face Wipeout: Will CoreWeave Survive?\""
+      "move_reason": "News: \"CRWV, IREN, NBIS Extend Slide: Elon Musk Says Buying A Neocloud Is \u2018Pointless\u2019\""
     },
     {
       "ticker": "XLP",
@@ -177,7 +177,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Fed, Inflation, Verizon, Boeing, Alphabet, GE Vernova, Amazon, and Many More Stocks to...\""
+      "move_reason": "News: \"Biggest Earnings Week, Then Elections, And Iran: What Happens? Maybe Rally\""
     },
     {
       "ticker": "XLY",
@@ -294,7 +294,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: 2 Stocks That Will Be Worth More Than AMD 5 Years From Now\""
+      "move_reason": "News: \"Chip Stocks to Buy After Their Worst Day Since June\""
     },
     {
       "ticker": "APA",
@@ -318,7 +318,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Elon Musk Says 200+ AI Cloud Firms Face Wipeout: Will CoreWeave Survive?\""
+      "move_reason": "News: \"CRWV, IREN, NBIS Extend Slide: Elon Musk Says Buying A Neocloud Is \u2018Pointless\u2019\""
     },
     {
       "ticker": "DG",
@@ -342,7 +342,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Fed, Inflation, Verizon, Boeing, Alphabet, GE Vernova, Amazon, and Many More Stocks to...\""
+      "move_reason": "News: \"Biggest Earnings Week, Then Elections, And Iran: What Happens? Maybe Rally\""
     },
     {
       "ticker": "IWM",
@@ -354,7 +354,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Stock Market May Be About To Break As The Earnings Trade Unwinds\""
+      "move_reason": "News: \"Biggest Earnings Week, Then Elections, And Iran: What Happens? Maybe Rally\""
     },
     {
       "ticker": "NBIS",
@@ -366,7 +366,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Secures $3.5 Billion From Citi as It Shifts From Converts to Secured Debt\""
+      "move_reason": "News: \"CRWV, IREN, NBIS Extend Slide: Elon Musk Says Buying A Neocloud Is \u2018Pointless\u2019\""
     },
     {
       "ticker": "NVDA",
@@ -378,7 +378,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Vanguard S&P 500 ETF Long-Term Outlook: What Historical Trends Suggest for Patient Investo...\""
+      "move_reason": "News: \"Chip Stocks to Buy After Their Worst Day Since June\""
     },
     {
       "ticker": "OSCR",
@@ -650,13 +650,13 @@ window.theBriefMovers = {
         "Moved +5.18% \u2014 a 2.1\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 11.2 (cheap on absolute basis)"
+        "Forward P/E 9.9 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved +5.18% \u2014 a 2.1\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 11.2 (cheap on absolute basis)"
+        "Forward P/E 9.9 (cheap on absolute basis)"
       ],
       "tags": [
         "moderate-move",
