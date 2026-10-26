@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-25T22:33:38.295057+00:00",
+  "generated_at": "2026-10-26T00:44:24.549780+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dell, Lenovo, Cisco, HPE, Supermicro: Why AMD\u2019s New AI Blueprint Has Everyone Signing On\""
+      "move_reason": "News: \"Prediction: 2 Stocks That Will Be Worth More Than AMD 5 Years From Now\""
     },
     {
       "ticker": "TPL",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Texas Pacific Land Consensus Price Target Increased by 20.39% to $503.52\""
+      "move_reason": "Tracking XLE sector (+2.75% today)"
     },
     {
       "ticker": "MSFT",
@@ -119,7 +119,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Oscar Health, Inc. (OSCR) Dipped More Than Broader Market Today\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "DG",
@@ -143,7 +143,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Slides 11% Toward a 52-Week Low as a $640 Million Interest Bill Rattles Investor...\""
+      "move_reason": "News: \"Elon Musk Says 200+ AI Cloud Firms Face Wipeout: Will CoreWeave Survive?\""
     },
     {
       "ticker": "XLP",
@@ -294,7 +294,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dell, Lenovo, Cisco, HPE, Supermicro: Why AMD\u2019s New AI Blueprint Has Everyone Signing On\""
+      "move_reason": "News: \"Prediction: 2 Stocks That Will Be Worth More Than AMD 5 Years From Now\""
     },
     {
       "ticker": "APA",
@@ -318,7 +318,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Slides 11% Toward a 52-Week Low as a $640 Million Interest Bill Rattles Investor...\""
+      "move_reason": "News: \"Elon Musk Says 200+ AI Cloud Firms Face Wipeout: Will CoreWeave Survive?\""
     },
     {
       "ticker": "DG",
@@ -378,7 +378,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Stock-Split Watch: Is Sandisk Next?\""
+      "move_reason": "News: \"Vanguard S&P 500 ETF Long-Term Outlook: What Historical Trends Suggest for Patient Investo...\""
     },
     {
       "ticker": "OSCR",
@@ -390,7 +390,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Oscar Health, Inc. (OSCR) Dipped More Than Broader Market Today\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "OXY",
@@ -426,7 +426,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Texas Pacific Land Consensus Price Target Increased by 20.39% to $503.52\""
+      "move_reason": "Tracking XLE sector (+2.75% today)"
     },
     {
       "ticker": "TTD",
@@ -650,13 +650,13 @@ window.theBriefMovers = {
         "Moved +5.18% \u2014 a 2.1\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 9.9 (cheap on absolute basis)"
+        "Forward P/E 11.2 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved +5.18% \u2014 a 2.1\u03c3 move vs typical 2.5% daily vol",
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 9.9 (cheap on absolute basis)"
+        "Forward P/E 11.2 (cheap on absolute basis)"
       ],
       "tags": [
         "moderate-move",
@@ -743,30 +743,6 @@ window.theBriefMovers = {
       "sector_etf": "XLK"
     },
     {
-      "ticker": "OSCR",
-      "name": "Oscar Health",
-      "price": 31.0,
-      "change_pct": -6.96,
-      "score": 5.0,
-      "signals": [
-        "Moved -6.96% \u2014 a 2.4\u03c3 move vs typical 2.9% daily vol",
-        "2 news items in the last 3 days",
-        "Forward P/E 14.0 (cheap on absolute basis)"
-      ],
-      "reasons": [
-        "Moved -6.96% \u2014 a 2.4\u03c3 move vs typical 2.9% daily vol",
-        "2 news items in the last 3 days",
-        "Forward P/E 14.0 (cheap on absolute basis)"
-      ],
-      "tags": [
-        "moderate-move",
-        "news-flow",
-        "cheap"
-      ],
-      "narrative": "<strong>OSCR</strong> is accumulating signals worth tracking.",
-      "sector_etf": "XLV"
-    },
-    {
       "ticker": "OXY",
       "name": "Occidental Petroleum",
       "price": 64.12,
@@ -836,6 +812,27 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>XLE</strong> is accumulating signals worth tracking.",
       "sector_etf": null
+    },
+    {
+      "ticker": "OSCR",
+      "name": "Oscar Health",
+      "price": 31.0,
+      "change_pct": -6.96,
+      "score": 3.5,
+      "signals": [
+        "Moved -6.96% \u2014 a 2.4\u03c3 move vs typical 2.9% daily vol",
+        "Forward P/E 14.0 (cheap on absolute basis)"
+      ],
+      "reasons": [
+        "Moved -6.96% \u2014 a 2.4\u03c3 move vs typical 2.9% daily vol",
+        "Forward P/E 14.0 (cheap on absolute basis)"
+      ],
+      "tags": [
+        "moderate-move",
+        "cheap"
+      ],
+      "narrative": "<strong>OSCR</strong> is accumulating signals worth tracking.",
+      "sector_etf": "XLV"
     },
     {
       "ticker": "NVDA",
