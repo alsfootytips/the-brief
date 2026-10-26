@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-26T17:32:52.253281+00:00",
+  "generated_at": "2026-10-26T17:57:29.066603+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -81,12 +81,24 @@ window.theBriefLive = {
     },
     {
       "type": "mover",
+      "ticker": "TTD",
+      "name": "The Trade Desk",
+      "change_pct": -3.27,
+      "price": 12.57,
+      "is_watchlist": true,
+      "timestamp": "2026-10-26T17:57:28.931717+00:00",
+      "relevance_score": 4.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover",
       "ticker": "PWR",
       "name": "Quanta Services",
-      "change_pct": 3.73,
-      "price": 566.8,
+      "change_pct": 3.62,
+      "price": 566.18,
       "is_watchlist": true,
-      "timestamp": "2026-10-26T17:32:52.250242+00:00",
+      "timestamp": "2026-10-26T17:57:28.931714+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -95,10 +107,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "GEV",
       "name": "GE Vernova",
-      "change_pct": 5.23,
-      "price": 857.64,
+      "change_pct": 5.4,
+      "price": 859.04,
       "is_watchlist": true,
-      "timestamp": "2026-10-26T17:32:52.250232+00:00",
+      "timestamp": "2026-10-26T17:57:28.931707+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -107,10 +119,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "DG",
       "name": "Dollar General",
-      "change_pct": -3.17,
-      "price": 128.48,
+      "change_pct": -4.39,
+      "price": 126.87,
       "is_watchlist": true,
-      "timestamp": "2026-10-26T17:32:52.250228+00:00",
+      "timestamp": "2026-10-26T17:57:28.931704+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -119,10 +131,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": 5.07,
-      "price": 56.98,
+      "change_pct": 4.32,
+      "price": 56.58,
       "is_watchlist": true,
-      "timestamp": "2026-10-26T17:32:52.250218+00:00",
+      "timestamp": "2026-10-26T17:57:28.931699+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -130,12 +142,100 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Lula wins Brazil runoff after prediction markets favored Bolsonaro",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/26/lula-brazil-election-prediction-markets.html",
+      "headline": "Geopolitical tensions complicate the gold bull case, says AHG president",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/geopolitical-tensions-complicate-the-gold-bull-case-says-ahg-president-4973383",
       "is_watchlist": false,
-      "timestamp": "2026-10-26T17:29:37+00:00",
-      "relevance_score": 1.0,
+      "timestamp": "2026-10-26T17:54:38+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dollar General sued by FTC, U.S. states over alleged overcharging",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/dollar-general-sued-by-ftc-us-states-over-alleged-overcharging-4973381",
+      "is_watchlist": false,
+      "timestamp": "2026-10-26T17:54:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Acglo stock hits 52-week low at 17.86 USD",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/acglo-stock-hits-52week-low-at-1786-usd-93CH-4973379",
+      "is_watchlist": false,
+      "timestamp": "2026-10-26T17:53:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why is Reddit stock down 6% today?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-reddit-stock-down-6-today-93CH-4973378",
+      "is_watchlist": false,
+      "timestamp": "2026-10-26T17:52:26+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AT&T stock hits 52-week low at 17.72 USD",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/att-stock-hits-52week-low-at-1772-usd-93CH-4973377",
+      "is_watchlist": false,
+      "timestamp": "2026-10-26T17:51:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tesla surges to its highest level in more than three months",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4657452-tesla-surges-to-its-highest-level-in-more-than-three-months?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-26T17:51:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "FDA expands approval for Pfizer\u2019s Talzenna plus Xtandi combo",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/fda-expands-approval-for-pfizers-talzenna-plus-xtandi-combo-93CH-4973375",
+      "is_watchlist": false,
+      "timestamp": "2026-10-26T17:48:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US, 20 states sue Dollar General for alleged overcharges",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/us-20-states-sue-dollar-general-for-alleged-overcharges-4973374",
+      "is_watchlist": false,
+      "timestamp": "2026-10-26T17:48:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "European stocks rebound as corporate optimism lifts mood ahead of rate decisions",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/european-shares-flat-as-investors-eye-earnings-energy-drags-4971591",
+      "is_watchlist": false,
+      "timestamp": "2026-10-26T17:42:22+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -145,8 +245,74 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
       "is_watchlist": false,
-      "timestamp": "2026-10-26T17:27:45+00:00",
+      "timestamp": "2026-10-26T17:40:30+00:00",
       "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dollar General drops as FTC, states challenge retailer\u2019s pricing",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4657443-dollar-general-drops-as-ftc-states-challenge-retailers-pricing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-26T17:38:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The arc of Trump: How the president lost the coalition that put him in the White House",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/26/trump-approval-midterms-cnbc-survey.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-26T17:36:55+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "XPeng lands approval for L4 robotaxi tests in Guangzhou",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4657439-xpeng-lands-approval-for-l4-robotaxi-tests-in-guangzhou?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-26T17:36:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Occidental Petroleum declares $0.28 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4657450-occidental-petroleum-declares-0_28-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-26T17:36:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "MakeMyTrip outlines AI-led booking expansion as Myra reaches 90,000 daily conversations",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4657449-makemytrip-outlines-ai-led-booking-expansion-as-myra-reaches-90000-daily-conversations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-26T17:34:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Consumer discretionary stocks with strong revenue growth and attractive valuations",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4657445-consumer-discretionary-stocks-with-strong-revenue-growth-and-attractive-valuations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-26T17:34:29+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -156,7 +322,7 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
       "is_watchlist": false,
-      "timestamp": "2026-10-26T17:27:36+00:00",
+      "timestamp": "2026-10-26T17:33:48+00:00",
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
@@ -164,44 +330,22 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Seagate Technology Q1 preview: Analysts project earnings beat amid strong HDD demand",
+      "headline": "CrowdStrike, Datadog, Microsoft among winners as open-weight model usage rises: MS",
       "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4657441-seagate-technology-q1-preview-analysts-project-earnings-beat-amid-strong-hdd-demand?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "url": "https://seekingalpha.com/news/4657442-crowdstrike-datadog-microsoft-among-winners-as-open-weight-model-usage-rises-ms?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-10-26T17:26:10+00:00",
+      "timestamp": "2026-10-26T17:33:25+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Undervalued industrial stocks with strong year-over-year revenue growth",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4657438-undervalued-industrial-stocks-with-strong-year-over-year-revenue-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "Meet the financial-literacy teacher who helps high-school students open their own Roth IRAs",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/meet-the-financial-literacy-teacher-who-helps-high-school-students-open-their-own-roth-iras-652d56a8?mod=mw_rss_topstories",
       "is_watchlist": false,
-      "timestamp": "2026-10-26T17:25:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Morgan Stanley's Mike Wilson outlines key catalysts for year-end rally",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4657437-morgan-stanleys-mike-wilson-outlines-key-catalysts-for-market-low?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-26T17:24:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Verizon projects 7%-7.5% 2026 adjusted EPS growth while targeting 10M-15M incremental 1 gig FWA premises",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4657440-verizon-projects-7-percentminus-7_5-percent-2026-adjusted-eps-growth-while-targeting-10mminus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-26T17:21:01+00:00",
+      "timestamp": "2026-10-26T17:32:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -225,127 +369,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-10-26T17:19:00+00:00",
       "relevance_score": -4.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Visa, Mastercard earnings on deck: Check for value-added services growth, guidance",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4657255-visa-mastercard-earnings-on-deck-check-for-value-added-services-growth-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-26T17:17:24+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Sea hits 52-week low at $71: Technical bearishness vs. $120 target",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4657418-sea-hits-52-week-low-at-71-technical-bearishness-vs-120-target?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-26T17:15:46+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "NBA names Kalshi, Polymarket preferred prediction market platforms",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4657413-nba-names-kalshi-polymarket-preferred-prediction-market-platforms?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-26T17:13:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Can JetBlue still avoid bankruptcy? Analysis says yes, but it won\u2019t be easy",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/can-jetblue-still-avoid-bankruptcy-analysis-says-yes-but-it-wont-be-easy-4973352",
-      "is_watchlist": false,
-      "timestamp": "2026-10-26T17:13:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BNP Paribas weighs jumbo \u20ac16B SRT as European issuance accelerates - Bloomberg",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/bnp-paribas-weighs-jumbo-16b-srt-as-european-issuance-accelerates--bloomberg-4973351",
-      "is_watchlist": false,
-      "timestamp": "2026-10-26T17:12:26+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Audi CEO faces backlash after joining Trump at midterm campaign rally",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/audi-ceos-appearance-at-trump-rally-was-deeply-embarrassing-ig-metall-head-says-4971531",
-      "is_watchlist": false,
-      "timestamp": "2026-10-26T17:12:23+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Innospec Inc stock hits 52-week high at 100.48 USD",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/innospec-inc-stock-hits-52week-high-at-10048-usd-93CH-4973350",
-      "is_watchlist": false,
-      "timestamp": "2026-10-26T17:11:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "FTSE 100 today: Stocks climb as oil slips on Iran de-escalation hopes",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-gold-miners-gain-oil-eases-4971574",
-      "is_watchlist": false,
-      "timestamp": "2026-10-26T17:09:17+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.76%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-076-4973349",
-      "is_watchlist": false,
-      "timestamp": "2026-10-26T17:08:56+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Vertex launches AI-powered tax compliance platform Sol",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/vertex-launches-aipowered-tax-compliance-platform-sol-93CH-4973348",
-      "is_watchlist": false,
-      "timestamp": "2026-10-26T17:08:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Citius Oncology reports 120% jump in LYMPHIR wholesaler sales",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/citius-oncology-reports-120-jump-in-lymphir-wholesaler-sales-93CH-4973347",
-      "is_watchlist": false,
-      "timestamp": "2026-10-26T17:08:36+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -576,17 +599,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-10-26T15:31:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -838,6 +850,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "IWM",
+      "headline": "Equities Unfazed By Spike In Rates Volatility",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c348d410edc5c9d3316f1e5986bfeb6d343433406b969107baf261e63e8da0a6",
+      "is_watchlist": true,
+      "timestamp": "2026-10-26T13:13:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Most Gulf bourses rebound on Iran diplomacy hopes; Egypt falls ahead of Saudi defence vote - Reuters",
       "source": "Reuters",
@@ -1033,18 +1057,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-26T09:20:02+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "Will Fed Be The Most Dovish In 66 Years?",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=ec953d35bf39411a54e39fc76edc9d73f34e2506d249b8d7cf57438646fc8e41",
-      "is_watchlist": true,
-      "timestamp": "2026-10-26T09:13:13+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
       "relevance_label": "Watchlist"
     },
     {
