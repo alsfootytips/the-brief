@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-27T01:01:55.337089+00:00",
+  "generated_at": "2026-10-27T01:12:25.910738+00:00",
   "gainers": [
     {
       "ticker": "GEV",
@@ -205,6 +205,18 @@ window.theBriefMovers = {
       "move_reason": "News: \"The Trade Desk: A Cheaper Stock, But A Weaker Business\""
     },
     {
+      "ticker": "NBIS",
+      "name": "Nebius Group",
+      "price": 155.85,
+      "change_pct": -1.82,
+      "volume_ratio": 0.66,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Will Elon Musk\u2019s Prediction of \u2018Guppy Level Death\u2019 Sink Neoclouds like CoreWeave, Nebius, ...\""
+    },
+    {
       "ticker": "XLC",
       "name": "Communication Services Select",
       "price": 105.51,
@@ -315,18 +327,6 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
-    },
-    {
-      "ticker": "OSCR",
-      "name": "Oscar Health",
-      "price": 30.78,
-      "change_pct": -0.68,
-      "volume_ratio": 1.11,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"Best Growth Stocks to Buy for October 26th\""
     }
   ],
   "watchlist": [
@@ -401,6 +401,18 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"Anthropic S-1 Registration Dominates, Leads Nasdaq Higher\""
+    },
+    {
+      "ticker": "NBIS",
+      "name": "Nebius Group",
+      "price": 155.85,
+      "change_pct": -1.82,
+      "volume_ratio": 0.66,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Will Elon Musk\u2019s Prediction of \u2018Guppy Level Death\u2019 Sink Neoclouds like CoreWeave, Nebius, ...\""
     },
     {
       "ticker": "NVDA",
@@ -750,6 +762,30 @@ window.theBriefMovers = {
         "off-highs"
       ],
       "narrative": "<strong>CRWV</strong> is accumulating signals worth tracking.",
+      "sector_etf": "XLK"
+    },
+    {
+      "ticker": "NBIS",
+      "name": "Nebius Group",
+      "price": 155.85,
+      "change_pct": -1.82,
+      "score": 5.0,
+      "signals": [
+        "3 news items in the last 3 days",
+        "1 SEC filing in the last 7 days",
+        "-44.6% from 52-week high"
+      ],
+      "reasons": [
+        "3 news items in the last 3 days",
+        "1 SEC filing in the last 7 days",
+        "-44.6% from 52-week high"
+      ],
+      "tags": [
+        "news-flow",
+        "filing",
+        "off-highs"
+      ],
+      "narrative": "<strong>NBIS</strong> just filed material disclosures with the SEC.",
       "sector_etf": "XLK"
     },
     {

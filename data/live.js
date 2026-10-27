@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-27T01:01:55.491319+00:00",
+  "generated_at": "2026-10-27T01:12:25.919995+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -73,7 +73,7 @@ window.theBriefLive = {
       "change_pct": 3.76,
       "price": 567.0,
       "is_watchlist": true,
-      "timestamp": "2026-10-27T01:01:55.340607+00:00",
+      "timestamp": "2026-10-27T01:12:25.917288+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -85,7 +85,7 @@ window.theBriefLive = {
       "change_pct": 5.6,
       "price": 860.65,
       "is_watchlist": true,
-      "timestamp": "2026-10-27T01:01:55.340600+00:00",
+      "timestamp": "2026-10-27T01:12:25.917254+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -97,7 +97,7 @@ window.theBriefLive = {
       "change_pct": -4.17,
       "price": 127.16,
       "is_watchlist": true,
-      "timestamp": "2026-10-27T01:01:55.340598+00:00",
+      "timestamp": "2026-10-27T01:12:25.917251+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -109,7 +109,7 @@ window.theBriefLive = {
       "change_pct": 4.07,
       "price": 56.44,
       "is_watchlist": true,
-      "timestamp": "2026-10-27T01:01:55.340596+00:00",
+      "timestamp": "2026-10-27T01:12:25.917247+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -121,10 +121,54 @@ window.theBriefLive = {
       "change_pct": 3.65,
       "price": 535.66,
       "is_watchlist": true,
-      "timestamp": "2026-10-27T01:01:55.340591+00:00",
+      "timestamp": "2026-10-27T01:12:25.917236+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-10-27T01:10:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-27T01:05:06+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Agilysys raises FY2027 revenue outlook to $374M-$378M with at least 34% subscription growth",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4657645-agilysys-raises-fy2027-revenue-outlook-to-374m-378m-with-at-least-34-percent-subscription?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-27T01:00:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Botanix Q1 FY27 slides: prescriptions rise, revenue stalls on PA issues",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/botanix-q1-fy27-slides-prescriptions-rise-revenue-stalls-on-pa-issues-93CH-4974015",
+      "is_watchlist": false,
+      "timestamp": "2026-10-27T00:59:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -134,6 +178,17 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4657644-rambus-expects-q4-revenue-of-227m-233m-as-it-targets-continued-product-ramps-into-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-10-27T00:50:55+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings call transcript: Botanix trims costs as Q1 2027 revenue stalls",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-botanix-trims-costs-as-q1-2027-revenue-stalls-93CH-4974014",
+      "is_watchlist": false,
+      "timestamp": "2026-10-27T00:49:33+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -250,28 +305,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Cathie Wood\u2019s ARK sells AMD stock, buys Circle Internet Group",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-amd-stock-buys-circle-internet-group-93CH-4973987",
-      "is_watchlist": false,
-      "timestamp": "2026-10-27T00:11:43+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "U.S. stock futures rise as Anthropic IPO buzz boosts tech; Fed, earnings on tap",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economic-indicators/us-stock-futures-rise-as-anthropic-ipo-buzz-boosts-tech-fed-earnings-on-tap-4973986",
-      "is_watchlist": false,
-      "timestamp": "2026-10-27T00:10:24+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Amkor anticipates Q4 revenue of $1.9B-$2.0B while narrowing 2026 CapEx to around $2.5B",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4657640-amkor-anticipates-q4-revenue-of-1_9b-2_0b-while-narrowing-2026-capex-to-around-2_5b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -310,17 +343,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4657639-zedge-outlines-plan-to-keep-around-20m-cash-cushion-while-scaling-dataseeds-in-fiscal-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-10-26T23:50:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Crude oil falls on Middle East diplomatic flurry while European gas climbs to four-year high",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4657638-crude-oil-falls-on-middle-east-diplomatic-flurry-while-european-gas-climbs-to-four-year-high?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-26T23:50:04+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -406,17 +428,6 @@ window.theBriefLive = {
       "relevance_score": 4.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-10-26T22:30:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -622,17 +633,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-26T20:44:50+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
