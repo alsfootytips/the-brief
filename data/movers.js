@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-28T01:36:59.948083+00:00",
+  "generated_at": "2026-10-28T07:27:54.643136+00:00",
   "gainers": [
     {
       "ticker": "SOFI",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Stock Surges 6%, But Investors Are Still Worried\""
+      "move_reason": "News: \"CoreWeave: The Warning Sign AI Investors Shouldn't Ignore\""
     },
     {
       "ticker": "AMD",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Penguin Solutions, Broadcom, FormFactor, Lattice Semiconductor, and AMD stocks trade up, w...\""
+      "move_reason": "News: \"Meta Platforms (META) Could Be 39% Undervalued Following Its AI Funding Push\""
     },
     {
       "ticker": "GEV",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Sees Strong Upside for GE Vernova. Earnings Will Show Why.\""
+      "move_reason": "News: \"Ranking 4 AI Power Stocks By Balance Sheet After the Sell-off: Vertiv, GE Vernova, Bloom E...\""
     },
     {
       "ticker": "PWR",
@@ -105,7 +105,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nasdaq Advances For Second Straight Day\""
+      "move_reason": "News: \"A Brazilian Economic Canary In The Coal Mine\""
     },
     {
       "ticker": "XLY",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"RBC Says SpaceX Stock Has 50% Upside. S&P Global Just Warned About Its Hidden AI Debt. Her...\""
+      "move_reason": "News: \"Elon Musk Says SpaceX Is Now a \"Super Intelligence\" Company\""
     },
     {
       "ticker": "VUAG.L",
@@ -330,7 +330,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Penguin Solutions, Broadcom, FormFactor, Lattice Semiconductor, and AMD stocks trade up, w...\""
+      "move_reason": "News: \"Meta Platforms (META) Could Be 39% Undervalued Following Its AI Funding Push\""
     },
     {
       "ticker": "APA",
@@ -354,7 +354,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Stock Surges 6%, But Investors Are Still Worried\""
+      "move_reason": "News: \"CoreWeave: The Warning Sign AI Investors Shouldn't Ignore\""
     },
     {
       "ticker": "DG",
@@ -378,7 +378,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Sees Strong Upside for GE Vernova. Earnings Will Show Why.\""
+      "move_reason": "News: \"Ranking 4 AI Power Stocks By Balance Sheet After the Sell-off: Vertiv, GE Vernova, Bloom E...\""
     },
     {
       "ticker": "IWM",
@@ -390,7 +390,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nasdaq Advances For Second Straight Day\""
+      "move_reason": "News: \"A Brazilian Economic Canary In The Coal Mine\""
     },
     {
       "ticker": "NBIS",
@@ -414,7 +414,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"RBC Says SpaceX Stock Has 50% Upside. S&P Global Just Warned About Its Hidden AI Debt. Her...\""
+      "move_reason": "News: \"Elon Musk Says SpaceX Is Now a \"Super Intelligence\" Company\""
     },
     {
       "ticker": "OSCR",
@@ -716,13 +716,13 @@ window.theBriefMovers = {
         "3 news items in the last 3 days",
         "Earnings within 7 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 9.7 (cheap on absolute basis)"
+        "Forward P/E 9.4 (cheap on absolute basis)"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "Earnings within 7 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 9.7 (cheap on absolute basis)"
+        "Forward P/E 9.4 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",
