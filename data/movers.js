@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-30T01:40:16.131901+00:00",
+  "generated_at": "2026-10-30T07:44:20.287152+00:00",
   "gainers": [
     {
       "ticker": "DG",
@@ -160,7 +160,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Core PCE Inflation At 3.1% In September\""
+      "move_reason": "News: \"Economy Is Running Hot On Strong Consumer Spending Growth And Massive AI Investment Boom\""
     },
     {
       "ticker": "XLY",
@@ -197,7 +197,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Rimini Street (RMNI) Surpasses Q3 Earnings and Revenue Estimates\""
+      "move_reason": "News: \"Nvidia's web of AI bets: smart strategy or bubble risk?\""
     },
     {
       "ticker": "AMD",
@@ -209,7 +209,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"After-Hours S&P 500 Movers: Mondelez and FedEx Freight Gain, Intel and Reddit Fall\""
+      "move_reason": "News: \"3 Growth Stocks To Own In October 2026\""
     },
     {
       "ticker": "NVDA",
@@ -221,7 +221,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Micron Is Trading for Less Than 6 Times Forward Earnings. Here's Why That's a Sign to Buy.\""
+      "move_reason": "News: \"A Major New Solana Blockchain Upgrade Is Now Live. But Here's Why Blockchain Upgrades Rare...\""
     },
     {
       "ticker": "XLC",
@@ -302,7 +302,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health (OSCR) Stock May Trade Below Fair Value As New Plans Roll Out\""
+      "move_reason": "News: \"Oscar Health, Inc. (OSCR) Increases Despite Market Slip: Here's What You Need to Know\""
     },
     {
       "ticker": "VUAG.L",
@@ -362,7 +362,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"After-Hours S&P 500 Movers: Mondelez and FedEx Freight Gain, Intel and Reddit Fall\""
+      "move_reason": "News: \"3 Growth Stocks To Own In October 2026\""
     },
     {
       "ticker": "APA",
@@ -386,7 +386,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Rimini Street (RMNI) Surpasses Q3 Earnings and Revenue Estimates\""
+      "move_reason": "News: \"Nvidia's web of AI bets: smart strategy or bubble risk?\""
     },
     {
       "ticker": "DG",
@@ -422,7 +422,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Core PCE Inflation At 3.1% In September\""
+      "move_reason": "News: \"Economy Is Running Hot On Strong Consumer Spending Growth And Massive AI Investment Boom\""
     },
     {
       "ticker": "NBIS",
@@ -446,7 +446,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Micron Is Trading for Less Than 6 Times Forward Earnings. Here's Why That's a Sign to Buy.\""
+      "move_reason": "News: \"A Major New Solana Blockchain Upgrade Is Now Live. But Here's Why Blockchain Upgrades Rare...\""
     },
     {
       "ticker": "OSCR",
@@ -458,7 +458,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health (OSCR) Stock May Trade Below Fair Value As New Plans Roll Out\""
+      "move_reason": "News: \"Oscar Health, Inc. (OSCR) Increases Despite Market Slip: Here's What You Need to Know\""
     },
     {
       "ticker": "OXY",
