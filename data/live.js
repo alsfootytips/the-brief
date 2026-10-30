@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-30T01:28:53.761068+00:00",
+  "generated_at": "2026-10-30T01:40:16.140102+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -60,7 +60,7 @@ window.theBriefLive = {
       "change_pct": -11.59,
       "price": 161.2,
       "is_watchlist": true,
-      "timestamp": "2026-10-30T01:28:53.597614+00:00",
+      "timestamp": "2026-10-30T01:40:16.137544+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -72,7 +72,7 @@ window.theBriefLive = {
       "change_pct": 3.65,
       "price": 130.78,
       "is_watchlist": true,
-      "timestamp": "2026-10-30T01:28:53.597607+00:00",
+      "timestamp": "2026-10-30T01:40:16.137533+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -84,7 +84,7 @@ window.theBriefLive = {
       "change_pct": -10.06,
       "price": 57.5,
       "is_watchlist": true,
-      "timestamp": "2026-10-30T01:28:53.597604+00:00",
+      "timestamp": "2026-10-30T01:40:16.137530+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -96,10 +96,44 @@ window.theBriefLive = {
       "change_pct": -8.69,
       "price": 528.16,
       "is_watchlist": true,
-      "timestamp": "2026-10-30T01:28:53.597598+00:00",
+      "timestamp": "2026-10-30T01:40:16.137520+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-30T01:34:32+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dexcom anticipates $5.20B-$5.25B 2026 revenue while authorizing another $1B buyback",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4661091-dexcom-anticipates-5_20b-5_25b-2026-revenue-while-authorizing-another-1b-buyback?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-30T01:29:43+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "First Internet Bancorp forecasts Q4 EPS of $1.02-$1.07 as it targets 2.75%-2.80% NIM",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4661090-first-internet-bancorp-forecasts-q4-eps-of-1_02-1_07-as-it-targets-2_75-percentminus-2_80?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-10-30T01:29:36+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -270,28 +304,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Sonic Automotive expects EchoPark Q4 adjusted EBITDA of $2M-$4M while kicking off $5M-$7M brand spend",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4661083-sonic-automotive-expects-echopark-q4-adjusted-ebitda-of-2m-4m-while-kicking-off-5m-7m-brand?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-30T00:59:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Patterson-UTI expects Q4 drilling services adjusted gross profit of about $150M while keeping 2026 capex below $600M",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4661082-patterson-uti-expects-q4-drilling-services-adjusted-gross-profit-of-about-150m-while-keeping?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-30T00:49:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
@@ -398,18 +410,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-29T23:56:02+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-29T23:55:09+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
