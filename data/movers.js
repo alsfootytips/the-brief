@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-31T08:54:54.231524+00:00",
+  "generated_at": "2026-10-31T15:06:12.866374+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Sector Update: Energy Stocks Gain Late Afternoon\""
+      "move_reason": "News: \"Gold And Silver: A Generational Buying Opportunity Is Emerging\""
     },
     {
       "ticker": "OXY",
@@ -71,17 +71,6 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"1 cash-producing stock on our buy list and 2 that underwhelm\""
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities Select Sector",
-      "price": 43.43,
-      "change_pct": 0.67,
-      "volume_ratio": 1.44,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
     },
     {
       "ticker": "XLV",
@@ -128,7 +117,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Stock Fell 11% in a Day Ahead of Its November 3 Report. Here\u2019s Why Intel\u2019s 78% Data Ce...\""
+      "move_reason": "News: \"AMD Just Dropped 11% in a Day as Intel\u2019s PC Warning Rattles Chips. Is It Time to Sell, or ...\""
     },
     {
       "ticker": "NBIS",
@@ -152,7 +141,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SpaceX Just Dropped 9% in a October. Is It Time to Sell, or Load Up?\""
+      "move_reason": "News: \"Trumpflation Is Getting Worse and It Could Trigger a Wall Street Nightmare\""
     },
     {
       "ticker": "PLTR",
@@ -211,7 +200,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Drew DOJ Questions and Weighed Backing Debt for an Anthropic Data Center in One Wee...\""
+      "move_reason": "News: \"Will AI Provide a Boost for XRP? The XRP Blockchain Ledger Just Hit 14 Million in AI Agent...\""
     },
     {
       "ticker": "QQQ",
@@ -246,7 +235,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova: Waiting For The Margin In The Backlog - Hold\""
+      "move_reason": "News: \"Stock-Split Watch: GE Vernova Trades Above $890 With a $176 Billion Backlog. Is a Split Ne...\""
     },
     {
       "ticker": "OSCR",
@@ -276,7 +265,7 @@ window.theBriefMovers = {
       "name": "VUAG.L",
       "price": 109.78,
       "change_pct": -1.75,
-      "volume_ratio": 0.94,
+      "volume_ratio": 1.55,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -288,7 +277,7 @@ window.theBriefMovers = {
       "name": "VWRP.L",
       "price": 140.68,
       "change_pct": -1.73,
-      "volume_ratio": 0.82,
+      "volume_ratio": 1.21,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -307,7 +296,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Stock Fell 11% in a Day Ahead of Its November 3 Report. Here\u2019s Why Intel\u2019s 78% Data Ce...\""
+      "move_reason": "News: \"AMD Just Dropped 11% in a Day as Intel\u2019s PC Warning Rattles Chips. Is It Time to Sell, or ...\""
     },
     {
       "ticker": "APA",
@@ -331,7 +320,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SpaceX Just Dropped 9% in a October. Is It Time to Sell, or Load Up?\""
+      "move_reason": "News: \"Trumpflation Is Getting Worse and It Could Trigger a Wall Street Nightmare\""
     },
     {
       "ticker": "DG",
@@ -355,7 +344,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova: Waiting For The Margin In The Backlog - Hold\""
+      "move_reason": "News: \"Stock-Split Watch: GE Vernova Trades Above $890 With a $176 Billion Backlog. Is a Split Ne...\""
     },
     {
       "ticker": "IWM",
@@ -367,7 +356,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Commentary: Cycle Transition\""
+      "move_reason": "News: \"The Mag 7 Makes No Longer Sense: It's MAGMA And Batmans\""
     },
     {
       "ticker": "NBIS",
@@ -391,7 +380,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Drew DOJ Questions and Weighed Backing Debt for an Anthropic Data Center in One Wee...\""
+      "move_reason": "News: \"Will AI Provide a Boost for XRP? The XRP Blockchain Ledger Just Hit 14 Million in AI Agent...\""
     },
     {
       "ticker": "OSCR",
@@ -463,7 +452,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Sector Update: Energy Stocks Gain Late Afternoon\""
+      "move_reason": "News: \"Gold And Silver: A Generational Buying Opportunity Is Emerging\""
     }
   ],
   "indices": [
@@ -527,16 +516,6 @@ window.theBriefMovers = {
       "price": 89.42,
       "change_pct": 1.41,
       "volume_ratio": 1.68,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities Select Sector",
-      "price": 43.43,
-      "change_pct": 0.67,
-      "volume_ratio": 1.44,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -999,13 +978,6 @@ window.theBriefMovers = {
       "name": "Consumer Discretionary Select",
       "change_pct": -0.71,
       "price": 115.38,
-      "watchlist_members": []
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities Select Sector",
-      "change_pct": 0.67,
-      "price": 43.43,
       "watchlist_members": []
     },
     {
