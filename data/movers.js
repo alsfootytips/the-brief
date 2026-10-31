@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-31T19:18:17.970167+00:00",
+  "generated_at": "2026-10-31T22:42:35.155358+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -211,7 +211,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Apple a Top Tech Stock to Buy Now?\""
+      "move_reason": "News: \"Want $1,000 a Month in Passive Income? Start With This Brilliant Dividend ETF.\""
     },
     {
       "ticker": "QQQ",
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Stock-Split Watch: GE Vernova Trades Above $890 With a $176 Billion Backlog. Is a Split Ne...\""
+      "move_reason": "News: \"5 Best Energy Infrastructure Stocks That Will Skyrocket\""
     },
     {
       "ticker": "OSCR",
@@ -355,7 +355,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Stock-Split Watch: GE Vernova Trades Above $890 With a $176 Billion Backlog. Is a Split Ne...\""
+      "move_reason": "News: \"5 Best Energy Infrastructure Stocks That Will Skyrocket\""
     },
     {
       "ticker": "IWM",
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Apple a Top Tech Stock to Buy Now?\""
+      "move_reason": "News: \"Want $1,000 a Month in Passive Income? Start With This Brilliant Dividend ETF.\""
     },
     {
       "ticker": "OSCR",
