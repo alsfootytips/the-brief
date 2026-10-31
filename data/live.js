@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-31T01:17:42.123690+00:00",
+  "generated_at": "2026-10-31T02:39:11.737368+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -60,7 +60,7 @@ window.theBriefLive = {
       "change_pct": -5.59,
       "price": 12.33,
       "is_watchlist": true,
-      "timestamp": "2026-10-31T01:17:41.991290+00:00",
+      "timestamp": "2026-10-31T02:39:11.735213+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -72,7 +72,7 @@ window.theBriefLive = {
       "change_pct": -3.18,
       "price": 615.0,
       "is_watchlist": true,
-      "timestamp": "2026-10-31T01:17:41.991288+00:00",
+      "timestamp": "2026-10-31T02:39:11.735210+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -84,7 +84,7 @@ window.theBriefLive = {
       "change_pct": -5.92,
       "price": 184.78,
       "is_watchlist": false,
-      "timestamp": "2026-10-31T01:17:41.991286+00:00",
+      "timestamp": "2026-10-31T02:39:11.735208+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -96,7 +96,7 @@ window.theBriefLive = {
       "change_pct": -3.94,
       "price": 205.25,
       "is_watchlist": true,
-      "timestamp": "2026-10-31T01:17:41.991284+00:00",
+      "timestamp": "2026-10-31T02:39:11.735205+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -108,7 +108,7 @@ window.theBriefLive = {
       "change_pct": -9.48,
       "price": 155.69,
       "is_watchlist": true,
-      "timestamp": "2026-10-31T01:17:41.991282+00:00",
+      "timestamp": "2026-10-31T02:39:11.735203+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -120,7 +120,7 @@ window.theBriefLive = {
       "change_pct": -3.1,
       "price": 860.35,
       "is_watchlist": true,
-      "timestamp": "2026-10-31T01:17:41.991275+00:00",
+      "timestamp": "2026-10-31T02:39:11.735194+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -132,7 +132,7 @@ window.theBriefLive = {
       "change_pct": -9.19,
       "price": 55.16,
       "is_watchlist": true,
-      "timestamp": "2026-10-31T01:17:41.991273+00:00",
+      "timestamp": "2026-10-31T02:39:11.735191+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -144,10 +144,89 @@ window.theBriefLive = {
       "change_pct": -10.28,
       "price": 508.22,
       "is_watchlist": true,
-      "timestamp": "2026-10-31T01:17:41.991267+00:00",
+      "timestamp": "2026-10-31T02:39:11.735184+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Natera CFO Michael Brophy sells $1.31 million in common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/natera-cfo-michael-brophy-sells-131-million-in-common-stock-93CH-4989039",
+      "is_watchlist": false,
+      "timestamp": "2026-10-31T02:01:01+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "China\u2019s October factory activity contracts at fastest pace in 3 months, PMI survey shows",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/chinas-october-factory-activity-contracts-at-fastest-pace-in-3-months-pmi-survey-shows-4989032",
+      "is_watchlist": false,
+      "timestamp": "2026-10-31T01:54:20+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SenesTech director Glenbrook Capital Management buys $29,056 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/senestech-director-glenbrook-capital-management-buys-29056-in-stock-93CH-4989030",
+      "is_watchlist": false,
+      "timestamp": "2026-10-31T01:46:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Prediction: Here's Where Corning Stock Will Trade in 2030",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ec85ceb44be20643a9601275f2f69e2e3d39e8d4e5f2494bb551d188423cd2df",
+      "is_watchlist": true,
+      "timestamp": "2026-10-31T01:43:01+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Alaska Air to cut about 200 jobs as fuel shock squeezes earnings",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/alaska-air-to-cut-200-jobs-as-fuel-costs-threaten-700-million-annual-loss-4988943",
+      "is_watchlist": false,
+      "timestamp": "2026-10-31T01:30:39+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "OpenAI cuts funding target by $10 billion to $20 billion - FT",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/openai-cuts-funding-target-by-10-billion-to-20-billion--ft-4989018",
+      "is_watchlist": false,
+      "timestamp": "2026-10-31T01:20:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "PWR",
+      "headline": "Quanta Services Q3 Earnings Call Highlights",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=108df42b3cb839c34c305f035293824a781afbb1833c4cb3e3b238929fb1c352",
+      "is_watchlist": true,
+      "timestamp": "2026-10-31T01:14:07+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -157,6 +236,17 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4661803-first-business-outlines-10-percent-annual-loan-growth-and-sees-nim-staying-above-3_60-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-10-31T01:09:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "OpenAI cuts funding target by $10 billion, FT reports",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/openai-cuts-funding-target-by-10-billion-ft-reports-4988969",
+      "is_watchlist": false,
+      "timestamp": "2026-10-31T01:06:18+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -184,69 +274,27 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "US approves $2.1 billion Patriot missile sale to Ukraine",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/us-approves-21-billion-patriot-missile-sale-to-ukraine-4988538",
-      "is_watchlist": false,
-      "timestamp": "2026-10-31T00:54:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "\u2018Big Short\u2019 trader says Anthropic slowdown tests AI boom",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b4fc215ef81f5a2a982d2d7330dc0e45bb7363286c6c49715f34cf79168ff559",
+      "is_watchlist": true,
+      "timestamp": "2026-10-31T00:37:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Stocks fall on AI cash burn worries while bonds rally with oil",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/stocks-slump-bonds-leap-as-ai-giants-spending-spooks-investors-4985741",
-      "is_watchlist": false,
-      "timestamp": "2026-10-31T00:48:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Porch Group director Sean Kell sells $418,790 in company shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/porch-group-director-sean-kell-sells-418790-in-company-shares-93CH-4988995",
-      "is_watchlist": false,
-      "timestamp": "2026-10-31T00:46:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Porch Group CFO Shawn Tabak sells $630,738 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/porch-group-cfo-shawn-tabak-sells-630738-in-stock-93CH-4988994",
-      "is_watchlist": false,
-      "timestamp": "2026-10-31T00:46:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "CoreWeave\u2019s Jeff Baker, principal accounting officer, sells $407,946 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/coreweaves-jeff-baker-principal-accounting-officer-sells-407946-in-stock-93CH-4988993",
-      "is_watchlist": false,
-      "timestamp": "2026-10-31T00:46:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Acadia evp, cfo Mark Schneyer sells $69,342 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/acadia-evp-cfo-mark-schneyer-sells-69342-in-company-stock-93CH-4988992",
-      "is_watchlist": false,
-      "timestamp": "2026-10-31T00:45:51+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "NVDA",
+      "headline": "Why Merck Stock Flew Higher on Friday",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a6d5f99c481f50462d13d1488e72b72f8202c91dbc1eb872f1f993059c7a1e4e",
+      "is_watchlist": true,
+      "timestamp": "2026-10-31T00:18:27+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -262,30 +310,6 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why Arm Holdings Stock Plummeted by Nearly 10% Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=2ec91b9f930b7ef3f04b3f93394fe8ab2fd463e6007abd225fca8529b7082049",
-      "is_watchlist": true,
-      "timestamp": "2026-10-30T23:44:18+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Is Intel Stock a Buy After Its Post-Earnings Plunge?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7a84ab3b2bc5a24d390988ea46bd6ee541eb2ea98dd76710ba02b52ffe34fb7a",
-      "is_watchlist": true,
-      "timestamp": "2026-10-30T23:34:02+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -410,18 +434,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-30T22:42:26+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why Bright Horizons Family Solutions Stock Swooned on Friday",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=faa8afa90a4d21b39ccbc2a365d6970405c2bd54571fb8d9512bfd420af50ddc",
-      "is_watchlist": true,
-      "timestamp": "2026-10-30T22:40:24+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -689,6 +701,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "XLE",
+      "headline": "Sector Update: Energy Stocks Gain Late Afternoon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9100ea0bb6a22ffda3f4fd0b86921c6a98bdde37191756e11aadeb2be5628e96",
+      "is_watchlist": true,
+      "timestamp": "2026-10-30T19:57:10+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Tech gets crushed, defensive stocks shine. How we're making sense of it all",
       "source": "CNBC",
@@ -778,12 +802,36 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "XLE",
+      "headline": "Sector Update: Energy Stocks Gain Friday Afternoon",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d5cc34aa072c58b21a5fbbec34b46f4890316c30adec403d22a26d79720f606d",
+      "is_watchlist": true,
+      "timestamp": "2026-10-30T17:58:24+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": "IWM",
       "headline": "AI Is Booming, But Hyperscaler Stocks Are Cracking: What's Next",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=df42efadf2a9913a6891b6092d3b32136d90d15f72f8629b63a48ac4fc1a1568",
       "is_watchlist": true,
       "timestamp": "2026-10-30T17:32:12+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "XLE",
+      "headline": "Exchange-Traded Funds Lower as US Equities Decline After Midday Friday",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=85a850c71592bdd4e54ca25d9874091a622369286c8eaaaa4dc8e30bc18b4615",
+      "is_watchlist": true,
+      "timestamp": "2026-10-30T17:22:29+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -1059,18 +1107,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "XLE",
-      "headline": "Defensives Lead Sectors In Friday Trading As Growth Trails",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=f4d64ec63c560cc28d71bf7f59bde599a6edb4c194f1f0b09e1d167501e7f28c",
-      "is_watchlist": true,
-      "timestamp": "2026-10-30T11:00:25+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "The two most interesting risks to Anthropic",
       "source": "NPR Business",
@@ -1124,18 +1160,6 @@ window.theBriefLive = {
       "timestamp": "2026-10-30T09:00:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "PWR",
-      "headline": "Evercore ISI Group Maintains Outperform on Quanta Services, Raises Price Target to $850",
-      "source": "Benzinga",
-      "url": "https://finnhub.io/api/news?id=8b8f1a79a6eb2f7a7f956254267b041f2589f0669ce95fc36aa44beb18232f22",
-      "is_watchlist": true,
-      "timestamp": "2026-10-30T08:42:48+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -1213,30 +1237,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=123933e24c2e19ab91713c7c6fb5d6ec74b02f9885436b87f12dad804f9fd26c",
       "is_watchlist": true,
       "timestamp": "2026-10-29T20:45:04+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "XLE",
-      "headline": "Sector Update: Energy Stocks Higher Late Afternoon",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d0d6c86939f9b407eb5b79d142bf7ffa2babb9e721e930b8a4841356e8f48045",
-      "is_watchlist": true,
-      "timestamp": "2026-10-29T19:57:30+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "XLE",
-      "headline": "Sector Update: Energy Stocks Mixed in Afternoon Trading",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8e04fc73a01639de963be812c7c5c2040798828bee5db67b8296236cff378204",
-      "is_watchlist": true,
-      "timestamp": "2026-10-29T18:13:53+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"

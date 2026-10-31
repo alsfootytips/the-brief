@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-10-31T01:17:42.492419+00:00",
+  "generated_at": "2026-10-31T02:39:11.880074+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -814,11 +814,11 @@ window.theBriefPicks = {
       "pick_type": "strategic",
       "horizon_label": "Long-term",
       "direction": "long",
-      "current_price": 367.65,
-      "current_pct": -14.6,
-      "change_pct_today": 4.25,
+      "current_price": 331.68,
+      "current_pct": -22.95,
+      "change_pct_today": 1.13,
       "name": "Texas Pacific Land",
-      "news_count": 0,
+      "news_count": 3,
       "days_elapsed": 37,
       "days_remaining": 19,
       "closed_at": "2026-08-07",
