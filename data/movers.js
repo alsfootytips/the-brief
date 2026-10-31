@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-31T02:39:11.730226+00:00",
+  "generated_at": "2026-10-31T08:54:54.231524+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cathie Wood Shifts From AI Chips to Robinhood and Air Taxis in Latest ARK Trades\""
+      "move_reason": "News: \"AMD Stock Fell 11% in a Day Ahead of Its November 3 Report. Here\u2019s Why Intel\u2019s 78% Data Ce...\""
     },
     {
       "ticker": "NBIS",
@@ -152,7 +152,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"B. Riley Cut Its Applied Digital Target to $51. It Still Sees 185% Upside\""
+      "move_reason": "News: \"SpaceX Just Dropped 9% in a October. Is It Time to Sell, or Load Up?\""
     },
     {
       "ticker": "PLTR",
@@ -211,7 +211,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: Here's Where Corning Stock Will Trade in 2030\""
+      "move_reason": "News: \"Nvidia Drew DOJ Questions and Weighed Backing Debt for an Anthropic Data Center in One Wee...\""
     },
     {
       "ticker": "QQQ",
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why GE Vernova Stock Fell on Friday\""
+      "move_reason": "News: \"GE Vernova: Waiting For The Margin In The Backlog - Hold\""
     },
     {
       "ticker": "OSCR",
@@ -307,7 +307,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cathie Wood Shifts From AI Chips to Robinhood and Air Taxis in Latest ARK Trades\""
+      "move_reason": "News: \"AMD Stock Fell 11% in a Day Ahead of Its November 3 Report. Here\u2019s Why Intel\u2019s 78% Data Ce...\""
     },
     {
       "ticker": "APA",
@@ -331,7 +331,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"B. Riley Cut Its Applied Digital Target to $51. It Still Sees 185% Upside\""
+      "move_reason": "News: \"SpaceX Just Dropped 9% in a October. Is It Time to Sell, or Load Up?\""
     },
     {
       "ticker": "DG",
@@ -355,7 +355,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why GE Vernova Stock Fell on Friday\""
+      "move_reason": "News: \"GE Vernova: Waiting For The Margin In The Backlog - Hold\""
     },
     {
       "ticker": "IWM",
@@ -367,7 +367,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Tech Selloff Wipes Out $1 Trillion In Value\""
+      "move_reason": "News: \"Weekly Commentary: Cycle Transition\""
     },
     {
       "ticker": "NBIS",
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: Here's Where Corning Stock Will Trade in 2030\""
+      "move_reason": "News: \"Nvidia Drew DOJ Questions and Weighed Backing Debt for an Anthropic Data Center in One Wee...\""
     },
     {
       "ticker": "OSCR",
