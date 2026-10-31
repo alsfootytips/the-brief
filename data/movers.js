@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-31T15:06:12.866374+00:00",
+  "generated_at": "2026-10-31T19:18:17.970167+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -73,6 +73,17 @@ window.theBriefMovers = {
       "move_reason": "News: \"1 cash-producing stock on our buy list and 2 that underwhelm\""
     },
     {
+      "ticker": "XLU",
+      "name": "Utilities Select Sector",
+      "price": 43.43,
+      "change_pct": 0.67,
+      "volume_ratio": 1.44,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
+    },
+    {
       "ticker": "XLV",
       "name": "Health Care Select Sector",
       "price": 184.87,
@@ -117,7 +128,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Just Dropped 11% in a Day as Intel\u2019s PC Warning Rattles Chips. Is It Time to Sell, or ...\""
+      "move_reason": "News: \"Intel Has a Massive Warning for AMD Stock Investors. Is It Time to Book Profits Before Nov...\""
     },
     {
       "ticker": "NBIS",
@@ -200,7 +211,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Will AI Provide a Boost for XRP? The XRP Blockchain Ledger Just Hit 14 Million in AI Agent...\""
+      "move_reason": "News: \"Is Apple a Top Tech Stock to Buy Now?\""
     },
     {
       "ticker": "QQQ",
@@ -296,7 +307,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Just Dropped 11% in a Day as Intel\u2019s PC Warning Rattles Chips. Is It Time to Sell, or ...\""
+      "move_reason": "News: \"Intel Has a Massive Warning for AMD Stock Investors. Is It Time to Book Profits Before Nov...\""
     },
     {
       "ticker": "APA",
@@ -356,7 +367,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Mag 7 Makes No Longer Sense: It's MAGMA And Batmans\""
+      "move_reason": "News: \"The 1-Minute Market Report October 31, 2026\""
     },
     {
       "ticker": "NBIS",
@@ -380,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Will AI Provide a Boost for XRP? The XRP Blockchain Ledger Just Hit 14 Million in AI Agent...\""
+      "move_reason": "News: \"Is Apple a Top Tech Stock to Buy Now?\""
     },
     {
       "ticker": "OSCR",
@@ -516,6 +527,16 @@ window.theBriefMovers = {
       "price": 89.42,
       "change_pct": 1.41,
       "volume_ratio": 1.68,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities Select Sector",
+      "price": 43.43,
+      "change_pct": 0.67,
+      "volume_ratio": 1.44,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -978,6 +999,13 @@ window.theBriefMovers = {
       "name": "Consumer Discretionary Select",
       "change_pct": -0.71,
       "price": 115.38,
+      "watchlist_members": []
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities Select Sector",
+      "change_pct": 0.67,
+      "price": 43.43,
       "watchlist_members": []
     },
     {
