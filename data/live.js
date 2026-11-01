@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-10-31T22:42:35.162259+00:00",
+  "generated_at": "2026-11-01T01:30:26.466352+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -60,7 +60,7 @@ window.theBriefLive = {
       "change_pct": -5.59,
       "price": 12.33,
       "is_watchlist": true,
-      "timestamp": "2026-10-31T22:42:35.160087+00:00",
+      "timestamp": "2026-11-01T01:30:26.463597+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -72,7 +72,7 @@ window.theBriefLive = {
       "change_pct": -3.18,
       "price": 615.0,
       "is_watchlist": true,
-      "timestamp": "2026-10-31T22:42:35.160085+00:00",
+      "timestamp": "2026-11-01T01:30:26.463594+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -84,7 +84,7 @@ window.theBriefLive = {
       "change_pct": -5.92,
       "price": 184.78,
       "is_watchlist": false,
-      "timestamp": "2026-10-31T22:42:35.160083+00:00",
+      "timestamp": "2026-11-01T01:30:26.463591+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -96,7 +96,7 @@ window.theBriefLive = {
       "change_pct": -3.94,
       "price": 205.25,
       "is_watchlist": true,
-      "timestamp": "2026-10-31T22:42:35.160080+00:00",
+      "timestamp": "2026-11-01T01:30:26.463587+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -108,7 +108,7 @@ window.theBriefLive = {
       "change_pct": -9.48,
       "price": 155.69,
       "is_watchlist": true,
-      "timestamp": "2026-10-31T22:42:35.160077+00:00",
+      "timestamp": "2026-11-01T01:30:26.463584+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -120,7 +120,7 @@ window.theBriefLive = {
       "change_pct": -3.1,
       "price": 860.35,
       "is_watchlist": true,
-      "timestamp": "2026-10-31T22:42:35.160069+00:00",
+      "timestamp": "2026-11-01T01:30:26.463574+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -132,7 +132,7 @@ window.theBriefLive = {
       "change_pct": -9.19,
       "price": 55.16,
       "is_watchlist": true,
-      "timestamp": "2026-10-31T22:42:35.160065+00:00",
+      "timestamp": "2026-11-01T01:30:26.463570+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -144,10 +144,146 @@ window.theBriefLive = {
       "change_pct": -10.28,
       "price": 508.22,
       "is_watchlist": true,
-      "timestamp": "2026-10-31T22:42:35.160058+00:00",
+      "timestamp": "2026-11-01T01:30:26.463560+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UK PM Burnham says he is \u2019open\u2019 to formal apology for slavery, but rules out reparations",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/uk-pm-burnham-says-he-is-open-to-formal-apology-for-slavery-but-rules-out-reparations-4989219",
+      "is_watchlist": false,
+      "timestamp": "2026-11-01T01:18:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "South Korea exports nearly double in October, strongest growth since 1974",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economic-indicators/south-korea-exports-nearly-double-in-october-strongest-growth-since-1974-4989354",
+      "is_watchlist": false,
+      "timestamp": "2026-11-01T00:42:19+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "FBI links record $6.3 billion Binance crypto theft to North Korea",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/fbi-links-record-63-billion-binance-crypto-theft-to-north-korea-4989353",
+      "is_watchlist": false,
+      "timestamp": "2026-11-01T00:38:48+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Average U.S. pump prices during Trump's term now exceed Biden's",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4661802-average-u-s-pump-prices-during-trumps-term-now-exceed-bidens?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-01T00:20:56+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Republic Bancorp EVP Jeff Starke sells $75,769 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/republic-bancorp-evp-jeff-starke-sells-75769-in-stock-93CH-4989350",
+      "is_watchlist": false,
+      "timestamp": "2026-11-01T00:16:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Russian oil tankers deploy makeshift drone defenses amid Ukraine attacks - WSJ",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/russian-oil-tankers-deploy-makeshift-drone-defenses-amid-ukraine-attacks--wsj-4989348",
+      "is_watchlist": false,
+      "timestamp": "2026-10-31T23:56:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
+      "is_watchlist": false,
+      "timestamp": "2026-10-31T23:56:40+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "PWR",
+      "headline": "PWR Q3 deep dive: broad-based backlog growth and supply chain discipline drive guidance boost",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d4b01c1c33b855232b9d19007b2575fcac1f2426cf7f7a5eea2046733483dc4f",
+      "is_watchlist": true,
+      "timestamp": "2026-10-31T23:23:00+00:00",
+      "relevance_score": 8.5,
+      "relevance_tier": "high",
+      "relevance_label": "Pick: PWR"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "1 Big Winner and 1 Loser From the Upcoming Anthropic IPO",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=86a07bce162076ca292361cc81b1064479fd4e812dbac9cfea20f38a41af0a8c",
+      "is_watchlist": true,
+      "timestamp": "2026-10-31T23:05:02+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Judge ends Trump\u2019s attempts to sue Wall Street Journal over Epstein reporting",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-trumps-lawsuit-against-wall-street-journal-with-prejudice-4989324",
+      "is_watchlist": false,
+      "timestamp": "2026-10-31T23:00:35+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Top takeaways from Bernstein\u2019s annual Global Sportswear survey",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/top-takeaways-from-bernsteins-annual-global-sportswear-survey-4989345",
+      "is_watchlist": false,
+      "timestamp": "2026-10-31T22:57:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "After Eli Lilly\u2019s Explosive Earnings Report, Is It Too Late to Buy the Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b7ca93e58f918d2abd9b2ba809bb6712d8650e7827a434036efde8300eb984da",
+      "is_watchlist": true,
+      "timestamp": "2026-10-31T22:30:02+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -162,47 +298,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "UK PM Burnham says he is \u2019open\u2019 to formal apology for slavery, but rules out reparations",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/uk-pm-burnham-says-he-is-open-to-formal-apology-for-slavery-but-rules-out-reparations-4989219",
-      "is_watchlist": false,
-      "timestamp": "2026-10-31T22:00:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "NVDA",
-      "headline": "Want $1,000 a Month in Passive Income? Start With This Brilliant Dividend ETF.",
+      "headline": "Nvidia (NVDA) CEO Jensen Huang Reportedly Targeted In Chinese Espionage Plot",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ef27a46f2ad329947556ce3162d0e2017e06b3695318589c66058d4a4bed08d6",
+      "url": "https://finnhub.io/api/news?id=07715da94b2f2a6b8a5a263139790ca3cc26191c13c495707368d318270c9d67",
       "is_watchlist": true,
-      "timestamp": "2026-10-31T21:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "5 Best High Growth Stocks Outside Big Tech",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d1ff0c631c86b6847fe099e4b32760afa4fa708413233929af608963462fcebe",
-      "is_watchlist": true,
-      "timestamp": "2026-10-31T21:39:26+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "SpaceX Says Starship Flies Commercial Payloads This Year. Here's What a Successful Flight Is Worth -- and What a Failure Costs.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e8ed1674f8133ab45f8a1ba37714befedcf8a7b3f0b632f0c18ef8d0ac94f394",
-      "is_watchlist": true,
-      "timestamp": "2026-10-31T21:25:00+00:00",
+      "timestamp": "2026-10-31T22:08:18+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -256,17 +357,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-31T21:05:53+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "SA Asks: What's the most attractive oil stock right now?",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4661864-sa-asks-whats-the-most-attractive-oil-stock-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -278,55 +368,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Bitcoin rises as Binance says it has covered 90% of $6.3 billion hack",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-77000-as-binance-hack-recovery-takes-shape-4989115",
-      "is_watchlist": false,
-      "timestamp": "2026-10-31T20:56:59+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Judge ends Trump\u2019s attempts to sue Wall Street Journal over Epstein reporting",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-trumps-lawsuit-against-wall-street-journal-with-prejudice-4989324",
-      "is_watchlist": false,
-      "timestamp": "2026-10-31T20:48:20+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "OPEC+ set to hold December oil output steady, Reuters reports",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/opec-set-to-hold-december-oil-output-steady-4989332",
-      "is_watchlist": false,
-      "timestamp": "2026-10-31T20:44:25+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "My abusive ex-husband promised $20,000 for our kids\u2019 education. Now he refuses to pay. Is he legally obligated?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
       "is_watchlist": false,
       "timestamp": "2026-10-31T20:15:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Isolated clashes in France after peaceful marches, as police brace for Halloween night violence",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/france-braces-for-fresh-unrest-government-vows-tough-response-4989212",
-      "is_watchlist": false,
-      "timestamp": "2026-10-31T20:12:39+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -361,28 +407,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-10-31T19:56:23+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Thousands return to Lisbon square, press government to scrap rental bill",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economic-indicators/thousands-return-to-lisbon-square-press-government-to-scrap-rental-bill-4989325",
-      "is_watchlist": false,
-      "timestamp": "2026-10-31T19:48:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Citi sees European gas prices rising in 2027 as Middle East risks spur price gains",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/citi-sees-european-gas-prices-rising-in-2027-as-middle-east-risks-spur-price-gains-4989323",
-      "is_watchlist": false,
-      "timestamp": "2026-10-31T19:33:24+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -552,17 +576,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4661861-meta-built-humanoid-prototype-robotics-push?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-10-31T16:44:49+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Binance restores 90% of stolen crypto assets",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4661860-binance-restores-90-percent-stolen-crypto-assets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-10-31T16:11:19+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -868,18 +881,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=6758a705c8b6bcf831016e5ec9036e6f0f1694794ee2e54c286def73a3371d3b",
       "is_watchlist": true,
       "timestamp": "2026-10-31T04:03:53+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "PWR",
-      "headline": "What Quanta Services Buyers Were Betting On",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7fafa363b69b975614e828ae956cd9e7c69af53793561d7187de2703d39b4621",
-      "is_watchlist": true,
-      "timestamp": "2026-10-31T03:17:47+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -1324,18 +1325,6 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
-    },
-    {
-      "type": "news",
-      "ticker": "DG",
-      "headline": "Dollar General asserts 20-state FTC lawsuit it's facing is a farce",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=887e9c350279b4a73b8ddb0d341d1c373e4e7743c2d9f9c81ca4072cb269b7cf",
-      "is_watchlist": true,
-      "timestamp": "2026-10-28T18:17:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",

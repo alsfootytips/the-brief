@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-10-31T22:42:35.155358+00:00",
+  "generated_at": "2026-11-01T01:30:26.456749+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SFM Q3 Earnings Miss Estimates on Soft Comps, Margin Pressure\""
+      "move_reason": "Tracking XLP sector (+1.41% today)"
     },
     {
       "ticker": "XLE",
@@ -211,7 +211,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Want $1,000 a Month in Passive Income? Start With This Brilliant Dividend ETF.\""
+      "move_reason": "News: \"1 Big Winner and 1 Loser From the Upcoming Anthropic IPO\""
     },
     {
       "ticker": "QQQ",
@@ -234,7 +234,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"PWR Q3 deep dive: broad-based backlog growth and supply chain discipline drive guidance bo...\""
     },
     {
       "ticker": "GEV",
@@ -343,7 +343,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"SFM Q3 Earnings Miss Estimates on Soft Comps, Margin Pressure\""
+      "move_reason": "Tracking XLP sector (+1.41% today)"
     },
     {
       "ticker": "GEV",
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Want $1,000 a Month in Passive Income? Start With This Brilliant Dividend ETF.\""
+      "move_reason": "News: \"1 Big Winner and 1 Loser From the Upcoming Anthropic IPO\""
     },
     {
       "ticker": "OSCR",
@@ -427,7 +427,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"PWR Q3 deep dive: broad-based backlog growth and supply chain discipline drive guidance bo...\""
     },
     {
       "ticker": "TPL",
@@ -724,13 +724,13 @@ window.theBriefMovers = {
       "score": 7.0,
       "signals": [
         "Moved +2.29% \u2014 a 1.0\u03c3 move",
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "5 insider buys vs 1 sells (last 90 days)"
       ],
       "reasons": [
         "Moved +2.29% \u2014 a 1.0\u03c3 move",
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "5 insider buys vs 1 sells (last 90 days)"
       ],

@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-10-31T22:42:35.370585+00:00",
+  "generated_at": "2026-11-01T01:30:26.716759+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -511,7 +511,7 @@ window.theBriefPicks = {
       "change_pct_today": -3.1,
       "name": "GE Vernova",
       "news_count": 3,
-      "days_elapsed": 171,
+      "days_elapsed": 172,
       "days_remaining": null
     },
     {
@@ -544,7 +544,7 @@ window.theBriefPicks = {
       "change_pct_today": -3.18,
       "name": "Quanta Services",
       "news_count": 3,
-      "days_elapsed": 171,
+      "days_elapsed": 172,
       "days_remaining": null
     },
     {
@@ -577,7 +577,7 @@ window.theBriefPicks = {
       "change_pct_today": -5.92,
       "name": "PLTR",
       "news_count": 0,
-      "days_elapsed": 171,
+      "days_elapsed": 172,
       "days_remaining": null
     },
     {
