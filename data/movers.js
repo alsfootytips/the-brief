@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-01T15:09:17.403599+00:00",
+  "generated_at": "2026-11-01T19:40:56.939698+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A Stock Market Smackdown Week: Elections, Jobs Data, Iran And Earnings\""
+      "move_reason": "News: \"What To Expect In Markets This Week: AAPL, PLTR, AMD, SMCI, SHOP, Earnings, Jobs Report An...\""
     },
     {
       "ticker": "NBIS",
@@ -152,7 +152,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Top Investor: CoreWeave Locked In Compute \u201cWay, Way Under Market.\u201d Rising GPU Prices Won\u2019t...\""
+      "move_reason": "News: \"A Wall Street Firm Modeled Out an AI Crash: S&P 500 Down 30%, $20 Trillion Gone. But Here'...\""
     },
     {
       "ticker": "PLTR",
@@ -211,7 +211,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"One of the Fastest-Growing Segments of the Crypto Market Involves Artificial Intelligence....\""
+      "move_reason": "News: \"How Many AGNC Shares It Takes to Earn $500 a Month in Dividends\""
     },
     {
       "ticker": "QQQ",
@@ -307,7 +307,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"A Stock Market Smackdown Week: Elections, Jobs Data, Iran And Earnings\""
+      "move_reason": "News: \"What To Expect In Markets This Week: AAPL, PLTR, AMD, SMCI, SHOP, Earnings, Jobs Report An...\""
     },
     {
       "ticker": "APA",
@@ -331,7 +331,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Top Investor: CoreWeave Locked In Compute \u201cWay, Way Under Market.\u201d Rising GPU Prices Won\u2019t...\""
+      "move_reason": "News: \"A Wall Street Firm Modeled Out an AI Crash: S&P 500 Down 30%, $20 Trillion Gone. But Here'...\""
     },
     {
       "ticker": "DG",
@@ -367,7 +367,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The 1-Minute Market Report October 31, 2026\""
+      "move_reason": "News: \"Growth Vs. Value Hit An Extreme As AI Spending Broke Big Tech\""
     },
     {
       "ticker": "NBIS",
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"One of the Fastest-Growing Segments of the Crypto Market Involves Artificial Intelligence....\""
+      "move_reason": "News: \"How Many AGNC Shares It Takes to Earn $500 a Month in Dividends\""
     },
     {
       "ticker": "OSCR",
