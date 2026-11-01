@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-01T08:02:32.331095+00:00",
+  "generated_at": "2026-11-01T15:09:17.403599+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Gold And Silver: A Generational Buying Opportunity Is Emerging\""
+      "move_reason": "News: \"The Biggest Megatrend Of My Lifetime Is Just Getting Started\""
     },
     {
       "ticker": "OXY",
@@ -70,7 +70,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 cash-producing stock on our buy list and 2 that underwhelm\""
+      "move_reason": "News: \"The Biggest Megatrend Of My Lifetime Is Just Getting Started\""
     },
     {
       "ticker": "XLU",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Loom After Stock Market Sell-Off; Apple, Palantir, Midterm Elections In ...\""
+      "move_reason": "News: \"A Stock Market Smackdown Week: Elections, Jobs Data, Iran And Earnings\""
     },
     {
       "ticker": "NBIS",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"FuelCell Energy Sinks 12% Despite Completing $49 Million Export-Import Bank Financing; Blo...\""
+      "move_reason": "News: \"Top Investor: CoreWeave Locked In Compute \u201cWay, Way Under Market.\u201d Rising GPU Prices Won\u2019t...\""
     },
     {
       "ticker": "CRWV",
@@ -152,7 +152,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI investors rush to hedge against potential tech market downturn - WSJ\""
+      "move_reason": "News: \"Top Investor: CoreWeave Locked In Compute \u201cWay, Way Under Market.\u201d Rising GPU Prices Won\u2019t...\""
     },
     {
       "ticker": "PLTR",
@@ -211,7 +211,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Medtronic Just Retired 55 Million Shares Without Spending Cash. Is the Stock a Buy?\""
+      "move_reason": "News: \"One of the Fastest-Growing Segments of the Crypto Market Involves Artificial Intelligence....\""
     },
     {
       "ticker": "QQQ",
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cenergy Holdings And 2 Top Grid Stocks\""
+      "move_reason": "News: \"NextEra Energy Heads These 3 Nuclear Stocks To Watch\""
     },
     {
       "ticker": "OSCR",
@@ -307,7 +307,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Loom After Stock Market Sell-Off; Apple, Palantir, Midterm Elections In ...\""
+      "move_reason": "News: \"A Stock Market Smackdown Week: Elections, Jobs Data, Iran And Earnings\""
     },
     {
       "ticker": "APA",
@@ -331,7 +331,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI investors rush to hedge against potential tech market downturn - WSJ\""
+      "move_reason": "News: \"Top Investor: CoreWeave Locked In Compute \u201cWay, Way Under Market.\u201d Rising GPU Prices Won\u2019t...\""
     },
     {
       "ticker": "DG",
@@ -355,7 +355,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cenergy Holdings And 2 Top Grid Stocks\""
+      "move_reason": "News: \"NextEra Energy Heads These 3 Nuclear Stocks To Watch\""
     },
     {
       "ticker": "IWM",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"FuelCell Energy Sinks 12% Despite Completing $49 Million Export-Import Bank Financing; Blo...\""
+      "move_reason": "News: \"Top Investor: CoreWeave Locked In Compute \u201cWay, Way Under Market.\u201d Rising GPU Prices Won\u2019t...\""
     },
     {
       "ticker": "NVDA",
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Medtronic Just Retired 55 Million Shares Without Spending Cash. Is the Stock a Buy?\""
+      "move_reason": "News: \"One of the Fastest-Growing Segments of the Crypto Market Involves Artificial Intelligence....\""
     },
     {
       "ticker": "OSCR",
@@ -439,7 +439,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 cash-producing stock on our buy list and 2 that underwhelm\""
+      "move_reason": "News: \"The Biggest Megatrend Of My Lifetime Is Just Getting Started\""
     },
     {
       "ticker": "TTD",
@@ -463,7 +463,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Gold And Silver: A Generational Buying Opportunity Is Emerging\""
+      "move_reason": "News: \"The Biggest Megatrend Of My Lifetime Is Just Getting Started\""
     }
   ],
   "indices": [
