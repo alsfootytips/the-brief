@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-01T19:40:56.939698+00:00",
+  "generated_at": "2026-11-01T23:07:28.419769+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What To Expect In Markets This Week: AAPL, PLTR, AMD, SMCI, SHOP, Earnings, Jobs Report An...\""
+      "move_reason": "News: \"Missed Advanced Micro Devices' 126% Run? Here Is What Holders Saw\""
     },
     {
       "ticker": "NBIS",
@@ -140,7 +140,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Top Investor: CoreWeave Locked In Compute \u201cWay, Way Under Market.\u201d Rising GPU Prices Won\u2019t...\""
+      "move_reason": "News: \"Is Nebius Stock a Buy After Its 36% Pullback?\""
     },
     {
       "ticker": "CRWV",
@@ -211,7 +211,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How Many AGNC Shares It Takes to Earn $500 a Month in Dividends\""
+      "move_reason": "News: \"MPLX Reports Earnings on Nov. 3, 2026. Here's What Investors Should Be Watching.\""
     },
     {
       "ticker": "QQQ",
@@ -307,7 +307,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What To Expect In Markets This Week: AAPL, PLTR, AMD, SMCI, SHOP, Earnings, Jobs Report An...\""
+      "move_reason": "News: \"Missed Advanced Micro Devices' 126% Run? Here Is What Holders Saw\""
     },
     {
       "ticker": "APA",
@@ -379,7 +379,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Top Investor: CoreWeave Locked In Compute \u201cWay, Way Under Market.\u201d Rising GPU Prices Won\u2019t...\""
+      "move_reason": "News: \"Is Nebius Stock a Buy After Its 36% Pullback?\""
     },
     {
       "ticker": "NVDA",
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How Many AGNC Shares It Takes to Earn $500 a Month in Dividends\""
+      "move_reason": "News: \"MPLX Reports Earnings on Nov. 3, 2026. Here's What Investors Should Be Watching.\""
     },
     {
       "ticker": "OSCR",
