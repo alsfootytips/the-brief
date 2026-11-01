@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-11-01T01:30:26.466352+00:00",
+  "generated_at": "2026-11-01T08:02:32.340105+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -60,7 +60,7 @@ window.theBriefLive = {
       "change_pct": -5.59,
       "price": 12.33,
       "is_watchlist": true,
-      "timestamp": "2026-11-01T01:30:26.463597+00:00",
+      "timestamp": "2026-11-01T08:02:32.337522+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -72,7 +72,7 @@ window.theBriefLive = {
       "change_pct": -3.18,
       "price": 615.0,
       "is_watchlist": true,
-      "timestamp": "2026-11-01T01:30:26.463594+00:00",
+      "timestamp": "2026-11-01T08:02:32.337519+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -84,7 +84,7 @@ window.theBriefLive = {
       "change_pct": -5.92,
       "price": 184.78,
       "is_watchlist": false,
-      "timestamp": "2026-11-01T01:30:26.463591+00:00",
+      "timestamp": "2026-11-01T08:02:32.337516+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -96,7 +96,7 @@ window.theBriefLive = {
       "change_pct": -3.94,
       "price": 205.25,
       "is_watchlist": true,
-      "timestamp": "2026-11-01T01:30:26.463587+00:00",
+      "timestamp": "2026-11-01T08:02:32.337513+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -108,7 +108,7 @@ window.theBriefLive = {
       "change_pct": -9.48,
       "price": 155.69,
       "is_watchlist": true,
-      "timestamp": "2026-11-01T01:30:26.463584+00:00",
+      "timestamp": "2026-11-01T08:02:32.337509+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -120,7 +120,7 @@ window.theBriefLive = {
       "change_pct": -3.1,
       "price": 860.35,
       "is_watchlist": true,
-      "timestamp": "2026-11-01T01:30:26.463574+00:00",
+      "timestamp": "2026-11-01T08:02:32.337500+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -132,7 +132,7 @@ window.theBriefLive = {
       "change_pct": -9.19,
       "price": 55.16,
       "is_watchlist": true,
-      "timestamp": "2026-11-01T01:30:26.463570+00:00",
+      "timestamp": "2026-11-01T08:02:32.337496+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -144,7 +144,7 @@ window.theBriefLive = {
       "change_pct": -10.28,
       "price": 508.22,
       "is_watchlist": true,
-      "timestamp": "2026-11-01T01:30:26.463560+00:00",
+      "timestamp": "2026-11-01T08:02:32.337487+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -152,35 +152,185 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "UK PM Burnham says he is \u2019open\u2019 to formal apology for slavery, but rules out reparations",
+      "headline": "Xiaomi\u2019s October EV deliveries top 50,000, hit 2026 monthly high",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/uk-pm-burnham-says-he-is-open-to-formal-apology-for-slavery-but-rules-out-reparations-4989219",
+      "url": "https://www.investing.com/news/stock-market-news/xiaomis-october-ev-deliveries-top-50000-hit-2026-monthly-high-4989416",
       "is_watchlist": false,
-      "timestamp": "2026-11-01T01:18:22+00:00",
+      "timestamp": "2026-11-01T07:42:22+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "South Korea exports nearly double in October, strongest growth since 1974",
+      "headline": "Iran offers 48-hour Hormuz reopening plan as Trump signals progress in talks",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economic-indicators/south-korea-exports-nearly-double-in-october-strongest-growth-since-1974-4989354",
+      "url": "https://www.investing.com/news/economy-news/iran-offers-48hour-hormuz-reopening-plan-as-trump-signals-progress-in-talks-4989413",
       "is_watchlist": false,
-      "timestamp": "2026-11-01T00:42:19+00:00",
+      "timestamp": "2026-11-01T07:18:26+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bitcoin tests 38.2% Fib after triangle breakdown: Live levels",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-breaks-below-key-mas-amid-distribution-live-levels-93CH-4971508",
+      "is_watchlist": false,
+      "timestamp": "2026-11-01T07:01:45+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "FBI links record $6.3 billion Binance crypto theft to North Korea",
+      "headline": "Bangladesh forms wage board as garment protests turn violent",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/fbi-links-record-63-billion-binance-crypto-theft-to-north-korea-4989353",
+      "url": "https://www.investing.com/news/commodities-news/bangladesh-to-form-wage-board-after-garment-protests-shut-factories-4989374",
       "is_watchlist": false,
-      "timestamp": "2026-11-01T00:38:48+00:00",
+      "timestamp": "2026-11-01T07:00:22+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Binance resumes bitcoin withdrawals after covering bulk of stolen $6.3 billion",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/binance-to-resume-withdrawals-after-recovering-bulk-of-6-billion-in-stolen-funds-4989388",
+      "is_watchlist": false,
+      "timestamp": "2026-11-01T06:54:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Who are the spillover winners from the AI export boom in Asia?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/who-are-the-spillover-winners-from-the-ai-export-boom-in-asia-4989410",
+      "is_watchlist": false,
+      "timestamp": "2026-11-01T06:50:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Truist Financial CEO Michael Lyons buys $1.2M in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/truist-financial-ceo-michael-lyons-buys-12m-in-company-stock-93CH-4989408",
+      "is_watchlist": false,
+      "timestamp": "2026-11-01T06:46:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Actuate Therapeutics CEO Daniel Schmitt purchases $49,999 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/actuate-therapeutics-ceo-daniel-schmitt-purchases-49999-in-stock-93CH-4989402",
+      "is_watchlist": false,
+      "timestamp": "2026-11-01T06:31:11+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Companies promised AI gains\u2014 here's how the payoff showed up in earnings",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+      "is_watchlist": false,
+      "timestamp": "2026-11-01T06:00:01+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "GEV",
+      "headline": "Cenergy Holdings And 2 Top Grid Stocks",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7ef384a8d986e4dcb6ea2ebd843585c6eaa03b853b40b70ce17cb7f417426017",
+      "is_watchlist": true,
+      "timestamp": "2026-11-01T05:13:39+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Germany must do more to boost gas reserves as storage levels hit record low, lobby group says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTzBFS0hhWUtOcVhOMDVsX25TV3R4eENLbjdCMUpDRDByYTBHWjU3MmtycmM2blh4Y1Y3V2t6SUhIODJidldfcjNOdG0zVHRNdVFWdXZKWVhJeWdFWE9LaDA1MnJlbk1vaC1qLUpuZWU0WERCckY3Nk4tLUhHcnNFZ1pJdzJYRTFxWFl4cjRTNG53QmxkSDAxUUd2NjdnRUhOTDBhbUx5eUppU3Q4Vmh0aFExRlVRTUJzUGl1aWgySFZtRjlnb1E?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-11-01T05:04:00+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Medtronic Just Retired 55 Million Shares Without Spending Cash. Is the Stock a Buy?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ecb290fadeb4b510c56bb4e14bdcecfb3280622c040777b8b1b55720f2933604",
+      "is_watchlist": true,
+      "timestamp": "2026-11-01T04:41:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "2 Unstoppable Growth Stocks I'd Buy With $1,000 and Hold for a Decade",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d7d303a3c8b727202184fa7e11627ca2d258878c57f433d5c6de19f3a5800662",
+      "is_watchlist": true,
+      "timestamp": "2026-11-01T04:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Micron's Chinese Rival CXMT Just Grew Its Sales More Than Sevenfold. I'd Buy Micron Stock Now.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5c7f23a69be55171742486985b32cf863e0a92017973c23117b898bc866b6c60",
+      "is_watchlist": true,
+      "timestamp": "2026-11-01T03:33:01+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "CRWV",
+      "headline": "AI investors rush to hedge against potential tech market downturn - WSJ",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d13688cb951a571125a80615fd1e9b41ff8deeed7a0c4d6c73a39cfc943006c1",
+      "is_watchlist": true,
+      "timestamp": "2026-11-01T03:02:11+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Dow Jones Futures Loom After Stock Market Sell-Off; Apple, Palantir, Midterm Elections In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=125e48825bd1f07d49eaa70961ebe0aab5f08a9db0ad3183a4907b8fa56974a2",
+      "is_watchlist": true,
+      "timestamp": "2026-11-01T02:44:14+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -193,28 +343,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Republic Bancorp EVP Jeff Starke sells $75,769 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/republic-bancorp-evp-jeff-starke-sells-75769-in-stock-93CH-4989350",
-      "is_watchlist": false,
-      "timestamp": "2026-11-01T00:16:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Russian oil tankers deploy makeshift drone defenses amid Ukraine attacks - WSJ",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/russian-oil-tankers-deploy-makeshift-drone-defenses-amid-ukraine-attacks--wsj-4989348",
-      "is_watchlist": false,
-      "timestamp": "2026-10-31T23:56:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -241,52 +369,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "1 Big Winner and 1 Loser From the Upcoming Anthropic IPO",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=86a07bce162076ca292361cc81b1064479fd4e812dbac9cfea20f38a41af0a8c",
-      "is_watchlist": true,
-      "timestamp": "2026-10-31T23:05:02+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Judge ends Trump\u2019s attempts to sue Wall Street Journal over Epstein reporting",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-trumps-lawsuit-against-wall-street-journal-with-prejudice-4989324",
-      "is_watchlist": false,
-      "timestamp": "2026-10-31T23:00:35+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Top takeaways from Bernstein\u2019s annual Global Sportswear survey",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/top-takeaways-from-bernsteins-annual-global-sportswear-survey-4989345",
-      "is_watchlist": false,
-      "timestamp": "2026-10-31T22:57:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "After Eli Lilly\u2019s Explosive Earnings Report, Is It Too Late to Buy the Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=b7ca93e58f918d2abd9b2ba809bb6712d8650e7827a434036efde8300eb984da",
-      "is_watchlist": true,
-      "timestamp": "2026-10-31T22:30:02+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
       "source": "CNBC Top",
@@ -294,29 +376,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-10-31T22:27:56+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Nvidia (NVDA) CEO Jensen Huang Reportedly Targeted In Chinese Espionage Plot",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=07715da94b2f2a6b8a5a263139790ca3cc26191c13c495707368d318270c9d67",
-      "is_watchlist": true,
-      "timestamp": "2026-10-31T22:08:18+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4989336",
-      "is_watchlist": false,
-      "timestamp": "2026-10-31T21:20:03+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -406,6 +465,17 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
       "is_watchlist": false,
       "timestamp": "2026-10-31T19:56:23+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "UN says Yemeni staff member dies in Houthi custody, demands investigation - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVjU5VUNuY25Gb0FFSjFteXRhNE1EeTJkZk53dUxJOEpmNmpqZzZ0Nm1nZFdiMXU1cmI5ODVDa3ZYVTRuZDVkQTdfRWFZd3hVTm1EMXNYalp5NHctOGpLM0RDYVVreHFmN1VLa293VzZNZG1iX2cxZFNsOFVYSUlaN0Z1MTR3OWZMelRZLXBkb3RQOW16NUc0d2t0Y0tfZndpalVKZ245U01HU1V0OVdGbk5MNjJIOExSeVV2QkZzT1c?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-10-31T19:37:51+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -733,29 +803,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "AMD Just Dropped 11% in a Day as Intel\u2019s PC Warning Rattles Chips. Is It Time to Sell, or Load Up?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=64e91a56867103788a30db9da85b523aae5d345c2c51ca700edad4b1768a04cb",
-      "is_watchlist": true,
-      "timestamp": "2026-10-31T11:44:03+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Anthropic's path to the Nasdaq just got a lot bumpier",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
-      "is_watchlist": false,
-      "timestamp": "2026-10-31T11:00:01+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "The rise of the 15-foot skeleton\u2014how a viral novelty became a Halloween staple",
       "source": "CNBC",
@@ -825,62 +872,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Jordan stops fighters attempting to enter from Syria, armed forces say - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUnZYN3pDajdLZXp1ZVlXeF8xTDNIc04xR2tMRXFsUzZsZTh4ckszeDM0V3daV1haWE15THZRUU43QlhxUFZfLWp5Z05SQmVENzBEbGJEcHhRdDR2elJBM2ExRVN2NlNqRldidDJQdXBMLVBUc1BHY0JaZ25Yblpwd2hlRnF6ZEljb3p5d3VxVG9Ya0poeXJWZnEzUmZfclVwSTVROGdkZjJFdDIzczd3TzBja1UxUQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-10-31T08:36:19+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Iran"
-      ],
-      "ticker": null,
-      "headline": "Egypt fears escalation in Iran war would be more destructive, foreign minister says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVUNZU3g2dW4xamJOV3lTQ251RzhyLXd4dHY5eTRvVFkwOXF6Vm4zUkxCdVEzaEE1R3BxQS16NlE2WlFQYlpsaUlxQkhNSHlTeGNzSmZGbXB1eFVGdUJkbExRZFUxcnJBZ0JXVklVaEpQdXExWWpyQ3FUSzg5alJFak9TSllUbUt4LWl6WHlMcWR3TU9kV3pXN3E1dUlyLUFnai1UdzhIY1RDdS1NWXQxQUU4X1FYalpRVUtWcWVBUGIwb0lNb3JrdENIVzYzdw?oc=5",
-      "is_watchlist": true,
-      "timestamp": "2026-10-31T08:21:43+00:00",
-      "relevance_score": 8.0,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "SpaceX Just Dropped 9% in a October. Is It Time to Sell, or Load Up?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bf5df9fd7948c05fdf1fb1c9eee899a5531abff809c85de7fb6bb234118dc5ee",
-      "is_watchlist": true,
-      "timestamp": "2026-10-31T07:20:04+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "XLE",
       "headline": "Gold And Silver: A Generational Buying Opportunity Is Emerging",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=5a10bb93abce375a658e23ea075b73fe2223ecfafdcc4563f60fb6f4458d5092",
       "is_watchlist": true,
       "timestamp": "2026-10-31T07:05:49+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "GEV",
-      "headline": "GE Vernova: Waiting For The Margin In The Backlog - Hold",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=6758a705c8b6bcf831016e5ec9036e6f0f1694794ee2e54c286def73a3371d3b",
-      "is_watchlist": true,
-      "timestamp": "2026-10-31T04:03:53+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"

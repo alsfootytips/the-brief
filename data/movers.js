@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-01T01:30:26.456749+00:00",
+  "generated_at": "2026-11-01T08:02:32.331095+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Intel Has a Massive Warning for AMD Stock Investors. Is It Time to Book Profits Before Nov...\""
+      "move_reason": "News: \"Dow Jones Futures Loom After Stock Market Sell-Off; Apple, Palantir, Midterm Elections In ...\""
     },
     {
       "ticker": "NBIS",
@@ -152,7 +152,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Trumpflation Is Getting Worse and It Could Trigger a Wall Street Nightmare\""
+      "move_reason": "News: \"AI investors rush to hedge against potential tech market downturn - WSJ\""
     },
     {
       "ticker": "PLTR",
@@ -211,7 +211,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 Big Winner and 1 Loser From the Upcoming Anthropic IPO\""
+      "move_reason": "News: \"Medtronic Just Retired 55 Million Shares Without Spending Cash. Is the Stock a Buy?\""
     },
     {
       "ticker": "QQQ",
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"5 Best Energy Infrastructure Stocks That Will Skyrocket\""
+      "move_reason": "News: \"Cenergy Holdings And 2 Top Grid Stocks\""
     },
     {
       "ticker": "OSCR",
@@ -307,7 +307,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Intel Has a Massive Warning for AMD Stock Investors. Is It Time to Book Profits Before Nov...\""
+      "move_reason": "News: \"Dow Jones Futures Loom After Stock Market Sell-Off; Apple, Palantir, Midterm Elections In ...\""
     },
     {
       "ticker": "APA",
@@ -331,7 +331,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Trumpflation Is Getting Worse and It Could Trigger a Wall Street Nightmare\""
+      "move_reason": "News: \"AI investors rush to hedge against potential tech market downturn - WSJ\""
     },
     {
       "ticker": "DG",
@@ -355,7 +355,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"5 Best Energy Infrastructure Stocks That Will Skyrocket\""
+      "move_reason": "News: \"Cenergy Holdings And 2 Top Grid Stocks\""
     },
     {
       "ticker": "IWM",
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 Big Winner and 1 Loser From the Upcoming Anthropic IPO\""
+      "move_reason": "News: \"Medtronic Just Retired 55 Million Shares Without Spending Cash. Is the Stock a Buy?\""
     },
     {
       "ticker": "OSCR",
