@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-01T23:07:28.419769+00:00",
+  "generated_at": "2026-11-02T02:31:57.493229+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 value stock to own for decades and 2 we ignore\""
+      "move_reason": "Tracking XLE sector (+1.91% today)"
     },
     {
       "ticker": "DG",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Occidental Petroleum (OXY) Rises As Market Takes a Dip: Key Facts\""
+      "move_reason": "Tracking XLE sector (+1.91% today)"
     },
     {
       "ticker": "XLP",
@@ -128,7 +128,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Missed Advanced Micro Devices' 126% Run? Here Is What Holders Saw\""
+      "move_reason": "News: \"Dow Jones Futures Rise After Market Sell-Off; How Midterm Elections May Swing Stocks\""
     },
     {
       "ticker": "NBIS",
@@ -176,7 +176,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Did The Market Read AppLovin Stock Right?\""
+      "move_reason": "News: \"Reddit vs. The Trade Desk: One's Revenue Growth Overtook the Other's Lead\""
     },
     {
       "ticker": "XLK",
@@ -211,7 +211,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"MPLX Reports Earnings on Nov. 3, 2026. Here's What Investors Should Be Watching.\""
+      "move_reason": "News: \"Here's My Top Reason to Buy SpaceX Stock Right Now\""
     },
     {
       "ticker": "QQQ",
@@ -258,7 +258,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health, Inc. (OSCR) is Attracting Investor Attention: Here is What You Should Know\""
+      "move_reason": ""
     },
     {
       "ticker": "SPY",
@@ -307,7 +307,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Missed Advanced Micro Devices' 126% Run? Here Is What Holders Saw\""
+      "move_reason": "News: \"Dow Jones Futures Rise After Market Sell-Off; How Midterm Elections May Swing Stocks\""
     },
     {
       "ticker": "APA",
@@ -319,7 +319,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 value stock to own for decades and 2 we ignore\""
+      "move_reason": "Tracking XLE sector (+1.91% today)"
     },
     {
       "ticker": "CRWV",
@@ -391,7 +391,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"MPLX Reports Earnings on Nov. 3, 2026. Here's What Investors Should Be Watching.\""
+      "move_reason": "News: \"Here's My Top Reason to Buy SpaceX Stock Right Now\""
     },
     {
       "ticker": "OSCR",
@@ -403,7 +403,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Oscar Health, Inc. (OSCR) is Attracting Investor Attention: Here is What You Should Know\""
+      "move_reason": ""
     },
     {
       "ticker": "OXY",
@@ -415,7 +415,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Occidental Petroleum (OXY) Rises As Market Takes a Dip: Key Facts\""
+      "move_reason": "Tracking XLE sector (+1.91% today)"
     },
     {
       "ticker": "PWR",
@@ -451,7 +451,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Did The Market Read AppLovin Stock Right?\""
+      "move_reason": "News: \"Reddit vs. The Trade Desk: One's Revenue Growth Overtook the Other's Lead\""
     },
     {
       "ticker": "XLE",
@@ -624,36 +624,36 @@ window.theBriefMovers = {
   ],
   "watchlist_radar": [
     {
-      "ticker": "CRWV",
-      "name": "CoreWeave",
-      "price": 55.16,
-      "change_pct": -9.19,
-      "score": 8.5,
+      "ticker": "TTD",
+      "name": "The Trade Desk",
+      "price": 12.33,
+      "change_pct": -5.59,
+      "score": 10.0,
       "signals": [
-        "Moved -9.19% \u2014 a 1.6\u03c3 move vs typical 5.6% daily vol",
+        "Moved -5.59% \u2014 a 1.9\u03c3 move vs typical 2.9% daily vol",
         "3 news items in the last 3 days",
-        "7 insider sells vs 3 buys (last 90 days)",
-        "+4 analyst buy recs added recently",
-        "Down -36.0% over 3 months \u2014 deep drawdown",
-        "-60.2% from 52-week high"
+        "Earnings within 7 days",
+        "Forward P/E 12.2 (cheap on absolute basis)",
+        "Down -32.8% over 3 months \u2014 deep drawdown",
+        "-75.6% from 52-week high"
       ],
       "reasons": [
-        "Moved -9.19% \u2014 a 1.6\u03c3 move vs typical 5.6% daily vol",
+        "Moved -5.59% \u2014 a 1.9\u03c3 move vs typical 2.9% daily vol",
         "3 news items in the last 3 days",
-        "7 insider sells vs 3 buys (last 90 days)",
-        "+4 analyst buy recs added recently",
-        "Down -36.0% over 3 months \u2014 deep drawdown",
-        "-60.2% from 52-week high"
+        "Earnings within 7 days",
+        "Forward P/E 12.2 (cheap on absolute basis)",
+        "Down -32.8% over 3 months \u2014 deep drawdown",
+        "-75.6% from 52-week high"
       ],
       "tags": [
         "moderate-move",
         "news-flow",
-        "insider-selling",
-        "analyst-upgrade",
+        "earnings-soon",
+        "cheap",
         "drawdown",
         "off-highs"
       ],
-      "narrative": "<strong>CRWV</strong> is accumulating signals worth tracking.",
+      "narrative": "<strong>TTD</strong> reports earnings within the next 7 days \u2014 the print resolves the thesis.",
       "sector_etf": "XLK"
     },
     {
@@ -687,60 +687,34 @@ window.theBriefMovers = {
       "sector_etf": "XLK"
     },
     {
-      "ticker": "TTD",
-      "name": "The Trade Desk",
-      "price": 12.33,
-      "change_pct": -5.59,
+      "ticker": "CRWV",
+      "name": "CoreWeave",
+      "price": 55.16,
+      "change_pct": -9.19,
       "score": 7.0,
       "signals": [
-        "Moved -5.59% \u2014 a 1.9\u03c3 move vs typical 2.9% daily vol",
+        "Moved -9.19% \u2014 a 1.6\u03c3 move vs typical 5.6% daily vol",
         "3 news items in the last 3 days",
-        "Forward P/E 12.2 (cheap on absolute basis)",
-        "Down -32.8% over 3 months \u2014 deep drawdown",
-        "-75.6% from 52-week high"
+        "7 insider sells vs 3 buys (last 90 days)",
+        "Down -36.0% over 3 months \u2014 deep drawdown",
+        "-60.2% from 52-week high"
       ],
       "reasons": [
-        "Moved -5.59% \u2014 a 1.9\u03c3 move vs typical 2.9% daily vol",
+        "Moved -9.19% \u2014 a 1.6\u03c3 move vs typical 5.6% daily vol",
         "3 news items in the last 3 days",
-        "Forward P/E 12.2 (cheap on absolute basis)",
-        "Down -32.8% over 3 months \u2014 deep drawdown",
-        "-75.6% from 52-week high"
+        "7 insider sells vs 3 buys (last 90 days)",
+        "Down -36.0% over 3 months \u2014 deep drawdown",
+        "-60.2% from 52-week high"
       ],
       "tags": [
         "moderate-move",
         "news-flow",
-        "cheap",
+        "insider-selling",
         "drawdown",
         "off-highs"
       ],
-      "narrative": "<strong>TTD</strong> has been beaten down hard and now trades at a low valuation \u2014 value setup.",
+      "narrative": "<strong>CRWV</strong> is accumulating signals worth tracking.",
       "sector_etf": "XLK"
-    },
-    {
-      "ticker": "DG",
-      "name": "Dollar General",
-      "price": 133.06,
-      "change_pct": 2.29,
-      "score": 7.0,
-      "signals": [
-        "Moved +2.29% \u2014 a 1.0\u03c3 move",
-        "2 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "5 insider buys vs 1 sells (last 90 days)"
-      ],
-      "reasons": [
-        "Moved +2.29% \u2014 a 1.0\u03c3 move",
-        "2 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "5 insider buys vs 1 sells (last 90 days)"
-      ],
-      "tags": [
-        "news-flow",
-        "filing",
-        "insider-buying"
-      ],
-      "narrative": "<strong>DG</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLP"
     },
     {
       "ticker": "AMD",
@@ -844,6 +818,53 @@ window.theBriefMovers = {
       "sector_etf": "XLE"
     },
     {
+      "ticker": "OXY",
+      "name": "Occidental Petroleum",
+      "price": 63.93,
+      "change_pct": 1.46,
+      "score": 5.5,
+      "signals": [
+        "2 news items in the last 3 days",
+        "Earnings within 7 days",
+        "Forward P/E 12.8 (cheap on absolute basis)"
+      ],
+      "reasons": [
+        "2 news items in the last 3 days",
+        "Earnings within 7 days",
+        "Forward P/E 12.8 (cheap on absolute basis)"
+      ],
+      "tags": [
+        "news-flow",
+        "earnings-soon",
+        "cheap"
+      ],
+      "narrative": "<strong>OXY</strong> reports earnings within the next 7 days \u2014 the print resolves the thesis.",
+      "sector_etf": "XLE"
+    },
+    {
+      "ticker": "DG",
+      "name": "Dollar General",
+      "price": 133.06,
+      "change_pct": 2.29,
+      "score": 5.5,
+      "signals": [
+        "Moved +2.29% \u2014 a 1.0\u03c3 move",
+        "1 SEC filing in the last 7 days",
+        "5 insider buys vs 1 sells (last 90 days)"
+      ],
+      "reasons": [
+        "Moved +2.29% \u2014 a 1.0\u03c3 move",
+        "1 SEC filing in the last 7 days",
+        "5 insider buys vs 1 sells (last 90 days)"
+      ],
+      "tags": [
+        "filing",
+        "insider-buying"
+      ],
+      "narrative": "<strong>DG</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLP"
+    },
+    {
       "ticker": "PWR",
       "name": "Quanta Services",
       "price": 615.0,
@@ -888,30 +909,6 @@ window.theBriefMovers = {
         "cheap"
       ],
       "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLE"
-    },
-    {
-      "ticker": "OXY",
-      "name": "Occidental Petroleum",
-      "price": 63.93,
-      "change_pct": 1.46,
-      "score": 4.0,
-      "signals": [
-        "3 news items in the last 3 days",
-        "+2 analyst buy recs added recently",
-        "Forward P/E 12.8 (cheap on absolute basis)"
-      ],
-      "reasons": [
-        "3 news items in the last 3 days",
-        "+2 analyst buy recs added recently",
-        "Forward P/E 12.8 (cheap on absolute basis)"
-      ],
-      "tags": [
-        "news-flow",
-        "analyst-upgrade",
-        "cheap"
-      ],
-      "narrative": "<strong>OXY</strong> trades cheap on forward earnings while sell-side estimates are revising higher.",
       "sector_etf": "XLE"
     },
     {
