@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-11-03T02:23:54.774520+00:00",
+  "generated_at": "2026-11-03T03:13:16.124598+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -73,7 +73,7 @@ window.theBriefLive = {
       "change_pct": -3.68,
       "price": 67.44,
       "is_watchlist": true,
-      "timestamp": "2026-11-03T02:23:54.771896+00:00",
+      "timestamp": "2026-11-03T03:13:15.978031+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -85,7 +85,7 @@ window.theBriefLive = {
       "change_pct": -6.04,
       "price": 172.99,
       "is_watchlist": false,
-      "timestamp": "2026-11-03T02:23:54.771892+00:00",
+      "timestamp": "2026-11-03T03:13:15.978028+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -97,7 +97,7 @@ window.theBriefLive = {
       "change_pct": -4.64,
       "price": 61.03,
       "is_watchlist": true,
-      "timestamp": "2026-11-03T02:23:54.771888+00:00",
+      "timestamp": "2026-11-03T03:13:15.978026+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -109,7 +109,7 @@ window.theBriefLive = {
       "change_pct": -7.49,
       "price": 142.6,
       "is_watchlist": true,
-      "timestamp": "2026-11-03T02:23:54.771885+00:00",
+      "timestamp": "2026-11-03T03:13:15.978024+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -121,7 +121,7 @@ window.theBriefLive = {
       "change_pct": -7.33,
       "price": 50.85,
       "is_watchlist": true,
-      "timestamp": "2026-11-03T02:23:54.771875+00:00",
+      "timestamp": "2026-11-03T03:13:15.978017+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -133,7 +133,7 @@ window.theBriefLive = {
       "change_pct": -7.42,
       "price": 48.9,
       "is_watchlist": true,
-      "timestamp": "2026-11-03T02:23:54.771871+00:00",
+      "timestamp": "2026-11-03T03:13:15.978015+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -145,7 +145,7 @@ window.theBriefLive = {
       "change_pct": -6.5,
       "price": 472.0,
       "is_watchlist": true,
-      "timestamp": "2026-11-03T02:23:54.771862+00:00",
+      "timestamp": "2026-11-03T03:13:15.978010+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -153,12 +153,90 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/blackstone-president-says-more-tech-sector-fundraising-ahead-to-keep-up-with-ai-industry-growth-4993385",
+      "headline": "Palantir forecasts Q4 revenue of $2.649B-$2.653B as it raises 2026 revenue guidance to $8.530B-$8.534B",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4663068-palantir-forecasts-q4-revenue-of-2_649b-2_653b-as-it-raises-2026-revenue-guidance-to-8_530b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-11-03T02:18:23+00:00",
+      "timestamp": "2026-11-03T03:09:23+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "V2X lifts 2026 outlook to $4.95B-$5.1B revenue as it expects EPS and free cash flow growth in 2027",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4663067-v2x-lifts-2026-outlook-to-4_95b-5_1b-revenue-as-it-expects-eps-and-free-cash-flow-growth-in?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-03T03:09:20+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jazz outlines $4.775B-$4.85B 2026 revenue guidance as Ziihera launch builds toward $3B-$5B peak sales potential",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4663066-jazz-outlines-4_775b-4_85b-2026-revenue-guidance-as-ziihera-launch-builds-toward-3b-5b-peak?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-03T02:59:22+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Si-bone reaffirms 2026 revenue outlook as Onyx launch targets $5B annual market opportunity",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4663065-si-bone-reaffirms-2026-revenue-outlook-as-onyx-launch-targets-5b-annual-market-opportunity?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-03T02:59:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for \u2018negotiated settlement\u2019 with Tehran",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
+      "is_watchlist": false,
+      "timestamp": "2026-11-03T02:51:33+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "North Korea denies links to Binance hack as researchers trace stolen billions",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
+      "is_watchlist": false,
+      "timestamp": "2026-11-03T02:50:34+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "EverQuote outlines $213M-$223M Q4 2026 revenue while investing in agentic LLM channels",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4663064-everquote-outlines-213m-223m-q4-2026-revenue-while-investing-in-agentic-llm-channels?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-03T02:49:28+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Earnings beat, guidance raised: our AI-picked pharma stock is up 23.96%",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/earnings-beat-guidance-raised-our-aipicked-pharma-stock-is-up-2396-4993408",
+      "is_watchlist": false,
+      "timestamp": "2026-11-03T02:48:17+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
@@ -168,62 +246,106 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html",
       "is_watchlist": false,
-      "timestamp": "2026-11-03T02:17:10+00:00",
+      "timestamp": "2026-11-03T02:47:57+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Dolphin Entertainment CEO O\u2019Dowd IV buys $4,965 in company stock",
+      "headline": "Asian stocks retreat ahead of US midterms, oil steadies",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/dolphin-entertainment-ceo-odowd-iv-buys-4965-in-company-stock-93CH-4993384",
+      "url": "https://www.investing.com/news/economy-news/asian-stocks-retreat-ahead-of-us-midterms-oil-steadies-4993399",
       "is_watchlist": false,
-      "timestamp": "2026-11-03T02:15:56+00:00",
+      "timestamp": "2026-11-03T02:42:26+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Douglas Dynamics earnings beat by $0.06, revenue fell short of estimates",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/douglas-dynamics-earnings-beat-by-006-revenue-fell-short-of-estimates-4993379",
+      "headline": "Emergent outlines $600M-$645M 2026 revenue outlook while raising adjusted gross margin to 45%-47%",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4663063-emergent-outlines-600m-645m-2026-revenue-outlook-while-raising-adjusted-gross-margin-to-45?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-11-03T02:14:23+00:00",
+      "timestamp": "2026-11-03T02:39:24+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Tactile Systems earnings beat by $0.02, revenue fell short of estimates",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/tactile-systems-earnings-beat-by-002-revenue-fell-short-of-estimates-4993378",
+      "headline": "Bwx technologies targets $5.5B-$6B revenue and $1.1B-$1.2B adjusted EBITDA by 2030 while raising 2026 free cash flow floor to $350M",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4663062-bwx-technologies-targets-5_5b-6b-revenue-and-1_1b-1_2b-adjusted-ebitda-by-2030-while-raising?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-11-03T02:13:13+00:00",
+      "timestamp": "2026-11-03T02:39:14+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Site Centers earnings matched, revenue fell short of estimates",
+      "headline": "JetBlue director Peter Boneparth buys $300,000 in shares",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/site-centers-earnings-matched-revenue-fell-short-of-estimates-4993377",
+      "url": "https://www.investing.com/news/insider-trading-news/jetblue-director-peter-boneparth-buys-300000-in-shares-93CH-4993400",
       "is_watchlist": false,
-      "timestamp": "2026-11-03T02:12:18+00:00",
+      "timestamp": "2026-11-03T02:31:35+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "LG Energy Solution Q3 2026 slides: ESS surge drives revenue beat",
+      "headline": "AI investment is becoming overly concentrated, Chinese official says",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/lg-energy-solution-q3-2026-slides-ess-surge-drives-revenue-beat-93CH-4993376",
+      "url": "https://www.investing.com/news/economy-news/ai-investment-is-becoming-overly-concentrated-chinese-official-says-4993398",
       "is_watchlist": false,
-      "timestamp": "2026-11-03T02:11:51+00:00",
+      "timestamp": "2026-11-03T02:30:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/blackstone-president-says-more-tech-sector-fundraising-ahead-to-keep-up-with-ai-industry-growth-4993385",
+      "is_watchlist": false,
+      "timestamp": "2026-11-03T02:30:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Ingram Micro affiliate prices 11M share offering at $25.90",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/ingram-micro-affiliate-prices-11m-share-offering-at-2590-93CH-4993394",
+      "is_watchlist": false,
+      "timestamp": "2026-11-03T02:28:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Apple suppliers split in Asia as strong iPhone sales meet rising memory costs",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/apple-suppliers-split-in-asia-as-strong-iphone-sales-meet-rising-memory-costs-4993393",
+      "is_watchlist": false,
+      "timestamp": "2026-11-03T02:28:25+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Early bird Black Friday: Up to 55% off InvestingPro \u2013 the lowest price of the year",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/early-bird-black-friday-up-to-55-off-investingpro--the-lowest-price-of-the-year-4993392",
+      "is_watchlist": false,
+      "timestamp": "2026-11-03T02:27:16+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -241,121 +363,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Otter Tail earnings missed by $0.09, revenue fell short of estimates",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/otter-tail-earnings-missed-by-009-revenue-fell-short-of-estimates-4993375",
-      "is_watchlist": false,
-      "timestamp": "2026-11-03T02:11:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Neurocrine expects double-digit 2027 INGREZZA volume growth despite mid- to high single-digit net pricing headwinds",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4663056-neurocrine-expects-double-digit-2027-ingrezza-volume-growth-despite-mid-to-high-single-digit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-03T02:09:16+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ichor signals full year 2026 revenue growth of roughly 30% while targeting 16.5% Q4 gross margin",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4663055-ichor-signals-full-year-2026-revenue-growth-of-roughly-30-percent-while-targeting-16_5?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-03T02:09:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Exclusive-Australian outback data centre pulls timeline after regulator stalls",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/exclusiveaustralian-outback-data-centre-pulls-timeline-after-regulator-stalls-4989777",
-      "is_watchlist": false,
-      "timestamp": "2026-11-03T02:06:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "North Korea denies links to Binance hack as researchers trace stolen billions",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
-      "is_watchlist": false,
-      "timestamp": "2026-11-03T01:52:28+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Fabrinet anticipates Q2 revenue of $1.6B-$1.65B while starting Building 11 with ~$3B capacity",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4663054-fabrinet-anticipates-q2-revenue-of-1_6b-1_65b-while-starting-building-11-with-3b-capacity?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-03T01:50:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Clorox forecasts 3.5%-4.5% organic sales growth as input cost inflation rises to $240M",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4663053-clorox-forecasts-3_5-percentminus-4_5-percent-organic-sales-growth-as-input-cost-inflation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-03T01:39:16+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ethos forecasts $838M-$842M FY 2026 revenue as it targets $220M-$224M in Q4",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4663052-ethos-forecasts-838m-842m-fy-2026-revenue-as-it-targets-220m-224m-in-q4?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-03T01:39:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
-      "is_watchlist": false,
-      "timestamp": "2026-11-03T01:32:13+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "North Korea denies being behind record $6.3bn Binance hack",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-11-03T01:23:03+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Realty Income targets $10B 2026 investments as it raises AFFO per share guidance to $4.45-$4.46",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4663051-realty-income-targets-10b-2026-investments-as-it-raises-affo-per-share-guidance-to-4_45-4_46?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-03T01:19:28+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
@@ -370,17 +382,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Advanced Energy forecasts Q4 revenue of $735M \u00b1 $25M while targeting >$5B capacity by end of 2028",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4663050-advanced-energy-forecasts-q4-revenue-of-735m-25m-while-targeting-5b-capacity-by-end-of-2028?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-03T01:09:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -639,17 +640,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Intel foundry push faces critical test after stock's 45% plunge in October",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/11/02/intel-foundry-faces-critical-test-after-stocks-45percent-plunge-in-october.html",
-      "is_watchlist": false,
-      "timestamp": "2026-11-02T21:59:48+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "CRWV",
       "headline": "AI Debt Boom Has A Skeptic: Canada\u2019s Biggest Pension Fund Gets Selective",
       "source": "Yahoo",
@@ -844,6 +834,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump Account holders to receive SpaceX stock from Gwynne Shotwell in December",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/11/02/trump-accounts-spacex-shares-shotwell.html",
+      "is_watchlist": false,
+      "timestamp": "2026-11-02T19:46:47+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
