@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-11-05T01:55:39.825538+00:00",
+  "generated_at": "2026-11-05T03:37:31.650511+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -47,7 +47,7 @@ window.theBriefLive = {
       "change_pct": -4.69,
       "price": 63.55,
       "is_watchlist": true,
-      "timestamp": "2026-11-05T01:55:39.673825+00:00",
+      "timestamp": "2026-11-05T03:37:31.647786+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -59,7 +59,7 @@ window.theBriefLive = {
       "change_pct": 3.42,
       "price": 13.3,
       "is_watchlist": true,
-      "timestamp": "2026-11-05T01:55:39.673822+00:00",
+      "timestamp": "2026-11-05T03:37:31.647783+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -71,7 +71,7 @@ window.theBriefLive = {
       "change_pct": -11.5,
       "price": 293.81,
       "is_watchlist": true,
-      "timestamp": "2026-11-05T01:55:39.673820+00:00",
+      "timestamp": "2026-11-05T03:37:31.647781+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -83,7 +83,7 @@ window.theBriefLive = {
       "change_pct": -11.74,
       "price": 579.89,
       "is_watchlist": true,
-      "timestamp": "2026-11-05T01:55:39.673818+00:00",
+      "timestamp": "2026-11-05T03:37:31.647778+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -95,7 +95,7 @@ window.theBriefLive = {
       "change_pct": -5.18,
       "price": 57.3,
       "is_watchlist": true,
-      "timestamp": "2026-11-05T01:55:39.673816+00:00",
+      "timestamp": "2026-11-05T03:37:31.647775+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -107,7 +107,7 @@ window.theBriefLive = {
       "change_pct": 8.3,
       "price": 35.1,
       "is_watchlist": true,
-      "timestamp": "2026-11-05T01:55:39.673814+00:00",
+      "timestamp": "2026-11-05T03:37:31.647773+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -119,7 +119,7 @@ window.theBriefLive = {
       "change_pct": -3.35,
       "price": 199.77,
       "is_watchlist": true,
-      "timestamp": "2026-11-05T01:55:39.673811+00:00",
+      "timestamp": "2026-11-05T03:37:31.647770+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -131,7 +131,7 @@ window.theBriefLive = {
       "change_pct": -9.3,
       "price": 137.54,
       "is_watchlist": true,
-      "timestamp": "2026-11-05T01:55:39.673809+00:00",
+      "timestamp": "2026-11-05T03:37:31.647767+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -143,7 +143,7 @@ window.theBriefLive = {
       "change_pct": 6.37,
       "price": 554.19,
       "is_watchlist": false,
-      "timestamp": "2026-11-05T01:55:39.673806+00:00",
+      "timestamp": "2026-11-05T03:37:31.647764+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -155,7 +155,7 @@ window.theBriefLive = {
       "change_pct": -10.15,
       "price": 824.99,
       "is_watchlist": true,
-      "timestamp": "2026-11-05T01:55:39.673797+00:00",
+      "timestamp": "2026-11-05T03:37:31.647755+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -167,7 +167,7 @@ window.theBriefLive = {
       "change_pct": 8.45,
       "price": 141.55,
       "is_watchlist": true,
-      "timestamp": "2026-11-05T01:55:39.673794+00:00",
+      "timestamp": "2026-11-05T03:37:31.647752+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -179,7 +179,7 @@ window.theBriefLive = {
       "change_pct": -11.09,
       "price": 47.78,
       "is_watchlist": true,
-      "timestamp": "2026-11-05T01:55:39.673791+00:00",
+      "timestamp": "2026-11-05T03:37:31.647749+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -191,7 +191,7 @@ window.theBriefLive = {
       "change_pct": -6.35,
       "price": 44.74,
       "is_watchlist": true,
-      "timestamp": "2026-11-05T01:55:39.673781+00:00",
+      "timestamp": "2026-11-05T03:37:31.647739+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -199,123 +199,253 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Arm signals up to $2B in Arm AGI CPU revenue across fiscal 2027-2028 as Q3 revenue seen at $1.54B",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4666031-arm-signals-up-to-2b-in-arm-agi-cpu-revenue-across-fiscal-2027minus-2028-as-q3-revenue-seen?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-05T01:46:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "HCI outlines $15M net Isaias loss for Q4 as CORE averages $8M a month",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4666030-hci-outlines-15m-net-isaias-loss-for-q4-as-core-averages-8m-a-month?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-05T01:45:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dave outlines 2026 revenue of $746M-$750M as it targets Q4 adjusted EBITDA margin of approximately 46%",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4666028-dave-outlines-2026-revenue-of-746m-750m-as-it-targets-q4-adjusted-ebitda-margin-of?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-05T01:45:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Douglas Emmett outlines 2026 FFO per share of $1.39-$1.43 as office occupancy backlog remains elevated",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4666029-douglas-emmett-outlines-2026-ffo-per-share-of-1_39-1_43-as-office-occupancy-backlog-remains?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-05T01:45:30+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Coherent outlines PhotonLink ramp to $250M+ per quarter by end of 2027, with $3B quarterly revenue target by fiscal 2027 end",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4666027-coherent-outlines-photonlink-ramp-to-250m-per-quarter-by-end-of-2027-with-3b-quarterly?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-05T01:45:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AppLovin forecasts Q4 2026 revenue of $2.365B-$2.395B as model rollout continues",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4666026-applovin-forecasts-q4-2026-revenue-of-2_365b-2_395b-as-model-rollout-continues?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-05T01:45:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Revolution Medicines reiterates $2.1B-$2.2B 2026 GAAP operating expense guidance following RASONQUE launch",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4666025-revolution-medicines-reiterates-2_1b-2_2b-2026-gaap-operating-expense-guidance-following?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-05T01:35:21+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Columbia Sportswear CFO Swanson sells $275,800 in stock",
+      "headline": "Kyle Clark, BETA CEO, sells $689,134 in class A shares",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/columbia-sportswear-cfo-swanson-sells-275800-in-stock-93CH-5001973",
+      "url": "https://www.investing.com/news/insider-trading-news/kyle-clark-beta-ceo-sells-689134-in-class-a-shares-93CH-5002118",
       "is_watchlist": false,
-      "timestamp": "2026-11-05T01:31:38+00:00",
+      "timestamp": "2026-11-05T03:31:17+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Columbia Sportswear president, Columbia brand, sells $1.35M shares",
+      "headline": "Australia\u2019s 188-year-old retailer David Jones enters administration, faces sale",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/columbia-sportswear-president-columbia-brand-sells-135m-shares-93CH-5001972",
+      "url": "https://www.investing.com/news/stock-market-news/australian-retailer-david-jones-enters-administration-and-faces-sale-media-reports-5001887",
       "is_watchlist": false,
-      "timestamp": "2026-11-05T01:31:31+00:00",
+      "timestamp": "2026-11-05T03:30:23+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Columbia Sportswear president sells $26,551 in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/columbia-sportswear-president-sells-26551-in-shares-93CH-5001971",
+      "headline": "Triton International Limited CUM RED SE F PFD declares $0.4766 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4666134-triton-international-limited-cum-red-se-f-pfd-declares-0_4766-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-11-05T01:31:30+00:00",
+      "timestamp": "2026-11-05T03:29:32+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Columbia Sportswear evp, coo Kulok sells $469,533 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/columbia-sportswear-evp-coo-kulok-sells-469533-in-stock-93CH-5001970",
+      "headline": "Triton 8.50% Cum Red Perp Pfd Series A Shs declares $0.5312 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4666133-triton-8_50-percent-cum-red-perp-pfd-series-a-shs-declares-0_5312-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-11-05T01:30:58+00:00",
+      "timestamp": "2026-11-05T03:29:09+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Triton International Limited 8% CUM PFD SER B declares $0.50 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4666132-triton-international-limited-8-percent-cum-pfd-ser-b-declares-0_50-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-05T03:28:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Triton International Limited 7.375 SR C PFD declares $0.4609 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4666131-triton-international-limited-7_375-sr-c-pfd-declares-0_4609-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-05T03:28:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Triton International Pfd Shs declares $0.4297 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4666130-triton-international-pfd-shs-declares-0_4297-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-05T03:28:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Triton International Limited 5.75% CUM PFD E declares $0.3594 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4666129-triton-international-limited-5_75-percent-cum-pfd-e-declares-0_3594-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-05T03:28:23+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Triton International Limited 7.5 CUM SER G declares $0.4687 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4666128-triton-international-limited-7_5-cum-ser-g-declares-0_4687-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-05T03:28:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Why is SK Hynix stock sliding today?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-sliding-today-93CH-5002108",
+      "is_watchlist": false,
+      "timestamp": "2026-11-05T03:22:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Rubrik CTO Arvind Nithrakashyap sells $4.5M in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/rubrik-cto-arvind-nithrakashyap-sells-45m-in-company-stock-93CH-5002106",
+      "is_watchlist": false,
+      "timestamp": "2026-11-05T03:16:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Softbank\u2019s $5.4 bln takeover of ABB robotics unit blocked by China- FT",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/softbanks-54-bln-takeover-of-abb-robotics-unit-blocked-by-china-ft-5002105",
+      "is_watchlist": false,
+      "timestamp": "2026-11-05T03:15:51+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "LIV Golf faces liquidation after BC Partners scraps rescue plan",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/11/05/liv-golf-liquidation-bc-partners.html",
+      "is_watchlist": false,
+      "timestamp": "2026-11-05T03:11:58+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Photos show Americans reacting in real-time to midterm results - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbW1ldDZNRklJd0FRTHk3Qm5pc0U2QkpKT2l6MU9CSmRHSmQwSUJDcWkwYzd3ZWRVRndLSlNSUngzYUFBOWJFM3J0c0FCX2ZOSHlyZVFHOVhFNlpTTnBuc2hLMzMzakhGdDF3T1owSVJ4dExIaUl4V0UzZ0g0RWdIN3R0TENyUG9YekVLdWQtTDU2cnJKQ19MWHo4QjFXbW56SzBr?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-11-05T03:06:15+00:00",
+      "relevance_score": -3.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Up 37% since March - this AI-picked IT services stock keeps climbing",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/up-37-since-march--this-aipicked-it-services-stock-keeps-climbing-5002093",
+      "is_watchlist": false,
+      "timestamp": "2026-11-05T03:04:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Arcutis Biotherapeutics evp Masaru Matsuda sells $1.37M in planned share sale",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/arcutis-biotherapeutics-evp-masaru-matsuda-sells-137m-in-planned-share-sale-93CH-5002089",
+      "is_watchlist": false,
+      "timestamp": "2026-11-05T03:01:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Procore director Kevin J. O\u2019Connor sells $884,982 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/procore-director-kevin-j-oconnor-sells-884982-in-shares-93CH-5002088",
+      "is_watchlist": false,
+      "timestamp": "2026-11-05T03:01:05+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil falls for a fourth day on expectations for lower risk of Iran war escalation - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzM2c3YzcktwU285aS1QaVVzTk51WFR0UnpxMXlnaFdEd2RtZWYzMm81TDZQUTJZS0ZlLXFVV3ZhcGFibkdLZm9Remo3YjlhNHJTd1lxSXNMUFNzejhIMkt0TlFRXy1RZl9TdTkxbDhfdjQxUEIzcUhaYlpOMjZJSVViNmVPV0dRV0RmaTJ3dDJ3QUs4TTFleFlnZnNyUHhVYlQ5NldaZVRZRFd5dU5nVnRKVUQ0UFE?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-11-05T02:20:00+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": "CRWV",
+      "headline": "Dow Jones Futures Rise, But Techs Tumble; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ec179365dbfe82f329601f439ee225305cbcdd49cb7c9508bda507007718190b",
+      "is_watchlist": true,
+      "timestamp": "2026-11-05T01:51:20+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Is Broadcom Stock a Buy After Marvell's $115 Billion Deal?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e4f9e090618eb20e0dcede8bee73430c294ca1fec571e806b1bec9cdd4b88b2b",
+      "is_watchlist": true,
+      "timestamp": "2026-11-05T01:43:01+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Musk"
+      ],
+      "ticker": "NVDA",
+      "headline": "SPCX Slides Overnight: SpaceX\u2019s $40B Chip Financing Reportedly Hits Market \u2014 Texas Senator Says Democrats Will \u2018Go After Elon Musk\u2019",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9f26959ed43f54703848c0e3f8ffbe84ffdc7f1aea52d6ba1720043ed844bb22",
+      "is_watchlist": true,
+      "timestamp": "2026-11-05T01:33:45+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Why Accel Entertainment Was a Huge Winner on Wednesday",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed3d9f5060d3e69b9a40eaf7c13313a0def109a6b632dc0438e2efbd037a553e",
+      "is_watchlist": true,
+      "timestamp": "2026-11-05T01:32:01+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -328,50 +458,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump\u2019s midterm drubbing demonstrates the power of data center opponents",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/analysistrumps-midterm-drubbing-demonstrates-the-power-of-datacentre-opponents-4998061",
-      "is_watchlist": false,
-      "timestamp": "2026-11-05T01:24:20+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cathie Wood\u2019s ARK sells SpaceX stock, buys Nurix Therapeutics",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-spacex-stock-buys-nurix-therapeutics-93CH-5001959",
-      "is_watchlist": false,
-      "timestamp": "2026-11-05T01:14:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Disney\u2019s Pixar names Jonathan Garson president as Jim Morris steps back",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/disneys-pixar-names-jonathan-garson-president-as-jim-morris-steps-back-5001943",
-      "is_watchlist": false,
-      "timestamp": "2026-11-05T01:12:32+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dollar edges lower as US election outcome cheers global markets",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/forex-news/dollar-edges-lower-as-us-election-outcome-cheers-global-markets-5001958",
-      "is_watchlist": false,
-      "timestamp": "2026-11-05T01:12:23+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -408,6 +494,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "NBIS",
+      "headline": "Is the Market Bottoming? 3 Tells to Watch",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cb87ae94ca9569c7bc592ae8bd8ea588b1636e2df14c57c99d7ecdab2653e523",
+      "is_watchlist": true,
+      "timestamp": "2026-11-05T01:03:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Figma\u2019s stock dips as investors worry that AI momentum is coming at a high price",
       "source": "MarketWatch",
@@ -431,7 +529,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Australia's oldest department store David Jones collapses after 188 years",
+      "headline": "Australia's oldest department store David Jones folds after 188 years",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
@@ -473,6 +571,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Inside India newsletter: India weighs a tax cut to win over foreign investors. Will it work?",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/11/05/india-tax-foreign-investors-nifty.html",
+      "is_watchlist": false,
+      "timestamp": "2026-11-05T00:04:36+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -523,12 +632,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "If You'd Invested $5,000 in VOO 15 Years Ago, Here's What You'd Have Today",
+      "ticker": "NBIS",
+      "headline": "Red Violet, Inc. (RDVT) Tops Q3 Earnings and Revenue Estimates",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a8717cc5117332907ac443bedafd12967ae0ef2a60b791f12c16fd6af5ca8ba7",
+      "url": "https://finnhub.io/api/news?id=eda55e9ad90e98a3f5172114985428dd6514ca94f823e0375fb29224e3bed49c",
       "is_watchlist": true,
-      "timestamp": "2026-11-04T23:50:00+00:00",
+      "timestamp": "2026-11-04T23:45:10+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -558,14 +667,13 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Beaten at home, Trump faces stark choice on Iran: deal or escalation - Reuters",
+      "headline": "After Republicans routed, Trump devotes first post-midterm event to White House ballroom - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3dTRDFGYS1HSWtZcGh3ZTh2MjRleFhNUkwtR0wwSUd3TWlsQU1tcjI2ZG1fa1RxNHEyRDJsSUpjTzNGb0xTRE90Umh1RVdncGxtN29NNVhXel9PMlZ3UEQ1bDJzTkh4V052MEh5UFFteDRHakRVTzVQLS1rdjEzM2xjZDlYdjhCWkxwMkZOMjVSUlhOV2NCVl9ETFROeEN3ZENWQmZiejJhLXctcHFDUkc5d3k?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmMwcE12Zlp6RnV5bFVSeXNXMlVMTU1wYjd0MlBqVURNWmo4OGJTOEhqSXhiQkdENHZkeW0tRFdGSXJ1ZHR0ZUZEcW1hTVJwN0N1S2tkeEVIa0ZBcW11WU8zVE90cXduWUFYZ011Y0Y0SmNXeVctLUt0Wk11bWhWRGIydzVxN3JSUGpKV1c3Vy1pTnYwTTlIYTlFVFA0YkoyZ096UW5TRzAwTjJmeXBGb1lsN2wzWWN1N0d2aA?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-11-04T23:39:14+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
+      "timestamp": "2026-11-04T23:41:41+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
     },
     {
       "type": "mover_statement",
@@ -619,27 +727,14 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Nuvectis Pharma, Inc. Q3 2026 Earnings Call Summary",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e34c300d26bdc85f68821900d864f47260bdebf14325d783e6d4dc3aee0734a0",
-      "is_watchlist": true,
-      "timestamp": "2026-11-04T23:24:25+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Natural Resource Partners L.P. Q3 2026 Earnings Call Summary",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7e69db937a9b659406741334110dcc5dd5229b951953063ef07ce8c653c1c319",
-      "is_watchlist": true,
-      "timestamp": "2026-11-04T23:22:46+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
+      "ticker": null,
+      "headline": "A 'demand decade' ahead for energy? BP, Baker Hughes CEOs weigh the investment outlook",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/11/05/energy-leaders-investment-outlook.html",
+      "is_watchlist": false,
+      "timestamp": "2026-11-04T23:23:03+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -685,17 +780,6 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
       "is_watchlist": false,
       "timestamp": "2026-11-04T23:17:56+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Democrats take Congress in a blue wave. Here's what it means for your money",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/11/04/blue-wave-democrats-control-congress-your-money.html",
-      "is_watchlist": false,
-      "timestamp": "2026-11-04T23:11:48+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -779,18 +863,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "CRWV",
-      "headline": "Dow Jones Futures: Elections, Plunging Oil Fuel Big Rally; Apple, Microsoft, Amazon Flash Buy Signals. CoreWeave, SpaceX Skid.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=52279df7ab8987a60569cafcbfad0ecbaf0a195517a6c27e52b0b5dd73208f7f",
-      "is_watchlist": true,
-      "timestamp": "2026-11-04T22:09:35+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "XLE",
       "headline": "Joe Terranova Says \u201cInflation Lost\u201d on Election Night. What That Means for Energy Stocks",
       "source": "Yahoo",
@@ -811,6 +883,18 @@ window.theBriefLive = {
       "timestamp": "2026-11-04T22:06:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "Blue Wave Paints The Market Green",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=621c73f69465289be3eb06ddfbae06eb5767a0cb3f19804e3e231df3b5b5b557",
+      "is_watchlist": true,
+      "timestamp": "2026-11-04T22:05:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -909,29 +993,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Vance repudiates Iran war after US electoral defeat - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa013TjNzRzN3VjI3QVg1bEtHRjdHNjFyeVpZTURvOWw1M1cwX2dpZXhKUXVTVEZRUjJTS20tNjBHSUlSS3NnOU4zZENjTmRoTHZmN1lEZE9lS0dRU1ROWWxnaFlhRXNtZUkzTGlHVnZ6YmpfTERySXRfV3FzOEd0bmgzOW5oVlJqa1FONmI3NjVleWVZR2d6LTY1dlZqUURPMnU3ZkpDQQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-11-04T21:25:25+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Democrats map out an agenda to address affordability and corruption after midterm sweep",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/11/04/congressional-democrats-affordability-oversight.html",
-      "is_watchlist": false,
-      "timestamp": "2026-11-04T20:53:19+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Democratic Congress could test decades of US support for Israel - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR0hYQWE5dUNLaGI1dmd2V1J0a0lodEcxd3Vac2RhT1MxSkJZbE56NTRPOVMyYm16dzR6MzBKVzVTSTZCSi1UTEE1ekl4NHB3NWduajg5NkdrVXBubEVhMmZQMUlTS01tZERtNm1zc2xNN0ZWTEdQalFUX0pibUVfVk5PMU9Tc3h2S1dDX0JodUphYXQwN2d1czB1Z0lxM3o0d3Q0?oc=5",
@@ -962,30 +1023,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Oil slumps after midterm election rebuke to Trump raises bets on Iran war exit - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUEyU0pEVG8xTHJtT2xCU0ltcXVTalphM0RNTEZ0UVlCTW5Qbjg4cS1RQnh5QXZnVEZvdnBacmZRM2FhMWJLWXVjU08yNkpvOHZiLTUtSGN0Mk55NGFBNWdxTmR4b3ZBeGNlX3ptUGNaRVFzRzhyNDZodklncGFZaV96cUxHY1Q1ODZWdmpTVWlWRVp4bVdJb0Zrb1pLaXVsUFFySUd4cm40cFphNGZB?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-11-04T20:22:06+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html",
-      "is_watchlist": false,
-      "timestamp": "2026-11-04T20:14:52+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -1035,18 +1072,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NBIS",
-      "headline": "Nebius Sinks 6% as Democratic Sweep Hits Neoclouds: \u201cBe Careful With the Nebius/IRENs\u201d",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ddbbf261f5fc4f27c0fe62efaac5365bc53f91bfdbd56bbaa6e8290c05af3027",
-      "is_watchlist": true,
-      "timestamp": "2026-11-04T19:13:01+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "XLE",
       "headline": "Sector Update: Energy Stocks Fall Wednesday Afternoon",
       "source": "Yahoo",
@@ -1071,12 +1096,12 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NBIS",
-      "headline": "Nebius Stock Faces Election Driven AI Data Center Regulation Risks",
+      "ticker": "OSCR",
+      "headline": "Healthcare Stocks Bounce on Midterm Results. A Bull Market Case Is Developing.",
       "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=e3077a9f6a4e626f12a034154d171bd161c4fb4a5c5f846f259dc60ff39fc83f",
+      "url": "https://finnhub.io/api/news?id=9e0ff5125db417fed8ee148075d29e59630fb32a91e67a29cd3562130913d776",
       "is_watchlist": true,
-      "timestamp": "2026-11-04T18:13:22+00:00",
+      "timestamp": "2026-11-04T18:16:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -1131,18 +1156,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "The Semiconductor Sector May Be Nearing A Meltdown",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=14ac528463784f1efde3cd39866ca5901aa1748543f2ffa71a01e05deb60ee6d",
-      "is_watchlist": true,
-      "timestamp": "2026-11-04T16:25:46+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "DG",
       "headline": "Is Dollar General Stock a Buy at Its Current Valuation?",
       "source": "Yahoo",
@@ -1185,6 +1198,30 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=f12451c830e7f4338150bb246fa134367ccc01c76370b27398056e0120c907e2",
       "is_watchlist": true,
       "timestamp": "2026-11-04T14:43:47+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "OSCR",
+      "headline": "HCA Healthcare, Centene, Oscar Ride Blue Wave To Buy Points",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2b6e7377b8700c02c8deef2f2bd813c2d0eb3588859dec851df280da8882f386",
+      "is_watchlist": true,
+      "timestamp": "2026-11-04T13:48:50+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "OSCR",
+      "headline": "What Needs To Be True To Buy Oscar Health Stock Now?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aa6ec913f89ea86a73327c58501a54da4646ae14dbe17aefdaa5a9319bf2c82b",
+      "is_watchlist": true,
+      "timestamp": "2026-11-04T10:24:36+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -1334,42 +1371,6 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
-    },
-    {
-      "type": "news",
-      "ticker": "OSCR",
-      "headline": "What's in the Cards for Oscar Health This Earnings Season?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=8cf66dc5b8680fd860acbecc0a47a63910dedd844f8776bb3d35a9ecf28395fd",
-      "is_watchlist": true,
-      "timestamp": "2026-11-02T16:16:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "OSCR",
-      "headline": "Are Finance Stocks Lagging  Oscar Health (OSCR) This Year?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=65a1f1818ab49857df52a2f7c968841585a6a25bcbd9c07834f7d2c7ac3c0812",
-      "is_watchlist": true,
-      "timestamp": "2026-11-02T13:40:03+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "OSCR",
-      "headline": "Unveiling Oscar Health (OSCR) Q3 Outlook: Wall Street Estimates for Key Metrics",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f43cd4e537cddcd14f7107d5e83cacac2ff274e54ee597c1c58af397ebde2d8a",
-      "is_watchlist": true,
-      "timestamp": "2026-11-02T13:15:02+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
