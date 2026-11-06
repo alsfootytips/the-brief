@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-11-06T06:46:21+00:00",
+  "generated_at": "2026-11-06T14:48:52+00:00",
   "by_date": {
     "2026-11-10": [
       {
@@ -4406,14 +4406,6 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "NTES",
-        "date": "2026-11-12",
-        "hour": "bmo",
-        "eps_estimate": 16.4943,
-        "revenue_estimate": 30836708737,
         "is_watchlist": false
       },
       {
@@ -11972,6 +11964,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NTES",
+        "date": "2026-11-19",
+        "hour": "bmo",
+        "eps_estimate": 16.4943,
+        "revenue_estimate": 30836708737,
         "is_watchlist": false
       },
       {
