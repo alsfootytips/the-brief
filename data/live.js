@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-11-07T00:23:39.358026+00:00",
+  "generated_at": "2026-11-07T01:29:11.810889+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -47,7 +47,7 @@ window.theBriefLive = {
       "change_pct": 6.55,
       "price": 542.4,
       "is_watchlist": true,
-      "timestamp": "2026-11-07T00:23:39.355467+00:00",
+      "timestamp": "2026-11-07T01:29:11.744999+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -56,10 +56,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "OSCR",
       "name": "Oscar Health",
-      "change_pct": -7.63,
-      "price": 30.65,
+      "change_pct": -7.84,
+      "price": 30.58,
       "is_watchlist": true,
-      "timestamp": "2026-11-07T00:23:39.355464+00:00",
+      "timestamp": "2026-11-07T01:29:11.744996+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -68,10 +68,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "change_pct": 3.63,
-      "price": 188.2,
+      "change_pct": 3.91,
+      "price": 188.7,
       "is_watchlist": true,
-      "timestamp": "2026-11-07T00:23:39.355462+00:00",
+      "timestamp": "2026-11-07T01:29:11.744993+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -80,10 +80,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": 8.14,
-      "price": 130.17,
+      "change_pct": 8.65,
+      "price": 130.78,
       "is_watchlist": true,
-      "timestamp": "2026-11-07T00:23:39.355458+00:00",
+      "timestamp": "2026-11-07T01:29:11.744990+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -95,7 +95,7 @@ window.theBriefLive = {
       "change_pct": -3.08,
       "price": 133.75,
       "is_watchlist": true,
-      "timestamp": "2026-11-07T00:23:39.355449+00:00",
+      "timestamp": "2026-11-07T01:29:11.744980+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -104,10 +104,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "change_pct": 6.24,
-      "price": 46.39,
+      "change_pct": 6.6,
+      "price": 46.54,
       "is_watchlist": true,
-      "timestamp": "2026-11-07T00:23:39.355445+00:00",
+      "timestamp": "2026-11-07T01:29:11.744977+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -116,10 +116,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": 10.47,
-      "price": 446.75,
+      "change_pct": 10.82,
+      "price": 448.14,
       "is_watchlist": true,
-      "timestamp": "2026-11-07T00:23:39.355436+00:00",
+      "timestamp": "2026-11-07T01:29:11.744967+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -127,44 +127,121 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Goldman raises global data center capacity forecast to 273 GW by 2030",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-raises-global-data-center-capacity-forecast-to-273-gw-by-2030-5009439",
+      "headline": "Saputo expects $1.7B UK dairy division sale to close in H2 FY27 as it creates dedicated Ingredients Division",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4668700-saputo-expects-1_7b-uk-dairy-division-sale-to-close-in-h2-fy27-as-it-creates-dedicated?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-11-07T00:10:19+00:00",
+      "timestamp": "2026-11-07T01:18:02+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Wall Street stocks rally after heavy AI-related\u00a0selloff",
+      "headline": "Radian Group sr evp Stephen Keleher sells $308,600 in stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/asia-stocks-to-drop-after-ai-rout-rocks-us-markets-5006125",
+      "url": "https://www.investing.com/news/insider-trading-news/radian-group-sr-evp-stephen-keleher-sells-308600-in-stock-93CH-5009500",
       "is_watchlist": false,
-      "timestamp": "2026-11-07T00:06:39+00:00",
+      "timestamp": "2026-11-07T01:16:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "As tech swoon roils market, US inflation data on tap",
+      "headline": "Cathie Wood\u2019s ARK sells CareDx stock, buys Natera and Kratos",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/as-tech-swoon-roils-market-us-inflation-data-on-tap-5007256",
+      "url": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-caredx-stock-buys-natera-and-kratos-93CH-5009491",
       "is_watchlist": false,
-      "timestamp": "2026-11-07T00:06:20+00:00",
+      "timestamp": "2026-11-07T01:06:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Apollo Global\u2019s chief legal officer Whitney Chatterjee sells $864,763 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/apollo-globals-chief-legal-officer-whitney-chatterjee-sells-864763-in-stock-93CH-5009488",
+      "is_watchlist": false,
+      "timestamp": "2026-11-07T01:01:08+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Morningstar executive chairman Mansueto sells $1.79M in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/morningstar-executive-chairman-mansueto-sells-179m-in-stock-93CH-5009487",
+      "is_watchlist": false,
+      "timestamp": "2026-11-07T01:01:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Nvidia-backed Groq seeks $8 billion valuation in new funding round - Bloomberg",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/nvidiabacked-groq-seeks-8-billion-valuation-in-new-funding-round--bloomberg-5009486",
+      "is_watchlist": false,
+      "timestamp": "2026-11-07T01:00:53+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Brent crude caps biggest weekly drop since pandemic as war premium begins to unwind",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4668695-brent-crude-caps-biggest-weekly-drop-since-pandemic-as-war-premium-begins-to-unwind?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-07T00:57:48+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Sprouts Farmers Market CEO Jack Sinclair sells $1.14M shares",
+      "headline": "Adaptive Biotechnologies president and COO Julie Rubinstein sells $954k stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/sprouts-farmers-market-ceo-jack-sinclair-sells-114m-shares-93CH-5009437",
+      "url": "https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-president-and-coo-julie-rubinstein-sells-954k-stock-93CH-5009476",
       "is_watchlist": false,
-      "timestamp": "2026-11-07T00:01:09+00:00",
+      "timestamp": "2026-11-07T00:46:10+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Treace outlines $206M-$210M 2026 revenue range while targeting $700M TAM expansion",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4668697-treace-outlines-206m-210m-2026-revenue-range-while-targeting-700m-tam-expansion?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-07T00:45:27+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Remitly director Joshua Hug sells $239,965 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/remitly-director-joshua-hug-sells-239965-in-company-stock-93CH-5009465",
+      "is_watchlist": false,
+      "timestamp": "2026-11-07T00:35:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Aeva Technologies CEO Soroush Dardashti sells $372,826 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/aeva-technologies-ceo-soroush-dardashti-sells-372826-in-shares-93CH-5009458",
+      "is_watchlist": false,
+      "timestamp": "2026-11-07T00:31:08+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -182,55 +259,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "IMF\u2019s Georgieva says any slowdown in AI-driven growth would be factor for central banks",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/imfs-georgieva-says-any-slowdown-in-aidriven-growth-would-be-factor-for-central-banks-5009427",
-      "is_watchlist": false,
-      "timestamp": "2026-11-06T23:54:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Google executive Donald Harrison resigns from SpaceX board",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/google-executive-donald-harrison-resigns-from-spacex-board-5009426",
-      "is_watchlist": false,
-      "timestamp": "2026-11-06T23:54:25+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AN2 Therapeutics COO Eizen reports $11,925 in stock sale",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/an2-therapeutics-coo-eizen-reports-11925-in-stock-sale-93CH-5009420",
-      "is_watchlist": false,
-      "timestamp": "2026-11-06T23:46:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Definity targets $125M synergies while staying on track for $6.5B 2026 premiums and late-2027 TSA exits",
       "source": "Seeking Alpha Market",
       "url": "https://seekingalpha.com/news/4668694-definity-targets-125m-synergies-while-staying-on-track-for-6_5b-2026-premiums-and-lateminus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-11-06T23:46:09+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Mondelez CEO Dirk Van de Put sells $8.8M in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/mondelez-ceo-dirk-van-de-put-sells-88m-in-stock-93CH-5009419",
-      "is_watchlist": false,
-      "timestamp": "2026-11-06T23:46:04+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -254,39 +287,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-11-06T23:36:35+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Edenor expects MetroGas closing before year-end while targeting diversification through M&A",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4668692-edenor-expects-metrogas-closing-before-year-end-while-targeting-diversification-through-m-and?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-06T23:36:31+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Hawaiian Electric outlines 5.3% base rate increase phased over 2 years as PUC timing points to May 2027 rates",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4668691-hawaiian-electric-outlines-5_3-percent-base-rate-increase-phased-over-2-years-as-puc-timing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-06T23:35:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "American Healthcare REIT forecasts $2.23-$2.26 2026 NFFO per share as same-store NOI growth target rises to 12%-14%",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4668690-american-healthcare-reit-forecasts-2_23-2_26-2026-nffo-per-share-as-same-store-noi-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-06T23:26:14+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -338,6 +338,18 @@ window.theBriefLive = {
       "timestamp": "2026-11-06T22:58:18+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US Treasury sanctions Canadian money services firms over Iran-related transactions - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanB1RlNfclNuTUN5SEpJTjFWWUM1UVR2V2xLclNnTjhfNnp0VjNGZE5qeDBiekZXOFpLR2hOTnFud1ZKYlgzaFF6dGpwbkdENXF5VldQSEl0MEE1X0dHbWMyWHFvOU82WC01SjNSamFuSFQtY1M4VHJMN1VEMzlyQnN3UkotaXhiTm4taGdud2w5Wnk0cmtVQlp1MjRvNEJreERfdzZZbmtRQWo5d3NTYnVpOThYRjUwU3BJSGRFSEE?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-11-06T22:46:57+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -594,18 +606,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "US Treasury sanctions Canadian money services firms over Iran-related transactions - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanB1RlNfclNuTUN5SEpJTjFWWUM1UVR2V2xLclNnTjhfNnp0VjNGZE5qeDBiekZXOFpLR2hOTnFud1ZKYlgzaFF6dGpwbkdENXF5VldQSEl0MEE1X0dHbWMyWHFvOU82WC01SjNSamFuSFQtY1M4VHJMN1VEMzlyQnN3UkotaXhiTm4taGdud2w5Wnk0cmtVQlp1MjRvNEJreERfdzZZbmtRQWo5d3NTYnVpOThYRjUwU3BJSGRFSEE?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-11-06T21:02:22+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Micron\u2019s stock is dirt cheap \u2014\u00a0and that\u2019s igniting a fierce online debate",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories",
@@ -696,6 +696,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "IWM",
+      "headline": "Consumer Sentiment Recovers Significantly In November",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=47fcd2f99fcac20741e4e61609ee346c0182d5a0405bb09f03ec134040bfd8eb",
+      "is_watchlist": true,
+      "timestamp": "2026-11-06T20:05:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote",
       "source": "CNBC Top",
@@ -719,6 +731,18 @@ window.theBriefLive = {
       "relevance_score": 7.0,
       "relevance_tier": "high",
       "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "Tech Stocks Rebound But Nasdaq Is Still In Correction Territory",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c7b6c75c168ed93832eef1ecf7cd5b76d8460ecd86fd5da248568a28e38ba4ba",
+      "is_watchlist": true,
+      "timestamp": "2026-11-06T19:10:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -860,18 +884,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Robust Jobs, GDP, Muted By Dramatic Electoral Shift To Democrats",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=a7acae3764977274877f70e91368ad56ef8fae97626fdb91ca15e8569619f3f7",
-      "is_watchlist": true,
-      "timestamp": "2026-11-06T16:39:20+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "NBIS",
       "headline": "AI Cloud Crash Puts CoreWeave and Nebius on Sale. Their Next Reports Decide What Happens Next",
       "source": "Yahoo",
@@ -892,18 +904,6 @@ window.theBriefLive = {
       "timestamp": "2026-11-06T16:19:44+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "October's Jobs Report Won't Stop Warsh",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=d30220da68953826190a9d1d1a7329510651371d8d142e0882315681dfd30511",
-      "is_watchlist": true,
-      "timestamp": "2026-11-06T16:15:04+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
