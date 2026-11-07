@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-07T06:23:53.114280+00:00",
+  "generated_at": "2026-11-07T13:25:35.207994+00:00",
   "gainers": [
     {
       "ticker": "AMD",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Stock Market Today, Nov. 6: AMD Surges 11% on Record Quarterly Revenue and Stronger Growth...\""
+      "move_reason": "News: \"Advanced Micro Devices (AMD) Recently Crashed Out of the $1 Trillion Club. Should You Buy ...\""
     },
     {
       "ticker": "NBIS",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cerebras Systems vs. Nebius: Which Artificial Intelligence Stock Is a Better Buy Going int...\""
+      "move_reason": "News: \"Nebius Stock: A Smart Buy After The Blue Tsunami\""
     },
     {
       "ticker": "CRWV",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cathie Wood-Led Ark Loads Up On GOOG, AMD, NVDA And Biotech Stocks \u2014 But Sells CRWV, AVGO,...\""
+      "move_reason": "News: \"Nebius Stock: A Smart Buy After The Blue Tsunami\""
     },
     {
       "ticker": "PWR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Axon Plunged To a 2-Year Low. Here's Why It Could Be a Golden Buying Opportunity\""
+      "move_reason": "News: \"3 Internet Giants to Hold for the Next 10 Years\""
     },
     {
       "ticker": "PLTR",
@@ -141,7 +141,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Big Four Recession Indicators: Employment\""
+      "move_reason": "News: \"Weekly Indicators: The Big Question Is Whether The Stock Selloff Affects Consumer Spending\""
     },
     {
       "ticker": "TTD",
@@ -153,7 +153,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AppLovin: On The Road To New All-Time Highs\""
+      "move_reason": "News: \"AppLovin Jumps 8% as Post-Earnings Rally Extends; Unity Climbs 7%, Trade Desk Dips\""
     },
     {
       "ticker": "GEV",
@@ -165,7 +165,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova vs. Vistra: Which Industrials Stock Is a Better Buy for 2027?\""
+      "move_reason": "News: \"What Needs To Be True To Buy NuScale Power Stock Now?\""
     },
     {
       "ticker": "OXY",
@@ -317,7 +317,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Stock Market Today, Nov. 6: AMD Surges 11% on Record Quarterly Revenue and Stronger Growth...\""
+      "move_reason": "News: \"Advanced Micro Devices (AMD) Recently Crashed Out of the $1 Trillion Club. Should You Buy ...\""
     },
     {
       "ticker": "APA",
@@ -341,7 +341,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cathie Wood-Led Ark Loads Up On GOOG, AMD, NVDA And Biotech Stocks \u2014 But Sells CRWV, AVGO,...\""
+      "move_reason": "News: \"Nebius Stock: A Smart Buy After The Blue Tsunami\""
     },
     {
       "ticker": "DG",
@@ -365,7 +365,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova vs. Vistra: Which Industrials Stock Is a Better Buy for 2027?\""
+      "move_reason": "News: \"What Needs To Be True To Buy NuScale Power Stock Now?\""
     },
     {
       "ticker": "IWM",
@@ -377,7 +377,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Big Four Recession Indicators: Employment\""
+      "move_reason": "News: \"Weekly Indicators: The Big Question Is Whether The Stock Selloff Affects Consumer Spending\""
     },
     {
       "ticker": "NBIS",
@@ -389,7 +389,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cerebras Systems vs. Nebius: Which Artificial Intelligence Stock Is a Better Buy Going int...\""
+      "move_reason": "News: \"Nebius Stock: A Smart Buy After The Blue Tsunami\""
     },
     {
       "ticker": "NVDA",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Axon Plunged To a 2-Year Low. Here's Why It Could Be a Golden Buying Opportunity\""
+      "move_reason": "News: \"3 Internet Giants to Hold for the Next 10 Years\""
     },
     {
       "ticker": "OSCR",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How Record Royalty Revenue Will Impact Texas Pacific Land Stock\""
+      "move_reason": "News: \"Texas Pacific Land: Record Royalties Improve The Outlook While New Projects Require A Wide...\""
     },
     {
       "ticker": "TTD",
@@ -461,7 +461,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AppLovin: On The Road To New All-Time Highs\""
+      "move_reason": "News: \"AppLovin Jumps 8% as Post-Earnings Rally Extends; Unity Climbs 7%, Trade Desk Dips\""
     },
     {
       "ticker": "XLE",
@@ -708,14 +708,14 @@ window.theBriefMovers = {
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 8.3 (cheap on absolute basis)"
+        "Forward P/E 8.2 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved +2.97% \u2014 a 1.1\u03c3 move",
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 8.3 (cheap on absolute basis)"
+        "Forward P/E 8.2 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",
