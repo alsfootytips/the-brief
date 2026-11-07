@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-07T18:11:01.164711+00:00",
+  "generated_at": "2026-11-07T21:52:10.945393+00:00",
   "gainers": [
     {
       "ticker": "AMD",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Stock Popped After Earnings, Then Gave It All Back. Is It a Buy Now?\""
+      "move_reason": "News: \"Jim Cramer sends a strong signal to Nvidia stock investors\""
     },
     {
       "ticker": "NBIS",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Fed Chair Kevin Warsh Just Issued a 6-Word Warning That Could Spell Disaster for AI Stocks\""
+      "move_reason": "News: \"Older Nvidia Chips Just Cost Oracle Its Microsoft AI Deal\""
     },
     {
       "ticker": "CRWV",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave\u2019s Bonds Now Yield More Than 16%, Days Before Earnings\""
+      "move_reason": "News: \"Core Scientific Is Quitting Bitcoin Mining as It Now Makes About 92% of Its Revenue Rentin...\""
     },
     {
       "ticker": "PWR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Warren Buffett's Berkshire Compounded at More Than 19% a Year Over Six Decades, Nearly Dou...\""
+      "move_reason": "News: \"Here's What $10,000 Invested in Bloom Energy (BE) Stock Could Be Worth in 3 Years\""
     },
     {
       "ticker": "PLTR",
@@ -141,7 +141,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Healthy October Jobs Report Supports Rate Hike Argument\""
+      "move_reason": "News: \"The AI Selloff Just Got Messy. Here's 3 Ways It Can Resolve\""
     },
     {
       "ticker": "TTD",
@@ -165,7 +165,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nuclear Stocks Split as Investors Favor Scale and Cash Flow Over Speculative Projects\""
+      "move_reason": "News: \"Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue\""
     },
     {
       "ticker": "OXY",
@@ -317,7 +317,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Stock Popped After Earnings, Then Gave It All Back. Is It a Buy Now?\""
+      "move_reason": "News: \"Jim Cramer sends a strong signal to Nvidia stock investors\""
     },
     {
       "ticker": "APA",
@@ -341,7 +341,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave\u2019s Bonds Now Yield More Than 16%, Days Before Earnings\""
+      "move_reason": "News: \"Core Scientific Is Quitting Bitcoin Mining as It Now Makes About 92% of Its Revenue Rentin...\""
     },
     {
       "ticker": "DG",
@@ -365,7 +365,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nuclear Stocks Split as Investors Favor Scale and Cash Flow Over Speculative Projects\""
+      "move_reason": "News: \"Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue\""
     },
     {
       "ticker": "IWM",
@@ -377,7 +377,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Healthy October Jobs Report Supports Rate Hike Argument\""
+      "move_reason": "News: \"The AI Selloff Just Got Messy. Here's 3 Ways It Can Resolve\""
     },
     {
       "ticker": "NBIS",
@@ -389,7 +389,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Fed Chair Kevin Warsh Just Issued a 6-Word Warning That Could Spell Disaster for AI Stocks\""
+      "move_reason": "News: \"Older Nvidia Chips Just Cost Oracle Its Microsoft AI Deal\""
     },
     {
       "ticker": "NVDA",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Warren Buffett's Berkshire Compounded at More Than 19% a Year Over Six Decades, Nearly Dou...\""
+      "move_reason": "News: \"Here's What $10,000 Invested in Bloom Energy (BE) Stock Could Be Worth in 3 Years\""
     },
     {
       "ticker": "OSCR",
