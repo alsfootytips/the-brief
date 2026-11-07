@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-07T13:25:35.207994+00:00",
+  "generated_at": "2026-11-07T18:11:01.164711+00:00",
   "gainers": [
     {
       "ticker": "AMD",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Advanced Micro Devices (AMD) Recently Crashed Out of the $1 Trillion Club. Should You Buy ...\""
+      "move_reason": "News: \"AMD Stock Popped After Earnings, Then Gave It All Back. Is It a Buy Now?\""
     },
     {
       "ticker": "NBIS",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Stock: A Smart Buy After The Blue Tsunami\""
+      "move_reason": "News: \"Fed Chair Kevin Warsh Just Issued a 6-Word Warning That Could Spell Disaster for AI Stocks\""
     },
     {
       "ticker": "CRWV",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Stock: A Smart Buy After The Blue Tsunami\""
+      "move_reason": "News: \"CoreWeave\u2019s Bonds Now Yield More Than 16%, Days Before Earnings\""
     },
     {
       "ticker": "PWR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Internet Giants to Hold for the Next 10 Years\""
+      "move_reason": "News: \"Warren Buffett's Berkshire Compounded at More Than 19% a Year Over Six Decades, Nearly Dou...\""
     },
     {
       "ticker": "PLTR",
@@ -141,7 +141,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Indicators: The Big Question Is Whether The Stock Selloff Affects Consumer Spending\""
+      "move_reason": "News: \"Healthy October Jobs Report Supports Rate Hike Argument\""
     },
     {
       "ticker": "TTD",
@@ -165,7 +165,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Needs To Be True To Buy NuScale Power Stock Now?\""
+      "move_reason": "News: \"Nuclear Stocks Split as Investors Favor Scale and Cash Flow Over Speculative Projects\""
     },
     {
       "ticker": "OXY",
@@ -177,7 +177,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Occidental Petroleum to Release Q3 Earnings: What's in the Cards?\""
+      "move_reason": "News: \"Anthropic IPO Roadshow Takes Center Stage As Earnings Take A Breather\""
     }
   ],
   "losers": [
@@ -317,7 +317,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Advanced Micro Devices (AMD) Recently Crashed Out of the $1 Trillion Club. Should You Buy ...\""
+      "move_reason": "News: \"AMD Stock Popped After Earnings, Then Gave It All Back. Is It a Buy Now?\""
     },
     {
       "ticker": "APA",
@@ -341,7 +341,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Stock: A Smart Buy After The Blue Tsunami\""
+      "move_reason": "News: \"CoreWeave\u2019s Bonds Now Yield More Than 16%, Days Before Earnings\""
     },
     {
       "ticker": "DG",
@@ -365,7 +365,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Needs To Be True To Buy NuScale Power Stock Now?\""
+      "move_reason": "News: \"Nuclear Stocks Split as Investors Favor Scale and Cash Flow Over Speculative Projects\""
     },
     {
       "ticker": "IWM",
@@ -377,7 +377,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Weekly Indicators: The Big Question Is Whether The Stock Selloff Affects Consumer Spending\""
+      "move_reason": "News: \"Healthy October Jobs Report Supports Rate Hike Argument\""
     },
     {
       "ticker": "NBIS",
@@ -389,7 +389,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Stock: A Smart Buy After The Blue Tsunami\""
+      "move_reason": "News: \"Fed Chair Kevin Warsh Just Issued a 6-Word Warning That Could Spell Disaster for AI Stocks\""
     },
     {
       "ticker": "NVDA",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Internet Giants to Hold for the Next 10 Years\""
+      "move_reason": "News: \"Warren Buffett's Berkshire Compounded at More Than 19% a Year Over Six Decades, Nearly Dou...\""
     },
     {
       "ticker": "OSCR",
@@ -425,7 +425,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Occidental Petroleum to Release Q3 Earnings: What's in the Cards?\""
+      "move_reason": "News: \"Anthropic IPO Roadshow Takes Center Stage As Earnings Take A Breather\""
     },
     {
       "ticker": "PWR",
