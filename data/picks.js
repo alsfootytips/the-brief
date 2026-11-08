@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-11-08T07:20:38.402284+00:00",
+  "generated_at": "2026-11-08T14:26:09.843602+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -572,12 +572,12 @@ window.theBriefPicks = {
       "pick_type": "long-term",
       "horizon_label": "Long-term hold",
       "direction": "long",
-      "current_price": 183.02,
-      "current_pct": 39.92,
-      "change_pct_today": 3.03,
+      "current_price": 160.83,
+      "current_pct": 22.96,
+      "change_pct_today": 3.77,
       "name": "PLTR",
       "news_count": 0,
-      "days_elapsed": 132,
+      "days_elapsed": 179,
       "days_remaining": null
     },
     {

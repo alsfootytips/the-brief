@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-11-08T07:20:38+00:00",
+  "generated_at": "2026-11-08T14:26:09+00:00",
   "by_date": {
     "2026-11-10": [
       {
@@ -7617,14 +7617,6 @@ window.theBriefEarnings = {
         "eps_estimate": 0.0816,
         "revenue_estimate": 120616530,
         "is_watchlist": false
-      },
-      {
-        "ticker": "HPK",
-        "date": "2026-11-09",
-        "hour": "amc",
-        "eps_estimate": 0.0303,
-        "revenue_estimate": 243056500,
-        "is_watchlist": false
       }
     ],
     "2026-11-11": [
@@ -9976,6 +9968,14 @@ window.theBriefEarnings = {
       },
       {
         "ticker": "XMAX",
+        "date": "2026-11-13",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "XXI",
         "date": "2026-11-13",
         "hour": "",
         "eps_estimate": null,

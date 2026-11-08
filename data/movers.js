@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-08T07:20:38.221276+00:00",
+  "generated_at": "2026-11-08T14:26:09.653360+00:00",
   "gainers": [
     {
       "ticker": "AMD",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bank of America has unexpected advice for tech stock investors after midterms\""
+      "move_reason": "News: \"AMD Stock Has More Than Doubled in 2026. Here's How Its Last 8 Doubles Played Out the Next...\""
     },
     {
       "ticker": "NBIS",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Older Nvidia Chips Just Cost Oracle Its Microsoft AI Deal\""
+      "move_reason": "News: \"Wall Street Week Ahead\""
     },
     {
       "ticker": "CRWV",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Makes Big Promise To Gina Hinojosa As Data Center Backlash Intensifies \u2014 Says Co...\""
+      "move_reason": "News: \"Wall Street Week Ahead\""
     },
     {
       "ticker": "PWR",
@@ -59,7 +59,19 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"These AI Stocks To Improve Your Portfolio In November 2026\""
+      "move_reason": "News: \"Prediction: This Will Be the Best-Performing AI Stock of 2027\""
+    },
+    {
+      "ticker": "PLTR",
+      "name": "PLTR",
+      "price": 160.83,
+      "change_pct": 3.77,
+      "volume_ratio": 0.61,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "APA",
@@ -129,7 +141,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"World Markets Watchlist: November 2, 2026\""
+      "move_reason": "News: \"Midterm Election Goes Blue: What Happens With Markets Now?\""
     },
     {
       "ticker": "TTD",
@@ -165,18 +177,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Anthropic IPO Roadshow Takes Center Stage As Earnings Take A Breather\""
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services Select",
-      "price": 104.79,
-      "change_pct": 0.43,
-      "volume_ratio": 0.62,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
+      "move_reason": "News: \"Buy The Dip: 6-9% Yields Getting Too Cheap\""
     }
   ],
   "losers": [
@@ -202,7 +203,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar Tree Pops 10% as Democratic Sweep Brings Cheer to the Markets. How to Play DLTR Sto...\""
+      "move_reason": "News: \"Walmart Stock And 2 Defensive Plays for a Social Security Squeeze\""
     },
     {
       "ticker": "XLP",
@@ -316,7 +317,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Bank of America has unexpected advice for tech stock investors after midterms\""
+      "move_reason": "News: \"AMD Stock Has More Than Doubled in 2026. Here's How Its Last 8 Doubles Played Out the Next...\""
     },
     {
       "ticker": "APA",
@@ -340,7 +341,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Makes Big Promise To Gina Hinojosa As Data Center Backlash Intensifies \u2014 Says Co...\""
+      "move_reason": "News: \"Wall Street Week Ahead\""
     },
     {
       "ticker": "DG",
@@ -352,7 +353,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar Tree Pops 10% as Democratic Sweep Brings Cheer to the Markets. How to Play DLTR Sto...\""
+      "move_reason": "News: \"Walmart Stock And 2 Defensive Plays for a Social Security Squeeze\""
     },
     {
       "ticker": "GEV",
@@ -376,7 +377,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"World Markets Watchlist: November 2, 2026\""
+      "move_reason": "News: \"Midterm Election Goes Blue: What Happens With Markets Now?\""
     },
     {
       "ticker": "NBIS",
@@ -388,7 +389,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Older Nvidia Chips Just Cost Oracle Its Microsoft AI Deal\""
+      "move_reason": "News: \"Wall Street Week Ahead\""
     },
     {
       "ticker": "NVDA",
@@ -400,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"These AI Stocks To Improve Your Portfolio In November 2026\""
+      "move_reason": "News: \"Prediction: This Will Be the Best-Performing AI Stock of 2027\""
     },
     {
       "ticker": "OSCR",
@@ -424,7 +425,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Anthropic IPO Roadshow Takes Center Stage As Earnings Take A Breather\""
+      "move_reason": "News: \"Buy The Dip: 6-9% Yields Getting Too Cheap\""
     },
     {
       "ticker": "PWR",
@@ -472,7 +473,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"The S&P 500 Just Had Its Worst Week Since the April 2025 Tariff Crash\""
+      "move_reason": "News: \"Midterm Election Goes Blue: What Happens With Markets Now?\""
     }
   ],
   "indices": [
