@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-08T18:58:19.682219+00:00",
+  "generated_at": "2026-11-08T22:45:02.294142+00:00",
   "gainers": [
     {
       "ticker": "AMD",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Intel Stock Has Gone Nowhere in 8 Years. Why This Time Could Be Different\""
+      "move_reason": "News: \"AMD Stock Dropped 11% Last Week. Is Intel\u2019s PC Warning Really That Bad?\""
     },
     {
       "ticker": "NBIS",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 big AI narratives wrestle with each other: What to watch this week\""
+      "move_reason": "News: \"Microsoft Is Reportedly Getting Pickier About AI Data Center Deals. Is the Stock a Buy Now...\""
     },
     {
       "ticker": "CRWV",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The 1 Stock I'd Buy With $2,500 in November and Not Check Until 2051\""
+      "move_reason": "News: \"The Top 5 Biotech Stocks I'd Buy Right Now Without Any Hesitation\""
     },
     {
       "ticker": "PLTR",
@@ -141,7 +141,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Nasdaq Is Toast: QQQ Could Go 40% Lower Here's How, And What Could Stop It\""
+      "move_reason": "News: \"S&P500: I Was Wrong, The Technicals Were Right; Here's What They Say Is Next\""
     },
     {
       "ticker": "TTD",
@@ -165,7 +165,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Power Stocks Just Fell 6.3% to 9.3% on Financing Fears. SpaceX Just Said New Compute Pa...\""
+      "move_reason": "News: \"What NuScale Power (SMR) Said on Its Q3 Earnings Call\""
     },
     {
       "ticker": "OXY",
@@ -251,17 +251,6 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "XLF",
-      "name": "Financial Select Sector",
-      "price": 57.16,
-      "change_pct": -0.59,
-      "volume_ratio": 0.75,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
-    },
-    {
       "ticker": "DIA",
       "name": "SPDR Dow Jones Industrial",
       "price": 512.22,
@@ -317,7 +306,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Intel Stock Has Gone Nowhere in 8 Years. Why This Time Could Be Different\""
+      "move_reason": "News: \"AMD Stock Dropped 11% Last Week. Is Intel\u2019s PC Warning Really That Bad?\""
     },
     {
       "ticker": "APA",
@@ -365,7 +354,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AI Power Stocks Just Fell 6.3% to 9.3% on Financing Fears. SpaceX Just Said New Compute Pa...\""
+      "move_reason": "News: \"What NuScale Power (SMR) Said on Its Q3 Earnings Call\""
     },
     {
       "ticker": "IWM",
@@ -377,7 +366,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Nasdaq Is Toast: QQQ Could Go 40% Lower Here's How, And What Could Stop It\""
+      "move_reason": "News: \"S&P500: I Was Wrong, The Technicals Were Right; Here's What They Say Is Next\""
     },
     {
       "ticker": "NBIS",
@@ -389,7 +378,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 big AI narratives wrestle with each other: What to watch this week\""
+      "move_reason": "News: \"Microsoft Is Reportedly Getting Pickier About AI Data Center Deals. Is the Stock a Buy Now...\""
     },
     {
       "ticker": "NVDA",
@@ -401,7 +390,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The 1 Stock I'd Buy With $2,500 in November and Not Check Until 2051\""
+      "move_reason": "News: \"The Top 5 Biotech Stocks I'd Buy Right Now Without Any Hesitation\""
     },
     {
       "ticker": "OSCR",
@@ -449,7 +438,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Texas Pacific Land Q3 Earnings Call Highlights\""
+      "move_reason": "News: \"Texas Pacific Land Corp (TPL) (Q3 2026) Earnings Call Highlights: Record Revenue, Net Inco...\""
     },
     {
       "ticker": "TTD",
@@ -587,16 +576,6 @@ window.theBriefMovers = {
       "price": 43.13,
       "change_pct": -0.39,
       "volume_ratio": 0.79,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financial Select Sector",
-      "price": 57.16,
-      "change_pct": -0.59,
-      "volume_ratio": 0.75,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -915,13 +894,6 @@ window.theBriefMovers = {
       "name": "Real Estate Select Sector",
       "change_pct": -0.68,
       "price": 44.0,
-      "watchlist_members": []
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financial Select Sector",
-      "change_pct": -0.59,
-      "price": 57.16,
       "watchlist_members": []
     },
     {
