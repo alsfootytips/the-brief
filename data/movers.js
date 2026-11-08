@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-08T14:26:09.653360+00:00",
+  "generated_at": "2026-11-08T18:58:19.682219+00:00",
   "gainers": [
     {
       "ticker": "AMD",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Stock Has More Than Doubled in 2026. Here's How Its Last 8 Doubles Played Out the Next...\""
+      "move_reason": "News: \"Intel Stock Has Gone Nowhere in 8 Years. Why This Time Could Be Different\""
     },
     {
       "ticker": "NBIS",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Week Ahead\""
+      "move_reason": "News: \"2 big AI narratives wrestle with each other: What to watch this week\""
     },
     {
       "ticker": "CRWV",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Week Ahead\""
+      "move_reason": "News: \"2 big AI narratives wrestle with each other: What to watch this week\""
     },
     {
       "ticker": "PWR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: This Will Be the Best-Performing AI Stock of 2027\""
+      "move_reason": "News: \"The 1 Stock I'd Buy With $2,500 in November and Not Check Until 2051\""
     },
     {
       "ticker": "PLTR",
@@ -141,7 +141,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Midterm Election Goes Blue: What Happens With Markets Now?\""
+      "move_reason": "News: \"The Nasdaq Is Toast: QQQ Could Go 40% Lower Here's How, And What Could Stop It\""
     },
     {
       "ticker": "TTD",
@@ -165,7 +165,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is GE Vernova (GEV) Trading At A Premium After Its $9b Deal?\""
+      "move_reason": "News: \"AI Power Stocks Just Fell 6.3% to 9.3% on Financing Fears. SpaceX Just Said New Compute Pa...\""
     },
     {
       "ticker": "OXY",
@@ -317,7 +317,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Stock Has More Than Doubled in 2026. Here's How Its Last 8 Doubles Played Out the Next...\""
+      "move_reason": "News: \"Intel Stock Has Gone Nowhere in 8 Years. Why This Time Could Be Different\""
     },
     {
       "ticker": "APA",
@@ -341,7 +341,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Week Ahead\""
+      "move_reason": "News: \"2 big AI narratives wrestle with each other: What to watch this week\""
     },
     {
       "ticker": "DG",
@@ -365,7 +365,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is GE Vernova (GEV) Trading At A Premium After Its $9b Deal?\""
+      "move_reason": "News: \"AI Power Stocks Just Fell 6.3% to 9.3% on Financing Fears. SpaceX Just Said New Compute Pa...\""
     },
     {
       "ticker": "IWM",
@@ -377,7 +377,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Midterm Election Goes Blue: What Happens With Markets Now?\""
+      "move_reason": "News: \"The Nasdaq Is Toast: QQQ Could Go 40% Lower Here's How, And What Could Stop It\""
     },
     {
       "ticker": "NBIS",
@@ -389,7 +389,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street Week Ahead\""
+      "move_reason": "News: \"2 big AI narratives wrestle with each other: What to watch this week\""
     },
     {
       "ticker": "NVDA",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Prediction: This Will Be the Best-Performing AI Stock of 2027\""
+      "move_reason": "News: \"The 1 Stock I'd Buy With $2,500 in November and Not Check Until 2051\""
     },
     {
       "ticker": "OSCR",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Texas Pacific Land: Record Royalties Improve The Outlook While New Projects Require A Wide...\""
+      "move_reason": "News: \"Texas Pacific Land Q3 Earnings Call Highlights\""
     },
     {
       "ticker": "TTD",
@@ -763,13 +763,13 @@ window.theBriefMovers = {
         "Moved -7.84% \u2014 a 2.2\u03c3 move vs typical 3.5% daily vol",
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
-        "Forward P/E 13.8 (cheap on absolute basis)"
+        "Forward P/E 12.7 (cheap on absolute basis)"
       ],
       "reasons": [
         "Moved -7.84% \u2014 a 2.2\u03c3 move vs typical 3.5% daily vol",
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
-        "Forward P/E 13.8 (cheap on absolute basis)"
+        "Forward P/E 12.7 (cheap on absolute basis)"
       ],
       "tags": [
         "moderate-move",
