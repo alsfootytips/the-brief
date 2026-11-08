@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-08T01:07:50.700882+00:00",
+  "generated_at": "2026-11-08T07:20:38.221276+00:00",
   "gainers": [
     {
       "ticker": "AMD",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"NVIDIA And 2 Other AI Stocks To Watch\""
+      "move_reason": "News: \"Bank of America has unexpected advice for tech stock investors after midterms\""
     },
     {
       "ticker": "NBIS",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave seeks truce with Texas Governor-elect Hinojosa\""
+      "move_reason": "News: \"CoreWeave Makes Big Promise To Gina Hinojosa As Data Center Backlash Intensifies \u2014 Says Co...\""
     },
     {
       "ticker": "PWR",
@@ -59,19 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Novo Nordisk Just Delivered Great News for Investors. Is a Comeback Finally Underway?\""
-    },
-    {
-      "ticker": "PLTR",
-      "name": "PLTR",
-      "price": 160.83,
-      "change_pct": 3.77,
-      "volume_ratio": 0.61,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
+      "move_reason": "News: \"These AI Stocks To Improve Your Portfolio In November 2026\""
     },
     {
       "ticker": "APA",
@@ -141,7 +129,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The AI Selloff Just Got Messy. Here's 3 Ways It Can Resolve\""
+      "move_reason": "News: \"World Markets Watchlist: November 2, 2026\""
     },
     {
       "ticker": "TTD",
@@ -178,6 +166,17 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"Anthropic IPO Roadshow Takes Center Stage As Earnings Take A Breather\""
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services Select",
+      "price": 104.79,
+      "change_pct": 0.43,
+      "volume_ratio": 0.62,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
     }
   ],
   "losers": [
@@ -191,7 +190,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Oscar Health Holders Bought Into Before A 122% Run\""
+      "move_reason": "News: \"What Oscar Health (OSCR) Said on Its Q3 Earnings Call\""
     },
     {
       "ticker": "DG",
@@ -317,7 +316,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"NVIDIA And 2 Other AI Stocks To Watch\""
+      "move_reason": "News: \"Bank of America has unexpected advice for tech stock investors after midterms\""
     },
     {
       "ticker": "APA",
@@ -341,7 +340,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave seeks truce with Texas Governor-elect Hinojosa\""
+      "move_reason": "News: \"CoreWeave Makes Big Promise To Gina Hinojosa As Data Center Backlash Intensifies \u2014 Says Co...\""
     },
     {
       "ticker": "DG",
@@ -377,7 +376,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The AI Selloff Just Got Messy. Here's 3 Ways It Can Resolve\""
+      "move_reason": "News: \"World Markets Watchlist: November 2, 2026\""
     },
     {
       "ticker": "NBIS",
@@ -401,7 +400,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Novo Nordisk Just Delivered Great News for Investors. Is a Comeback Finally Underway?\""
+      "move_reason": "News: \"These AI Stocks To Improve Your Portfolio In November 2026\""
     },
     {
       "ticker": "OSCR",
@@ -413,7 +412,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Oscar Health Holders Bought Into Before A 122% Run\""
+      "move_reason": "News: \"What Oscar Health (OSCR) Said on Its Q3 Earnings Call\""
     },
     {
       "ticker": "OXY",
