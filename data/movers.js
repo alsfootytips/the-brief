@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-07T21:52:10.945393+00:00",
+  "generated_at": "2026-11-08T01:07:50.700882+00:00",
   "gainers": [
     {
       "ticker": "AMD",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jim Cramer sends a strong signal to Nvidia stock investors\""
+      "move_reason": "News: \"NVIDIA And 2 Other AI Stocks To Watch\""
     },
     {
       "ticker": "NBIS",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Core Scientific Is Quitting Bitcoin Mining as It Now Makes About 92% of Its Revenue Rentin...\""
+      "move_reason": "News: \"CoreWeave seeks truce with Texas Governor-elect Hinojosa\""
     },
     {
       "ticker": "PWR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here's What $10,000 Invested in Bloom Energy (BE) Stock Could Be Worth in 3 Years\""
+      "move_reason": "News: \"Novo Nordisk Just Delivered Great News for Investors. Is a Comeback Finally Underway?\""
     },
     {
       "ticker": "PLTR",
@@ -165,7 +165,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue\""
+      "move_reason": "News: \"Is GE Vernova (GEV) Trading At A Premium After Its $9b Deal?\""
     },
     {
       "ticker": "OXY",
@@ -191,7 +191,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"What Oscar Health Holders Bought Into Before A 122% Run\""
     },
     {
       "ticker": "DG",
@@ -203,7 +203,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Factors to Watch Ahead of Flowers Foods' Q3 Earnings Release\""
+      "move_reason": "News: \"Dollar Tree Pops 10% as Democratic Sweep Brings Cheer to the Markets. How to Play DLTR Sto...\""
     },
     {
       "ticker": "XLP",
@@ -317,7 +317,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jim Cramer sends a strong signal to Nvidia stock investors\""
+      "move_reason": "News: \"NVIDIA And 2 Other AI Stocks To Watch\""
     },
     {
       "ticker": "APA",
@@ -341,7 +341,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Core Scientific Is Quitting Bitcoin Mining as It Now Makes About 92% of Its Revenue Rentin...\""
+      "move_reason": "News: \"CoreWeave seeks truce with Texas Governor-elect Hinojosa\""
     },
     {
       "ticker": "DG",
@@ -353,7 +353,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Factors to Watch Ahead of Flowers Foods' Q3 Earnings Release\""
+      "move_reason": "News: \"Dollar Tree Pops 10% as Democratic Sweep Brings Cheer to the Markets. How to Play DLTR Sto...\""
     },
     {
       "ticker": "GEV",
@@ -365,7 +365,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue\""
+      "move_reason": "News: \"Is GE Vernova (GEV) Trading At A Premium After Its $9b Deal?\""
     },
     {
       "ticker": "IWM",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Here's What $10,000 Invested in Bloom Energy (BE) Stock Could Be Worth in 3 Years\""
+      "move_reason": "News: \"Novo Nordisk Just Delivered Great News for Investors. Is a Comeback Finally Underway?\""
     },
     {
       "ticker": "OSCR",
@@ -413,7 +413,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"What Oscar Health Holders Bought Into Before A 122% Run\""
     },
     {
       "ticker": "OXY",
@@ -473,7 +473,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Sector Update: Energy Stocks Lower Late Afternoon\""
+      "move_reason": "News: \"The S&P 500 Just Had Its Worst Week Since the April 2025 Tariff Crash\""
     }
   ],
   "indices": [
@@ -666,38 +666,6 @@ window.theBriefMovers = {
       "sector_etf": "XLK"
     },
     {
-      "ticker": "CRWV",
-      "name": "CoreWeave",
-      "price": 46.54,
-      "change_pct": 6.6,
-      "score": 8.5,
-      "signals": [
-        "Moved +6.60% \u2014 a 1.0\u03c3 move",
-        "3 news items in the last 3 days",
-        "Earnings within 7 days",
-        "7 insider sells vs 3 buys (last 90 days)",
-        "Down -47.4% over 3 months \u2014 deep drawdown",
-        "-66.4% from 52-week high"
-      ],
-      "reasons": [
-        "Moved +6.60% \u2014 a 1.0\u03c3 move",
-        "3 news items in the last 3 days",
-        "Earnings within 7 days",
-        "7 insider sells vs 3 buys (last 90 days)",
-        "Down -47.4% over 3 months \u2014 deep drawdown",
-        "-66.4% from 52-week high"
-      ],
-      "tags": [
-        "news-flow",
-        "earnings-soon",
-        "insider-selling",
-        "drawdown",
-        "off-highs"
-      ],
-      "narrative": "<strong>CRWV</strong> reports earnings within the next 7 days \u2014 the print resolves the thesis.",
-      "sector_etf": "XLK"
-    },
-    {
       "ticker": "APA",
       "name": "APA Corp",
       "price": 44.77,
@@ -755,6 +723,35 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>TPL</strong> has notable insider conviction in the last 90 days.",
       "sector_etf": "XLE"
+    },
+    {
+      "ticker": "CRWV",
+      "name": "CoreWeave",
+      "price": 46.54,
+      "change_pct": 6.6,
+      "score": 7.5,
+      "signals": [
+        "Moved +6.60% \u2014 a 1.0\u03c3 move",
+        "3 news items in the last 3 days",
+        "Earnings within 7 days",
+        "Down -47.4% over 3 months \u2014 deep drawdown",
+        "-66.4% from 52-week high"
+      ],
+      "reasons": [
+        "Moved +6.60% \u2014 a 1.0\u03c3 move",
+        "3 news items in the last 3 days",
+        "Earnings within 7 days",
+        "Down -47.4% over 3 months \u2014 deep drawdown",
+        "-66.4% from 52-week high"
+      ],
+      "tags": [
+        "news-flow",
+        "earnings-soon",
+        "drawdown",
+        "off-highs"
+      ],
+      "narrative": "<strong>CRWV</strong> reports earnings within the next 7 days \u2014 the print resolves the thesis.",
+      "sector_etf": "XLK"
     },
     {
       "ticker": "OSCR",
@@ -836,29 +833,6 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>NVDA</strong> is accumulating signals worth tracking.",
       "sector_etf": "XLK"
-    },
-    {
-      "ticker": "DG",
-      "name": "Dollar General",
-      "price": 133.75,
-      "change_pct": -3.08,
-      "score": 4.5,
-      "signals": [
-        "Moved -3.08% \u2014 a 1.1\u03c3 move",
-        "3 news items in the last 3 days",
-        "5 insider buys vs 1 sells (last 90 days)"
-      ],
-      "reasons": [
-        "Moved -3.08% \u2014 a 1.1\u03c3 move",
-        "3 news items in the last 3 days",
-        "5 insider buys vs 1 sells (last 90 days)"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying"
-      ],
-      "narrative": "<strong>DG</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLP"
     },
     {
       "ticker": "TTD",

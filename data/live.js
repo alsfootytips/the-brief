@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-11-07T21:52:10.952480+00:00",
+  "generated_at": "2026-11-08T01:07:50.709003+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -47,7 +47,7 @@ window.theBriefLive = {
       "change_pct": 6.55,
       "price": 542.4,
       "is_watchlist": true,
-      "timestamp": "2026-11-07T21:52:10.950279+00:00",
+      "timestamp": "2026-11-08T01:07:50.706349+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -59,7 +59,7 @@ window.theBriefLive = {
       "change_pct": -7.84,
       "price": 30.58,
       "is_watchlist": true,
-      "timestamp": "2026-11-07T21:52:10.950276+00:00",
+      "timestamp": "2026-11-08T01:07:50.706347+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -71,7 +71,7 @@ window.theBriefLive = {
       "change_pct": 3.91,
       "price": 188.7,
       "is_watchlist": true,
-      "timestamp": "2026-11-07T21:52:10.950274+00:00",
+      "timestamp": "2026-11-08T01:07:50.706345+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -83,7 +83,7 @@ window.theBriefLive = {
       "change_pct": 8.65,
       "price": 130.78,
       "is_watchlist": true,
-      "timestamp": "2026-11-07T21:52:10.950272+00:00",
+      "timestamp": "2026-11-08T01:07:50.706342+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -95,7 +95,7 @@ window.theBriefLive = {
       "change_pct": -3.08,
       "price": 133.75,
       "is_watchlist": true,
-      "timestamp": "2026-11-07T21:52:10.950263+00:00",
+      "timestamp": "2026-11-08T01:07:50.706331+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -107,7 +107,7 @@ window.theBriefLive = {
       "change_pct": 6.6,
       "price": 46.54,
       "is_watchlist": true,
-      "timestamp": "2026-11-07T21:52:10.950261+00:00",
+      "timestamp": "2026-11-08T01:07:50.706328+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -119,10 +119,204 @@ window.theBriefLive = {
       "change_pct": 10.82,
       "price": 448.14,
       "is_watchlist": true,
-      "timestamp": "2026-11-07T21:52:10.950253+00:00",
+      "timestamp": "2026-11-08T01:07:50.706317+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "How to invest in AI amid AI spending worries?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/how-to-invest-in-ai-amid-ai-spending-worries-5010090",
+      "is_watchlist": false,
+      "timestamp": "2026-11-07T23:53:16+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Novo Nordisk Just Delivered Great News for Investors. Is a Comeback Finally Underway?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b9905cd863054881b2b343e35ff7f5059352a4713db61ee2f115bf2716901f46",
+      "is_watchlist": true,
+      "timestamp": "2026-11-07T23:40:02+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "OceanFirst director Jack Farris buys $10,008 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/oceanfirst-director-jack-farris-buys-10008-in-company-stock-93CH-5010086",
+      "is_watchlist": false,
+      "timestamp": "2026-11-07T23:31:06+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Southern Co comptroller Matthew Kim sells $9,339 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/southern-co-comptroller-matthew-kim-sells-9339-in-shares-93CH-5010085",
+      "is_watchlist": false,
+      "timestamp": "2026-11-07T23:30:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "5 Best Dow Stocks to Buy for 2027",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=132d072b239c0ed35f9dd55be8bd8588938c2bc53c26b7cfc330a2b204bb7002",
+      "is_watchlist": true,
+      "timestamp": "2026-11-07T23:18:19+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump offers UFC chief Dana White press secretary job",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+      "is_watchlist": false,
+      "timestamp": "2026-11-07T23:13:38+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "NVIDIA And 2 Other AI Stocks To Watch",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f228c96c1a8cf5faa617067ba7968b3f4633d6316908a7a1ca070d366fd436e0",
+      "is_watchlist": true,
+      "timestamp": "2026-11-07T23:12:49+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "NVIDIA And 2 Other AI Stocks To Watch",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f228c96c1a8cf5faa617067ba7968b3f4633d6316908a7a1ca070d366fd436e0",
+      "is_watchlist": true,
+      "timestamp": "2026-11-07T23:12:49+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Voyager Technologies selected for NASA\u2019s $10B lunar contract",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/company-news/voyager-technologies-selected-for-nasas-10b-lunar-contract-93CH-5010080",
+      "is_watchlist": false,
+      "timestamp": "2026-11-07T23:04:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-11-07T23:02:35+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Binance CFO Kaiser Ng steps down, Justin Yek named new finance chief",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/binance-cfo-kaiser-ng-steps-down-justin-yek-named-new-finance-chief-5009978",
+      "is_watchlist": false,
+      "timestamp": "2026-11-07T22:48:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Paraguay\u2019s bank collapse topples president, raises investor risks",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4668738-paraguays-bank-collapse-topples-president-raises-investor-risks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-07T22:33:20+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+      "is_watchlist": false,
+      "timestamp": "2026-11-07T22:17:52+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": "GEV",
+      "headline": "Is GE Vernova (GEV) Trading At A Premium After Its $9b Deal?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=046efac791fef0677e0927fa0062a4966e919065508b7b3fc03756d651613e02",
+      "is_watchlist": true,
+      "timestamp": "2026-11-07T22:16:07+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+      "is_watchlist": false,
+      "timestamp": "2026-11-07T21:59:10+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "World Acceptance director Benjamin Robinson sells $14,878 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/world-acceptance-director-benjamin-robinson-sells-14878-in-shares-93CH-5010063",
+      "is_watchlist": false,
+      "timestamp": "2026-11-07T21:46:13+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Dropbox chief accounting officer sells $74,884 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/dropbox-chief-accounting-officer-sells-74884-in-stock-93CH-5010062",
+      "is_watchlist": false,
+      "timestamp": "2026-11-07T21:45:58+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -137,58 +331,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "US military says it disabled cargo vessel in Gulf of Oman",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/us-military-says-it-disabled-cargo-vessel-in-gulf-of-oman-5010055",
-      "is_watchlist": false,
-      "timestamp": "2026-11-07T21:24:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5010054",
-      "is_watchlist": false,
-      "timestamp": "2026-11-07T21:20:03+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump offers UFC chief Dana White press secretary job",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
-      "is_watchlist": false,
-      "timestamp": "2026-11-07T21:17:54+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Equity positioning suffered one of its sharpest weekly drops on record: DB",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/equity-positioning-suffered-one-of-its-sharpest-weekly-drops-on-record-db-5010048",
-      "is_watchlist": false,
-      "timestamp": "2026-11-07T21:07:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
+      "ticker": "CRWV",
       "headline": "CoreWeave seeks truce with Texas Governor-elect Hinojosa",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/coreweave-seeks-truce-with-texas-governorelect-hinojosa-5010044",
-      "is_watchlist": false,
-      "timestamp": "2026-11-07T20:59:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9166bebecc6a632e53ba962c3b2c2d0865408358f84215a8b80da36b777f5145",
+      "is_watchlist": true,
+      "timestamp": "2026-11-07T21:29:29+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -215,18 +366,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump cites progress in Iran talks as fresh explosions hit Qeshm Island",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/trump-signals-iran-peace-progress-as-hormuz-attacks-threaten-talks-5009635",
-      "is_watchlist": false,
-      "timestamp": "2026-11-07T20:33:39+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
@@ -235,29 +374,6 @@ window.theBriefLive = {
       "relevance_score": 3.0,
       "relevance_tier": "medium",
       "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
-      "is_watchlist": false,
-      "timestamp": "2026-11-07T20:28:17+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Amex chief legal officer Laureen Seeger sells $22.9M in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/amex-chief-legal-officer-laureen-seeger-sells-229m-in-stock-93CH-5010032",
-      "is_watchlist": false,
-      "timestamp": "2026-11-07T20:16:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -272,18 +388,19 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Century Casinos earnings missed, revenue fell short of estimates",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/century-casinos-earnings-missed-revenue-fell-short-of-estimates-5010028",
-      "is_watchlist": false,
-      "timestamp": "2026-11-07T20:15:15+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "CRWV",
+      "headline": "Core Scientific Is Quitting Bitcoin Mining as It Now Makes About 92% of Its Revenue Renting to AI Customers",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b43d71063187f9b49d833477fefffeee09bf9c262512930a3fe7b955139e5516",
+      "is_watchlist": true,
+      "timestamp": "2026-11-07T19:52:50+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
-      "ticker": "CRWV",
+      "ticker": "AMD",
       "headline": "Core Scientific Is Quitting Bitcoin Mining as It Now Makes About 92% of Its Revenue Renting to AI Customers",
       "source": "Yahoo",
       "url": "https://finnhub.io/api/news?id=b43d71063187f9b49d833477fefffeee09bf9c262512930a3fe7b955139e5516",
@@ -306,18 +423,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Here's What $10,000 Invested in Bloom Energy (BE) Stock Could Be Worth in 3 Years",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=69b853f15be7c71f5e1a6cba873603b105ca418779e65726db4cc823adf44c33",
-      "is_watchlist": true,
-      "timestamp": "2026-11-07T19:50:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Here are the 2027 capital-gains tax rates for each income level",
       "source": "MarketWatch",
@@ -329,18 +434,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Did Apple Just Get a Boost From Democrats? Data Center Moratoriums Could Benefit the iPhone Maker",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=39e5969e027c562f17b35ca16ba5e3a3b1d3969bbf23aab560a1178d364484ef",
-      "is_watchlist": true,
-      "timestamp": "2026-11-07T19:23:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Medicare prescription drug costs will jump 50% in 2027.\u00a0Doing nothing could cost you.",
       "source": "MarketWatch",
@@ -349,18 +442,6 @@ window.theBriefLive = {
       "timestamp": "2026-11-07T19:20:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Think It's Too Late to Buy Cloudflare Stock? Here's the 1 Reason Why There's Still Time",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1b88d35b9f7674954f390024140041869dacbbd1f3425ce153a0761243744b2d",
-      "is_watchlist": true,
-      "timestamp": "2026-11-07T19:13:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "mover_statement",
@@ -447,6 +528,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "XLE",
+      "headline": "The S&P 500 Just Had Its Worst Week Since the April 2025 Tariff Crash",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=186506439d25e16e97211b934892117bb52c2ed737fcbc060d5479e24e4fa543",
+      "is_watchlist": true,
+      "timestamp": "2026-11-07T17:33:39+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "I\u2019m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
       "source": "MarketWatch",
@@ -464,18 +557,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=c2a43711c21a7077233129392b60a0a3d8722e423b16fb58f6f17bc6c344e3f5",
       "is_watchlist": true,
       "timestamp": "2026-11-07T17:17:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "The Artificial Intelligence (AI) Boom Is Far From Over. Here Are 4 Potential Long-Term Winners",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=bb1641a20a370b429d160e6595909ab88fd7dbeda53fdc156eaa00b2f1361a78",
-      "is_watchlist": true,
-      "timestamp": "2026-11-07T17:05:02+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -562,17 +643,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Earnings Scoreboard: 86% of reporting firms beat EPS estimates, 78% post Y/Y earnings growth",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4667797-earnings-scoreboard-86-of-reporting-firms-beat-eps-estimates-78-post-yy-earnings-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-07T16:45:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Syria denies plans to send troops to Yemen as Saudi military ties deepen - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdWFoalVjYUd5cFBzeWxSX3pKY1o0eG8wczAtaHYtSW5FckxtSkNoTXExWXlUY09ETUM3ZGVGS3lyRGFfeDh4bVJ0eER2YXp3dm1hclg3RzRHaktReWwxb1Zzdl9JWTJ0WVhpYWgxeUd6RWV4SkFUWU5DMDI0N0tYS3hMd1hIQU1kb3dCMUZzdng5VVlBUVhERlFMT0FvSldhcERMQ3ZXNHhPTkprenZKYW5waUxodHFTZFE?oc=5",
@@ -591,30 +661,6 @@ window.theBriefLive = {
       "timestamp": "2026-11-07T16:31:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "AI Chip Stocks Bounce After Global Rout\u2014But Is the Bubble Starting to Burst?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=315510a8fbce44fba2d59884eb08cb0205b74ff8e94c79be705600e080f2b7c4",
-      "is_watchlist": true,
-      "timestamp": "2026-11-07T16:01:02+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "CoreWeave\u2019s Bonds Now Yield More Than 16%, Days Before Earnings",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6baaeb6a1e70108633f36954d979043f2d64304ffe5f0eb5b7a4549fc0bc0053",
-      "is_watchlist": true,
-      "timestamp": "2026-11-07T15:37:53+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -638,6 +684,18 @@ window.theBriefLive = {
       "timestamp": "2026-11-07T15:23:46+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "DG",
+      "headline": "Dollar Tree Pops 10% as Democratic Sweep Brings Cheer to the Markets. How to Play DLTR Stock Here.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3db075724265b315a6b170541b1ea7621af1f5507092328a755403d2810b43b6",
+      "is_watchlist": true,
+      "timestamp": "2026-11-07T15:00:03+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -710,18 +768,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
-      "is_watchlist": false,
-      "timestamp": "2026-11-07T13:03:12+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "America doesn't like socialism. So why are socialists winning?",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/11/07/socialism-elections-economy.html",
@@ -751,18 +797,6 @@ window.theBriefLive = {
       "timestamp": "2026-11-07T13:00:01+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "GEV",
-      "headline": "What Is Behind The Move In Oklo Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=48cfb649f20f38eb2207a74510e397c1ed075926557bf92ab7cecf56c89e641c",
-      "is_watchlist": true,
-      "timestamp": "2026-11-07T12:49:40+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -945,18 +979,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "XLE",
-      "headline": "Sector Update: Energy",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a5f694dca6521829f6c316e6aa24f4a9ad96e3f193318946be387613d64166ab",
-      "is_watchlist": true,
-      "timestamp": "2026-11-06T18:14:46+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "TTD",
       "headline": "AppLovin Jumps 8% as Post-Earnings Rally Extends; Unity Climbs 7%, Trade Desk Dips",
       "source": "Yahoo",
@@ -1110,18 +1132,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "DG",
-      "headline": "Dillard's Q3 Pre-Earnings: Is a Beat on the Horizon for the Stock?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=f1c3348dc99c81dc2bb7e54fa52690febe76c356124d5fa5b55f77511677fcd5",
-      "is_watchlist": true,
-      "timestamp": "2026-11-06T14:40:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "OXY",
       "headline": "Occidental Petroleum to Release Q3 Earnings: What's in the Cards?",
       "source": "Yahoo",
@@ -1232,17 +1242,6 @@ window.theBriefLive = {
       "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
       "timestamp": "2026-11-06T00:06:06+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "'I was asked if I was a crier': Your worst job interviews revealed",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-11-06T00:02:52+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
