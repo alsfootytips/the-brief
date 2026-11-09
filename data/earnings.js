@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-11-09T09:48:33+00:00",
+  "generated_at": "2026-11-09T20:27:49+00:00",
   "by_date": {
     "2026-11-10": [
       {
@@ -6549,7 +6549,7 @@ window.theBriefEarnings = {
       {
         "ticker": "ALTI",
         "date": "2026-11-09",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.0204,
         "revenue_estimate": 67116000,
         "is_watchlist": false
@@ -6725,7 +6725,7 @@ window.theBriefEarnings = {
       {
         "ticker": "BETR",
         "date": "2026-11-09",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -1.4365,
         "revenue_estimate": 51664458,
         "is_watchlist": false
@@ -6885,7 +6885,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CNCK",
         "date": "2026-11-09",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": -0.0304,
         "revenue_estimate": 654047184,
         "is_watchlist": false
@@ -7093,7 +7093,7 @@ window.theBriefEarnings = {
       {
         "ticker": "EDIT",
         "date": "2026-11-09",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.1924,
         "revenue_estimate": 4549118,
         "is_watchlist": false
@@ -7197,7 +7197,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FFBW",
         "date": "2026-11-09",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -7357,7 +7357,7 @@ window.theBriefEarnings = {
       {
         "ticker": "HDRN",
         "date": "2026-11-09",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
