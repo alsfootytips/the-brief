@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-08T22:45:02.294142+00:00",
+  "generated_at": "2026-11-09T02:02:47.389183+00:00",
   "gainers": [
     {
       "ticker": "AMD",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Stock Dropped 11% Last Week. Is Intel\u2019s PC Warning Really That Bad?\""
+      "move_reason": "News: \"AMD or Nvidia: Which AI Chip Stock Would I Buy With $1,000 Today?\""
     },
     {
       "ticker": "NBIS",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 big AI narratives wrestle with each other: What to watch this week\""
+      "move_reason": "Pre-earnings positioning \u2014 reports tomorrow."
     },
     {
       "ticker": "PWR",
@@ -59,7 +59,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Top 5 Biotech Stocks I'd Buy Right Now Without Any Hesitation\""
+      "move_reason": "News: \"Procter & Gamble's Dividend Has Survived 26 Recessions. Here's What $10,000 Now Earns in Y...\""
     },
     {
       "ticker": "PLTR",
@@ -83,7 +83,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"APA Q3 Earnings Beat on Strong Oil Prices and U.S. Output\""
+      "move_reason": ""
     },
     {
       "ticker": "XLK",
@@ -153,7 +153,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AppLovin Jumps 8% as Post-Earnings Rally Extends; Unity Climbs 7%, Trade Desk Dips\""
+      "move_reason": "News: \"Trade Desk Fell 3% While AppLovin Soared 31%. Here\u2019s What Its November 9 Report Has to Pro...\""
     },
     {
       "ticker": "GEV",
@@ -177,7 +177,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Buy The Dip: 6-9% Yields Getting Too Cheap\""
+      "move_reason": "News: \"Inflation Data, Post Midterm Weakness and Other Key Things to Watch this Week\""
     }
   ],
   "losers": [
@@ -251,6 +251,17 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "XLF",
+      "name": "Financial Select Sector",
+      "price": 57.16,
+      "change_pct": -0.59,
+      "volume_ratio": 0.75,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
+    },
+    {
       "ticker": "DIA",
       "name": "SPDR Dow Jones Industrial",
       "price": 512.22,
@@ -306,7 +317,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Stock Dropped 11% Last Week. Is Intel\u2019s PC Warning Really That Bad?\""
+      "move_reason": "News: \"AMD or Nvidia: Which AI Chip Stock Would I Buy With $1,000 Today?\""
     },
     {
       "ticker": "APA",
@@ -318,7 +329,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"APA Q3 Earnings Beat on Strong Oil Prices and U.S. Output\""
+      "move_reason": ""
     },
     {
       "ticker": "CRWV",
@@ -330,7 +341,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"2 big AI narratives wrestle with each other: What to watch this week\""
+      "move_reason": "Pre-earnings positioning \u2014 reports tomorrow."
     },
     {
       "ticker": "DG",
@@ -390,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Top 5 Biotech Stocks I'd Buy Right Now Without Any Hesitation\""
+      "move_reason": "News: \"Procter & Gamble's Dividend Has Survived 26 Recessions. Here's What $10,000 Now Earns in Y...\""
     },
     {
       "ticker": "OSCR",
@@ -414,7 +425,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Buy The Dip: 6-9% Yields Getting Too Cheap\""
+      "move_reason": "News: \"Inflation Data, Post Midterm Weakness and Other Key Things to Watch this Week\""
     },
     {
       "ticker": "PWR",
@@ -450,7 +461,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AppLovin Jumps 8% as Post-Earnings Rally Extends; Unity Climbs 7%, Trade Desk Dips\""
+      "move_reason": "News: \"Trade Desk Fell 3% While AppLovin Soared 31%. Here\u2019s What Its November 9 Report Has to Pro...\""
     },
     {
       "ticker": "XLE",
@@ -576,6 +587,16 @@ window.theBriefMovers = {
       "price": 43.13,
       "change_pct": -0.39,
       "volume_ratio": 0.79,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financial Select Sector",
+      "price": 57.16,
+      "change_pct": -0.59,
+      "volume_ratio": 0.75,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -894,6 +915,13 @@ window.theBriefMovers = {
       "name": "Real Estate Select Sector",
       "change_pct": -0.68,
       "price": 44.0,
+      "watchlist_members": []
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financial Select Sector",
+      "change_pct": -0.59,
+      "price": 57.16,
       "watchlist_members": []
     },
     {
