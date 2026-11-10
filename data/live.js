@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-11-10T02:52:40.930895+00:00",
+  "generated_at": "2026-11-10T03:54:56.563138+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -34,7 +34,7 @@ window.theBriefLive = {
       "change_pct": 18.25,
       "price": 15.29,
       "is_watchlist": true,
-      "timestamp": "2026-11-10T02:52:40.928129+00:00",
+      "timestamp": "2026-11-10T03:54:56.439087+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -46,7 +46,7 @@ window.theBriefLive = {
       "change_pct": 4.07,
       "price": 283.45,
       "is_watchlist": true,
-      "timestamp": "2026-11-10T02:52:40.928127+00:00",
+      "timestamp": "2026-11-10T03:54:56.439084+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -58,7 +58,7 @@ window.theBriefLive = {
       "change_pct": 10.26,
       "price": 596.39,
       "is_watchlist": true,
-      "timestamp": "2026-11-10T02:52:40.928124+00:00",
+      "timestamp": "2026-11-10T03:54:56.439082+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -70,7 +70,7 @@ window.theBriefLive = {
       "change_pct": 5.58,
       "price": 169.33,
       "is_watchlist": false,
-      "timestamp": "2026-11-10T02:52:40.928121+00:00",
+      "timestamp": "2026-11-10T03:54:56.439079+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -82,7 +82,7 @@ window.theBriefLive = {
       "change_pct": 6.56,
       "price": 32.66,
       "is_watchlist": true,
-      "timestamp": "2026-11-10T02:52:40.928118+00:00",
+      "timestamp": "2026-11-10T03:54:56.439076+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -94,7 +94,7 @@ window.theBriefLive = {
       "change_pct": -3.29,
       "price": 180.5,
       "is_watchlist": true,
-      "timestamp": "2026-11-10T02:52:40.928115+00:00",
+      "timestamp": "2026-11-10T03:54:56.439074+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -106,7 +106,7 @@ window.theBriefLive = {
       "change_pct": 9.65,
       "price": 141.98,
       "is_watchlist": true,
-      "timestamp": "2026-11-10T02:52:40.928112+00:00",
+      "timestamp": "2026-11-10T03:54:56.439071+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -118,7 +118,7 @@ window.theBriefLive = {
       "change_pct": 5.14,
       "price": 641.5,
       "is_watchlist": false,
-      "timestamp": "2026-11-10T02:52:40.928109+00:00",
+      "timestamp": "2026-11-10T03:54:56.439067+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -130,7 +130,7 @@ window.theBriefLive = {
       "change_pct": 3.07,
       "price": 282.08,
       "is_watchlist": true,
-      "timestamp": "2026-11-10T02:52:40.928100+00:00",
+      "timestamp": "2026-11-10T03:54:56.439057+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -142,7 +142,7 @@ window.theBriefLive = {
       "change_pct": 7.22,
       "price": 830.01,
       "is_watchlist": true,
-      "timestamp": "2026-11-10T02:52:40.928097+00:00",
+      "timestamp": "2026-11-10T03:54:56.439055+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -154,7 +154,7 @@ window.theBriefLive = {
       "change_pct": 6.57,
       "price": 49.45,
       "is_watchlist": true,
-      "timestamp": "2026-11-10T02:52:40.928093+00:00",
+      "timestamp": "2026-11-10T03:54:56.439052+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -166,10 +166,43 @@ window.theBriefLive = {
       "change_pct": 13.69,
       "price": 510.53,
       "is_watchlist": true,
-      "timestamp": "2026-11-10T02:52:40.928082+00:00",
+      "timestamp": "2026-11-10T03:54:56.439037+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Natural Gas Services raises quarterly dividend by 6.7% to  $0.16/share",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4669458-natural-gas-services-raises-quarterly-dividend-by-67-to-016share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-10T03:51:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Safe Bulkers raises quarterly dividend by 20% to  $0.09/share",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4669457-safe-bulkers-raises-quarterly-dividend-by-20-to-009share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-10T03:49:15+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Artesian Resources raises quarterly dividend by 2% to  $0.3263/share",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4669456-artesian-resources-raises-quarterly-dividend-by-2-to-03263share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-10T03:46:57+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -178,96 +211,111 @@ window.theBriefLive = {
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
       "is_watchlist": false,
-      "timestamp": "2026-11-10T02:42:30+00:00",
+      "timestamp": "2026-11-10T03:43:42+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Myomo narrows 2026 revenue guidance to $46M-$47M as it expects modest sequential gross margin improvement in Q4",
+      "headline": "Xenon plans X-FIRST study in Q1 2027 as AZK NDA advances, with $1.2B cash into 2029",
       "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4669439-myomo-narrows-2026-revenue-guidance-to-46m-47m-as-it-expects-modest-sequential-gross-margin?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "url": "https://seekingalpha.com/news/4669455-xenon-plans-x-first-study-in-q1-2027-as-azk-nda-advances-with-1_2b-cash-into-2029?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-11-10T02:41:51+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Gladstone Investment earnings missed by $0.13, revenue fell short of estimates",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/gladstone-investment-earnings-missed-by-013-revenue-fell-short-of-estimates-5013952",
-      "is_watchlist": false,
-      "timestamp": "2026-11-10T02:33:09+00:00",
+      "timestamp": "2026-11-10T03:41:56+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Clearway outlines $520M-$590M 2027 CAFD guidance and sets $3.20-$3.40 2031 CAFD per share target",
+      "headline": "Equinox Gold declares $0.0225 dividend",
       "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4669438-clearway-outlines-520m-590m-2027-cafd-guidance-and-sets-3_20-3_40-2031-cafd-per-share-target?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "url": "https://seekingalpha.com/news/4669454-equinox-gold-declares-0_0225-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-11-10T02:31:48+00:00",
+      "timestamp": "2026-11-10T03:39:31+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to lose his $280,000 salary. Is that unreasonable?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-11-10T03:38:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Bain Capital Specialty Finance declares $0.42 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4669453-bain-capital-specialty-finance-declares-0_42-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-10T03:37:37+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cardinal Energy declares CAD 0.06 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4669452-cardinal-energy-declares-cad-0_06-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-10T03:34:25+00:00",
+      "relevance_score": -4.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Progyny CEO Peter Anevski sells $6.18 million in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/progyny-ceo-peter-anevski-sells-618-million-in-company-stock-93CH-5014015",
+      "is_watchlist": false,
+      "timestamp": "2026-11-10T03:31:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Trump\u2019s close ties to Nvidia\u2019s Huang scrutinized after foreign intelligence concerns",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/trumps-close-ties-to-nvidias-huang-scrutinized-after-foreign-intelligence-concerns-5012979",
+      "is_watchlist": false,
+      "timestamp": "2026-11-10T03:24:19+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
-      "type": "news",
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
       "ticker": null,
-      "headline": "DuPont SVP & general counsel Erik Hoover sells $633,896 in stock",
+      "headline": "Trump says FBI investigating Nvidia CEO Huang over Chinese scandal",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/dupont-svp--general-counsel-erik-hoover-sells-633896-in-stock-93CH-5013951",
-      "is_watchlist": false,
-      "timestamp": "2026-11-10T02:31:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "url": "https://www.investing.com/news/stock-market-news/trump-says-fbi-investigating-nvidia-ceo-huang-over-chinese-scandal-5014009",
+      "is_watchlist": true,
+      "timestamp": "2026-11-10T03:20:47+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "DuPont CEO Lori Koch sells $349,307 in common stock",
+      "headline": "Australia to mandate AI breach reporting, create regulator after OpenAI breach",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/dupont-ceo-lori-koch-sells-349307-in-common-stock-93CH-5013950",
+      "url": "https://www.investing.com/news/economy-news/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-website-5013877",
       "is_watchlist": false,
-      "timestamp": "2026-11-10T02:31:41+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "TTEC earnings missed by $0.12, revenue fell short of estimates",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/ttec-earnings-missed-by-012-revenue-fell-short-of-estimates-5013949",
-      "is_watchlist": false,
-      "timestamp": "2026-11-10T02:31:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Federated Hermes CEO sells $371,072 in FHI stock.",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/federated-hermes-ceo-sells-371072-in-fhi-stock-93CH-5013948",
-      "is_watchlist": false,
-      "timestamp": "2026-11-10T02:31:37+00:00",
+      "timestamp": "2026-11-10T03:18:42+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stride director Dylan Haggart buys $8.1 million in company shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/stride-director-dylan-haggart-buys-81-million-in-company-shares-93CH-5013947",
-      "is_watchlist": false,
-      "timestamp": "2026-11-10T02:31:33+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -277,75 +325,54 @@ window.theBriefLive = {
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-aims-to-raise-up-to-693-billion-in-blockbuster-ipo-5013861",
       "is_watchlist": false,
-      "timestamp": "2026-11-10T02:30:54+00:00",
+      "timestamp": "2026-11-10T03:18:24+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Why is New Zealand Dollar U.S. Dollar pair gaining today?",
+      "headline": "Progyny executive chairman David Schlanger sells $5.88M in stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-new-zealand-dollar-us-dollar-pair-gaining-today-93CH-5013946",
+      "url": "https://www.investing.com/news/insider-trading-news/progyny-executive-chairman-david-schlanger-sells-588m-in-stock-93CH-5014006",
       "is_watchlist": false,
-      "timestamp": "2026-11-10T02:30:50+00:00",
+      "timestamp": "2026-11-10T03:16:10+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "GFL Environmental rejects $52/share offer from PE consortium, ends review - Globe & Mail",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4669433-gfl-environmental-rejects-52share-offer-from-pe-consortium-ends-review-globe-mail?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "Dst Global Advisors, Chime Financial 10% owner, sells $41.4M stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/dst-global-advisors-chime-financial-10-owner-sells-414m-stock-93CH-5014005",
       "is_watchlist": false,
-      "timestamp": "2026-11-10T02:22:40+00:00",
+      "timestamp": "2026-11-10T03:16:08+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Csquare expects FY 2026 revenue of $1.14B-$1.16B and adjusted EBITDA of $490M-$500M as backlog ramps",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4669437-csquare-expects-fy-2026-revenue-of-1_14b-1_16b-and-adjusted-ebitda-of-490m-500m-as-backlog?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "headline": "Analysis-China seeks high-tech upper hand in industry carrying 80% of global trade",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/analysischina-seeks-hightech-upper-hand-in-industry-carrying-80-of-global-trade-5013897",
       "is_watchlist": false,
-      "timestamp": "2026-11-10T02:12:35+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-11-10T03:12:43+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Take-Two reiterates FY2027 net bookings of $8B-$8.2B as Grand Theft Auto VI preorders track \u201cfar in excess\u201d",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4669435-take-two-reiterates-fy2027-net-bookings-of-8b-8_2b-as-grand-theft-auto-vi-preorders-track-far?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-10T02:11:57+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Goosehead reiterates 2026 revenue growth outlook of 12%-19% as it targets MCP server launch by year-end",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4669436-goosehead-reiterates-2026-revenue-growth-outlook-of-12-percentminus-19-percent-as-it-targets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-10T02:11:54+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bayer gains approval of Factor XIa inhibitor asundexian to reduce stroke risk",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4669425-bayer-gains-approval-factor-xia-inhibitor-asundexian-reduce-stroke-risk?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-10T02:08:11+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "OXY",
+      "headline": "Occidental Petroleum Corporation Reports Third Quarter 2026 Results and Achieves $10.0 billion Principal Debt Milestone",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=b420e25ee155e3c1a735f527d96ad0a931b505d307e6677b5dbd07403d3ff4d6",
+      "is_watchlist": true,
+      "timestamp": "2026-11-10T02:40:26+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -621,18 +648,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "OXY",
-      "headline": "Occidental beats Q3 forecasts as production offsets lower crude prices",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1018fabfaadb2ce317c6e1f6e16a27d1446f38285160c1fb5581f30236d266eb",
-      "is_watchlist": true,
-      "timestamp": "2026-11-09T22:18:39+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "DG",
       "headline": "Dollar General (DG) Increases Yet Falls Behind Market: What Investors Need to Know",
       "source": "Yahoo",
@@ -734,17 +749,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to lose his $280,000 salary. Is that unreasonable?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-11-09T21:45:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
