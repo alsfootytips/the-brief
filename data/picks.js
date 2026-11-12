@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-11-12T02:38:02.993105+00:00",
+  "generated_at": "2026-11-12T08:07:22.566931+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -23,9 +23,9 @@ window.theBriefPicks = {
       "status": "miss",
       "horizon_label": "Long-term",
       "direction": "long",
-      "current_price": 31.31,
-      "current_pct": 39.59,
-      "change_pct_today": -2.55,
+      "current_price": 31.82,
+      "current_pct": 41.86,
+      "change_pct_today": -4.93,
       "name": "Oscar Health",
       "news_count": 3,
       "days_elapsed": 22,
@@ -848,9 +848,9 @@ window.theBriefPicks = {
       "pick_type": "strategic",
       "horizon_label": "Medium-term",
       "direction": "long",
-      "current_price": 31.31,
-      "current_pct": 3.81,
-      "change_pct_today": -2.55,
+      "current_price": 31.82,
+      "current_pct": 5.5,
+      "change_pct_today": -4.93,
       "name": "Oscar Health",
       "news_count": 3,
       "days_elapsed": 28,

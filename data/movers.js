@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-12T02:38:02.349696+00:00",
+  "generated_at": "2026-11-12T08:07:22.411073+00:00",
   "gainers": [
     {
       "ticker": "CRWV",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meet Ian Buck: The NVIDIA Executive Insiders Believe Is the One Man Who Can Replace Jensen...\""
+      "move_reason": "News: \"NVDA Fallout Pressures Tech Trade As Investors Turn To Cerebras, Applied Materials For Chi...\""
     },
     {
       "ticker": "NBIS",
@@ -94,7 +94,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Quanta Services, Inc. (PWR) Presents at Baird 2026 Global Industrial Conference 2026 Trans...\""
+      "move_reason": "News: \"3 US Industrial Construction Stocks for AI Data Center and Factory Growth\""
     },
     {
       "ticker": "QQQ",
@@ -118,30 +118,6 @@ window.theBriefMovers = {
       "is_sector": true,
       "market_state": null,
       "move_reason": "News: \"Sector Update: Energy Stocks Higher Late Afternoon\""
-    },
-    {
-      "ticker": "VWRP.L",
-      "name": "VWRP.L",
-      "price": 142.76,
-      "change_pct": 1.71,
-      "volume_ratio": 0.67,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 110.88,
-      "change_pct": 1.69,
-      "volume_ratio": 0.56,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
     },
     {
       "ticker": "XLI",
@@ -175,6 +151,30 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
+    },
+    {
+      "ticker": "OXY",
+      "name": "Occidental Petroleum",
+      "price": 57.31,
+      "change_pct": 0.72,
+      "volume_ratio": 1.31,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Should You Pick Occidental Stock Over Its Competitors?\""
+    },
+    {
+      "ticker": "IWM",
+      "name": "iShares Russell 2000 ETF",
+      "price": 282.43,
+      "change_pct": 0.66,
+      "volume_ratio": 0.61,
+      "is_watchlist": true,
+      "is_index": true,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Interest Rates Rise In The Major Developed Economies Amid Stubbornly Elevated Inflation\""
     }
   ],
   "losers": [
@@ -188,7 +188,19 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"These 5 Dividend Aristocrats\u00ae Have Raised Payouts for Decades\""
+      "move_reason": "News: \"Stock Market: Will S&P 500 Open Up or Down Today?\""
+    },
+    {
+      "ticker": "OSCR",
+      "name": "Oscar Health",
+      "price": 31.82,
+      "change_pct": -4.93,
+      "volume_ratio": 0.51,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Here's Why CNO Financial Can Be a Smart Addition to Your Portfolio\""
     },
     {
       "ticker": "META",
@@ -236,18 +248,6 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
-    },
-    {
-      "ticker": "DG",
-      "name": "Dollar General",
-      "price": 137.3,
-      "change_pct": -0.01,
-      "volume_ratio": 0.59,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
     }
   ],
   "watchlist": [
@@ -261,7 +261,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meet Ian Buck: The NVIDIA Executive Insiders Believe Is the One Man Who Can Replace Jensen...\""
+      "move_reason": "News: \"NVDA Fallout Pressures Tech Trade As Investors Turn To Cerebras, Applied Materials For Chi...\""
     },
     {
       "ticker": "APA",
@@ -281,18 +281,6 @@ window.theBriefMovers = {
       "price": 56.9,
       "change_pct": 16.77,
       "volume_ratio": 1.81,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
-    },
-    {
-      "ticker": "DG",
-      "name": "Dollar General",
-      "price": 137.3,
-      "change_pct": -0.01,
-      "volume_ratio": 0.59,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -321,7 +309,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Earnings Alleviate Some AI Spending Fears\""
+      "move_reason": "News: \"Interest Rates Rise In The Major Developed Economies Amid Stubbornly Elevated Inflation\""
     },
     {
       "ticker": "NBIS",
@@ -345,7 +333,19 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"These 5 Dividend Aristocrats\u00ae Have Raised Payouts for Decades\""
+      "move_reason": "News: \"Stock Market: Will S&P 500 Open Up or Down Today?\""
+    },
+    {
+      "ticker": "OSCR",
+      "name": "Oscar Health",
+      "price": 31.82,
+      "change_pct": -4.93,
+      "volume_ratio": 0.51,
+      "is_watchlist": true,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Here's Why CNO Financial Can Be a Smart Addition to Your Portfolio\""
     },
     {
       "ticker": "OXY",
@@ -369,7 +369,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Quanta Services, Inc. (PWR) Presents at Baird 2026 Global Industrial Conference 2026 Trans...\""
+      "move_reason": "News: \"3 US Industrial Construction Stocks for AI Data Center and Factory Growth\""
     },
     {
       "ticker": "TPL",
@@ -666,13 +666,13 @@ window.theBriefMovers = {
       "signals": [
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
-        "Forward P/E 14.9 (cheap on absolute basis)",
+        "Forward P/E 14.8 (cheap on absolute basis)",
         "-63.5% from 52-week high"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
-        "Forward P/E 14.9 (cheap on absolute basis)",
+        "Forward P/E 14.8 (cheap on absolute basis)",
         "-63.5% from 52-week high"
       ],
       "tags": [
@@ -683,6 +683,32 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>TTD</strong> just filed material disclosures with the SEC.",
       "sector_etf": "XLK"
+    },
+    {
+      "ticker": "OSCR",
+      "name": "Oscar Health",
+      "price": 31.82,
+      "change_pct": -4.93,
+      "score": 6.0,
+      "signals": [
+        "Moved -4.93% \u2014 a 1.3\u03c3 move",
+        "3 news items in the last 3 days",
+        "1 SEC filing in the last 7 days",
+        "Forward P/E 13.6 (cheap on absolute basis)"
+      ],
+      "reasons": [
+        "Moved -4.93% \u2014 a 1.3\u03c3 move",
+        "3 news items in the last 3 days",
+        "1 SEC filing in the last 7 days",
+        "Forward P/E 13.6 (cheap on absolute basis)"
+      ],
+      "tags": [
+        "news-flow",
+        "filing",
+        "cheap"
+      ],
+      "narrative": "<strong>OSCR</strong> just filed material disclosures with the SEC.",
+      "sector_etf": "XLV"
     },
     {
       "ticker": "APA",
@@ -784,27 +810,6 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>AMD</strong> is accumulating signals worth tracking.",
       "sector_etf": "XLK"
-    },
-    {
-      "ticker": "DG",
-      "name": "Dollar General",
-      "price": 137.3,
-      "change_pct": -0.01,
-      "score": 4.0,
-      "signals": [
-        "3 news items in the last 3 days",
-        "1 SEC filing in the last 7 days"
-      ],
-      "reasons": [
-        "3 news items in the last 3 days",
-        "1 SEC filing in the last 7 days"
-      ],
-      "tags": [
-        "news-flow",
-        "filing"
-      ],
-      "narrative": "<strong>DG</strong> just filed material disclosures with the SEC.",
-      "sector_etf": "XLP"
     },
     {
       "ticker": "GEV",
