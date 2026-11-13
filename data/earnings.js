@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-11-13T10:38:46+00:00",
+  "generated_at": "2026-11-13T18:06:02+00:00",
   "by_date": {
     "2026-11-17": [
       {
@@ -957,7 +957,7 @@ window.theBriefEarnings = {
       {
         "ticker": "BKYI",
         "date": "2026-11-13",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.714,
         "revenue_estimate": 2448000,
         "is_watchlist": false
@@ -1061,7 +1061,7 @@ window.theBriefEarnings = {
       {
         "ticker": "HURA",
         "date": "2026-11-13",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.1403,
         "revenue_estimate": 0,
         "is_watchlist": false
@@ -1101,7 +1101,7 @@ window.theBriefEarnings = {
       {
         "ticker": "MLSS",
         "date": "2026-11-13",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.0102,
         "revenue_estimate": 2455650,
         "is_watchlist": false
