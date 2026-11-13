@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-11-13T02:18:15.556691+00:00",
+  "generated_at": "2026-11-13T02:56:10.587475+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": -3.07,
       "price": 15.49,
       "is_watchlist": true,
-      "timestamp": "2026-11-13T02:18:15.437905+00:00",
+      "timestamp": "2026-11-13T02:56:10.585046+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": -3.39,
       "price": 167.84,
       "is_watchlist": true,
-      "timestamp": "2026-11-13T02:18:15.437902+00:00",
+      "timestamp": "2026-11-13T02:56:10.585041+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -45,7 +45,7 @@ window.theBriefLive = {
       "change_pct": -15.86,
       "price": 130.15,
       "is_watchlist": true,
-      "timestamp": "2026-11-13T02:18:15.437898+00:00",
+      "timestamp": "2026-11-13T02:56:10.585038+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -57,7 +57,7 @@ window.theBriefLive = {
       "change_pct": -5.72,
       "price": 57.29,
       "is_watchlist": true,
-      "timestamp": "2026-11-13T02:18:15.437887+00:00",
+      "timestamp": "2026-11-13T02:56:10.585027+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -69,7 +69,7 @@ window.theBriefLive = {
       "change_pct": 5.44,
       "price": 582.99,
       "is_watchlist": true,
-      "timestamp": "2026-11-13T02:18:15.437877+00:00",
+      "timestamp": "2026-11-13T02:56:10.585017+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -77,33 +77,198 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Colette Kress, the CFO who challenged Huang\u2019s bets, is Nvidia\u2019s interim CEO",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/colette-kress-the-cfo-who-challenged-huangs-bets-is-nvidias-interim-ceo-5023936",
+      "headline": "Talphera outlines plan to seek FDA agreement to end NEPHRO enrollment by Dec. 31, 2026, while raising Niyad peak U.S. sales view to over $200M",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4672027-talphera-outlines-plan-to-seek-fda-agreement-to-end-nephro-enrollment-by-dec-31-2026-while?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-11-13T02:12:37+00:00",
+      "timestamp": "2026-11-13T02:49:58+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Japan\u2019s finance minister vows action as yen breaches 160 threshold",
+      "headline": "Larimar Therapeutics president and CEO Carole Ben-Maimon acquires $49,953 in stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/japans-finance-minister-vows-action-as-yen-breaches-160-threshold-5023917",
+      "url": "https://www.investing.com/news/insider-trading-news/larimar-therapeutics-president-and-ceo-carole-benmaimon-acquires-49953-in-stock-93CH-5023982",
       "is_watchlist": false,
-      "timestamp": "2026-11-13T02:12:18+00:00",
+      "timestamp": "2026-11-13T02:46:20+00:00",
       "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "SMIC shares rise nearly 5% after third-quarter earnings beat estimates",
+      "headline": "Brookdale Senior Living director Winkle buys $358,068 in stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/smic-shares-rise-nearly-5-after-thirdquarter-earnings-beat-estimates-5023935",
+      "url": "https://www.investing.com/news/insider-trading-news/brookdale-senior-living-director-winkle-buys-358068-in-stock-93CH-5023981",
       "is_watchlist": false,
-      "timestamp": "2026-11-13T02:11:15+00:00",
+      "timestamp": "2026-11-13T02:46:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Hinge Health CFO James Budge sells $4.37M in stock, prices $119.52-$123.34",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/hinge-health-cfo-james-budge-sells-437m-in-stock-prices-1195212334-93CH-5023980",
+      "is_watchlist": false,
+      "timestamp": "2026-11-13T02:45:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Pagaya CFO Dobres sells $174,420 in class A ordinary shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/pagaya-cfo-dobres-sells-174420-in-class-a-ordinary-shares-93CH-5023979",
+      "is_watchlist": false,
+      "timestamp": "2026-11-13T02:45:52+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+      "is_watchlist": false,
+      "timestamp": "2026-11-13T02:43:26+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Virgin Galactic outlines plan to lift capacity to 150 flights per year as commercial service shifts to early Q2 2027",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4672026-virgin-galactic-outlines-plan-to-lift-capacity-to-150-flights-per-year-as-commercial-service?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-13T02:39:40+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-11-13T02:39:00+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-11-13T02:38:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cryoport director Daniel Hancock sells $1.5M of stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/cryoport-director-daniel-hancock-sells-15m-of-stock-93CH-5023971",
+      "is_watchlist": false,
+      "timestamp": "2026-11-13T02:31:18+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Garrett Ferencz, TrueBlue evp, sells $170,010 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/garrett-ferencz-trueblue-evp-sells-170010-in-company-stock-93CH-5023969",
+      "is_watchlist": false,
+      "timestamp": "2026-11-13T02:31:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Richard Campbell, South Plains Financial director, sells $1.07M in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/richard-campbell-south-plains-financial-director-sells-107m-in-stock-93CH-5023970",
+      "is_watchlist": false,
+      "timestamp": "2026-11-13T02:31:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "NeuroPace expects ~15% RNS growth in 2027 as it revises 2026 revenue guidance to $91M-$92M",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4672025-neuropace-expects-15-percent-rns-growth-in-2027-as-it-revises-2026-revenue-guidance-to-91m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-13T02:30:45+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cibus targets biofragrance peak revenue up to $100M while aiming for rice launch as early as 2028",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4672024-cibus-targets-biofragrance-peak-revenue-up-to-100m-while-aiming-for-rice-launch-as-early-as?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-13T02:30:03+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Jefferies sees 107% upside in this AI-focused semiconductor stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/stock-market-news/jefferies-sees-107-upside-in-this-aifocused-semiconductor-stock-5023959",
+      "is_watchlist": false,
+      "timestamp": "2026-11-13T02:25:18+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "The world's super-rich are piling into alternative investments. Here's why",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
+      "is_watchlist": false,
+      "timestamp": "2026-11-13T02:25:02+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cytosorbents outlines early 2027 DrugSorb-ATR De Novo plan with $300M initial U.S./Canada market",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4672023-cytosorbents-outlines-early-2027-drugsorb-atr-de-novo-plan-with-300m-initial-u-s-canada?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-13T02:19:54+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cisco outlines FY 2027 revenue of $74.8B-$75.8B as it projects $9B in hyperscaler AI infrastructure revenue",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4672022-cisco-outlines-fy-2027-revenue-of-74_8b-75_8b-as-it-projects-9b-in-hyperscaler-ai?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-13T02:19:48+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -115,138 +280,6 @@ window.theBriefLive = {
       "url": "https://seekingalpha.com/news/4672021-rekor-outlines-operating-model-for-profitability-at-approximately-50m-annual-revenue-while?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
       "timestamp": "2026-11-13T02:09:58+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dollar near 19-month high on Fed hike bets, yen tests 160",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/dollar-near-19month-high-on-fed-hike-bets-yen-tests-160-5023930",
-      "is_watchlist": false,
-      "timestamp": "2026-11-13T02:06:21+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Avatar Capital Partners closes on $156m for Japan fund",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/avatar-capital-partners-closes-on-156m-for-japan-fund-93CH-5023934",
-      "is_watchlist": false,
-      "timestamp": "2026-11-13T02:04:40+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trupanion director Howard Rubin sells $1.06 million in shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/trupanion-director-howard-rubin-sells-106-million-in-shares-93CH-5023931",
-      "is_watchlist": false,
-      "timestamp": "2026-11-13T02:01:00+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stocks recover from Nvidia whiplash, dollar climbs with US yields",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/stocks-recover-from-nvidia-whiplash-dollar-climbs-with-us-yields-5023929",
-      "is_watchlist": false,
-      "timestamp": "2026-11-13T02:00:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Impinj at BMO Capital Technology and Innovation Leaders Conference: food push gains",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/transcripts/impinj-at-bmo-capital-technology-and-innovation-leaders-conference-food-push-gains-93CH-5023918",
-      "is_watchlist": false,
-      "timestamp": "2026-11-13T01:55:44+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-11-13T01:53:55+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Journey Medical anticipates Emrosi addition to a national plan with over 25M lives beginning 2027",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4672020-journey-medical-anticipates-emrosi-addition-to-a-national-plan-with-over-25m-lives-beginning?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-13T01:50:38+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Lulu\u2019s outlines $5M annualized savings amid revised 2026 outlook and financing talks",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4672019-lulu-s-outlines-5m-annualized-savings-amid-revised-2026-outlook-and-financing-talks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-13T01:50:28+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Relmada outlines NDV-01 IND submission by year-end 2026 with cash runway through 2029",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4672018-relmada-outlines-ndvminus-01-ind-submission-by-year-end-2026-with-cash-runway-through-2029?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-13T01:50:08+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Codexis reiterates $72M-$76M 2026 revenue outlook while extending cash runway through 2028",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4672017-codexis-reiterates-72m-76m-2026-revenue-outlook-while-extending-cash-runway-through-2028?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-13T01:50:04+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AmpliTech expects at least $28M FY 2026 revenue while ending formal full-year guidance in FY 2027",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4672016-amplitech-expects-at-least-28m-fy-2026-revenue-while-ending-formal-full-year-guidance-in-fy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-13T01:49:57+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "BSR REIT outlines $0.13 to $0.22 per-unit growth target by early 2028 as NYSE listing adds $0.01 to $0.03 G&A headwind in 2027",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4672015-bsr-reit-outlines-0_13-to-0_22-per-unit-growth-target-by-early-2028-as-nyse-listing-adds-0_01?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-13T01:41:15+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -275,6 +308,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "CRWV",
+      "headline": "CoreWeave stock sinks nearly 7% after Nvidia CEO Jensen Huang resigns",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=41a043507ab7d4e9442f8cf98a6a546567c2dd70652bb129f757b5420719a4a4",
+      "is_watchlist": true,
+      "timestamp": "2026-11-13T01:22:01+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": "NVDA",
       "headline": "CoreWeave stock sinks nearly 7% after Nvidia CEO Jensen Huang resigns",
       "source": "Yahoo",
@@ -293,6 +338,18 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=cb713edb6fd788e09fd03f347f922de5eb73d163a09cd20cf0a50660797e1842",
       "is_watchlist": true,
       "timestamp": "2026-11-13T01:16:33+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NBIS",
+      "headline": "Nebius Group (NBIS) Takes a Beating \u2014 This Tech Giant Is to Blame",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=09bb6734fba77e1e03820a00e018ab9eb7ad0b8dcc568841046e80d411f91fa9",
+      "is_watchlist": true,
+      "timestamp": "2026-11-13T01:12:33+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -370,17 +427,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-11-12T23:34:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "Why Are Advanced Micro Devices (AMD) Shares Drawing Fresh AI Attention?",
       "source": "Yahoo",
@@ -417,30 +463,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NBIS",
-      "headline": "Nebius Group NV (NBIS) (Q3 2026) Earnings Call Highlights: Record Revenue Surge and Ambitious ...",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ef62b06e3f310fadb6cb179f214b0ff70fd4d32c4764ba08ea5ac6d635e87ebf",
-      "is_watchlist": true,
-      "timestamp": "2026-11-12T23:08:49+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "CoreWeave's $4 Billion Loan Plan Comes With a Catch",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=506a03e78bc1fb817deb6c9696e7c9f887419156fbd7453592dc6acc942215b2",
-      "is_watchlist": true,
-      "timestamp": "2026-11-12T23:06:01+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "AMD",
       "headline": "Can Huang's Exit Create Chip Competition",
       "source": "Yahoo",
@@ -471,17 +493,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-11-12T22:51:18+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
-      "is_watchlist": false,
-      "timestamp": "2026-11-12T22:48:26+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -654,6 +665,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "TTD",
+      "headline": "The Trade Desk Inc (TTD) (Q3 2026) Earnings Call Highlights: Revenue Beats Guidance but Flat ...",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=763d0ab32ad49fd1d5edf55a50961b69b69245bddf1bd826f89bb50c260c237f",
+      "is_watchlist": true,
+      "timestamp": "2026-11-12T21:02:07+00:00",
+      "relevance_score": 5.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "Microsoft outage hits Outlook. AWS and Google users also report issues",
       "source": "CNBC",
@@ -744,6 +767,18 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=6df1ed164784a9c1004bf9ddc8ddd88b274e7ab7b23b279e74cc42528d0f86ff",
       "is_watchlist": true,
       "timestamp": "2026-11-12T20:06:08+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "TTD",
+      "headline": "AppLovin Just Ripped 47% in a Month: Is It Too Late to Buy APP Stock Now?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7d7e7a05d1d250d02fda54f09a4520b4ce7c7278b2f44ade9b9ec6c41dedc167",
+      "is_watchlist": true,
+      "timestamp": "2026-11-12T20:05:45+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -870,6 +905,18 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=4428d87e2689063e59dd40e84d7e84e23ed2b84f60632e3fce537388991ddeab",
       "is_watchlist": true,
       "timestamp": "2026-11-12T17:00:48+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "TTD",
+      "headline": "Has Trade Desk Stock Become A Different Bet?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=387bbe7411241917d864f8f663288de9778d92d1a187e0469ebebacbdc3a763d",
+      "is_watchlist": true,
+      "timestamp": "2026-11-12T15:46:27+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -1062,18 +1109,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "TTD",
-      "headline": "Trade Desk (NASDAQ:TTD): A GARP Candidate With No Debt and a Sub-1 PEG",
-      "source": "ChartMill",
-      "url": "https://finnhub.io/api/news?id=4826f6adf1a98d64cb25bb6bd804639cc2b69730af2e8f596d26dd3268348af4",
-      "is_watchlist": true,
-      "timestamp": "2026-11-12T09:30:47+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "APA",
       "headline": "Bernstein Maintains Market Perform on APA, Raises Price Target to $41",
       "source": "Benzinga",
@@ -1121,29 +1156,6 @@ window.theBriefLive = {
       "relevance_label": "Watchlist"
     },
     {
-      "type": "news",
-      "ticker": null,
-      "headline": "The world's super-rich are piling into alternative investments. Here's why",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
-      "is_watchlist": false,
-      "timestamp": "2026-11-12T03:36:44+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "TTD",
-      "headline": "What OptimizeRx (OPRX) Said on Its Q3 Earnings Call",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=93317f9e66158ef2e8e3b4df3d9e29b9b7861ca47a5314062f512b8ce2afa256",
-      "is_watchlist": true,
-      "timestamp": "2026-11-12T00:13:45+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
       "type": "filing",
       "ticker": "NBIS",
       "form": "6-K",
@@ -1178,18 +1190,6 @@ window.theBriefLive = {
       "relevance_score": 6.0,
       "relevance_tier": "high",
       "relevance_label": "SEC Filing"
-    },
-    {
-      "type": "news",
-      "ticker": "TTD",
-      "headline": "Trade Desk Stock Boosted by Wall Street Optimism Following Earnings Beat",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=839fc1f45120c1bd854e8f636c9e3c22dd09b3454fbf1cfed18ba3486d52f9a8",
-      "is_watchlist": true,
-      "timestamp": "2026-11-11T23:37:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
