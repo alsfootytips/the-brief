@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-14T01:55:36.054727+00:00",
+  "generated_at": "2026-11-14T03:35:50.982017+00:00",
   "gainers": [
     {
       "ticker": "TPL",
@@ -18,7 +18,7 @@ window.theBriefMovers = {
       "name": "META",
       "price": 637.01,
       "change_pct": 2.15,
-      "volume_ratio": 0.71,
+      "volume_ratio": 1.03,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -31,6 +31,17 @@ window.theBriefMovers = {
       "price": 92.35,
       "change_pct": 1.42,
       "volume_ratio": 1.17,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services Select",
+      "price": 108.69,
+      "change_pct": 1.05,
+      "volume_ratio": 1.03,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -53,7 +64,7 @@ window.theBriefMovers = {
       "name": "The Trade Desk",
       "price": 15.6,
       "change_pct": 0.85,
-      "volume_ratio": 0.34,
+      "volume_ratio": 0.32,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -129,6 +140,17 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
+      "ticker": "XLRE",
+      "name": "Real Estate Select Sector",
+      "price": 44.37,
+      "change_pct": 0.02,
+      "volume_ratio": 0.73,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
+    },
+    {
       "ticker": "DG",
       "name": "Dollar General",
       "price": 134.61,
@@ -147,7 +169,7 @@ window.theBriefMovers = {
       "name": "Nebius Group",
       "price": 112.8,
       "change_pct": -12.31,
-      "volume_ratio": 1.85,
+      "volume_ratio": 1.22,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -171,19 +193,19 @@ window.theBriefMovers = {
       "name": "CoreWeave",
       "price": 51.75,
       "change_pct": -8.57,
-      "volume_ratio": 1.05,
+      "volume_ratio": 0.81,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Stock Market Today, Nov. 13: CoreWeave Falls Over 6% on AI-Cloud Selling and Reported $4 B...\""
+      "move_reason": "News: \"Cathie Wood buys $15 million of popular AI stock\""
     },
     {
       "ticker": "PLTR",
       "name": "PLTR",
       "price": 165.32,
       "change_pct": -3.65,
-      "volume_ratio": 0.69,
+      "volume_ratio": 0.87,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -195,7 +217,7 @@ window.theBriefMovers = {
       "name": "GE Vernova",
       "price": 790.01,
       "change_pct": -3.48,
-      "volume_ratio": 0.68,
+      "volume_ratio": 0.74,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -207,7 +229,7 @@ window.theBriefMovers = {
       "name": "Oscar Health",
       "price": 30.87,
       "change_pct": -3.35,
-      "volume_ratio": 0.76,
+      "volume_ratio": 1.01,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -243,7 +265,7 @@ window.theBriefMovers = {
       "name": "SOFI",
       "price": 15.27,
       "change_pct": -2.28,
-      "volume_ratio": 1.02,
+      "volume_ratio": 0.87,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -309,11 +331,11 @@ window.theBriefMovers = {
       "move_reason": ""
     },
     {
-      "ticker": "XLC",
-      "name": "Communication Services Select",
-      "price": 107.56,
-      "change_pct": -0.96,
-      "volume_ratio": 0.73,
+      "ticker": "XLY",
+      "name": "Consumer Discretionary Select",
+      "price": 119.98,
+      "change_pct": -0.4,
+      "volume_ratio": 0.83,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -350,12 +372,12 @@ window.theBriefMovers = {
       "name": "CoreWeave",
       "price": 51.75,
       "change_pct": -8.57,
-      "volume_ratio": 1.05,
+      "volume_ratio": 0.81,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Stock Market Today, Nov. 13: CoreWeave Falls Over 6% on AI-Cloud Selling and Reported $4 B...\""
+      "move_reason": "News: \"Cathie Wood buys $15 million of popular AI stock\""
     },
     {
       "ticker": "DG",
@@ -374,7 +396,7 @@ window.theBriefMovers = {
       "name": "GE Vernova",
       "price": 790.01,
       "change_pct": -3.48,
-      "volume_ratio": 0.68,
+      "volume_ratio": 0.74,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -398,7 +420,7 @@ window.theBriefMovers = {
       "name": "Nebius Group",
       "price": 112.8,
       "change_pct": -12.31,
-      "volume_ratio": 1.85,
+      "volume_ratio": 1.22,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -422,7 +444,7 @@ window.theBriefMovers = {
       "name": "Oscar Health",
       "price": 30.87,
       "change_pct": -3.35,
-      "volume_ratio": 0.76,
+      "volume_ratio": 1.01,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -470,7 +492,7 @@ window.theBriefMovers = {
       "name": "The Trade Desk",
       "price": 15.6,
       "change_pct": 0.85,
-      "volume_ratio": 0.34,
+      "volume_ratio": 0.32,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
@@ -545,6 +567,16 @@ window.theBriefMovers = {
       "is_sector": true
     },
     {
+      "ticker": "XLC",
+      "name": "Communication Services Select",
+      "price": 108.69,
+      "change_pct": 1.05,
+      "volume_ratio": 1.03,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true
+    },
+    {
       "ticker": "XLE",
       "name": "Energy Select Sector",
       "price": 64.97,
@@ -586,6 +618,16 @@ window.theBriefMovers = {
       "is_sector": true
     },
     {
+      "ticker": "XLRE",
+      "name": "Real Estate Select Sector",
+      "price": 44.37,
+      "change_pct": 0.02,
+      "volume_ratio": 0.73,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true
+    },
+    {
       "ticker": "XLB",
       "name": "Materials Select Sector",
       "price": 52.23,
@@ -611,26 +653,6 @@ window.theBriefMovers = {
       "price": 119.98,
       "change_pct": -0.4,
       "volume_ratio": 0.83,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate Select Sector",
-      "price": 44.36,
-      "change_pct": -0.52,
-      "volume_ratio": 0.85,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services Select",
-      "price": 107.56,
-      "change_pct": -0.96,
-      "volume_ratio": 0.73,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
@@ -693,16 +715,16 @@ window.theBriefMovers = {
         "3 news items in the last 3 days",
         "2 SEC filings in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Down -53.7% over 3 months \u2014 deep drawdown",
-        "-55.1% from 52-week high"
+        "Down -56.9% over 3 months \u2014 deep drawdown",
+        "-59.6% from 52-week high"
       ],
       "reasons": [
         "Moved -12.31% \u2014 a 1.5\u03c3 move vs typical 8.0% daily vol",
         "3 news items in the last 3 days",
         "2 SEC filings in the last 7 days",
         "9 insider buys vs 1 sells (last 90 days)",
-        "Down -53.7% over 3 months \u2014 deep drawdown",
-        "-55.1% from 52-week high"
+        "Down -56.9% over 3 months \u2014 deep drawdown",
+        "-59.6% from 52-week high"
       ],
       "tags": [
         "moderate-move",
@@ -725,15 +747,15 @@ window.theBriefMovers = {
         "Moved -8.57% \u2014 a 1.1\u03c3 move",
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
-        "Down -46.2% over 3 months \u2014 deep drawdown",
-        "-59.0% from 52-week high"
+        "Down -49.9% over 3 months \u2014 deep drawdown",
+        "-61.5% from 52-week high"
       ],
       "reasons": [
         "Moved -8.57% \u2014 a 1.1\u03c3 move",
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
-        "Down -46.2% over 3 months \u2014 deep drawdown",
-        "-59.0% from 52-week high"
+        "Down -49.9% over 3 months \u2014 deep drawdown",
+        "-61.5% from 52-week high"
       ],
       "tags": [
         "news-flow",
@@ -783,13 +805,13 @@ window.theBriefMovers = {
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "Forward P/E 13.5 (cheap on absolute basis)",
-        "-63.1% from 52-week high"
+        "-62.6% from 52-week high"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
         "Forward P/E 13.5 (cheap on absolute basis)",
-        "-63.1% from 52-week high"
+        "-62.6% from 52-week high"
       ],
       "tags": [
         "news-flow",
@@ -873,6 +895,30 @@ window.theBriefMovers = {
       "sector_etf": "XLE"
     },
     {
+      "ticker": "GEV",
+      "name": "GE Vernova",
+      "price": 790.01,
+      "change_pct": -3.48,
+      "score": 4.5,
+      "signals": [
+        "3 news items in the last 3 days",
+        "9 insider buys vs 1 sells (last 90 days)",
+        "Down -25.5% over 3 months \u2014 deep drawdown"
+      ],
+      "reasons": [
+        "3 news items in the last 3 days",
+        "9 insider buys vs 1 sells (last 90 days)",
+        "Down -25.5% over 3 months \u2014 deep drawdown"
+      ],
+      "tags": [
+        "news-flow",
+        "insider-buying",
+        "drawdown"
+      ],
+      "narrative": "<strong>GEV</strong> is showing a classic contrarian signal: insiders buying into a sustained drawdown.",
+      "sector_etf": "XLI"
+    },
+    {
       "ticker": "DG",
       "name": "Dollar General",
       "price": 134.61,
@@ -892,27 +938,6 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>DG</strong> just filed material disclosures with the SEC.",
       "sector_etf": "XLP"
-    },
-    {
-      "ticker": "GEV",
-      "name": "GE Vernova",
-      "price": 790.01,
-      "change_pct": -3.48,
-      "score": 3.5,
-      "signals": [
-        "3 news items in the last 3 days",
-        "9 insider buys vs 1 sells (last 90 days)"
-      ],
-      "reasons": [
-        "3 news items in the last 3 days",
-        "9 insider buys vs 1 sells (last 90 days)"
-      ],
-      "tags": [
-        "news-flow",
-        "insider-buying"
-      ],
-      "narrative": "<strong>GEV</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLI"
     }
   ],
   "sectors_radar": [
@@ -939,6 +964,13 @@ window.theBriefMovers = {
       ]
     },
     {
+      "ticker": "XLC",
+      "name": "Communication Services Select",
+      "change_pct": 1.05,
+      "price": 108.69,
+      "watchlist_members": []
+    },
+    {
       "ticker": "XLE",
       "name": "Energy Select Sector",
       "change_pct": 0.99,
@@ -948,13 +980,6 @@ window.theBriefMovers = {
         "TPL",
         "OXY"
       ]
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services Select",
-      "change_pct": -0.96,
-      "price": 107.56,
-      "watchlist_members": []
     },
     {
       "ticker": "XLF",
@@ -971,13 +996,6 @@ window.theBriefMovers = {
       "watchlist_members": [
         "OSCR"
       ]
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate Select Sector",
-      "change_pct": -0.52,
-      "price": 44.36,
-      "watchlist_members": []
     },
     {
       "ticker": "XLU",
@@ -1008,6 +1026,13 @@ window.theBriefMovers = {
       "name": "Materials Select Sector",
       "change_pct": -0.21,
       "price": 52.23,
+      "watchlist_members": []
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate Select Sector",
+      "change_pct": 0.02,
+      "price": 44.37,
       "watchlist_members": []
     }
   ]
