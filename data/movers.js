@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-14T16:56:10.426099+00:00",
+  "generated_at": "2026-11-14T21:08:40.280059+00:00",
   "gainers": [
     {
       "ticker": "TPL",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"S&P 500 Top Movers for Nov. 13, 2026: Charter Communications Leads Gainers, AMD Leads Lose...\""
+      "move_reason": "News: \"Should You Sell Texas Pacific Land (TPL) Now That the Blue Wave is Here?\""
     },
     {
       "ticker": "META",
@@ -126,7 +126,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"APA (APA) Stock Gets Fair Value Bump After Q3 Update And Analyst Target Changes\""
+      "move_reason": "News: \"APA Has Rallied by 91% This Year. Here\u2019s Why You Should Take Some Chips Off The Table\""
     },
     {
       "ticker": "DIA",
@@ -198,7 +198,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Stock Surges as Revenue Soars. Is It Too Late to Buy the Stock?\""
+      "move_reason": "News: \"Core Scientific (CORZ): Can CoreWeave (CRWV) Revenue Growth Offset Expansion Risks?\""
     },
     {
       "ticker": "PLTR",
@@ -365,7 +365,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"APA (APA) Stock Gets Fair Value Bump After Q3 Update And Analyst Target Changes\""
+      "move_reason": "News: \"APA Has Rallied by 91% This Year. Here\u2019s Why You Should Take Some Chips Off The Table\""
     },
     {
       "ticker": "CRWV",
@@ -377,7 +377,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Stock Surges as Revenue Soars. Is It Too Late to Buy the Stock?\""
+      "move_reason": "News: \"Core Scientific (CORZ): Can CoreWeave (CRWV) Revenue Growth Offset Expansion Risks?\""
     },
     {
       "ticker": "DG",
@@ -485,7 +485,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"S&P 500 Top Movers for Nov. 13, 2026: Charter Communications Leads Gainers, AMD Leads Lose...\""
+      "move_reason": "News: \"Should You Sell Texas Pacific Land (TPL) Now That the Blue Wave is Here?\""
     },
     {
       "ticker": "TTD",
@@ -804,13 +804,13 @@ window.theBriefMovers = {
       "signals": [
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
-        "Forward P/E 13.5 (cheap on absolute basis)",
+        "Forward P/E 13.3 (cheap on absolute basis)",
         "-62.6% from 52-week high"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "1 SEC filing in the last 7 days",
-        "Forward P/E 13.5 (cheap on absolute basis)",
+        "Forward P/E 13.3 (cheap on absolute basis)",
         "-62.6% from 52-week high"
       ],
       "tags": [
