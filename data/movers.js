@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-14T10:58:27.876975+00:00",
+  "generated_at": "2026-11-14T16:56:10.426099+00:00",
   "gainers": [
     {
       "ticker": "TPL",
@@ -51,13 +51,13 @@ window.theBriefMovers = {
       "ticker": "XLE",
       "name": "Energy Select Sector",
       "price": 64.97,
-      "change_pct": 0.96,
+      "change_pct": 0.99,
       "volume_ratio": 0.65,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"YLDE: This Could Be A Good Fund For Income Investors, But Underperformance Is Possible\""
+      "move_reason": "News: \"Consumer Staples Leads Sectors As Technology Trails\""
     },
     {
       "ticker": "TTD",
@@ -160,7 +160,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar General (DG) On Board Member Exit And A Narrative That Still Sees Value\""
+      "move_reason": "News: \"Is Dollar General (DG) Undervalued As Traffic Gains Meet Legal Risk?\""
     }
   ],
   "losers": [
@@ -186,7 +186,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Review & Preview: Moving On\""
+      "move_reason": "News: \"AMD Just Crushed Nvidia by 32 Points After Scandal. Here\u2019s How NVDA Can Come Back\""
     },
     {
       "ticker": "CRWV",
@@ -198,7 +198,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave (CRWV) Faces Fresh Risk After A Key Supplier Leadership Shock\""
+      "move_reason": "News: \"CoreWeave Stock Surges as Revenue Soars. Is It Too Late to Buy the Stock?\""
     },
     {
       "ticker": "PLTR",
@@ -234,7 +234,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Stocks That Popped When Democrats Won: Buy Or Sell?\""
+      "move_reason": "News: \"Josh Kushner Bets Big on Elon Musk, More Than Doubles Thrive Capital Stake in SpaceX Stock...\""
     },
     {
       "ticker": "NVDA",
@@ -316,7 +316,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The AI Bubble Burst Has Three Phases: We Are At Phase One\""
+      "move_reason": "News: \"AMD Sinks 10.5% as Chip Rally Unwinds, Nasdaq 100 Falls 1.7%: Stock Market Today\""
     },
     {
       "ticker": "VWRP.L",
@@ -353,7 +353,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Review & Preview: Moving On\""
+      "move_reason": "News: \"AMD Just Crushed Nvidia by 32 Points After Scandal. Here\u2019s How NVDA Can Come Back\""
     },
     {
       "ticker": "APA",
@@ -377,7 +377,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave (CRWV) Faces Fresh Risk After A Key Supplier Leadership Shock\""
+      "move_reason": "News: \"CoreWeave Stock Surges as Revenue Soars. Is It Too Late to Buy the Stock?\""
     },
     {
       "ticker": "DG",
@@ -389,7 +389,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar General (DG) On Board Member Exit And A Narrative That Still Sees Value\""
+      "move_reason": "News: \"Is Dollar General (DG) Undervalued As Traffic Gains Meet Legal Risk?\""
     },
     {
       "ticker": "GEV",
@@ -413,7 +413,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The AI Bubble Burst Has Three Phases: We Are At Phase One\""
+      "move_reason": "News: \"AMD Sinks 10.5% as Chip Rally Unwinds, Nasdaq 100 Falls 1.7%: Stock Market Today\""
     },
     {
       "ticker": "NBIS",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Stocks That Popped When Democrats Won: Buy Or Sell?\""
+      "move_reason": "News: \"Josh Kushner Bets Big on Elon Musk, More Than Doubles Thrive Capital Stake in SpaceX Stock...\""
     },
     {
       "ticker": "OXY",
@@ -503,13 +503,13 @@ window.theBriefMovers = {
       "ticker": "XLE",
       "name": "Energy Select Sector",
       "price": 64.97,
-      "change_pct": 0.96,
+      "change_pct": 0.99,
       "volume_ratio": 0.65,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"YLDE: This Could Be A Good Fund For Income Investors, But Underperformance Is Possible\""
+      "move_reason": "News: \"Consumer Staples Leads Sectors As Technology Trails\""
     }
   ],
   "indices": [
@@ -580,7 +580,7 @@ window.theBriefMovers = {
       "ticker": "XLE",
       "name": "Energy Select Sector",
       "price": 64.97,
-      "change_pct": 0.96,
+      "change_pct": 0.99,
       "volume_ratio": 0.65,
       "is_watchlist": true,
       "is_index": false,
@@ -973,7 +973,7 @@ window.theBriefMovers = {
     {
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "change_pct": 0.96,
+      "change_pct": 0.99,
       "price": 64.97,
       "watchlist_members": [
         "APA",

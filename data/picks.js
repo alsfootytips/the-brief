@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-11-14T10:58:28.002900+00:00",
+  "generated_at": "2026-11-14T16:56:10.616113+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -27,7 +27,7 @@ window.theBriefPicks = {
       "current_pct": 37.63,
       "change_pct_today": -3.35,
       "name": "Oscar Health",
-      "news_count": 2,
+      "news_count": 3,
       "days_elapsed": 22,
       "days_remaining": 34,
       "pick_type": "strategic",
@@ -167,7 +167,7 @@ window.theBriefPicks = {
       "direction": "long",
       "current_price": 64.97,
       "current_pct": 12.56,
-      "change_pct_today": 0.96,
+      "change_pct_today": 0.99,
       "name": "Energy Select Sector",
       "news_count": 3,
       "days_elapsed": 28,
@@ -852,7 +852,7 @@ window.theBriefPicks = {
       "current_pct": 2.35,
       "change_pct_today": -3.35,
       "name": "Oscar Health",
-      "news_count": 2,
+      "news_count": 3,
       "days_elapsed": 28,
       "days_remaining": 0,
       "closed_at": "2026-07-29",
