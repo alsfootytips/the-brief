@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-11-14T03:35:51.171159+00:00",
+  "generated_at": "2026-11-14T10:58:28.002900+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -167,7 +167,7 @@ window.theBriefPicks = {
       "direction": "long",
       "current_price": 64.97,
       "current_pct": 12.56,
-      "change_pct_today": 0.99,
+      "change_pct_today": 0.96,
       "name": "Energy Select Sector",
       "news_count": 3,
       "days_elapsed": 28,

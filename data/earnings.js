@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-11-14T03:35:50+00:00",
+  "generated_at": "2026-11-14T10:58:27+00:00",
   "by_date": {
     "2026-11-17": [
       {
@@ -965,6 +965,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "AIRJ",
+        "date": "2026-11-16",
+        "hour": "",
+        "eps_estimate": -0.0772,
+        "revenue_estimate": 170003,
+        "is_watchlist": false
+      },
+      {
         "ticker": "ALCY",
         "date": "2026-11-16",
         "hour": "",
@@ -1469,6 +1477,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "KYNB",
+        "date": "2026-11-16",
+        "hour": "amc",
+        "eps_estimate": -3.6188,
+        "revenue_estimate": 1801320,
+        "is_watchlist": false
+      },
+      {
         "ticker": "LDDD",
         "date": "2026-11-16",
         "hour": "",
@@ -1506,6 +1522,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MNTK",
+        "date": "2026-11-16",
+        "hour": "amc",
+        "eps_estimate": 0.0374,
+        "revenue_estimate": 54335400,
         "is_watchlist": false
       },
       {
@@ -2923,6 +2947,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "FUFU",
+        "date": "2026-11-20",
+        "hour": "",
+        "eps_estimate": 0.0306,
+        "revenue_estimate": 43554000,
+        "is_watchlist": false
+      },
+      {
         "ticker": "OMSE",
         "date": "2026-11-20",
         "hour": "",
@@ -3060,6 +3092,14 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": 0.2244,
         "revenue_estimate": 65101092,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "DAC",
+        "date": "2026-11-23",
+        "hour": "amc",
+        "eps_estimate": 7.4185,
+        "revenue_estimate": 273610343,
         "is_watchlist": false
       },
       {
@@ -3770,14 +3810,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "VEEV",
-        "date": "2026-11-26",
-        "hour": "amc",
-        "eps_estimate": 2.3897,
-        "revenue_estimate": 953677223,
         "is_watchlist": false
       },
       {

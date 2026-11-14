@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-14T03:35:50.982017+00:00",
+  "generated_at": "2026-11-14T10:58:27.876975+00:00",
   "gainers": [
     {
       "ticker": "TPL",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Texas Pacific Land (TPL) Undervalued On Stronger Earnings?\""
+      "move_reason": "News: \"S&P 500 Top Movers for Nov. 13, 2026: Charter Communications Leads Gainers, AMD Leads Lose...\""
     },
     {
       "ticker": "META",
@@ -51,7 +51,7 @@ window.theBriefMovers = {
       "ticker": "XLE",
       "name": "Energy Select Sector",
       "price": 64.97,
-      "change_pct": 0.99,
+      "change_pct": 0.96,
       "volume_ratio": 0.65,
       "is_watchlist": true,
       "is_index": false,
@@ -160,7 +160,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Ross Stores' Q3 Earnings Coming Up: Key Insights for Investors\""
+      "move_reason": "News: \"Dollar General (DG) On Board Member Exit And A Narrative That Still Sees Value\""
     }
   ],
   "losers": [
@@ -186,7 +186,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street stocks mostly lower as Nvidia extends slump\""
+      "move_reason": "News: \"Review & Preview: Moving On\""
     },
     {
       "ticker": "CRWV",
@@ -198,7 +198,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cathie Wood buys $15 million of popular AI stock\""
+      "move_reason": "News: \"CoreWeave (CRWV) Faces Fresh Risk After A Key Supplier Leadership Shock\""
     },
     {
       "ticker": "PLTR",
@@ -299,7 +299,7 @@ window.theBriefMovers = {
       "name": "VUAG.L",
       "price": 110.32,
       "change_pct": -1.15,
-      "volume_ratio": 0.93,
+      "volume_ratio": 0.9,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -323,7 +323,7 @@ window.theBriefMovers = {
       "name": "VWRP.L",
       "price": 141.76,
       "change_pct": -0.98,
-      "volume_ratio": 0.88,
+      "volume_ratio": 0.96,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -353,7 +353,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wall Street stocks mostly lower as Nvidia extends slump\""
+      "move_reason": "News: \"Review & Preview: Moving On\""
     },
     {
       "ticker": "APA",
@@ -377,7 +377,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cathie Wood buys $15 million of popular AI stock\""
+      "move_reason": "News: \"CoreWeave (CRWV) Faces Fresh Risk After A Key Supplier Leadership Shock\""
     },
     {
       "ticker": "DG",
@@ -389,7 +389,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Ross Stores' Q3 Earnings Coming Up: Key Insights for Investors\""
+      "move_reason": "News: \"Dollar General (DG) On Board Member Exit And A Narrative That Still Sees Value\""
     },
     {
       "ticker": "GEV",
@@ -485,7 +485,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Texas Pacific Land (TPL) Undervalued On Stronger Earnings?\""
+      "move_reason": "News: \"S&P 500 Top Movers for Nov. 13, 2026: Charter Communications Leads Gainers, AMD Leads Lose...\""
     },
     {
       "ticker": "TTD",
@@ -503,7 +503,7 @@ window.theBriefMovers = {
       "ticker": "XLE",
       "name": "Energy Select Sector",
       "price": 64.97,
-      "change_pct": 0.99,
+      "change_pct": 0.96,
       "volume_ratio": 0.65,
       "is_watchlist": true,
       "is_index": false,
@@ -580,7 +580,7 @@ window.theBriefMovers = {
       "ticker": "XLE",
       "name": "Energy Select Sector",
       "price": 64.97,
-      "change_pct": 0.99,
+      "change_pct": 0.96,
       "volume_ratio": 0.65,
       "is_watchlist": true,
       "is_index": false,
@@ -973,7 +973,7 @@ window.theBriefMovers = {
     {
       "ticker": "XLE",
       "name": "Energy Select Sector",
-      "change_pct": 0.99,
+      "change_pct": 0.96,
       "price": 64.97,
       "watchlist_members": [
         "APA",
