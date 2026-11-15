@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-11-14T21:08:40+00:00",
+  "generated_at": "2026-11-15T01:03:42+00:00",
   "by_date": {
     "2026-11-17": [
       {
@@ -894,16 +894,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      }
-    ],
-    "2026-11-14": [
-      {
-        "ticker": "ALLR",
-        "date": "2026-11-14",
-        "hour": "",
-        "eps_estimate": -0.2142,
-        "revenue_estimate": 0,
         "is_watchlist": false
       }
     ],

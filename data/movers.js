@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-14T21:08:40.280059+00:00",
+  "generated_at": "2026-11-15T01:03:42.661868+00:00",
   "gainers": [
     {
       "ticker": "TPL",
@@ -69,7 +69,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Trade Desk Inc (TTD) (Q3 2026) Earnings Call Highlights: Revenue Beats Guidance but Fl...\""
+      "move_reason": "News: \"AppLovin vs. The Trade Desk: Which Is the Better Digital Advertising Stock to Buy Going In...\""
     },
     {
       "ticker": "OXY",
@@ -174,7 +174,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (6-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"5 AI Infrastructure Stocks to Watch After CoreWeave\u2019s Earnings\""
     },
     {
       "ticker": "AMD",
@@ -186,7 +186,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Just Crushed Nvidia by 32 Points After Scandal. Here\u2019s How NVDA Can Come Back\""
+      "move_reason": "News: \"Nvidia Fell While AMD and Broadcom Jumped. Here\u2019s What History Says Happens Next to All 3 ...\""
     },
     {
       "ticker": "CRWV",
@@ -198,7 +198,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Core Scientific (CORZ): Can CoreWeave (CRWV) Revenue Growth Offset Expansion Risks?\""
+      "move_reason": "News: \"Micron Technology (MU) Has More Than 75% Of 2027 Output Committed\""
     },
     {
       "ticker": "PLTR",
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Dan Ives Valued Nvidia at \u201c$225 Without Jensen.\u201d Now the Stock Trades Below It\""
     },
     {
       "ticker": "PWR",
@@ -353,7 +353,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Just Crushed Nvidia by 32 Points After Scandal. Here\u2019s How NVDA Can Come Back\""
+      "move_reason": "News: \"Nvidia Fell While AMD and Broadcom Jumped. Here\u2019s What History Says Happens Next to All 3 ...\""
     },
     {
       "ticker": "APA",
@@ -377,7 +377,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Core Scientific (CORZ): Can CoreWeave (CRWV) Revenue Growth Offset Expansion Risks?\""
+      "move_reason": "News: \"Micron Technology (MU) Has More Than 75% Of 2027 Output Committed\""
     },
     {
       "ticker": "DG",
@@ -425,7 +425,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (6-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"5 AI Infrastructure Stocks to Watch After CoreWeave\u2019s Earnings\""
     },
     {
       "ticker": "NVDA",
@@ -437,7 +437,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Dan Ives Valued Nvidia at \u201c$225 Without Jensen.\u201d Now the Stock Trades Below It\""
     },
     {
       "ticker": "OSCR",
@@ -497,7 +497,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Trade Desk Inc (TTD) (Q3 2026) Earnings Call Highlights: Revenue Beats Guidance but Fl...\""
+      "move_reason": "News: \"AppLovin vs. The Trade Desk: Which Is the Better Digital Advertising Stock to Buy Going In...\""
     },
     {
       "ticker": "XLE",
@@ -714,7 +714,7 @@ window.theBriefMovers = {
         "Moved -12.31% \u2014 a 1.5\u03c3 move vs typical 8.0% daily vol",
         "3 news items in the last 3 days",
         "2 SEC filings in the last 7 days",
-        "9 insider buys vs 1 sells (last 90 days)",
+        "7 insider buys vs 3 sells (last 90 days)",
         "Down -56.9% over 3 months \u2014 deep drawdown",
         "-59.6% from 52-week high"
       ],
@@ -722,7 +722,7 @@ window.theBriefMovers = {
         "Moved -12.31% \u2014 a 1.5\u03c3 move vs typical 8.0% daily vol",
         "3 news items in the last 3 days",
         "2 SEC filings in the last 7 days",
-        "9 insider buys vs 1 sells (last 90 days)",
+        "7 insider buys vs 3 sells (last 90 days)",
         "Down -56.9% over 3 months \u2014 deep drawdown",
         "-59.6% from 52-week high"
       ],
