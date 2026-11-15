@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-15T07:52:23.250570+00:00",
+  "generated_at": "2026-11-15T15:24:39.667374+00:00",
   "gainers": [
     {
       "ticker": "TPL",
@@ -186,7 +186,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Has Two Big Catalysts Lined Up For 2027 \u2014 And Nvidia Should Be Watching, Says IO Fund\""
+      "move_reason": "News: \"The Evidence Is Piling Up: AMD Could Be the Best Artificial Intelligence (AI) Stock to Buy...\""
     },
     {
       "ticker": "CRWV",
@@ -198,7 +198,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Micron Technology (MU) Has More Than 75% Of 2027 Output Committed\""
+      "move_reason": "News: \"3 Growth Stocks With Revenue Growth Over 18%\""
     },
     {
       "ticker": "PLTR",
@@ -222,7 +222,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Inside Jim Cramer\u2019s Charitable Trust: 5 Stocks He Actually Owns\""
+      "move_reason": "News: \"Trump's Manufacturing Boom Claims Are 'Not True,' Peter Schiff Says as Factory Spending Fa...\""
     },
     {
       "ticker": "OSCR",
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia earnings \u2014 along with the baggage \u2014 top next week's markets\""
+      "move_reason": "News: \"The Evidence Is Piling Up: AMD Could Be the Best Artificial Intelligence (AI) Stock to Buy...\""
     },
     {
       "ticker": "PWR",
@@ -270,6 +270,17 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
+      "move_reason": ""
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology Select Sector",
+      "price": 170.28,
+      "change_pct": -2.01,
+      "volume_ratio": 0.83,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
       "move_reason": ""
     },
     {
@@ -329,17 +340,6 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrial Select Sector",
-      "price": 168.78,
-      "change_pct": -0.39,
-      "volume_ratio": 0.98,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
     }
   ],
   "watchlist": [
@@ -353,7 +353,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Has Two Big Catalysts Lined Up For 2027 \u2014 And Nvidia Should Be Watching, Says IO Fund\""
+      "move_reason": "News: \"The Evidence Is Piling Up: AMD Could Be the Best Artificial Intelligence (AI) Stock to Buy...\""
     },
     {
       "ticker": "APA",
@@ -377,7 +377,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Micron Technology (MU) Has More Than 75% Of 2027 Output Committed\""
+      "move_reason": "News: \"3 Growth Stocks With Revenue Growth Over 18%\""
     },
     {
       "ticker": "DG",
@@ -401,7 +401,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Inside Jim Cramer\u2019s Charitable Trust: 5 Stocks He Actually Owns\""
+      "move_reason": "News: \"Trump's Manufacturing Boom Claims Are 'Not True,' Peter Schiff Says as Factory Spending Fa...\""
     },
     {
       "ticker": "IWM",
@@ -437,7 +437,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia earnings \u2014 along with the baggage \u2014 top next week's markets\""
+      "move_reason": "News: \"The Evidence Is Piling Up: AMD Could Be the Best Artificial Intelligence (AI) Stock to Buy...\""
     },
     {
       "ticker": "OSCR",
@@ -656,6 +656,16 @@ window.theBriefMovers = {
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology Select Sector",
+      "price": 170.28,
+      "change_pct": -2.01,
+      "volume_ratio": 0.83,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true
     }
   ],
   "watchlist_radar": [
@@ -869,12 +879,12 @@ window.theBriefMovers = {
       "signals": [
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 8.5 (cheap on absolute basis)"
+        "Forward P/E 8.6 (cheap on absolute basis)"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 8.5 (cheap on absolute basis)"
+        "Forward P/E 8.6 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",
@@ -931,6 +941,19 @@ window.theBriefMovers = {
     }
   ],
   "sectors_radar": [
+    {
+      "ticker": "XLK",
+      "name": "Technology Select Sector",
+      "change_pct": -2.01,
+      "price": 170.28,
+      "watchlist_members": [
+        "CRWV",
+        "NBIS",
+        "TTD",
+        "AMD",
+        "NVDA"
+      ]
+    },
     {
       "ticker": "XLP",
       "name": "Consumer Staples Select",

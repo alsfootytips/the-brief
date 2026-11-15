@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-11-15T07:52:23+00:00",
+  "generated_at": "2026-11-15T15:24:39+00:00",
   "by_date": {
     "2026-11-17": [
       {
@@ -1032,6 +1032,14 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": 6.8564,
         "revenue_estimate": 31475280972,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "BOF",
+        "date": "2026-11-16",
+        "hour": "",
+        "eps_estimate": -0.1818,
+        "revenue_estimate": 1010000,
         "is_watchlist": false
       },
       {
