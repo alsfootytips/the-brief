@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-15T01:03:42.661868+00:00",
+  "generated_at": "2026-11-15T07:52:23.250570+00:00",
   "gainers": [
     {
       "ticker": "TPL",
@@ -57,7 +57,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Consumer Staples Leads Sectors As Technology Trails\""
+      "move_reason": "News: \"Soros\u2019 Fund Made Intel Its Biggest Stock Bet Right Before It Halved\""
     },
     {
       "ticker": "TTD",
@@ -186,7 +186,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Fell While AMD and Broadcom Jumped. Here\u2019s What History Says Happens Next to All 3 ...\""
+      "move_reason": "News: \"AMD Has Two Big Catalysts Lined Up For 2027 \u2014 And Nvidia Should Be Watching, Says IO Fund\""
     },
     {
       "ticker": "CRWV",
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dan Ives Valued Nvidia at \u201c$225 Without Jensen.\u201d Now the Stock Trades Below It\""
+      "move_reason": "News: \"Nvidia earnings \u2014 along with the baggage \u2014 top next week's markets\""
     },
     {
       "ticker": "PWR",
@@ -270,17 +270,6 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": ""
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology Select Sector",
-      "price": 170.28,
-      "change_pct": -2.01,
-      "volume_ratio": 0.83,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
       "move_reason": ""
     },
     {
@@ -340,6 +329,17 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrial Select Sector",
+      "price": 168.78,
+      "change_pct": -0.39,
+      "volume_ratio": 0.98,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": true,
+      "move_reason": ""
     }
   ],
   "watchlist": [
@@ -353,7 +353,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Fell While AMD and Broadcom Jumped. Here\u2019s What History Says Happens Next to All 3 ...\""
+      "move_reason": "News: \"AMD Has Two Big Catalysts Lined Up For 2027 \u2014 And Nvidia Should Be Watching, Says IO Fund\""
     },
     {
       "ticker": "APA",
@@ -437,7 +437,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dan Ives Valued Nvidia at \u201c$225 Without Jensen.\u201d Now the Stock Trades Below It\""
+      "move_reason": "News: \"Nvidia earnings \u2014 along with the baggage \u2014 top next week's markets\""
     },
     {
       "ticker": "OSCR",
@@ -509,7 +509,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Consumer Staples Leads Sectors As Technology Trails\""
+      "move_reason": "News: \"Soros\u2019 Fund Made Intel Its Biggest Stock Bet Right Before It Halved\""
     }
   ],
   "indices": [
@@ -652,16 +652,6 @@ window.theBriefMovers = {
       "name": "Consumer Discretionary Select",
       "price": 119.98,
       "change_pct": -0.4,
-      "volume_ratio": 0.83,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology Select Sector",
-      "price": 170.28,
-      "change_pct": -2.01,
       "volume_ratio": 0.83,
       "is_watchlist": false,
       "is_index": false,
@@ -879,12 +869,12 @@ window.theBriefMovers = {
       "signals": [
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 8.6 (cheap on absolute basis)"
+        "Forward P/E 8.5 (cheap on absolute basis)"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 8.6 (cheap on absolute basis)"
+        "Forward P/E 8.5 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",
@@ -941,19 +931,6 @@ window.theBriefMovers = {
     }
   ],
   "sectors_radar": [
-    {
-      "ticker": "XLK",
-      "name": "Technology Select Sector",
-      "change_pct": -2.01,
-      "price": 170.28,
-      "watchlist_members": [
-        "CRWV",
-        "NBIS",
-        "TTD",
-        "AMD",
-        "NVDA"
-      ]
-    },
     {
       "ticker": "XLP",
       "name": "Consumer Staples Select",
