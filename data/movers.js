@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-15T15:24:39.667374+00:00",
+  "generated_at": "2026-11-15T20:29:46.754605+00:00",
   "gainers": [
     {
       "ticker": "TPL",
@@ -174,7 +174,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"5 AI Infrastructure Stocks to Watch After CoreWeave\u2019s Earnings\""
+      "move_reason": "News: \"Nebius Keeps Sliding: Why Baird Still Sees 73% Upside\""
     },
     {
       "ticker": "AMD",
@@ -186,7 +186,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Evidence Is Piling Up: AMD Could Be the Best Artificial Intelligence (AI) Stock to Buy...\""
+      "move_reason": "News: \"Nvidia Rival\u2019s CEO on TSMC: \u201cI Would Buy That Stock Every Day of the Week\u201d\""
     },
     {
       "ticker": "CRWV",
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Evidence Is Piling Up: AMD Could Be the Best Artificial Intelligence (AI) Stock to Buy...\""
+      "move_reason": "News: \"This 27-Year-Old Warning From Warren Buffett Is More Important Than Ever for Investors Tod...\""
     },
     {
       "ticker": "PWR",
@@ -353,7 +353,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Evidence Is Piling Up: AMD Could Be the Best Artificial Intelligence (AI) Stock to Buy...\""
+      "move_reason": "News: \"Nvidia Rival\u2019s CEO on TSMC: \u201cI Would Buy That Stock Every Day of the Week\u201d\""
     },
     {
       "ticker": "APA",
@@ -425,7 +425,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"5 AI Infrastructure Stocks to Watch After CoreWeave\u2019s Earnings\""
+      "move_reason": "News: \"Nebius Keeps Sliding: Why Baird Still Sees 73% Upside\""
     },
     {
       "ticker": "NVDA",
@@ -437,7 +437,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Evidence Is Piling Up: AMD Could Be the Best Artificial Intelligence (AI) Stock to Buy...\""
+      "move_reason": "News: \"This 27-Year-Old Warning From Warren Buffett Is More Important Than Ever for Investors Tod...\""
     },
     {
       "ticker": "OSCR",
