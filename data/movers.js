@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-15T20:29:46.754605+00:00",
+  "generated_at": "2026-11-16T00:17:41.518875+00:00",
   "gainers": [
     {
       "ticker": "TPL",
@@ -69,7 +69,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AppLovin vs. The Trade Desk: Which Is the Better Digital Advertising Stock to Buy Going In...\""
+      "move_reason": ""
     },
     {
       "ticker": "OXY",
@@ -81,7 +81,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Earnings week scorecard: beats rewarded selectively as AI-infrastructure names pull back\""
+      "move_reason": "Tracking XLE sector (+0.99% today)"
     },
     {
       "ticker": "XLF",
@@ -186,7 +186,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Rival\u2019s CEO on TSMC: \u201cI Would Buy That Stock Every Day of the Week\u201d\""
+      "move_reason": "News: \"Jensen Huang Considers Returning To Nvidia: FT\""
     },
     {
       "ticker": "CRWV",
@@ -234,7 +234,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Josh Kushner Bets Big on Elon Musk, More Than Doubles Thrive Capital Stake in SpaceX Stock...\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "NVDA",
@@ -246,7 +246,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This 27-Year-Old Warning From Warren Buffett Is More Important Than Ever for Investors Tod...\""
+      "move_reason": "Pre-earnings positioning \u2014 reports tomorrow."
     },
     {
       "ticker": "PWR",
@@ -258,7 +258,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Looking for a Growth Stock? 3 Reasons Why Quanta Services (PWR) is a Solid Choice\""
+      "move_reason": ""
     },
     {
       "ticker": "SOFI",
@@ -316,7 +316,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Sinks 10.5% as Chip Rally Unwinds, Nasdaq 100 Falls 1.7%: Stock Market Today\""
+      "move_reason": ""
     },
     {
       "ticker": "VWRP.L",
@@ -353,7 +353,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Rival\u2019s CEO on TSMC: \u201cI Would Buy That Stock Every Day of the Week\u201d\""
+      "move_reason": "News: \"Jensen Huang Considers Returning To Nvidia: FT\""
     },
     {
       "ticker": "APA",
@@ -413,7 +413,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AMD Sinks 10.5% as Chip Rally Unwinds, Nasdaq 100 Falls 1.7%: Stock Market Today\""
+      "move_reason": ""
     },
     {
       "ticker": "NBIS",
@@ -437,7 +437,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This 27-Year-Old Warning From Warren Buffett Is More Important Than Ever for Investors Tod...\""
+      "move_reason": "Pre-earnings positioning \u2014 reports tomorrow."
     },
     {
       "ticker": "OSCR",
@@ -449,7 +449,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Josh Kushner Bets Big on Elon Musk, More Than Doubles Thrive Capital Stake in SpaceX Stock...\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "OXY",
@@ -461,7 +461,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Earnings week scorecard: beats rewarded selectively as AI-infrastructure names pull back\""
+      "move_reason": "Tracking XLE sector (+0.99% today)"
     },
     {
       "ticker": "PWR",
@@ -473,7 +473,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Looking for a Growth Stock? 3 Reasons Why Quanta Services (PWR) is a Solid Choice\""
+      "move_reason": ""
     },
     {
       "ticker": "TPL",
@@ -497,7 +497,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"AppLovin vs. The Trade Desk: Which Is the Better Digital Advertising Stock to Buy Going In...\""
+      "move_reason": ""
     },
     {
       "ticker": "XLE",
@@ -879,12 +879,12 @@ window.theBriefMovers = {
       "signals": [
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 8.6 (cheap on absolute basis)"
+        "Forward P/E 8.5 (cheap on absolute basis)"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 8.6 (cheap on absolute basis)"
+        "Forward P/E 8.5 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",
