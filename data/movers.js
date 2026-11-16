@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-16T00:17:41.518875+00:00",
+  "generated_at": "2026-11-16T07:03:49.914251+00:00",
   "gainers": [
     {
       "ticker": "TPL",
@@ -174,7 +174,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Keeps Sliding: Why Baird Still Sees 73% Upside\""
+      "move_reason": "News: \"5 Worst AI Infrastructure and Data Center Stocks to Buy According to Short Sellers\""
     },
     {
       "ticker": "AMD",
@@ -186,7 +186,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jensen Huang Considers Returning To Nvidia: FT\""
+      "move_reason": "News: \"Advanced Micro Devices And 2 Other High Growth Stocks\""
     },
     {
       "ticker": "CRWV",
@@ -198,7 +198,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Growth Stocks With Revenue Growth Over 18%\""
+      "move_reason": "News: \"Why It\u2019s Time to Load Up on CoreWeave Stock\""
     },
     {
       "ticker": "PLTR",
@@ -353,7 +353,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jensen Huang Considers Returning To Nvidia: FT\""
+      "move_reason": "News: \"Advanced Micro Devices And 2 Other High Growth Stocks\""
     },
     {
       "ticker": "APA",
@@ -377,7 +377,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Growth Stocks With Revenue Growth Over 18%\""
+      "move_reason": "News: \"Why It\u2019s Time to Load Up on CoreWeave Stock\""
     },
     {
       "ticker": "DG",
@@ -425,7 +425,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Keeps Sliding: Why Baird Still Sees 73% Upside\""
+      "move_reason": "News: \"5 Worst AI Infrastructure and Data Center Stocks to Buy According to Short Sellers\""
     },
     {
       "ticker": "NVDA",
