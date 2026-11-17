@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-17T04:16:02.481522+00:00",
+  "generated_at": "2026-11-17T08:51:13.677886+00:00",
   "gainers": [
     {
       "ticker": "DG",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia is not considering rehiring Jensen Huang, and Amazon's data center gets bought\""
+      "move_reason": "News: \"Down 38% with 571% sales growth: Is Nebius 27% undervalued?\""
     },
     {
       "ticker": "NBIS",
@@ -83,7 +83,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Plans to Spend More Than $3 for Every $1 of Revenue Next Year. The Stock Has Lost 3...\""
+      "move_reason": "News: \"Down 38% with 571% sales growth: Is Nebius 27% undervalued?\""
     },
     {
       "ticker": "TTD",
@@ -107,7 +107,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"MiTAC Computing Scales Agentic AI with Full-Stack Infrastructure at SC26\""
+      "move_reason": "News: \"3 Growth Stocks To Watch With Earnings Growth Over 18%\""
     },
     {
       "ticker": "PLTR",
@@ -251,7 +251,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"MiTAC Computing Scales Agentic AI with Full-Stack Infrastructure at SC26\""
+      "move_reason": "News: \"3 Growth Stocks To Watch With Earnings Growth Over 18%\""
     },
     {
       "ticker": "APA",
@@ -275,7 +275,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia is not considering rehiring Jensen Huang, and Amazon's data center gets bought\""
+      "move_reason": "News: \"Down 38% with 571% sales growth: Is Nebius 27% undervalued?\""
     },
     {
       "ticker": "DG",
@@ -311,7 +311,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Stock Market Today: Nasdaq-100 Sinks 1% as Nvidia Faces Its First Earnings Without Jensen ...\""
+      "move_reason": "News: \"FESM: Good Track Record, But Limited Upside Now\""
     },
     {
       "ticker": "NBIS",
@@ -323,7 +323,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nebius Plans to Spend More Than $3 for Every $1 of Revenue Next Year. The Stock Has Lost 3...\""
+      "move_reason": "News: \"Down 38% with 571% sales growth: Is Nebius 27% undervalued?\""
     },
     {
       "ticker": "NVDA",

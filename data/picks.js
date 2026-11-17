@@ -1,5 +1,5 @@
 window.theBriefPicks = {
-  "generated_at": "2026-11-17T04:16:03.043924+00:00",
+  "generated_at": "2026-11-17T08:51:13.836071+00:00",
   "picks": [
     {
       "id": "2026-05-12-OSCR",
@@ -99,7 +99,7 @@ window.theBriefPicks = {
       "current_pct": -3.53,
       "change_pct_today": -1.86,
       "name": "iShares Russell 2000 ETF",
-      "news_count": 2,
+      "news_count": 3,
       "days_elapsed": 56,
       "days_remaining": 0,
       "pick_type": "strategic",
