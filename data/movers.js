@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-18T03:16:49.906101+00:00",
+  "generated_at": "2026-11-18T08:26:10.389770+00:00",
   "gainers": [
     {
       "ticker": "NBIS",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia earnings spark after-hours rally in chipmakers, neocloud stocks\""
+      "move_reason": "News: \"Jensen Told Cloud Executives He \u201cCould Just Give All This Capacity to Elon.\u201d Bad News for ...\""
     },
     {
       "ticker": "CRWV",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia earnings spark after-hours rally in chipmakers, neocloud stocks\""
+      "move_reason": "News: \"Nvidia\u2019s earnings call names two former crypto miners\""
     },
     {
       "ticker": "GEV",
@@ -71,7 +71,31 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Techs Rise As Nvidia Beats, Says This On Jensen Huang; Target, Anthropi...\""
+      "move_reason": "News: \"Jim Cramer Asked Nvidia\u2019s Interim CEO the Uncomfortable Question\""
+    },
+    {
+      "ticker": "VUAG.L",
+      "name": "VUAG.L",
+      "price": 108.44,
+      "change_pct": 1.02,
+      "volume_ratio": 0.22,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
+    },
+    {
+      "ticker": "VWRP.L",
+      "name": "VWRP.L",
+      "price": 139.08,
+      "change_pct": 0.88,
+      "volume_ratio": 0.23,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
     },
     {
       "ticker": "TTD",
@@ -112,30 +136,6 @@ window.theBriefMovers = {
       "move_reason": "News: \"How one all-digital bank is helping customers manage cash\""
     },
     {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 107.34,
-      "change_pct": -2.35,
-      "volume_ratio": 0.87,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
-      "ticker": "VWRP.L",
-      "name": "VWRP.L",
-      "price": 137.86,
-      "change_pct": -2.28,
-      "volume_ratio": 1.18,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
       "ticker": "XLF",
       "name": "Financial Select Sector",
       "price": 57.07,
@@ -168,7 +168,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"5 Oil and Gas Stocks That Crushed Third-Quarter Earnings Estimates\""
+      "move_reason": "News: \"Here Are the Current Berkshire Hathaway Stock Holdings\""
     },
     {
       "ticker": "DIA",
@@ -258,6 +258,29 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "move_reason": ""
+    },
+    {
+      "ticker": "IWM",
+      "name": "iShares Russell 2000 ETF",
+      "price": 270.15,
+      "change_pct": -1.02,
+      "volume_ratio": 1.28,
+      "is_watchlist": true,
+      "is_index": true,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "News: \"Second Wave Of Inflation: Import Prices Spike Across The Board, Prices Of Imported Electro...\""
+    },
+    {
+      "ticker": "SPY",
+      "name": "SPDR S&P 500 ETF",
+      "price": 732.44,
+      "change_pct": -1.01,
+      "volume_ratio": 1.39,
+      "is_watchlist": false,
+      "is_index": true,
+      "is_sector": false,
+      "move_reason": ""
     }
   ],
   "watchlist": [
@@ -271,7 +294,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures: Techs Rise As Nvidia Beats, Says This On Jensen Huang; Target, Anthropi...\""
+      "move_reason": "News: \"Jim Cramer Asked Nvidia\u2019s Interim CEO the Uncomfortable Question\""
     },
     {
       "ticker": "APA",
@@ -295,7 +318,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia earnings spark after-hours rally in chipmakers, neocloud stocks\""
+      "move_reason": "News: \"Nvidia\u2019s earnings call names two former crypto miners\""
     },
     {
       "ticker": "DG",
@@ -331,7 +354,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Resignation Of Nvidia's CEO Is Not As Significant As The Market Thinks\""
+      "move_reason": "News: \"Second Wave Of Inflation: Import Prices Spike Across The Board, Prices Of Imported Electro...\""
     },
     {
       "ticker": "NBIS",
@@ -343,7 +366,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia earnings spark after-hours rally in chipmakers, neocloud stocks\""
+      "move_reason": "News: \"Jensen Told Cloud Executives He \u201cCould Just Give All This Capacity to Elon.\u201d Bad News for ...\""
     },
     {
       "ticker": "NVDA",
@@ -379,7 +402,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"5 Oil and Gas Stocks That Crushed Third-Quarter Earnings Estimates\""
+      "move_reason": "News: \"Here Are the Current Berkshire Hathaway Stock Holdings\""
     },
     {
       "ticker": "PWR",
@@ -458,6 +481,16 @@ window.theBriefMovers = {
       "price": 656.95,
       "change_pct": -0.73,
       "volume_ratio": 1.24,
+      "is_watchlist": false,
+      "is_index": true,
+      "is_sector": false
+    },
+    {
+      "ticker": "SPY",
+      "name": "SPDR S&P 500 ETF",
+      "price": 732.44,
+      "change_pct": -1.01,
+      "volume_ratio": 1.39,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -588,7 +621,7 @@ window.theBriefMovers = {
         "3 news items in the last 3 days",
         "2 SEC filings in the last 7 days",
         "10 insider sells vs 0 buys (last 90 days)",
-        "Forward P/E 9.8 (cheap on absolute basis)",
+        "Forward P/E 9.7 (cheap on absolute basis)",
         "Down -28.5% over 3 months \u2014 deep drawdown"
       ],
       "reasons": [
@@ -596,7 +629,7 @@ window.theBriefMovers = {
         "3 news items in the last 3 days",
         "2 SEC filings in the last 7 days",
         "10 insider sells vs 0 buys (last 90 days)",
-        "Forward P/E 9.8 (cheap on absolute basis)",
+        "Forward P/E 9.7 (cheap on absolute basis)",
         "Down -28.5% over 3 months \u2014 deep drawdown"
       ],
       "tags": [
@@ -703,12 +736,12 @@ window.theBriefMovers = {
       "signals": [
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 8.3 (cheap on absolute basis)"
+        "Forward P/E 8.2 (cheap on absolute basis)"
       ],
       "reasons": [
         "3 news items in the last 3 days",
         "10 insider buys vs 0 sells (last 90 days)",
-        "Forward P/E 8.3 (cheap on absolute basis)"
+        "Forward P/E 8.2 (cheap on absolute basis)"
       ],
       "tags": [
         "news-flow",
