@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-11-18T19:46:11+00:00",
+  "generated_at": "2026-11-18T23:30:51+00:00",
   "by_date": {
     "2026-11-18": [
       {
@@ -21,7 +21,7 @@ window.theBriefEarnings = {
       {
         "ticker": "AZIO",
         "date": "2026-11-18",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -937,7 +937,7 @@ window.theBriefEarnings = {
       {
         "ticker": "IESC",
         "date": "2026-11-20",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 2.8662,
         "revenue_estimate": 1170960000,
         "is_watchlist": false
@@ -1567,7 +1567,7 @@ window.theBriefEarnings = {
       {
         "ticker": "MOV",
         "date": "2026-11-24",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.5575,
         "revenue_estimate": 197325720,
         "is_watchlist": false
@@ -1665,7 +1665,7 @@ window.theBriefEarnings = {
       {
         "ticker": "DE",
         "date": "2026-11-25",
-        "hour": "amc",
+        "hour": "bmo",
         "eps_estimate": 4.1688,
         "revenue_estimate": 10677445374,
         "is_watchlist": false
@@ -1697,7 +1697,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FINV",
         "date": "2026-11-25",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -1713,7 +1713,7 @@ window.theBriefEarnings = {
       {
         "ticker": "NNOX",
         "date": "2026-11-25",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.1493,
         "revenue_estimate": 5441016,
         "is_watchlist": false
