@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-11-19T13:45:45+00:00",
+  "generated_at": "2026-11-19T19:46:19+00:00",
   "by_date": {
     "2026-12-03": [
       {
@@ -39,14 +39,6 @@ window.theBriefEarnings = {
             "surprise_pct": 31.4303
           }
         ]
-      },
-      {
-        "ticker": "AOUT",
-        "date": "2026-12-03",
-        "hour": "",
-        "eps_estimate": 0.3723,
-        "revenue_estimate": 60154836,
-        "is_watchlist": false
       },
       {
         "ticker": "BF.B",
@@ -201,14 +193,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "MTN",
-        "date": "2026-12-03",
-        "hour": "",
-        "eps_estimate": -5.5983,
-        "revenue_estimate": 278366685,
-        "is_watchlist": false
-      },
-      {
         "ticker": "PAVS",
         "date": "2026-12-03",
         "hour": "",
@@ -238,6 +222,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 0.094,
         "revenue_estimate": 316354050,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "SAIC",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": 2.3959,
+        "revenue_estimate": 1854039271,
         "is_watchlist": false
       },
       {
@@ -1789,6 +1781,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "CRNC",
+        "date": "2026-12-01",
+        "hour": "amc",
+        "eps_estimate": 0.2244,
+        "revenue_estimate": 65101092,
+        "is_watchlist": false
+      },
+      {
         "ticker": "CRWD",
         "date": "2026-12-01",
         "hour": "",
@@ -1990,6 +1990,22 @@ window.theBriefEarnings = {
       }
     ],
     "2026-12-02": [
+      {
+        "ticker": "AOUT",
+        "date": "2026-12-02",
+        "hour": "",
+        "eps_estimate": 0.3723,
+        "revenue_estimate": 60154836,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "BLBD",
+        "date": "2026-12-02",
+        "hour": "amc",
+        "eps_estimate": 1.5071,
+        "revenue_estimate": 560325096,
+        "is_watchlist": false
+      },
       {
         "ticker": "COO",
         "date": "2026-12-02",
