@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-11-19T04:27:47+00:00",
+  "generated_at": "2026-11-19T13:45:45+00:00",
   "by_date": {
     "2026-12-03": [
       {
@@ -501,7 +501,7 @@ window.theBriefEarnings = {
       {
         "ticker": "NTIC",
         "date": "2026-11-19",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.0612,
         "revenue_estimate": 25704000,
         "is_watchlist": false
@@ -669,14 +669,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "OMSE",
-        "date": "2026-11-20",
-        "hour": "",
-        "eps_estimate": 0.2652,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
         "ticker": "RLX",
         "date": "2026-11-20",
         "hour": "bmo",
@@ -790,14 +782,6 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": -0.0572,
         "revenue_estimate": 221695000,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "CRNC",
-        "date": "2026-11-23",
-        "hour": "amc",
-        "eps_estimate": 0.2244,
-        "revenue_estimate": 65101092,
         "is_watchlist": false
       },
       {
@@ -1434,6 +1418,14 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": -0.1493,
         "revenue_estimate": 5441016,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "OMSE",
+        "date": "2026-11-25",
+        "hour": "",
+        "eps_estimate": 0.2652,
+        "revenue_estimate": null,
         "is_watchlist": false
       },
       {
