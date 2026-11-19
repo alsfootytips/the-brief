@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-19T02:54:20.578858+00:00",
+  "generated_at": "2026-11-19T04:27:47.480999+00:00",
   "gainers": [
     {
       "ticker": "AMD",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Explains Natera Stock's Nearly 10% Drop?\""
+      "move_reason": "News: \"Why Is AMD Stock Rising Overnight?\""
     },
     {
       "ticker": "TTD",
@@ -213,7 +213,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Sector Update: Energy Stocks Lower in Late Afternoon Trading\""
+      "move_reason": "News: \"SCD: Dividend-Growth Stocks Help This Fund Provide Investors With Real Income Growth (Upgr...\""
     },
     {
       "ticker": "APA",
@@ -237,7 +237,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Changes Its Funding Strategy After Morgan Stanley\u2019s $46 Billion Spending Forecas...\""
+      "move_reason": "News: \"Why Is CRWV Stock Rising Overnight?\""
     },
     {
       "ticker": "NVDA",
@@ -364,7 +364,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"What Explains Natera Stock's Nearly 10% Drop?\""
+      "move_reason": "News: \"Why Is AMD Stock Rising Overnight?\""
     },
     {
       "ticker": "APA",
@@ -388,7 +388,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Changes Its Funding Strategy After Morgan Stanley\u2019s $46 Billion Spending Forecas...\""
+      "move_reason": "News: \"Why Is CRWV Stock Rising Overnight?\""
     },
     {
       "ticker": "DG",
@@ -520,7 +520,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Sector Update: Energy Stocks Lower in Late Afternoon Trading\""
+      "move_reason": "News: \"SCD: Dividend-Growth Stocks Help This Fund Provide Investors With Real Income Growth (Upgr...\""
     }
   ],
   "indices": [
