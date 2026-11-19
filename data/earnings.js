@@ -1,589 +1,307 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-11-18T23:30:51+00:00",
+  "generated_at": "2026-11-19T02:54:20+00:00",
   "by_date": {
-    "2026-11-18": [
+    "2026-12-03": [
       {
-        "ticker": "AGTX",
-        "date": "2026-11-18",
+        "ticker": "DG",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": 1.4556,
+        "revenue_estimate": 11473185110,
+        "is_watchlist": true,
+        "history": [
+          {
+            "period": "2026-09-30",
+            "actual": 2.23,
+            "estimate": 2.0679,
+            "beat": true,
+            "surprise_pct": 7.8389
+          },
+          {
+            "period": "2026-06-30",
+            "actual": 2,
+            "estimate": 1.9416,
+            "beat": true,
+            "surprise_pct": 3.0078
+          },
+          {
+            "period": "2026-03-31",
+            "actual": 1.93,
+            "estimate": 1.6979,
+            "beat": true,
+            "surprise_pct": 13.6698
+          },
+          {
+            "period": "2025-12-31",
+            "actual": 1.28,
+            "estimate": 0.9739,
+            "beat": true,
+            "surprise_pct": 31.4303
+          }
+        ]
+      },
+      {
+        "ticker": "AOUT",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": 0.3723,
+        "revenue_estimate": 60154836,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "BF.B",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": 0.4727,
+        "revenue_estimate": 1063379763,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "BWTL",
+        "date": "2026-12-03",
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
       },
       {
-        "ticker": "ANNA",
-        "date": "2026-11-18",
+        "ticker": "CSIQ",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": -0.8486,
+        "revenue_estimate": 1408382676,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "DOCU",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": 1.2029,
+        "revenue_estimate": 906533088,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "FIZZ",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": 0.459,
+        "revenue_estimate": 314680200,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "GWRE",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": 0.7576,
+        "revenue_estimate": 383847358,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "HOFT",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": 0.306,
+        "revenue_estimate": 71181210,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "HOV",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": 2.828,
+        "revenue_estimate": 834260000,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "HQL",
+        "date": "2026-12-03",
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
       },
       {
-        "ticker": "AZIO",
-        "date": "2026-11-18",
+        "ticker": "HRL",
+        "date": "2026-12-03",
         "hour": "amc",
-        "eps_estimate": null,
-        "revenue_estimate": null,
+        "eps_estimate": 0.376,
+        "revenue_estimate": 3170616815,
         "is_watchlist": false
       },
       {
-        "ticker": "BATL",
-        "date": "2026-11-18",
+        "ticker": "HUCK",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": 0.0306,
+        "revenue_estimate": 79713000,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "IOT",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": 0.1903,
+        "revenue_estimate": 520357151,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "JANL",
+        "date": "2026-12-03",
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
       },
       {
-        "ticker": "BBWI",
-        "date": "2026-11-18",
+        "ticker": "LAKE",
+        "date": "2026-12-03",
         "hour": "",
-        "eps_estimate": 0.1213,
-        "revenue_estimate": 1581967398,
+        "eps_estimate": -0.0153,
+        "revenue_estimate": 51255000,
         "is_watchlist": false
       },
       {
-        "ticker": "BEEM",
-        "date": "2026-11-18",
+        "ticker": "LEE",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": 0.0606,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "M",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": -0.179,
+        "revenue_estimate": 4773724950,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MEI",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": -0.1414,
+        "revenue_estimate": 259822500,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MNY",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": 0,
+        "revenue_estimate": 20570670,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MPU",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MTN",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": -5.5983,
+        "revenue_estimate": 278366685,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "PAVS",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "PNBI",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "PPIH",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": 0.5202,
+        "revenue_estimate": 65280000,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "S",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": 0.094,
+        "revenue_estimate": 316354050,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "SWBI",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": 0.0918,
+        "revenue_estimate": 139212660,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "TORO",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "TOUR",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "TTAN",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": 0.2676,
+        "revenue_estimate": 292232611,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "ULTA",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": 5.7357,
+        "revenue_estimate": 3077698825,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "VEEV",
+        "date": "2026-12-03",
         "hour": "amc",
-        "eps_estimate": -0.1632,
-        "revenue_estimate": 7357596,
+        "eps_estimate": 2.3897,
+        "revenue_estimate": 953677223,
         "is_watchlist": false
       },
       {
-        "ticker": "BLSH",
-        "date": "2026-11-18",
-        "hour": "bmo",
-        "eps_estimate": 0.0894,
-        "revenue_estimate": 82714237,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BNR",
-        "date": "2026-11-18",
+        "ticker": "VSXY",
+        "date": "2026-12-03",
         "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
+        "eps_estimate": 0.0043,
+        "revenue_estimate": 1631667051,
         "is_watchlist": false
       },
       {
-        "ticker": "BORR",
-        "date": "2026-11-18",
-        "hour": "amc",
-        "eps_estimate": -0.0804,
-        "revenue_estimate": 261720953,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BRBR",
-        "date": "2026-11-18",
-        "hour": "bmo",
-        "eps_estimate": 0.2327,
-        "revenue_estimate": 670341450,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "CATO",
-        "date": "2026-11-18",
+        "ticker": "WLTH",
+        "date": "2026-12-03",
         "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "CMMB",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": -0.1173,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "CPA",
-        "date": "2026-11-18",
-        "hour": "amc",
-        "eps_estimate": 3.8679,
-        "revenue_estimate": 1187799016,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "CSHR",
-        "date": "2026-11-18",
-        "hour": "bmo",
-        "eps_estimate": 0.1326,
-        "revenue_estimate": 31467000,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "DOYU",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": 0.0806,
-        "revenue_estimate": 862094820,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "EMMA",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "ENRD",
-        "date": "2026-11-18",
-        "hour": "bmo",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "EQS",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "EVGN",
-        "date": "2026-11-18",
-        "hour": "bmo",
-        "eps_estimate": -0.1938,
-        "revenue_estimate": 372300,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "FSHP",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "GAP",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": 0.7855,
-        "revenue_estimate": 4056477675,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "GDRX",
-        "date": "2026-11-18",
-        "hour": "bmo",
-        "eps_estimate": 0.0798,
-        "revenue_estimate": 206142683,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "GLBE",
-        "date": "2026-11-18",
-        "hour": "bmo",
-        "eps_estimate": 0.2294,
-        "revenue_estimate": 319194006,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "GLNG",
-        "date": "2026-11-18",
-        "hour": "bmo",
-        "eps_estimate": -0.0233,
-        "revenue_estimate": 82167630,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "HEWA",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "ICCM",
-        "date": "2026-11-18",
-        "hour": "bmo",
-        "eps_estimate": -1.1832,
-        "revenue_estimate": 894030,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "IGC",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": -0.0174,
-        "revenue_estimate": 250480,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "IVFH",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "JJSF",
-        "date": "2026-11-18",
-        "hour": "bmo",
-        "eps_estimate": 1.3551,
-        "revenue_estimate": 406798950,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "JMIA",
-        "date": "2026-11-18",
-        "hour": "bmo",
-        "eps_estimate": -0.0765,
-        "revenue_estimate": 54446580,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "JOYY",
-        "date": "2026-11-18",
-        "hour": "amc",
-        "eps_estimate": 1.3581,
-        "revenue_estimate": 623795453,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "KAYS",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "KLIC",
-        "date": "2026-11-18",
-        "hour": "amc",
-        "eps_estimate": 1.4586,
-        "revenue_estimate": 384336000,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "KRNT",
-        "date": "2026-11-18",
-        "hour": "bmo",
-        "eps_estimate": 0.0471,
-        "revenue_estimate": 58624500,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "LOW",
-        "date": "2026-11-18",
-        "hour": "bmo",
-        "eps_estimate": 2.9103,
-        "revenue_estimate": 22631671212,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "MACT",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "MATW",
-        "date": "2026-11-18",
-        "hour": "amc",
-        "eps_estimate": 0.2278,
-        "revenue_estimate": 257784263,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "MDBH",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "MEDS",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "MNTS",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": -0.3672,
-        "revenue_estimate": 2652000,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "MSPR",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "NEUP",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": -1.4739,
-        "revenue_estimate": 0,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "NHICU",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": -0.1648,
-        "revenue_estimate": 9991000,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "NJR",
-        "date": "2026-11-18",
-        "hour": "amc",
-        "eps_estimate": 0.1313,
-        "revenue_estimate": 343677750,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "NWCL",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": -0.1632,
-        "revenue_estimate": 9894000,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "P",
-        "date": "2026-11-18",
-        "hour": "amc",
-        "eps_estimate": 0.7871,
-        "revenue_estimate": 1358374504,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "PANW",
-        "date": "2026-11-18",
-        "hour": "amc",
-        "eps_estimate": 0.9907,
-        "revenue_estimate": 3373089754,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "PCYO",
-        "date": "2026-11-18",
-        "hour": "amc",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "PHYTF",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "PONY",
-        "date": "2026-11-18",
-        "hour": "bmo",
-        "eps_estimate": -0.1765,
-        "revenue_estimate": 38767140,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "RDCT",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "RDZN",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": -0.0612,
-        "revenue_estimate": 17349180,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "ROST",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": 1.9138,
-        "revenue_estimate": 6402829863,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "RRGB",
-        "date": "2026-11-18",
-        "hour": "amc",
-        "eps_estimate": -0.4114,
-        "revenue_estimate": 257132136,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "RWWI",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "SBLK",
-        "date": "2026-11-18",
-        "hour": "amc",
-        "eps_estimate": 1.2441,
-        "revenue_estimate": 309473946,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "SEBC",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "SEGG",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "SNEX",
-        "date": "2026-11-18",
-        "hour": "amc",
-        "eps_estimate": 0.8986,
-        "revenue_estimate": 697702950,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "SPWR",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": -0.0102,
-        "revenue_estimate": 67728000,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "STI",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "TEN",
-        "date": "2026-11-18",
-        "hour": "bmo",
-        "eps_estimate": 3.6054,
-        "revenue_estimate": 213788386,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "TGT",
-        "date": "2026-11-18",
-        "hour": "bmo",
-        "eps_estimate": 2.0923,
-        "revenue_estimate": 26816116968,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "TJX",
-        "date": "2026-11-18",
-        "hour": "bmo",
-        "eps_estimate": 1.3513,
-        "revenue_estimate": 15997206240,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "TRTN PR A",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "UGI",
-        "date": "2026-11-18",
-        "hour": "amc",
-        "eps_estimate": -0.3487,
-        "revenue_estimate": 1361985000,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "UTI",
-        "date": "2026-11-18",
-        "hour": "amc",
-        "eps_estimate": 0.329,
-        "revenue_estimate": 237311327,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "VGAS",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "VIPS",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": 2.8254,
-        "revenue_estimate": 20848107868,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "VNET",
-        "date": "2026-11-18",
-        "hour": "",
-        "eps_estimate": -0.1969,
-        "revenue_estimate": 2987280732,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "WWD",
-        "date": "2026-11-18",
-        "hour": "amc",
-        "eps_estimate": 2.5351,
-        "revenue_estimate": 1152631270,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "ZIM",
-        "date": "2026-11-18",
-        "hour": "bmo",
-        "eps_estimate": 3.8456,
-        "revenue_estimate": 2536528342,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "ZKH",
-        "date": "2026-11-18",
-        "hour": "bmo",
-        "eps_estimate": null,
-        "revenue_estimate": null,
+        "eps_estimate": 0.0984,
+        "revenue_estimate": 96004572,
         "is_watchlist": false
       }
     ],
