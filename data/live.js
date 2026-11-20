@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-11-20T02:46:32.715859+00:00",
+  "generated_at": "2026-11-20T02:52:05.506819+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": -6.38,
       "price": 14.53,
       "is_watchlist": true,
-      "timestamp": "2026-11-20T02:46:32.573161+00:00",
+      "timestamp": "2026-11-20T02:52:05.504767+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": -5.05,
       "price": 13.4,
       "is_watchlist": false,
-      "timestamp": "2026-11-20T02:46:32.573158+00:00",
+      "timestamp": "2026-11-20T02:52:05.504764+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,7 +45,7 @@ window.theBriefLive = {
       "change_pct": -3.93,
       "price": 578.95,
       "is_watchlist": true,
-      "timestamp": "2026-11-20T02:46:32.573155+00:00",
+      "timestamp": "2026-11-20T02:52:05.504762+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -57,7 +57,7 @@ window.theBriefLive = {
       "change_pct": -5.87,
       "price": 25.95,
       "is_watchlist": true,
-      "timestamp": "2026-11-20T02:46:32.573152+00:00",
+      "timestamp": "2026-11-20T02:52:05.504759+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -69,7 +69,7 @@ window.theBriefLive = {
       "change_pct": -4.18,
       "price": 144.65,
       "is_watchlist": true,
-      "timestamp": "2026-11-20T02:46:32.573149+00:00",
+      "timestamp": "2026-11-20T02:52:05.504757+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -81,7 +81,7 @@ window.theBriefLive = {
       "change_pct": -11.64,
       "price": 94.51,
       "is_watchlist": true,
-      "timestamp": "2026-11-20T02:46:32.573147+00:00",
+      "timestamp": "2026-11-20T02:52:05.504755+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -93,7 +93,7 @@ window.theBriefLive = {
       "change_pct": -3.3,
       "price": 746.73,
       "is_watchlist": true,
-      "timestamp": "2026-11-20T02:46:32.573138+00:00",
+      "timestamp": "2026-11-20T02:52:05.504747+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -105,7 +105,7 @@ window.theBriefLive = {
       "change_pct": -8.43,
       "price": 43.8,
       "is_watchlist": true,
-      "timestamp": "2026-11-20T02:46:32.573133+00:00",
+      "timestamp": "2026-11-20T02:52:05.504744+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -117,10 +117,32 @@ window.theBriefLive = {
       "change_pct": -10.87,
       "price": 472.51,
       "is_watchlist": true,
-      "timestamp": "2026-11-20T02:46:32.573124+00:00",
+      "timestamp": "2026-11-20T02:52:05.504736+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "GTA 6 breaks records as sales top $2bn - industry estimate",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-11-20T02:48:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Gap outlines adjusted EPS of $2.29 to $2.34 as it lowers FY2026 outlook after warm-weather slowdown",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4675005-gap-outlines-adjusted-eps-of-2_29-to-2_34-as-it-lowers-fy2026-outlook-after-warm-weather?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-20T02:43:59+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -235,17 +257,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "GTA 6 breaks records as sales top $2bn - industry estimate",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-11-20T02:13:05+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Oil prices edge higher as Houthi attacks on Riyadh raise supply concerns",
       "source": "Investing.com News",
       "url": "https://www.investing.com/news/commodities-news/oil-prices-edge-higher-as-houthi-attacks-on-riyadh-raise-supply-concerns-5040518",
@@ -306,17 +317,6 @@ window.theBriefLive = {
       "url": "https://www.investing.com/news/economy-news/asian-shares-head-for-worst-week-since-2020-as-ai-trade-gloom-fails-to-abate-5040496",
       "is_watchlist": false,
       "timestamp": "2026-11-20T02:01:29+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tsakos Energy Navigation plans Singapore dual listing in Q1 while earmarking $150M for preferred and common repurchases",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4674997-tsakos-energy-navigation-plans-singapore-dual-listing-in-q1-while-earmarking-150m-for?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-20T01:54:46+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
