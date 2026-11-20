@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-11-20T02:52:05+00:00",
+  "generated_at": "2026-11-20T10:58:14+00:00",
   "by_date": {
     "2026-12-03": [
       {
@@ -849,6 +849,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "CLSK",
+        "date": "2026-11-24",
+        "hour": "amc",
+        "eps_estimate": -0.2326,
+        "revenue_estimate": 136814711,
+        "is_watchlist": false
+      },
+      {
         "ticker": "CMCM",
         "date": "2026-11-24",
         "hour": "",
@@ -1173,14 +1181,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "MRVL",
-        "date": "2026-11-26",
-        "hour": "",
-        "eps_estimate": 1.1133,
-        "revenue_estimate": 3205736172,
-        "is_watchlist": false
-      },
-      {
         "ticker": "NAT",
         "date": "2026-11-26",
         "hour": "bmo",
@@ -1189,27 +1189,11 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "PD",
-        "date": "2026-11-26",
-        "hour": "",
-        "eps_estimate": 0.3674,
-        "revenue_estimate": 127984195,
-        "is_watchlist": false
-      },
-      {
         "ticker": "PHBI",
         "date": "2026-11-26",
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "REX",
-        "date": "2026-11-26",
-        "hour": "bmo",
-        "eps_estimate": 0.4636,
-        "revenue_estimate": 178810400,
         "is_watchlist": false
       },
       {
@@ -1226,14 +1210,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -2.142,
         "revenue_estimate": 1938000,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "YEXT",
-        "date": "2026-11-26",
-        "hour": "",
-        "eps_estimate": 0.1938,
-        "revenue_estimate": 114036000,
         "is_watchlist": false
       }
     ],
@@ -1268,14 +1244,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "GCO",
-        "date": "2026-11-27",
-        "hour": "",
-        "eps_estimate": 1.0024,
-        "revenue_estimate": 605868700,
         "is_watchlist": false
       }
     ],
