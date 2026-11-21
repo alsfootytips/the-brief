@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-11-20T19:27:19+00:00",
+  "generated_at": "2026-11-21T00:48:13+00:00",
   "by_date": {
     "2026-12-03": [
       {
@@ -342,88 +342,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 0.1938,
         "revenue_estimate": 114036000,
-        "is_watchlist": false
-      }
-    ],
-    "2026-11-20": [
-      {
-        "ticker": "ASII",
-        "date": "2026-11-20",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BJ",
-        "date": "2026-11-20",
-        "hour": "bmo",
-        "eps_estimate": 1.2924,
-        "revenue_estimate": 6138873799,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "BSP",
-        "date": "2026-11-20",
-        "hour": "bmo",
-        "eps_estimate": 0.3198,
-        "revenue_estimate": 753148112,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "DLNG",
-        "date": "2026-11-20",
-        "hour": "amc",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "FRO",
-        "date": "2026-11-20",
-        "hour": "bmo",
-        "eps_estimate": 2.3198,
-        "revenue_estimate": 736637773,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "FUFU",
-        "date": "2026-11-20",
-        "hour": "bmo",
-        "eps_estimate": 0.0306,
-        "revenue_estimate": 43554000,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "IESC",
-        "date": "2026-11-20",
-        "hour": "bmo",
-        "eps_estimate": 2.8662,
-        "revenue_estimate": 1170960000,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "MOG.A",
-        "date": "2026-11-20",
-        "hour": "bmo",
-        "eps_estimate": 2.7724,
-        "revenue_estimate": 1154024360,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "RLX",
-        "date": "2026-11-20",
-        "hour": "bmo",
-        "eps_estimate": 0.2323,
-        "revenue_estimate": 1765045700,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "WRD",
-        "date": "2026-11-20",
-        "hour": "bmo",
-        "eps_estimate": -0.9681,
-        "revenue_estimate": 270020975,
         "is_watchlist": false
       }
     ],
