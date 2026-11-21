@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-11-21T02:56:40.113825+00:00",
+  "generated_at": "2026-11-21T08:01:44.159964+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": -7.01,
       "price": 13.54,
       "is_watchlist": true,
-      "timestamp": "2026-11-21T02:56:39.993025+00:00",
+      "timestamp": "2026-11-21T08:01:44.158168+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": -5.75,
       "price": 12.75,
       "is_watchlist": false,
-      "timestamp": "2026-11-21T02:56:39.993022+00:00",
+      "timestamp": "2026-11-21T08:01:44.158166+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -45,7 +45,7 @@ window.theBriefLive = {
       "change_pct": -5.27,
       "price": 145.58,
       "is_watchlist": false,
-      "timestamp": "2026-11-21T02:56:39.993019+00:00",
+      "timestamp": "2026-11-21T08:01:44.158164+00:00",
       "relevance_score": 2.5,
       "relevance_tier": "low",
       "relevance_label": "Big Move"
@@ -57,7 +57,7 @@ window.theBriefLive = {
       "change_pct": -4.66,
       "price": 24.95,
       "is_watchlist": true,
-      "timestamp": "2026-11-21T02:56:39.993015+00:00",
+      "timestamp": "2026-11-21T08:01:44.158162+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -69,7 +69,7 @@ window.theBriefLive = {
       "change_pct": -10.94,
       "price": 130.01,
       "is_watchlist": true,
-      "timestamp": "2026-11-21T02:56:39.993012+00:00",
+      "timestamp": "2026-11-21T08:01:44.158160+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -81,7 +81,7 @@ window.theBriefLive = {
       "change_pct": -12.78,
       "price": 84.53,
       "is_watchlist": true,
-      "timestamp": "2026-11-21T02:56:39.993009+00:00",
+      "timestamp": "2026-11-21T08:01:44.158158+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -93,7 +93,7 @@ window.theBriefLive = {
       "change_pct": -5.6,
       "price": 713.94,
       "is_watchlist": true,
-      "timestamp": "2026-11-21T02:56:39.992999+00:00",
+      "timestamp": "2026-11-21T08:01:44.158150+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -105,7 +105,7 @@ window.theBriefLive = {
       "change_pct": -9.07,
       "price": 40.84,
       "is_watchlist": true,
-      "timestamp": "2026-11-21T02:56:39.992995+00:00",
+      "timestamp": "2026-11-21T08:01:44.158148+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -117,7 +117,7 @@ window.theBriefLive = {
       "change_pct": -10.18,
       "price": 439.39,
       "is_watchlist": true,
-      "timestamp": "2026-11-21T02:56:39.992970+00:00",
+      "timestamp": "2026-11-21T08:01:44.158143+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -125,90 +125,218 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Disney SEVP Horacio Gutierrez sells $308,160 in shares",
+      "headline": "South Korea\u2019s Lee urges faster AI investment during $5.2bn data center visit",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/disney-sevp-horacio-gutierrez-sells-308160-in-shares-93CH-5043074",
+      "url": "https://www.investing.com/news/stock-market-news/south-koreas-lee-urges-faster-ai-investment-during-52bn-data-center-visit-5043267",
       "is_watchlist": false,
-      "timestamp": "2026-11-21T02:35:27+00:00",
+      "timestamp": "2026-11-21T07:38:34+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Butterfly Network director Rothberg sells $2.85M in shares",
+      "headline": "Rigetti Computing CFO Jeffrey Bertelsen sells $30,996 in stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/butterfly-network-director-rothberg-sells-285m-in-shares-93CH-5043067",
+      "url": "https://www.investing.com/news/insider-trading-news/rigetti-computing-cfo-jeffrey-bertelsen-sells-30996-in-stock-93CH-5043265",
       "is_watchlist": false,
-      "timestamp": "2026-11-21T02:31:18+00:00",
+      "timestamp": "2026-11-21T07:31:18+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Rigetti CTO Andrew Bestwick sells $219,551 in shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/rigetti-cto-andrew-bestwick-sells-219551-in-shares-93CH-5043253",
+      "is_watchlist": false,
+      "timestamp": "2026-11-21T07:01:11+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Ttm Technologies director Philip Franklin buys $291,988 in shares",
+      "headline": "Donegal Group sr. vp Pandey sells $17,355 in stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ttm-technologies-director-philip-franklin-buys-291988-in-shares-93CH-5043068",
+      "url": "https://www.investing.com/news/insider-trading-news/donegal-group-sr-vp-pandey-sells-17355-in-stock-93CH-5043254",
       "is_watchlist": false,
-      "timestamp": "2026-11-21T02:31:18+00:00",
+      "timestamp": "2026-11-21T07:01:11+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Ondas director Jaspreet Sood sells $20,963 in stock",
+      "headline": "AgEagle director Brent Klavon buys $2,999 in stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ondas-director-jaspreet-sood-sells-20963-in-stock-93CH-5043066",
+      "url": "https://www.investing.com/news/insider-trading-news/ageagle-director-brent-klavon-buys-2999-in-stock-93CH-5043252",
       "is_watchlist": false,
-      "timestamp": "2026-11-21T02:30:54+00:00",
+      "timestamp": "2026-11-21T07:01:05+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Boundless Bio director Kevin Tang buys $244,230 in shares",
+      "headline": "How are AI chip flows reshaping dollar dominance? Deutsche Bank explains",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/boundless-bio-director-kevin-tang-buys-244230-in-shares-93CH-5043065",
+      "url": "https://www.investing.com/news/stock-market-news/how-are-ai-chip-flows-reshaping-dollar-dominance-deutsche-bank-explains-5043246",
       "is_watchlist": false,
-      "timestamp": "2026-11-21T02:30:52+00:00",
+      "timestamp": "2026-11-21T06:58:35+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Capricor shares plunge 80% as FDA cites trial violations in drug rejection",
+      "headline": "Rigetti Computing COO Rivas sells $72,148 in stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/capricor-shares-plunge-80-as-fda-cites-trial-violations-in-drug-rejection-5043062",
+      "url": "https://www.investing.com/news/insider-trading-news/rigetti-computing-coo-rivas-sells-72148-in-stock-93CH-5043243",
       "is_watchlist": false,
-      "timestamp": "2026-11-21T02:30:16+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-11-21T06:46:07+00:00",
+      "relevance_score": 1.5,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Ondas COO Huston sells $18,784 of shares at $4.08",
+      "headline": "AgEagle chairman Grant Begley buys $7,317 in company stock",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ondas-coo-huston-sells-18784-of-shares-at-408-93CH-5043056",
+      "url": "https://www.investing.com/news/insider-trading-news/ageagle-chairman-grant-begley-buys-7317-in-company-stock-93CH-5043242",
       "is_watchlist": false,
-      "timestamp": "2026-11-21T02:16:02+00:00",
+      "timestamp": "2026-11-21T06:46:05+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
+      "ticker": "GEV",
+      "headline": "$100 Of Power Now Costs $143: Is AI To Blame?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1c8507edfd474902302f734bed2c105691790b28f884a5074c4c83224eb53b4e",
+      "is_watchlist": true,
+      "timestamp": "2026-11-21T06:32:47+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
-      "headline": "Ondas director Richard M. Cohen sells $21,032 in company stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/ondas-director-richard-m-cohen-sells-21032-in-company-stock-93CH-5043055",
+      "headline": "How China is using summits to expand its global influence",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
       "is_watchlist": false,
-      "timestamp": "2026-11-21T02:16:00+00:00",
+      "timestamp": "2026-11-21T06:00:02+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "An early breakdown in the polar vortex is threatening already depleted gas stocks",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html",
+      "is_watchlist": false,
+      "timestamp": "2026-11-21T06:00:02+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Europe's cyber weak spot is the everyday businesses nobody thought to protect",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html",
+      "is_watchlist": false,
+      "timestamp": "2026-11-21T06:00:02+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Follow the Smart Money: 4 AI Stocks Billionaire Dan Loeb Just Bought",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e03fd7e514a56a881bc0ca3ea31583b94aeda6f40adbe90f87b384ecdab1ac9b",
+      "is_watchlist": true,
+      "timestamp": "2026-11-21T05:20:02+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "If the Nasdaq's Correction Turns Into a Bear Market, This Is the First Stock I'll Buy",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bb0c44037d2875dd037ffed75d410b80883c11d996e3ed4eb4dd02fb4e50e2d0",
+      "is_watchlist": true,
+      "timestamp": "2026-11-21T04:17:02+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "The S&P 500 Just Entered Correction Territory. Here's What It Means for Investors Right Now.",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f180d07dcc906e9f192daa529acb55dbb29ece60cc2e3259c76385182db04c7c",
+      "is_watchlist": true,
+      "timestamp": "2026-11-21T03:58:35+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Tech outages are rattling Americans so much that they\u2019re stockpiling cash and supplies",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
+      "is_watchlist": false,
+      "timestamp": "2026-11-21T03:20:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "CRWV",
+      "headline": "Is CoreWeave (CRWV) Fairly Valued After Fresh MLPerf Results?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4de71f155cd2fbd46fd6a44aa62b8bffb274f196b56958ecd6cbba63712a32a9",
+      "is_watchlist": true,
+      "timestamp": "2026-11-21T03:16:12+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "Consumer Sentiment Recovers Significantly In November",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c9bb12b8604de9743dab2555895d294e0b2a3107c85c2d5d96813df24efc6ccd",
+      "is_watchlist": true,
+      "timestamp": "2026-11-21T02:20:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "CRWV",
+      "headline": "Michael Burry Says He Tried to Warn You About Nebius. The Stock Just Crashed 16% and Is 72% Below Its Record",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=329aa6e1fc1822dad29246337dd0063b591b6ccae2d44123c949494139afd44a",
+      "is_watchlist": true,
+      "timestamp": "2026-11-21T01:44:08+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -224,42 +352,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "NVDA",
-      "headline": "Nasdaq 100 Ends Worst Week Since 2020, S&P 500 In Correction Territory As AI Rout Sours Sentiment \u2014   ANT, NVDA, TTWO, ZS, CRWD In Focus",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=1f18b42fc8f7180a7f7fdc77ea0234c7138fbf22d8299098c27bd5419fd3b84d",
-      "is_watchlist": true,
-      "timestamp": "2026-11-21T01:30:25+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Top 5 Stocks to Buy According to Billionaire George Soros",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=4a077acbd47dd06441eee14ead442dee8323d5f1ccca353898d9a45162a20695",
-      "is_watchlist": true,
-      "timestamp": "2026-11-21T01:04:21+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Review & Preview: Hype Halted",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=179be75c97d4a5c5ead611295d018d548fab7e632172b3b9d8a037a1747fdb7b",
-      "is_watchlist": true,
-      "timestamp": "2026-11-21T00:55:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Oil prices wrap up third straight weekly decline on strong Middle East supply outlook",
       "source": "Seeking Alpha Market",
@@ -268,6 +360,30 @@ window.theBriefLive = {
       "timestamp": "2026-11-21T00:10:24+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "IWM",
+      "headline": "Fear Erupts, AI Stocks Tank, But So Do Gold, Silver, Cryptos, Nearly Everything But Treasuries",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8f5c5b888012ab587748e27937a8caa16cb0e8522adfca808f1ccd55a205a2e1",
+      "is_watchlist": true,
+      "timestamp": "2026-11-20T23:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Fear Erupts, AI Stocks Tank, But So Do Gold, Silver, Cryptos, Nearly Everything But Treasuries",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8f5c5b888012ab587748e27937a8caa16cb0e8522adfca808f1ccd55a205a2e1",
+      "is_watchlist": true,
+      "timestamp": "2026-11-20T23:50:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -317,6 +433,22 @@ window.theBriefLive = {
       "timestamp": "2026-11-20T23:16:36+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump",
+        "Iran"
+      ],
+      "ticker": null,
+      "headline": "Araqchi says Iran wants diplomacy to end war, Trump says terms unacceptable - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMmJ1MkI1NFRhVGFBd09OcklwWXpmN2taa1EtT1pfNWxDSzZhamdaUkJubjMxb01yQV9zQ0hqQ0JFVGFGUE92RFRvRjh1Q21UeElHcWFxWnRhdnFlZFNuT1BBY081U2tyTVpaZmU5RmR6cmRfcklWUG1LeXRfdUZJTlNGQ213X0JDNGdzMTZOdVlPTVZYZVZaUmdGVVFpYmJFdG5xSUlBclI0QWlPYzdsTFdncWJjeF80XzI5N3NXMDM4b1E?oc=5",
+      "is_watchlist": true,
+      "timestamp": "2026-11-20T23:11:00+00:00",
+      "relevance_score": 8.0,
+      "relevance_tier": "high",
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
@@ -453,18 +585,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "The Fear Gauge Hit 40. This Is What the Market Is Worried About.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3593868a891e22c7cb56b8490e60e1c063e1f6310113582650e7f58c0f95ec7a",
-      "is_watchlist": true,
-      "timestamp": "2026-11-20T22:26:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
       "source": "NPR Business",
@@ -578,17 +698,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year\u2019s peak",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
-      "is_watchlist": false,
-      "timestamp": "2026-11-20T21:34:00+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "UK finds fix for fridge and freezer vulnerability after European hacks - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVlPYjE2cEpJQjlLNzNNcjVjRnI3LUxkcnE5UVJBak9QOTlPUXR2S1htU3BEUWxfM0RfUmo2QVVfX0g3cXpzTjdUSFNRMERVR0FKUVJ4T21TYUhUU2d3bE9tV2hpaGo1bUxqc25WR0VYWFl0Z0UxZDBiMGM3RUdYODlURmFxYnVvcm9KTXVhZWdObGl0bTZfNENXTTlhdG9ibzVNX1hCOFpkQ1k?oc=5",
@@ -622,18 +731,6 @@ window.theBriefLive = {
       "relevance_label": "Macro"
     },
     {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "Market Hang: AI Reset? Anthropic's Outlook, Amodei's Future, and Who Could Dethrone NVIDIA?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=983df1416e1870d1d1ada3b0ce0c9385d82ea19c1958f38ca0e18919f6eb51c2",
-      "is_watchlist": true,
-      "timestamp": "2026-11-20T21:00:48+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
       "type": "mover_statement",
       "movers": [
         "Trump"
@@ -647,49 +744,6 @@ window.theBriefLive = {
       "relevance_score": 5.5,
       "relevance_tier": "medium",
       "relevance_label": "Market Mover"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump",
-        "Lutnick"
-      ],
-      "ticker": null,
-      "headline": "Trump says he still has confidence in Lutnick",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html",
-      "is_watchlist": true,
-      "timestamp": "2026-11-20T20:52:08+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": null,
-      "headline": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
-      "is_watchlist": true,
-      "timestamp": "2026-11-20T20:47:58+00:00",
-      "relevance_score": 6.5,
-      "relevance_tier": "high",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": "CRWV",
-      "headline": "Top Research Reports for Coca-Cola, Medtronic & Palo Alto Networks",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=3fb23a61c612ecb6d4b7a0f20e037db85ec2991a9e6f58ff822e60c469eac1a2",
-      "is_watchlist": true,
-      "timestamp": "2026-11-20T20:42:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -751,17 +805,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
-      "is_watchlist": false,
-      "timestamp": "2026-11-20T19:59:03+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "PWR",
       "headline": "If You Invested $1000 in Quanta Services 10 Years Ago, This Is How Much You'd Have Now",
       "source": "Yahoo",
@@ -803,17 +846,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-11-20T19:21:45+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Saudi-led forces strike Yemen port as Houthis warn airlines off the kingdom - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUE1UEFGeklRZGtscWJhNkdxRWpyWHkwQ29IcVQ1Umc2VHlkWlJGZzZPTC00SFl2a3J0SXY3TGo0X0t2a3A5ckMzbmtZXy1mYzdoa0F5Vmo1TGFaU1RIbEZHak5iTi1oRXhWWF9CbWZ2QWFLRG1HSG5Rc1dSbHZlaGNNSDlvZ2RiekJzbnpqMC1aektLZU1MSHBWN25PYURzUGduTjhURQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-11-20T19:16:53+00:00",
-      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -935,18 +967,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "The Rich Are Keeping The U.S. Economy Afloat - Until Tech Valuations Deflate",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=e0fc63cd87278cec556943cfc153d5741c7a07e9d60b2176fd8e06d4512a12a5",
-      "is_watchlist": true,
-      "timestamp": "2026-11-20T16:00:22+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "APA",
       "headline": "APA vs. LNG: Which Stock Should Value Investors Buy Now?",
       "source": "Yahoo",
@@ -983,18 +1003,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "IWM",
-      "headline": "Ignore The European Central Bank's AI Warning At Your Peril",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=cc5c1b386fb6e901a23c609865329bb760fd48c4ef39dcfea8be7a17ace57c25",
-      "is_watchlist": true,
-      "timestamp": "2026-11-20T15:30:00+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "Why GE Vernova Investors Could Make Sense Of ETFs Now",
       "source": "Yahoo",
@@ -1014,17 +1022,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-11-20T15:12:40+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "As Anthropic shares tank, investors scramble to hedge. It could be very expensive",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/11/20/as-anthropic-shares-tank-investors-scramble-to-hedge-it-could-be-very-expensive.html",
-      "is_watchlist": false,
-      "timestamp": "2026-11-20T15:12:40+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -1124,18 +1121,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "GEV",
-      "headline": "Where Will AI's Power Come From?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=42ac99ffa2a049e0136f9d6a92f22ed8154150ca358d8d50149f13cef2f43bcd",
-      "is_watchlist": true,
-      "timestamp": "2026-11-20T12:23:55+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Just how vulnerable are we to cyberattacks?",
       "source": "NPR Business",
@@ -1187,6 +1172,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-11-20T07:32:19+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "AI is changing software engineering \u2014 and some developers miss the struggle",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html",
+      "is_watchlist": false,
+      "timestamp": "2026-11-20T06:00:01+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {

@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-21T02:56:39.990901+00:00",
+  "generated_at": "2026-11-21T08:01:44.156805+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -72,7 +72,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nasdaq 100 Ends Worst Week Since 2020, S&P 500 In Correction Territory As AI Rout Sours Se...\""
+      "move_reason": "News: \"Follow the Smart Money: 4 AI Stocks Billionaire Dan Loeb Just Bought\""
     },
     {
       "ticker": "AMD",
@@ -96,7 +96,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Finds AI Demand Outside the Commercial Market\""
+      "move_reason": "News: \"Is CoreWeave (CRWV) Fairly Valued After Fresh MLPerf Results?\""
     },
     {
       "ticker": "XLK",
@@ -154,7 +154,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why GE Vernova Investors Could Make Sense Of ETFs Now\""
+      "move_reason": "News: \"$100 Of Power Now Costs $143: Is AI To Blame?\""
     },
     {
       "ticker": "PLTR",
@@ -263,7 +263,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Finds AI Demand Outside the Commercial Market\""
+      "move_reason": "News: \"Is CoreWeave (CRWV) Fairly Valued After Fresh MLPerf Results?\""
     },
     {
       "ticker": "DG",
@@ -287,7 +287,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why GE Vernova Investors Could Make Sense Of ETFs Now\""
+      "move_reason": "News: \"$100 Of Power Now Costs $143: Is AI To Blame?\""
     },
     {
       "ticker": "IWM",
@@ -299,7 +299,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Market Selloff Deepens As Investors Seek Shelter\""
+      "move_reason": "News: \"Consumer Sentiment Recovers Significantly In November\""
     },
     {
       "ticker": "NBIS",
@@ -323,7 +323,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nasdaq 100 Ends Worst Week Since 2020, S&P 500 In Correction Territory As AI Rout Sours Se...\""
+      "move_reason": "News: \"Follow the Smart Money: 4 AI Stocks Billionaire Dan Loeb Just Bought\""
     },
     {
       "ticker": "OSCR",
