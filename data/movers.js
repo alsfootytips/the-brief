@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-21T16:09:16.287862+00:00",
+  "generated_at": "2026-11-21T21:39:46.614427+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -34,7 +34,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Occidental Petroleum (NYSE:OXY): A Decent Value Stock With a Margin of Safety\""
+      "move_reason": "News: \"Warren Buffett\u2019s Top 10 Stock Picks: Latest 13F\""
     },
     {
       "ticker": "XLE",
@@ -60,7 +60,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wells Fargo\u2019s $115 Target Says CoreWeave\u2019s Selloff Went Too Far\""
+      "move_reason": "News: \"Could Investing $500 a Month in Nebius Help You Retire a Millionaire?\""
     },
     {
       "ticker": "NVDA",
@@ -72,7 +72,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Dow Jones Did Something It Hasn\u2019t Done Since October 2008\""
+      "move_reason": "News: \"Meet the Warren Buffett Rule That Makes This Consumer Stock a Buy With $1,000 Right Now\""
     },
     {
       "ticker": "AMD",
@@ -96,7 +96,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Is CoreWeave\u2019s \u201cKey Sole Supplier\u201d and $6.3 Billion Backstop. Congress Is Now Looki...\""
+      "move_reason": "News: \"Debt-heavy CoreWeave just got $350M from Jensen Huang\u2019s charity\""
     },
     {
       "ticker": "XLK",
@@ -154,7 +154,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nuclear Stocks Diverge as Fundamentals Outrun Weak Price Momentum\""
+      "move_reason": "News: \"NuScale Is Down 40% in a Month and Just Hit a New 52-Week Low. Is the Selling Overdone?\""
     },
     {
       "ticker": "PLTR",
@@ -263,7 +263,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Is CoreWeave\u2019s \u201cKey Sole Supplier\u201d and $6.3 Billion Backstop. Congress Is Now Looki...\""
+      "move_reason": "News: \"Debt-heavy CoreWeave just got $350M from Jensen Huang\u2019s charity\""
     },
     {
       "ticker": "DG",
@@ -275,7 +275,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Ten more states join FTC pricing lawsuit against Dollar General\""
+      "move_reason": "News: \"30 States Are Now Suing Dollar General Over Prices at the Register\""
     },
     {
       "ticker": "GEV",
@@ -287,7 +287,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nuclear Stocks Diverge as Fundamentals Outrun Weak Price Momentum\""
+      "move_reason": "News: \"NuScale Is Down 40% in a Month and Just Hit a New 52-Week Low. Is the Selling Overdone?\""
     },
     {
       "ticker": "IWM",
@@ -311,7 +311,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Wells Fargo\u2019s $115 Target Says CoreWeave\u2019s Selloff Went Too Far\""
+      "move_reason": "News: \"Could Investing $500 a Month in Nebius Help You Retire a Millionaire?\""
     },
     {
       "ticker": "NVDA",
@@ -323,7 +323,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Dow Jones Did Something It Hasn\u2019t Done Since October 2008\""
+      "move_reason": "News: \"Meet the Warren Buffett Rule That Makes This Consumer Stock a Buy With $1,000 Right Now\""
     },
     {
       "ticker": "OSCR",
@@ -347,7 +347,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Occidental Petroleum (NYSE:OXY): A Decent Value Stock With a Margin of Safety\""
+      "move_reason": "News: \"Warren Buffett\u2019s Top 10 Stock Picks: Latest 13F\""
     },
     {
       "ticker": "PWR",
