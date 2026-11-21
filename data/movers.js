@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-21T08:01:44.156805+00:00",
+  "generated_at": "2026-11-21T16:09:16.287862+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"APA vs. LNG: Which Stock Should Value Investors Buy Now?\""
+      "move_reason": "News: \"APA Corp (NASDAQ:APA): High Growth Momentum Meets a Breakout Setup\""
     },
     {
       "ticker": "XLP",
@@ -34,7 +34,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"E&P stocks outlook: valuations, cash flow, and the OPEC+ wildcard\""
+      "move_reason": "News: \"Occidental Petroleum (NYSE:OXY): A Decent Value Stock With a Margin of Safety\""
     },
     {
       "ticker": "XLE",
@@ -60,7 +60,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Michael Burry Says He Tried to Warn You About Nebius. The Stock Just Crashed 16% and Is 72...\""
+      "move_reason": "News: \"Wells Fargo\u2019s $115 Target Says CoreWeave\u2019s Selloff Went Too Far\""
     },
     {
       "ticker": "NVDA",
@@ -72,7 +72,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Follow the Smart Money: 4 AI Stocks Billionaire Dan Loeb Just Bought\""
+      "move_reason": "News: \"The Dow Jones Did Something It Hasn\u2019t Done Since October 2008\""
     },
     {
       "ticker": "AMD",
@@ -96,7 +96,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is CoreWeave (CRWV) Fairly Valued After Fresh MLPerf Results?\""
+      "move_reason": "News: \"Nvidia Is CoreWeave\u2019s \u201cKey Sole Supplier\u201d and $6.3 Billion Backstop. Congress Is Now Looki...\""
     },
     {
       "ticker": "XLK",
@@ -154,7 +154,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"$100 Of Power Now Costs $143: Is AI To Blame?\""
+      "move_reason": "News: \"Nuclear Stocks Diverge as Fundamentals Outrun Weak Price Momentum\""
     },
     {
       "ticker": "PLTR",
@@ -208,7 +208,7 @@ window.theBriefMovers = {
       "name": "VUAG.L",
       "price": 104.4,
       "change_pct": -3.32,
-      "volume_ratio": 0.9,
+      "volume_ratio": 1.58,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -220,7 +220,7 @@ window.theBriefMovers = {
       "name": "VWRP.L",
       "price": 133.52,
       "change_pct": -3.26,
-      "volume_ratio": 0.65,
+      "volume_ratio": 1.51,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -251,7 +251,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"APA vs. LNG: Which Stock Should Value Investors Buy Now?\""
+      "move_reason": "News: \"APA Corp (NASDAQ:APA): High Growth Momentum Meets a Breakout Setup\""
     },
     {
       "ticker": "CRWV",
@@ -263,7 +263,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is CoreWeave (CRWV) Fairly Valued After Fresh MLPerf Results?\""
+      "move_reason": "News: \"Nvidia Is CoreWeave\u2019s \u201cKey Sole Supplier\u201d and $6.3 Billion Backstop. Congress Is Now Looki...\""
     },
     {
       "ticker": "DG",
@@ -287,7 +287,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"$100 Of Power Now Costs $143: Is AI To Blame?\""
+      "move_reason": "News: \"Nuclear Stocks Diverge as Fundamentals Outrun Weak Price Momentum\""
     },
     {
       "ticker": "IWM",
@@ -299,7 +299,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Consumer Sentiment Recovers Significantly In November\""
+      "move_reason": "News: \"This Market Has Forgotten How To Count\""
     },
     {
       "ticker": "NBIS",
@@ -311,7 +311,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Michael Burry Says He Tried to Warn You About Nebius. The Stock Just Crashed 16% and Is 72...\""
+      "move_reason": "News: \"Wells Fargo\u2019s $115 Target Says CoreWeave\u2019s Selloff Went Too Far\""
     },
     {
       "ticker": "NVDA",
@@ -323,7 +323,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Follow the Smart Money: 4 AI Stocks Billionaire Dan Loeb Just Bought\""
+      "move_reason": "News: \"The Dow Jones Did Something It Hasn\u2019t Done Since October 2008\""
     },
     {
       "ticker": "OSCR",
@@ -347,7 +347,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"E&P stocks outlook: valuations, cash flow, and the OPEC+ wildcard\""
+      "move_reason": "News: \"Occidental Petroleum (NYSE:OXY): A Decent Value Stock With a Margin of Safety\""
     },
     {
       "ticker": "PWR",

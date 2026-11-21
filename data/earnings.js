@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-11-21T08:01:44+00:00",
+  "generated_at": "2026-11-21T16:09:16+00:00",
   "by_date": {
     "2026-12-03": [
       {
@@ -855,6 +855,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "EMBC",
+        "date": "2026-11-24",
+        "hour": "bmo",
+        "eps_estimate": 0.2955,
+        "revenue_estimate": 275106240,
+        "is_watchlist": false
+      },
+      {
         "ticker": "EOCN",
         "date": "2026-11-24",
         "hour": "",
@@ -1070,6 +1078,14 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "GASS",
+        "date": "2026-11-25",
+        "hour": "",
+        "eps_estimate": 0.3978,
+        "revenue_estimate": 43248000,
         "is_watchlist": false
       },
       {
@@ -1457,27 +1473,11 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "EMBC",
-        "date": "2026-12-01",
-        "hour": "bmo",
-        "eps_estimate": 0.2955,
-        "revenue_estimate": 275106240,
-        "is_watchlist": false
-      },
-      {
         "ticker": "FIVE",
         "date": "2026-12-01",
         "hour": "",
         "eps_estimate": 1.1777,
         "revenue_estimate": 1255903560,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "GASS",
-        "date": "2026-12-01",
-        "hour": "",
-        "eps_estimate": 0.3978,
-        "revenue_estimate": 43248000,
         "is_watchlist": false
       },
       {
