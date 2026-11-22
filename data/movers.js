@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-22T08:52:14.916238+00:00",
+  "generated_at": "2026-11-22T16:55:28.315883+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -60,7 +60,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Could Investing $500 a Month in Nebius Help You Retire a Millionaire?\""
+      "move_reason": "News: \"Warning for CoreWeave: Satya Nadella Says \u201cSelling to One or Two Customers Is Not a Busine...\""
     },
     {
       "ticker": "NVDA",
@@ -72,7 +72,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Mortgage Rates Have Jumped More Than 1 Point Since February. Home Depot and Lowe\u2019s Shareho...\""
+      "move_reason": "News: \"I'm Raising My Fair Value Estimate for Berkshire Hathaway Stock. Here's What I Think It's ...\""
     },
     {
       "ticker": "AMD",
@@ -96,7 +96,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Falls 48% From Peak as AI Selloff Spreads to Bitcoin and Crypto\""
+      "move_reason": "News: \"Anthropic\u2019s Record-Breaking IPO Comes With a $1 Trillion Financial Burden Wall Street Can\u2019...\""
     },
     {
       "ticker": "XLK",
@@ -119,7 +119,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Trade Desk (TTD) Could Be 50% Undervalued After The Circana Partnership\""
+      "move_reason": "News: \"What\u2019s Going on with The Trade Desk Stock? 3 Reasons Investors Are Losing Confidence.\""
     },
     {
       "ticker": "SOFI",
@@ -154,7 +154,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Industrial Stocks Trading Above $500 a Share: Which One Splits First?\""
+      "move_reason": "News: \"\u201cAn Unpowered Data Center Is Just a Warehouse\u201d: GE Vernova\u2019s Slots Are 80% Sold Through 20...\""
     },
     {
       "ticker": "PLTR",
@@ -263,7 +263,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Falls 48% From Peak as AI Selloff Spreads to Bitcoin and Crypto\""
+      "move_reason": "News: \"Anthropic\u2019s Record-Breaking IPO Comes With a $1 Trillion Financial Burden Wall Street Can\u2019...\""
     },
     {
       "ticker": "DG",
@@ -287,7 +287,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"3 Industrial Stocks Trading Above $500 a Share: Which One Splits First?\""
+      "move_reason": "News: \"\u201cAn Unpowered Data Center Is Just a Warehouse\u201d: GE Vernova\u2019s Slots Are 80% Sold Through 20...\""
     },
     {
       "ticker": "IWM",
@@ -299,7 +299,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This Market Has Forgotten How To Count\""
+      "move_reason": "News: \"The 200-Day Average Broke - The Next 4 Weeks Are Critical\""
     },
     {
       "ticker": "NBIS",
@@ -311,7 +311,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Could Investing $500 a Month in Nebius Help You Retire a Millionaire?\""
+      "move_reason": "News: \"Warning for CoreWeave: Satya Nadella Says \u201cSelling to One or Two Customers Is Not a Busine...\""
     },
     {
       "ticker": "NVDA",
@@ -323,7 +323,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Mortgage Rates Have Jumped More Than 1 Point Since February. Home Depot and Lowe\u2019s Shareho...\""
+      "move_reason": "News: \"I'm Raising My Fair Value Estimate for Berkshire Hathaway Stock. Here's What I Think It's ...\""
     },
     {
       "ticker": "OSCR",
@@ -359,7 +359,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"If You Invested $1000 in Quanta Services 10 Years Ago, This Is How Much You'd Have Now\""
+      "move_reason": "News: \"Top 3 Grid Stocks To Watch In November 2026\""
     },
     {
       "ticker": "TPL",
@@ -383,7 +383,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Trade Desk (TTD) Could Be 50% Undervalued After The Circana Partnership\""
+      "move_reason": "News: \"What\u2019s Going on with The Trade Desk Stock? 3 Reasons Investors Are Losing Confidence.\""
     },
     {
       "ticker": "XLE",
