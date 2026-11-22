@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-21T21:39:46.614427+00:00",
+  "generated_at": "2026-11-22T01:36:06.854962+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -72,7 +72,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meet the Warren Buffett Rule That Makes This Consumer Stock a Buy With $1,000 Right Now\""
+      "move_reason": "News: \"Nvidia Without Jensen Huang: 3 Things That Could Go Right and 3 That Could Go Wrong\""
     },
     {
       "ticker": "AMD",
@@ -96,7 +96,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Debt-heavy CoreWeave just got $350M from Jensen Huang\u2019s charity\""
+      "move_reason": "News: \"Nvidia Falls 48% From Peak as AI Selloff Spreads to Bitcoin and Crypto\""
     },
     {
       "ticker": "XLK",
@@ -263,7 +263,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Debt-heavy CoreWeave just got $350M from Jensen Huang\u2019s charity\""
+      "move_reason": "News: \"Nvidia Falls 48% From Peak as AI Selloff Spreads to Bitcoin and Crypto\""
     },
     {
       "ticker": "DG",
@@ -323,7 +323,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Meet the Warren Buffett Rule That Makes This Consumer Stock a Buy With $1,000 Right Now\""
+      "move_reason": "News: \"Nvidia Without Jensen Huang: 3 Things That Could Go Right and 3 That Could Go Wrong\""
     },
     {
       "ticker": "OSCR",
@@ -629,14 +629,14 @@ window.theBriefMovers = {
       "signals": [
         "Moved -12.78% \u2014 a 1.5\u03c3 move vs typical 8.3% daily vol",
         "3 news items in the last 3 days",
-        "10 insider sells vs 0 buys (last 90 days)",
+        "9 insider sells vs 1 buys (last 90 days)",
         "Down -61.5% over 3 months \u2014 deep drawdown",
         "-71.6% from 52-week high"
       ],
       "reasons": [
         "Moved -12.78% \u2014 a 1.5\u03c3 move vs typical 8.3% daily vol",
         "3 news items in the last 3 days",
-        "10 insider sells vs 0 buys (last 90 days)",
+        "9 insider sells vs 1 buys (last 90 days)",
         "Down -61.5% over 3 months \u2014 deep drawdown",
         "-71.6% from 52-week high"
       ],
@@ -657,14 +657,14 @@ window.theBriefMovers = {
       "change_pct": -2.94,
       "score": 6.5,
       "signals": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "Forward P/E 3.7 (cheap on absolute basis)",
         "Down -28.3% over 3 months \u2014 deep drawdown",
         "-50.3% from 52-week high"
       ],
       "reasons": [
-        "3 news items in the last 3 days",
+        "2 news items in the last 3 days",
         "9 insider buys vs 1 sells (last 90 days)",
         "Forward P/E 3.7 (cheap on absolute basis)",
         "Down -28.3% over 3 months \u2014 deep drawdown",

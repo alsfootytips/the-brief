@@ -1,5 +1,5 @@
 window.theBriefFundamentals = {
-  "generated_at": "2026-11-21T21:39:46.741858+00:00",
+  "generated_at": "2026-11-22T01:36:06.982810+00:00",
   "by_ticker": {
     "CRWV": {
       "return_1m": -28.94,
@@ -80,8 +80,8 @@ window.theBriefFundamentals = {
         "sell_delta": 0
       },
       "insider_recent_90d": {
-        "buys": 0,
-        "sells": 10,
+        "buys": 1,
+        "sells": 9,
         "total": 10
       }
     },
