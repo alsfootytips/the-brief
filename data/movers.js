@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-22T16:55:28.315883+00:00",
+  "generated_at": "2026-11-22T22:18:39.240697+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -72,7 +72,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"I'm Raising My Fair Value Estimate for Berkshire Hathaway Stock. Here's What I Think It's ...\""
+      "move_reason": "News: \"Altria Yields 5.9%. Here's How Many Shares You'd Need for $5,000 in Yearly Dividend Income...\""
     },
     {
       "ticker": "AMD",
@@ -96,7 +96,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Anthropic\u2019s Record-Breaking IPO Comes With a $1 Trillion Financial Burden Wall Street Can\u2019...\""
+      "move_reason": "News: \"Cathie Wood Just Bought $22 Million of CoreWeave Across 2 ARK Funds\""
     },
     {
       "ticker": "XLK",
@@ -263,7 +263,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Anthropic\u2019s Record-Breaking IPO Comes With a $1 Trillion Financial Burden Wall Street Can\u2019...\""
+      "move_reason": "News: \"Cathie Wood Just Bought $22 Million of CoreWeave Across 2 ARK Funds\""
     },
     {
       "ticker": "DG",
@@ -323,7 +323,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"I'm Raising My Fair Value Estimate for Berkshire Hathaway Stock. Here's What I Think It's ...\""
+      "move_reason": "News: \"Altria Yields 5.9%. Here's How Many Shares You'd Need for $5,000 in Yearly Dividend Income...\""
     },
     {
       "ticker": "OSCR",
