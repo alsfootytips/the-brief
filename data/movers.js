@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-22T01:36:06.854962+00:00",
+  "generated_at": "2026-11-22T08:52:14.916238+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -46,7 +46,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Sector Update: Energy Stocks Fall Friday\""
+      "move_reason": "News: \"Gas Prices Are Dropping at a 2008 Pace Right Before Thanksgiving\""
     }
   ],
   "losers": [
@@ -72,7 +72,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Without Jensen Huang: 3 Things That Could Go Right and 3 That Could Go Wrong\""
+      "move_reason": "News: \"Mortgage Rates Have Jumped More Than 1 Point Since February. Home Depot and Lowe\u2019s Shareho...\""
     },
     {
       "ticker": "AMD",
@@ -154,7 +154,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"NuScale Is Down 40% in a Month and Just Hit a New 52-Week Low. Is the Selling Overdone?\""
+      "move_reason": "News: \"3 Industrial Stocks Trading Above $500 a Share: Which One Splits First?\""
     },
     {
       "ticker": "PLTR",
@@ -287,7 +287,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"NuScale Is Down 40% in a Month and Just Hit a New 52-Week Low. Is the Selling Overdone?\""
+      "move_reason": "News: \"3 Industrial Stocks Trading Above $500 a Share: Which One Splits First?\""
     },
     {
       "ticker": "IWM",
@@ -323,7 +323,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Without Jensen Huang: 3 Things That Could Go Right and 3 That Could Go Wrong\""
+      "move_reason": "News: \"Mortgage Rates Have Jumped More Than 1 Point Since February. Home Depot and Lowe\u2019s Shareho...\""
     },
     {
       "ticker": "OSCR",
@@ -395,7 +395,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Sector Update: Energy Stocks Fall Friday\""
+      "move_reason": "News: \"Gas Prices Are Dropping at a 2008 Pace Right Before Thanksgiving\""
     }
   ],
   "indices": [
