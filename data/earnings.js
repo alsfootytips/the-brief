@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-11-23T12:08:32+00:00",
+  "generated_at": "2026-11-23T23:05:46+00:00",
   "by_date": {
     "2026-12-03": [
       {
@@ -829,7 +829,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FMHS",
         "date": "2026-11-23",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -989,7 +989,7 @@ window.theBriefEarnings = {
       {
         "ticker": "LIMN",
         "date": "2026-11-23",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -997,7 +997,7 @@ window.theBriefEarnings = {
       {
         "ticker": "LOCL",
         "date": "2026-11-23",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.4794,
         "revenue_estimate": 25500000,
         "is_watchlist": false
@@ -1045,7 +1045,7 @@ window.theBriefEarnings = {
       {
         "ticker": "MITI",
         "date": "2026-11-23",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -1269,7 +1269,7 @@ window.theBriefEarnings = {
       {
         "ticker": "SOBR",
         "date": "2026-11-23",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -1285,7 +1285,7 @@ window.theBriefEarnings = {
       {
         "ticker": "SOWG",
         "date": "2026-11-23",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -1607,7 +1607,7 @@ window.theBriefEarnings = {
       {
         "ticker": "DLTR",
         "date": "2026-11-24",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.9247,
         "revenue_estimate": 5138517025,
         "is_watchlist": false
@@ -1647,7 +1647,7 @@ window.theBriefEarnings = {
       {
         "ticker": "FLX",
         "date": "2026-11-24",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -1743,7 +1743,7 @@ window.theBriefEarnings = {
       {
         "ticker": "NOAH",
         "date": "2026-11-24",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -1847,7 +1847,7 @@ window.theBriefEarnings = {
       {
         "ticker": "VIPS",
         "date": "2026-11-24",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 2.8254,
         "revenue_estimate": 20848107868,
         "is_watchlist": false
@@ -1945,7 +1945,7 @@ window.theBriefEarnings = {
       {
         "ticker": "GASS",
         "date": "2026-11-25",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.3978,
         "revenue_estimate": 43248000,
         "is_watchlist": false
@@ -2017,7 +2017,7 @@ window.theBriefEarnings = {
       {
         "ticker": "YSG",
         "date": "2026-11-25",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -2149,7 +2149,7 @@ window.theBriefEarnings = {
       {
         "ticker": "XYF",
         "date": "2026-11-27",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -2159,7 +2159,7 @@ window.theBriefEarnings = {
       {
         "ticker": "BOSC",
         "date": "2026-11-30",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.0643,
         "revenue_estimate": 11598420,
         "is_watchlist": false
@@ -2215,7 +2215,7 @@ window.theBriefEarnings = {
       {
         "ticker": "HMR",
         "date": "2026-11-30",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.0404,
         "revenue_estimate": 21528150,
         "is_watchlist": false
@@ -2223,7 +2223,7 @@ window.theBriefEarnings = {
       {
         "ticker": "MOB",
         "date": "2026-11-30",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -2239,7 +2239,7 @@ window.theBriefEarnings = {
       {
         "ticker": "NNE",
         "date": "2026-11-30",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.2842,
         "revenue_estimate": 1590750,
         "is_watchlist": false
@@ -2247,7 +2247,7 @@ window.theBriefEarnings = {
       {
         "ticker": "PXS",
         "date": "2026-11-30",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.2394,
         "revenue_estimate": 12382600,
         "is_watchlist": false
@@ -2255,7 +2255,7 @@ window.theBriefEarnings = {
       {
         "ticker": "RBRK",
         "date": "2026-11-30",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": 0.0838,
         "revenue_estimate": 439013865,
         "is_watchlist": false
