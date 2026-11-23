@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-22T22:18:39.240697+00:00",
+  "generated_at": "2026-11-23T02:58:37.198512+00:00",
   "gainers": [
     {
       "ticker": "APA",
@@ -34,7 +34,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Warren Buffett\u2019s Top 10 Stock Picks: Latest 13F\""
+      "move_reason": "News: \"2 Energy Stocks Bridgewater Associates Is Buying Right Now\""
     },
     {
       "ticker": "XLE",
@@ -72,7 +72,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Altria Yields 5.9%. Here's How Many Shares You'd Need for $5,000 in Yearly Dividend Income...\""
+      "move_reason": "News: \"Jensen Huang Has Lost $92 Billion and Nvidia\u2019s Board Does Not Intend to Bring Him Back. He...\""
     },
     {
       "ticker": "AMD",
@@ -84,7 +84,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Tracking Cathie Wood's ARK Invest 13F Portfolio - Q3 2026 Update\""
     },
     {
       "ticker": "CRWV",
@@ -96,7 +96,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cathie Wood Just Bought $22 Million of CoreWeave Across 2 ARK Funds\""
+      "move_reason": "News: \"CMO Summit: Council Member Takeaways\""
     },
     {
       "ticker": "XLK",
@@ -190,7 +190,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"OSCR or ZURVY: Which Is the Better Value Stock Right Now?\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "SPY",
@@ -239,7 +239,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "SEC filing (8-K) just dropped \u2014 material disclosure likely behind move."
+      "move_reason": "News: \"Tracking Cathie Wood's ARK Invest 13F Portfolio - Q3 2026 Update\""
     },
     {
       "ticker": "APA",
@@ -263,7 +263,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cathie Wood Just Bought $22 Million of CoreWeave Across 2 ARK Funds\""
+      "move_reason": "News: \"CMO Summit: Council Member Takeaways\""
     },
     {
       "ticker": "DG",
@@ -323,7 +323,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Altria Yields 5.9%. Here's How Many Shares You'd Need for $5,000 in Yearly Dividend Income...\""
+      "move_reason": "News: \"Jensen Huang Has Lost $92 Billion and Nvidia\u2019s Board Does Not Intend to Bring Him Back. He...\""
     },
     {
       "ticker": "OSCR",
@@ -335,7 +335,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"OSCR or ZURVY: Which Is the Better Value Stock Right Now?\""
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
       "ticker": "OXY",
@@ -347,7 +347,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Warren Buffett\u2019s Top 10 Stock Picks: Latest 13F\""
+      "move_reason": "News: \"2 Energy Stocks Bridgewater Associates Is Buying Right Now\""
     },
     {
       "ticker": "PWR",
@@ -359,7 +359,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Top 3 Grid Stocks To Watch In November 2026\""
+      "move_reason": "News: \"Dividend Announcements: November 14-20, 2026\""
     },
     {
       "ticker": "TPL",
@@ -371,7 +371,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Is Viper Spending Too Much?\""
+      "move_reason": ""
     },
     {
       "ticker": "TTD",
@@ -592,35 +592,6 @@ window.theBriefMovers = {
       "sector_etf": "XLK"
     },
     {
-      "ticker": "OSCR",
-      "name": "Oscar Health",
-      "price": 24.95,
-      "change_pct": -4.66,
-      "score": 8.0,
-      "signals": [
-        "Moved -4.66% \u2014 a 1.1\u03c3 move",
-        "3 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "8 insider buys vs 2 sells (last 90 days)",
-        "Forward P/E 10.1 (cheap on absolute basis)"
-      ],
-      "reasons": [
-        "Moved -4.66% \u2014 a 1.1\u03c3 move",
-        "3 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "8 insider buys vs 2 sells (last 90 days)",
-        "Forward P/E 10.1 (cheap on absolute basis)"
-      ],
-      "tags": [
-        "news-flow",
-        "filing",
-        "insider-buying",
-        "cheap"
-      ],
-      "narrative": "<strong>OSCR</strong> has notable insider conviction in the last 90 days.",
-      "sector_etf": "XLV"
-    },
-    {
       "ticker": "NBIS",
       "name": "Nebius Group",
       "price": 84.53,
@@ -649,6 +620,32 @@ window.theBriefMovers = {
       ],
       "narrative": "<strong>NBIS</strong> is accumulating signals worth tracking.",
       "sector_etf": "XLK"
+    },
+    {
+      "ticker": "OSCR",
+      "name": "Oscar Health",
+      "price": 24.95,
+      "change_pct": -4.66,
+      "score": 6.5,
+      "signals": [
+        "Moved -4.66% \u2014 a 1.1\u03c3 move",
+        "1 SEC filing in the last 7 days",
+        "8 insider buys vs 2 sells (last 90 days)",
+        "Forward P/E 10.1 (cheap on absolute basis)"
+      ],
+      "reasons": [
+        "Moved -4.66% \u2014 a 1.1\u03c3 move",
+        "1 SEC filing in the last 7 days",
+        "8 insider buys vs 2 sells (last 90 days)",
+        "Forward P/E 10.1 (cheap on absolute basis)"
+      ],
+      "tags": [
+        "filing",
+        "insider-buying",
+        "cheap"
+      ],
+      "narrative": "<strong>OSCR</strong> has notable insider conviction in the last 90 days.",
+      "sector_etf": "XLV"
     },
     {
       "ticker": "TPL",
