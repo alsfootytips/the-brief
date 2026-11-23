@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-11-23T02:58:37+00:00",
+  "generated_at": "2026-11-23T12:08:32+00:00",
   "by_date": {
     "2026-12-03": [
       {
@@ -525,7 +525,7 @@ window.theBriefEarnings = {
       {
         "ticker": "BNAI",
         "date": "2026-11-23",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.6732,
         "revenue_estimate": 1938000,
         "is_watchlist": false
@@ -1261,7 +1261,7 @@ window.theBriefEarnings = {
       {
         "ticker": "SOAR",
         "date": "2026-11-23",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
@@ -1357,7 +1357,7 @@ window.theBriefEarnings = {
       {
         "ticker": "VNET",
         "date": "2026-11-23",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": -0.2868,
         "revenue_estimate": 2987280732,
         "is_watchlist": false
