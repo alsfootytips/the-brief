@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-11-24T08:41:43+00:00",
+  "generated_at": "2026-11-24T19:43:49+00:00",
   "by_date": {
     "2026-12-03": [
       {
@@ -717,7 +717,7 @@ window.theBriefEarnings = {
       {
         "ticker": "SHOE",
         "date": "2026-11-24",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.3638,
         "revenue_estimate": 303518003,
         "is_watchlist": false
