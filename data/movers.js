@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-24T05:42:07.118878+00:00",
+  "generated_at": "2026-11-24T08:41:43.008678+00:00",
   "gainers": [
     {
       "ticker": "NVDA",
@@ -23,7 +23,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Inc. (CRWV) Just Turned the Tables. What Changed?\""
+      "move_reason": "News: \"Hewlett Packard Steers Clear Of Financing \u2018Neocloud Or High-Risk Customers\u2019 \u2014 HPE Stock Di...\""
     },
     {
       "ticker": "NBIS",
@@ -35,7 +35,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dead Cat Bounce? AI Stocks Climb 20%+, but IREN, Applied Digital Stay Down 50%+\""
+      "move_reason": "News: \"Hewlett Packard Steers Clear Of Financing \u2018Neocloud Or High-Risk Customers\u2019 \u2014 HPE Stock Di...\""
     },
     {
       "ticker": "PLTR",
@@ -165,7 +165,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar General (DG) Increases Yet Falls Behind Market: What Investors Need to Know\""
+      "move_reason": "News: \"New Mexico joins federal lawsuit accusing Dollar General of overcharging customers\""
     },
     {
       "ticker": "SPY",
@@ -226,7 +226,31 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Sector Update: Energy Stocks Decline Monday\""
+      "move_reason": "News: \"ValuEngine Weekly Market Commentary: Bear Market For Nasdaq-100 Headlines Historic Weekly ...\""
+    },
+    {
+      "ticker": "VUAG.L",
+      "name": "VUAG.L",
+      "price": 107.62,
+      "change_pct": -0.33,
+      "volume_ratio": 0.26,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
+    },
+    {
+      "ticker": "VWRP.L",
+      "name": "VWRP.L",
+      "price": 137.76,
+      "change_pct": -0.29,
+      "volume_ratio": 0.2,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
     },
     {
       "ticker": "XLP",
@@ -275,7 +299,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"CoreWeave Inc. (CRWV) Just Turned the Tables. What Changed?\""
+      "move_reason": "News: \"Hewlett Packard Steers Clear Of Financing \u2018Neocloud Or High-Risk Customers\u2019 \u2014 HPE Stock Di...\""
     },
     {
       "ticker": "DG",
@@ -287,7 +311,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar General (DG) Increases Yet Falls Behind Market: What Investors Need to Know\""
+      "move_reason": "News: \"New Mexico joins federal lawsuit accusing Dollar General of overcharging customers\""
     },
     {
       "ticker": "GEV",
@@ -311,7 +335,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Cumberland's Monday Memo\""
+      "move_reason": "News: \"U.S. Flash PMI Indicates Still-Elevated, But Cooling, Business Activity Growth And Price P...\""
     },
     {
       "ticker": "NBIS",
@@ -323,7 +347,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dead Cat Bounce? AI Stocks Climb 20%+, but IREN, Applied Digital Stay Down 50%+\""
+      "move_reason": "News: \"Hewlett Packard Steers Clear Of Financing \u2018Neocloud Or High-Risk Customers\u2019 \u2014 HPE Stock Di...\""
     },
     {
       "ticker": "NVDA",
@@ -407,7 +431,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Sector Update: Energy Stocks Decline Monday\""
+      "move_reason": "News: \"ValuEngine Weekly Market Commentary: Bear Market For Nasdaq-100 Headlines Historic Weekly ...\""
     }
   ],
   "indices": [
