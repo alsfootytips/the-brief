@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-25T03:11:42.441482+00:00",
+  "generated_at": "2026-11-25T04:43:38.966673+00:00",
   "gainers": [
     {
       "ticker": "DG",
@@ -209,7 +209,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Fall After AI Stocks Tumble; Trump Says 'Not Too Late' For Nvidia Stake\""
+      "move_reason": "News: \"Dow Jones Futures Fall; Trump Says 'Not Too Late' For U.S. To Take Nvidia Stake\""
     },
     {
       "ticker": "NVDA",
@@ -363,7 +363,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dow Jones Futures Fall After AI Stocks Tumble; Trump Says 'Not Too Late' For Nvidia Stake\""
+      "move_reason": "News: \"Dow Jones Futures Fall; Trump Says 'Not Too Late' For U.S. To Take Nvidia Stake\""
     },
     {
       "ticker": "APA",

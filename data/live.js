@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-11-25T03:11:42.446625+00:00",
+  "generated_at": "2026-11-25T04:43:39.139040+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": -3.56,
       "price": 587.3,
       "is_watchlist": true,
-      "timestamp": "2026-11-25T03:11:42.444094+00:00",
+      "timestamp": "2026-11-25T04:43:38.968715+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": -7.94,
       "price": 151.95,
       "is_watchlist": true,
-      "timestamp": "2026-11-25T03:11:42.444091+00:00",
+      "timestamp": "2026-11-25T04:43:38.968712+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -45,7 +45,7 @@ window.theBriefLive = {
       "change_pct": -12.17,
       "price": 85.9,
       "is_watchlist": true,
-      "timestamp": "2026-11-25T03:11:42.444088+00:00",
+      "timestamp": "2026-11-25T04:43:38.968710+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -57,7 +57,7 @@ window.theBriefLive = {
       "change_pct": -5.04,
       "price": 718.58,
       "is_watchlist": true,
-      "timestamp": "2026-11-25T03:11:42.444079+00:00",
+      "timestamp": "2026-11-25T04:43:38.968702+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -69,7 +69,7 @@ window.theBriefLive = {
       "change_pct": 3.57,
       "price": 138.97,
       "is_watchlist": true,
-      "timestamp": "2026-11-25T03:11:42.444076+00:00",
+      "timestamp": "2026-11-25T04:43:38.968700+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -81,7 +81,7 @@ window.theBriefLive = {
       "change_pct": -13.53,
       "price": 41.79,
       "is_watchlist": true,
-      "timestamp": "2026-11-25T03:11:42.444073+00:00",
+      "timestamp": "2026-11-25T04:43:38.968697+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -93,7 +93,7 @@ window.theBriefLive = {
       "change_pct": -9.95,
       "price": 408.35,
       "is_watchlist": true,
-      "timestamp": "2026-11-25T03:11:42.444064+00:00",
+      "timestamp": "2026-11-25T04:43:38.968689+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -101,69 +101,258 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Lee Enterprises director David Hoffmann buys $149,627 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/lee-enterprises-director-david-hoffmann-buys-149627-in-stock-93CH-5049601",
+      "headline": "BlackRock, IFM may cut offer for Stack's Asia-Pacific data centers - report",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4676429-blackrock-ifm-may-cut-offer-for-stacks-asia-pacific-data-centers---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-11-25T03:01:03+00:00",
+      "timestamp": "2026-11-25T04:40:05+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Fold Holdings CEO sells $4,018 in stock to cover taxes",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/fold-holdings-ceo-sells-4018-in-stock-to-cover-taxes-93CH-5049600",
+      "headline": "Burry says Nvidia's 'short thesis' still valid; adds to JD.com, Tencent, BYD",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4676427-burry-says-nvidias-short-thesis-still-valid-adds-to-jdcom-tencent-byd?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-11-25T03:00:52+00:00",
+      "timestamp": "2026-11-25T04:37:07+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Gold holds near 15-mth lows on Fed hike bets; PCE inflation awaited",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/gold-holds-near-15mth-lows-on-fed-hike-bets-pce-inflation-awaited-5049591",
+      "headline": "Urban Outfitters expects Q4 sales growth in the mid-single-digit range as promotions rise at Anthropologie",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4676430-urban-outfitters-expects-q4-sales-growth-in-the-mid-single-digit-range-as-promotions-rise-at?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-11-25T02:58:14+00:00",
-      "relevance_score": 3.0,
+      "timestamp": "2026-11-25T04:32:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Oil extends losses as Brent falls below $91, WTI slides over 1.5%",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/commodities-news/oil-mixed-as-hormuz-attacks-mount-supply-surplus-and-weak-fuel-margins-weigh-5049487",
+      "is_watchlist": false,
+      "timestamp": "2026-11-25T04:22:34+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "GoodRx signals $844M-$850M 2026 revenue outlook while expecting lower Pharma Direct unit economics in 2027",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4676426-goodrx-signals-844m-850m-2026-revenue-outlook-while-expecting-lower-pharma-direct-unit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-25T04:22:22+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": null,
+      "headline": "Trump says a pardon for Jensen Huang was \"always an option\": NY Post",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4676425-trump-says-a-pardon-for-jensen-huang-was-always-an-option-ny-post?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": true,
+      "timestamp": "2026-11-25T04:17:11+00:00",
+      "relevance_score": 5.5,
       "relevance_tier": "medium",
-      "relevance_label": "Macro"
+      "relevance_label": "Market Mover"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "EOS Falls 14% In Rout",
+      "headline": "BlackRock-led consortium mulls lowering Stack Infrastructure Asia offer- Bloomberg",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/cryptocurrency-news/eos-falls-14-in-rout-5049590",
+      "url": "https://www.investing.com/news/stock-market-news/blackrockled-consortium-mulls-lowering-stack-infrastructure-asia-offer-bloomberg-5049671",
       "is_watchlist": false,
-      "timestamp": "2026-11-25T02:55:03+00:00",
+      "timestamp": "2026-11-25T04:13:11+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Venezuela reveals $237.5 billion debt pile in key step towards restructuring",
+      "headline": "Malaysia Airlines\u2019 parent to buy 10 Boeing 787\u00a0Dreamliners, CEO says",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/economy-news/venezuela-unveils-longawaited-economic-framework-puts-debt-at-2375-billion-5048560",
+      "url": "https://www.investing.com/news/stock-market-news/malaysia-airlines-parent-to-buy-10-boeing-787dreamliners-ceo-says-5049604",
       "is_watchlist": false,
-      "timestamp": "2026-11-25T02:48:24+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-11-25T04:12:40+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Major shareholder buys $16,793 in Jewett Cameron Trading shares",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/major-shareholder-buys-16793-in-jewett-cameron-trading-shares-93CH-5049588",
+      "headline": "Workday outlines ~11% FY '28 subscription revenue growth while targeting at least 33% non-GAAP operating margin",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4676424-workday-outlines-11-percent-fy-28-subscription-revenue-growth-while-targeting-at-least-33?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "is_watchlist": false,
-      "timestamp": "2026-11-25T02:45:59+00:00",
+      "timestamp": "2026-11-25T04:12:18+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "\u2018Ready for any storm\u2019: UAE minister optimistic on economy as IMF lifts forecast",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
+      "is_watchlist": false,
+      "timestamp": "2026-11-25T04:06:01+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cytosorbents director Jiny Kim buys $7,495 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/cytosorbents-director-jiny-kim-buys-7495-in-company-stock-93CH-5049669",
+      "is_watchlist": false,
+      "timestamp": "2026-11-25T04:04:46+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Autodesk raises fiscal 2027 billings midpoint to $8.625B as it targets 41% non-GAAP operating margin in fiscal 2029",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4676423-autodesk-raises-fiscal-2027-billings-midpoint-to-8_625b-as-it-targets-41-percent-non-gaap?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-25T04:02:14+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cytosorbents director buys $7,495 in common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/cytosorbents-director-buys-7495-in-common-stock-93CH-5049662",
+      "is_watchlist": false,
+      "timestamp": "2026-11-25T04:01:04+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cytosorbents CEO buys $355,000 in common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/cytosorbents-ceo-buys-355000-in-common-stock-93CH-5049661",
+      "is_watchlist": false,
+      "timestamp": "2026-11-25T04:01:02+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cytosorbents director buys $50,000 in common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/cytosorbents-director-buys-50000-in-common-stock-93CH-5049659",
+      "is_watchlist": false,
+      "timestamp": "2026-11-25T04:00:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Cytosorbents president buys $14,996 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/cytosorbents-president-buys-14996-in-company-stock-93CH-5049660",
+      "is_watchlist": false,
+      "timestamp": "2026-11-25T04:00:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+      "is_watchlist": false,
+      "timestamp": "2026-11-25T03:52:03+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": "AMD",
+      "headline": "Dow Jones Futures Fall; Trump Says 'Not Too Late' For U.S. To Take Nvidia Stake",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1ed432eed0d0a435e2bfcc773ddda2e1ede300f164fd77d9ea6e8f59030b5920",
+      "is_watchlist": true,
+      "timestamp": "2026-11-25T03:46:29+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "mover_statement",
+      "movers": [
+        "Trump"
+      ],
+      "ticker": "NVDA",
+      "headline": "Dow Jones Futures Fall; Trump Says 'Not Too Late' For U.S. To Take Nvidia Stake",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1ed432eed0d0a435e2bfcc773ddda2e1ede300f164fd77d9ea6e8f59030b5920",
+      "is_watchlist": true,
+      "timestamp": "2026-11-25T03:46:29+00:00",
+      "relevance_score": 5.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Market Mover"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US attorney general dodges questions about Nvidia investigation",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-11-25T03:44:07+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "South Korea's chipmakers rally on Huang's return",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=29f50b168933c5784276e6b3098d2f930b6017040f6564bc58b3b7eee54d8163",
+      "is_watchlist": true,
+      "timestamp": "2026-11-25T03:21:23+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Dow, S&P 500, Nasdaq Futures Edge Lower Amid Tech Selloff Ahead Of Key Inflation Data: DELL, AMBA, SOXL, MSTR In Focus",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f89d006191aa158f929fd86695c45e45b09494784bb22e69a032a837cb20fa88",
+      "is_watchlist": true,
+      "timestamp": "2026-11-25T03:20:10+00:00",
+      "relevance_score": 3.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -173,6 +362,17 @@ window.theBriefLive = {
       "url": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
       "is_watchlist": false,
       "timestamp": "2026-11-25T02:43:33+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Yemen's Houthis threaten to target Jeddah and other Saudi Red Sea ports - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbmE5cEFGWGFLVzVEUlVvWlE5NzJaT2p0MTUxclgxejJ2ZHJPbTQ5d1BLNzh6R2tFb251aWQ4dHBUTDRtaTlETkVick9uV1hKVkdZSjNPbFk5M2NBd1oxQXptdzAtLS1zVzlidDBDVXBmWFAyVnRzMGRmZHNGZVk4T3Y1aV9ycGZFcWxGejZ0T29BbG9EUks5QjZ0bzFVRG05YlVQemt4UDdDSEY5cUZrYzNsSU9VMGVX?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-11-25T02:42:00+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -190,45 +390,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Consumer Portfolio Services officer sells $22,109 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/consumer-portfolio-services-officer-sells-22109-in-stock-93CH-5049575",
-      "is_watchlist": false,
-      "timestamp": "2026-11-25T02:30:53+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "GoodRx Holdings earnings beat by $0.02, revenue topped estimates",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/earnings/goodrx-holdings-earnings-beat-by-002-revenue-topped-estimates-5049565",
-      "is_watchlist": false,
-      "timestamp": "2026-11-25T02:29:27+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Trump open to pardoning Jensen Huang if needed: NY Post",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
       "is_watchlist": false,
       "timestamp": "2026-11-25T02:09:45+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Ambarella anticipates $70M-$75M Q4 revenue amid memory-driven order pushouts",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4676421-ambarella-anticipates-70m-75m-q4-revenue-amid-memory-driven-order-pushouts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-25T02:02:19+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -245,11 +412,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "SoftBank drops 14% as Wall Street AI sell-off ripples across Asian tech names",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+      "headline": "Oil prices fall as supply glut concerns offset Middle East disruption fears - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVGl4Nzdfc01ReTB5TnAxUkVLTXlaRVFvbGM5aTZDOEtVUXlrVDQtMHJwcWh2WldoMnVyb0QxU1pEQUoyN09sNU1SZXR3NVUzdTZXeWpkdGNTZW95MUtmdjV3dWFxTEZsRW5WUlF1djVTTWZxUGVxcHhPNEptMnBEcmZ0MURhX0JxTDFqc19HblpWd2hLSEs5SXRYTXB6bzFwNzZqOUFTc1ZOM3ItVDFZWmM2a0R5YkxsdnlsMTZWQ1ZEUQ?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-11-25T01:57:29+00:00",
+      "timestamp": "2026-11-25T01:58:00+00:00",
       "relevance_score": 1.0,
       "relevance_tier": "low"
     },
@@ -269,56 +436,6 @@ window.theBriefLive = {
       "relevance_label": "Market Mover"
     },
     {
-      "type": "mover_statement",
-      "movers": [
-        "Trump"
-      ],
-      "ticker": "NVDA",
-      "headline": "Dow Jones Futures Fall After AI Stocks Tumble; Trump Says 'Not Too Late' For Nvidia Stake",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=7c631a0af4fb5c60045497a9b53256b831697c66e5db07fc429ed119b5bed9cf",
-      "is_watchlist": true,
-      "timestamp": "2026-11-25T01:49:35+00:00",
-      "relevance_score": 5.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Market Mover"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Wall St futures fall after S&P 500, Nasdaq end lower; inflation data eyed",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=a25c0b17d4b4ac5bb45371a7b191bebaaa2253d9fa3da256347e60d46b27e519",
-      "is_watchlist": true,
-      "timestamp": "2026-11-25T01:42:27+00:00",
-      "relevance_score": 3.5,
-      "relevance_tier": "medium",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Why Nvidia's rebound may not mean the S&P 500 has bottomed",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=fc89dbbad873c20e4a6d278e42940c4713e12b973c1e5aaa97dd11605f208b86",
-      "is_watchlist": true,
-      "timestamp": "2026-11-25T01:23:10+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Cleanspark outlines Sandersville first data hall delivery in 4Q 2027 while progressing $2.3B nonrecourse funding",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4676420-cleanspark-outlines-sandersville-first-data-hall-delivery-in-4q-2027-while-progressing-2_3b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-25T01:22:20+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
       "type": "news",
       "ticker": null,
       "headline": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -327,17 +444,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-11-25T01:13:56+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Dell projects Q4 FY2027 revenue $56.25B and non-GAAP EPS $8.40 as AI server revenue targets ~$23.5B",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4676419-dell-projects-q4-fy2027-revenue-56_25b-and-non-gaap-eps-8_40-as-ai-server-revenue-targets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-25T01:12:22+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -354,7 +460,7 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
+      "headline": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
@@ -364,19 +470,20 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Nutanix outlines FY 2027 operating margin of 24.5% to 25.5% while beginning CEO succession process",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4676418-nutanix-outlines-fy-2027-operating-margin-of-24_5-percent-to-25_5-percent-while-beginning-ceo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-25T01:02:12+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
+      "ticker": "AMD",
+      "headline": "Jim Cramer and Tom Lee are Buying More AI Stocks. Are They Right?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3c9e97e81d1a26f2bf2d3136d66d5734257f23e65a83bf52fb64a2338ca939c2",
+      "is_watchlist": true,
+      "timestamp": "2026-11-25T00:53:43+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "US preparing to unveil new tariffs on global trading partners",
+      "headline": "US preparing to unveil plan for new tariffs on global trading partners",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
       "is_watchlist": false,
@@ -476,30 +583,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "Why AMD Stock Fell Today",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=563ba09a165cddabe1c66dee36d36fa9c3a28899b4c8d1e960523a8746b4d84f",
-      "is_watchlist": true,
-      "timestamp": "2026-11-24T23:25:02+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "A scandal like the one haunting Nvidia just reached AMD, its biggest rival",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=28c6a2ec020addae22aa5cb3cb773131310ec6a99576c08cbaa436b9b7921f3f",
-      "is_watchlist": true,
-      "timestamp": "2026-11-24T23:17:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
       "ticker": null,
       "headline": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
       "source": "CNBC Top",
@@ -523,33 +606,11 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Vornado Realty Trust to sell 49% stake in 90 Park Avenue for $722.5M",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4676417-vornado-realty-trust-to-sell-49-stake-in-90-park-avenue-for-7225m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-24T23:04:02+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Kalshi daily volume of \u2018perps\u2019 trading begins to top its prediction markets",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
       "is_watchlist": false,
       "timestamp": "2026-11-24T23:03:24+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Here are the major earnings before the open Wednesday",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4676162-here-are-the-major-earnings-before-the-open-wednesday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-24T23:00:03+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
@@ -573,17 +634,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-11-24T22:48:13+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Centuri Holdings to join S&P SmallCap 600, replacing DoubleVerify",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4676416-centuri-holdings-to-join-s-and-p-smallcap-600-replacing-doubleverify?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-24T22:44:40+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -723,17 +773,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "US attorney general dodges questions about Nvidia investigation",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "is_watchlist": false,
-      "timestamp": "2026-11-24T21:19:42+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "OXY",
       "headline": "What Would It Take For Lower Oil Prices To Break Occidental Stock?",
       "source": "Yahoo",
@@ -823,28 +862,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-11-24T20:42:15+00:00",
       "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Shein to pay $100 million to settle US shipping, customer service claims - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcWhsZ000UTV1SjF3ak9ONXpxUy1JWUFjM2wtMWZTQ3dqOVhZNDBKRHFQVkFlYjZaVWRjWXFoSUY3Ry1JN1ozRk9TQTQ3R2ZFV2ZVQUx6MjF5endGeUptTU5OakRMNlVjb01qWi0ySHItb1dEUFJDc3kxNTJ0akJfbXBlSVZMdkdwb2p1b3BHWnh3aW5scllxRVg2M3BFSHc?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-11-24T20:40:00+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html",
-      "is_watchlist": false,
-      "timestamp": "2026-11-24T20:37:40+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -1200,18 +1217,6 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "China has changed tactics but is still thwarting India's rise, a U.S. panel says",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/11/24/us-china-thwarting-india-growth.html",
-      "is_watchlist": false,
-      "timestamp": "2026-11-24T04:27:38+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
     },
     {
       "type": "news",
