@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-11-25T04:43:38+00:00",
+  "generated_at": "2026-11-25T12:58:06+00:00",
   "by_date": {
     "2026-12-03": [
       {
@@ -445,7 +445,7 @@ window.theBriefEarnings = {
       {
         "ticker": "IMKTA",
         "date": "2026-11-25",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
         "is_watchlist": false
