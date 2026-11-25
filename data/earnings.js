@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-11-25T12:58:06+00:00",
+  "generated_at": "2026-11-25T20:52:21+00:00",
   "by_date": {
     "2026-12-03": [
       {
@@ -169,6 +169,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "IDT",
+        "date": "2026-12-03",
+        "hour": "",
+        "eps_estimate": 1.0403,
+        "revenue_estimate": 334310000,
+        "is_watchlist": false
+      },
+      {
         "ticker": "IOT",
         "date": "2026-12-03",
         "hour": "",
@@ -190,14 +198,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 1.1929,
         "revenue_estimate": 35595480374,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "LAKE",
-        "date": "2026-12-03",
-        "hour": "",
-        "eps_estimate": -0.0153,
-        "revenue_estimate": 51037485,
         "is_watchlist": false
       },
       {
@@ -1021,6 +1021,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "AI",
+        "date": "2026-12-02",
+        "hour": "",
+        "eps_estimate": -0.2195,
+        "revenue_estimate": 54668280,
+        "is_watchlist": false
+      },
+      {
         "ticker": "AOUT",
         "date": "2026-12-02",
         "hour": "",
@@ -1090,14 +1098,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 1.1983,
         "revenue_estimate": 1262472768,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "GIII",
-        "date": "2026-12-02",
-        "hour": "",
-        "eps_estimate": 1.443,
-        "revenue_estimate": 886314720,
         "is_watchlist": false
       },
       {
@@ -1513,14 +1513,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "IDT",
-        "date": "2026-12-07",
-        "hour": "",
-        "eps_estimate": 1.0403,
-        "revenue_estimate": 334310000,
-        "is_watchlist": false
-      },
-      {
         "ticker": "LICT",
         "date": "2026-12-07",
         "hour": "",
@@ -1691,6 +1683,22 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "GIII",
+        "date": "2026-12-08",
+        "hour": "",
+        "eps_estimate": 1.443,
+        "revenue_estimate": 886314720,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "GLOO",
+        "date": "2026-12-08",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
         "ticker": "JILL",
         "date": "2026-12-08",
         "hour": "",
@@ -1704,6 +1712,22 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "MAMA",
+        "date": "2026-12-08",
+        "hour": "",
+        "eps_estimate": 0.0555,
+        "revenue_estimate": 57044183,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "NAVN",
+        "date": "2026-12-08",
+        "hour": "",
+        "eps_estimate": 0.1186,
+        "revenue_estimate": 259395812,
         "is_watchlist": false
       },
       {
@@ -1794,14 +1818,6 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": 6.4551,
         "revenue_estimate": 6965492239,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "AI",
-        "date": "2026-12-09",
-        "hour": "",
-        "eps_estimate": -0.2195,
-        "revenue_estimate": 54668280,
         "is_watchlist": false
       },
       {
@@ -1906,14 +1922,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "MITK",
-        "date": "2026-12-09",
-        "hour": "amc",
-        "eps_estimate": 0.1714,
-        "revenue_estimate": 45602772,
         "is_watchlist": false
       },
       {
