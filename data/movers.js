@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-26T04:16:19.598374+00:00",
+  "generated_at": "2026-11-26T14:12:42.265070+00:00",
   "gainers": [
     {
       "ticker": "TPL",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Texas Pacific Land: Attractive Long-Term Buy After The Pullback\""
+      "move_reason": "News: \"Texas Pacific Land Corporation (TPL) M&A Call Presentation - SlideShow\""
     },
     {
       "ticker": "OSCR",
@@ -50,6 +50,30 @@ window.theBriefMovers = {
       "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
     },
     {
+      "ticker": "VUAG.L",
+      "name": "VUAG.L",
+      "price": 106.84,
+      "change_pct": 3.03,
+      "volume_ratio": 0.37,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": "No clear catalyst \u2014 possibly flow or technical move."
+    },
+    {
+      "ticker": "VWRP.L",
+      "name": "VWRP.L",
+      "price": 136.8,
+      "change_pct": 2.87,
+      "volume_ratio": 0.39,
+      "is_watchlist": false,
+      "is_index": false,
+      "is_sector": false,
+      "market_state": null,
+      "move_reason": ""
+    },
+    {
       "ticker": "PLTR",
       "name": "PLTR",
       "price": 165.7,
@@ -71,7 +95,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Applied Digital Dropped 14% in a Week Despite a $5.4 Billion Lease. Lucid Still Sees 227% ...\""
+      "move_reason": "News: \"Evercore Cut Its CoreWeave Target to $80 From $100. It Still Sees 88% Upside\""
     },
     {
       "ticker": "XLB",
@@ -94,7 +118,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Well-Constructed Public Markets Portfolios For Family Offices\""
+      "move_reason": "News: \"Thanksgiving Talks: How To Answer 7 Dinner-Table Questions\""
     },
     {
       "ticker": "APA",
@@ -118,7 +142,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jensen Huang's return, neocloud risk, and a holiday retail rally\""
+      "move_reason": "News: \"Evercore Cut Its CoreWeave Target to $80 From $100. It Still Sees 88% Upside\""
     },
     {
       "ticker": "OXY",
@@ -142,7 +166,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Snap Sinks 11% in a Week in a \u201cReal Exodus Out of Tech Stocks.\u201d S&P Just Raised Its Credit...\""
+      "move_reason": "News: \"The Trade Desk Stock Is Headed for Its First Back-to-Back Losing Years. Its Only Other Ful...\""
     },
     {
       "ticker": "XLRE",
@@ -150,28 +174,6 @@ window.theBriefMovers = {
       "price": 43.86,
       "change_pct": 0.92,
       "volume_ratio": 0.93,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services Select",
-      "price": 105.38,
-      "change_pct": 0.89,
-      "volume_ratio": 0.67,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": true,
-      "move_reason": ""
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrial Select Sector",
-      "price": 162.95,
-      "change_pct": 0.83,
-      "volume_ratio": 1.16,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true,
@@ -201,31 +203,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Broadcom Stock Hasn't Traded This Low Since July 2025. I Think It's a Buy.\""
-    },
-    {
-      "ticker": "VUAG.L",
-      "name": "VUAG.L",
-      "price": 103.7,
-      "change_pct": -1.93,
-      "volume_ratio": 0.79,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
-    },
-    {
-      "ticker": "VWRP.L",
-      "name": "VWRP.L",
-      "price": 132.98,
-      "change_pct": -1.85,
-      "volume_ratio": 0.66,
-      "is_watchlist": false,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": ""
+      "move_reason": "News: \"Nvidia Makes A Record $115.8 Billion In Revenue. Now S&P Warns Its Credit Rating Could Be ...\""
     },
     {
       "ticker": "XLK",
@@ -306,7 +284,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Why Retail Investors Are Watching AMD and AI Infrastructure Stocks After SpaceX Satellite ...\""
+      "move_reason": "News: \"NVIDIA's Data Center Sales Jump 110%: Can NVDA Keep the Pace Ahead?\""
     },
     {
       "ticker": "APA",
@@ -330,7 +308,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Applied Digital Dropped 14% in a Week Despite a $5.4 Billion Lease. Lucid Still Sees 227% ...\""
+      "move_reason": "News: \"Evercore Cut Its CoreWeave Target to $80 From $100. It Still Sees 88% Upside\""
     },
     {
       "ticker": "DG",
@@ -354,7 +332,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Looking for Bargains? These S&P 500 Companies Are Aggressively Buying Back Stock.\""
+      "move_reason": "News: \"Energy Transition Update - Green Rain Energy Expands With Innovative EV Charging Deal\""
     },
     {
       "ticker": "IWM",
@@ -366,7 +344,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Well-Constructed Public Markets Portfolios For Family Offices\""
+      "move_reason": "News: \"Thanksgiving Talks: How To Answer 7 Dinner-Table Questions\""
     },
     {
       "ticker": "NBIS",
@@ -378,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jensen Huang's return, neocloud risk, and a holiday retail rally\""
+      "move_reason": "News: \"Evercore Cut Its CoreWeave Target to $80 From $100. It Still Sees 88% Upside\""
     },
     {
       "ticker": "NVDA",
@@ -390,7 +368,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Broadcom Stock Hasn't Traded This Low Since July 2025. I Think It's a Buy.\""
+      "move_reason": "News: \"Nvidia Makes A Record $115.8 Billion In Revenue. Now S&P Warns Its Credit Rating Could Be ...\""
     },
     {
       "ticker": "OSCR",
@@ -438,7 +416,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Texas Pacific Land: Attractive Long-Term Buy After The Pullback\""
+      "move_reason": "News: \"Texas Pacific Land Corporation (TPL) M&A Call Presentation - SlideShow\""
     },
     {
       "ticker": "TTD",
@@ -450,7 +428,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Snap Sinks 11% in a Week in a \u201cReal Exodus Out of Tech Stocks.\u201d S&P Just Raised Its Credit...\""
+      "move_reason": "News: \"The Trade Desk Stock Is Headed for Its First Back-to-Back Losing Years. Its Only Other Ful...\""
     },
     {
       "ticker": "XLE",
