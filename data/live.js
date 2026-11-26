@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-11-26T03:52:09.954321+00:00",
+  "generated_at": "2026-11-26T04:16:19.603320+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -21,7 +21,7 @@ window.theBriefLive = {
       "change_pct": 5.6,
       "price": 265.48,
       "is_watchlist": true,
-      "timestamp": "2026-11-26T03:52:09.823900+00:00",
+      "timestamp": "2026-11-26T04:16:19.600801+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -33,7 +33,7 @@ window.theBriefLive = {
       "change_pct": -4.1,
       "price": 565.47,
       "is_watchlist": true,
-      "timestamp": "2026-11-26T03:52:09.823896+00:00",
+      "timestamp": "2026-11-26T04:16:19.600797+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -45,7 +45,7 @@ window.theBriefLive = {
       "change_pct": 5.14,
       "price": 27.4,
       "is_watchlist": true,
-      "timestamp": "2026-11-26T03:52:09.823887+00:00",
+      "timestamp": "2026-11-26T04:16:19.600787+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -53,12 +53,92 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
+      "headline": "How Trump\u2019s latest tariff moves hand India an edge over rival Asian exporters",
       "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
+      "url": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
       "is_watchlist": false,
-      "timestamp": "2026-11-26T03:32:53+00:00",
-      "relevance_score": 2.5,
+      "timestamp": "2026-11-26T04:12:18+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "US announces new tariffs on host of countries including China",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "is_watchlist": false,
+      "timestamp": "2026-11-26T04:10:58+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "PCB Bancorp director sells $581,556 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/pcb-bancorp-director-sells-581556-in-company-stock-93CH-5051995",
+      "is_watchlist": false,
+      "timestamp": "2026-11-26T04:00:56+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Judge blocks FCC early-renewal process for Disney-owned ABC stations, for now",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/11/26/fcc-disney-abc-stations-judge-block.html",
+      "is_watchlist": false,
+      "timestamp": "2026-11-26T04:00:15+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BOJ\u2019s Tamura flags faster pace of rate hikes amid inflation risk",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/bojs-tamura-flags-faster-pace-of-rate-hikes-amid-inflation-risk-5051988",
+      "is_watchlist": false,
+      "timestamp": "2026-11-26T03:55:28+00:00",
+      "relevance_score": 3.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Advanced Flower Capital president buys $6,880 in stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/advanced-flower-capital-president-buys-6880-in-stock-93CH-5051980",
+      "is_watchlist": false,
+      "timestamp": "2026-11-26T03:45:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Powerus CEO buys $6,200 in company shares",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/powerus-ceo-buys-6200-in-company-shares-93CH-5051981",
+      "is_watchlist": false,
+      "timestamp": "2026-11-26T03:45:59+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Enersys CFO buys $25,000 in company stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/enersys-cfo-buys-25000-in-company-stock-93CH-5051979",
+      "is_watchlist": false,
+      "timestamp": "2026-11-26T03:45:43+00:00",
+      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -97,68 +177,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Gold eases as U.S. inflation data reinforces Fed rate-hike bets",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/gold-eases-as-us-inflation-data-reinforces-fed-ratehike-bets-5051964",
-      "is_watchlist": false,
-      "timestamp": "2026-11-26T03:20:43+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
       "source": "CNBC Top",
       "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
       "is_watchlist": false,
       "timestamp": "2026-11-26T03:19:44+00:00",
       "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Stocks rally in Asia, unrocked by US tariffs",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871",
-      "is_watchlist": false,
-      "timestamp": "2026-11-26T03:18:18+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "IKE GPS H1 FY27 slides: subscriptions surge 22%, margins hit 81%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/company-news/ike-gps-h1-fy27-slides-subscriptions-surge-22-margins-hit-81-93CH-5051959",
-      "is_watchlist": false,
-      "timestamp": "2026-11-26T03:18:17+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Energizer CEO Mark Stephen LaVigne sells $2.23M in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/energizer-ceo-mark-stephen-lavigne-sells-223m-in-stock-93CH-5051958",
-      "is_watchlist": false,
-      "timestamp": "2026-11-26T03:16:14+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Tenable co-CEO Mark Thurmond sells $149,287 in stock",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/insider-trading-news/tenable-coceo-mark-thurmond-sells-149287-in-stock-93CH-5051957",
-      "is_watchlist": false,
-      "timestamp": "2026-11-26T03:15:57+00:00",
-      "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
@@ -175,14 +199,13 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "US announces new tariffs on host of countries including China",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "headline": "Oil rises on supply concerns as Iran claims mine strikes on ships - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWHpfX3p2RFoxU2l0SGZVbVdSejdGYkc0NFpERWlxVEtab0pQbGd1NUtqQ3c0cXprdWItUF9fRmVVVElET3BNbklnbElwaC1UZ0xoNnd4dE9Wb2dFVDFGN2JyQ3YyUVhfTWxsNGFWNFNURG5kX1pMdVBtb2QyLXFMaXZPM0ZPdGdud1hWdHFuTEpNQXBtdUh6RmpWcW1jelhTU0JHdmp3dWphb0hB?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-11-26T03:01:40+00:00",
-      "relevance_score": 3.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
+      "timestamp": "2026-11-26T03:08:00+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -219,6 +242,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "DG",
+      "headline": "Dollar General (DG) Is Being Sued By 20 States Over Alleged Deceptive Pricing",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a9fbf05ce2ab1becabe76a433398355aaeda1d8258e7c4d32a408e0d010daa96",
+      "is_watchlist": true,
+      "timestamp": "2026-11-26T02:14:16+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "UK government set to publish new treaties agreed with EU",
       "source": "BBC Business",
@@ -227,6 +262,18 @@ window.theBriefLive = {
       "timestamp": "2026-11-26T02:13:00+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Why Retail Investors Are Watching AMD and AI Infrastructure Stocks After SpaceX Satellite News",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=442e0173216e5623398d76d234b8bed3cc7fb6ba4864c58911444a33195f4caa",
+      "is_watchlist": true,
+      "timestamp": "2026-11-26T02:12:15+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -252,6 +299,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "AMD",
+      "headline": "Tech Stocks Stall Into Thanksgiving: Will the AI Rebound Return?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=54c50d0471e997b4d24efa6cd24ae1b2088021a2e9369cb86e935c81429a6257",
+      "is_watchlist": true,
+      "timestamp": "2026-11-26T01:19:53+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "We are living in perilous times if Nvidia\u2019s Jensen Huang dictates your 401(k) balance",
       "source": "MarketWatch",
@@ -259,17 +318,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-11-26T01:15:00+00:00",
       "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Hedge funds are no longer just for the rich. They\u2019re coming for everyday investors",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html",
-      "is_watchlist": false,
-      "timestamp": "2026-11-26T01:10:58+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -382,27 +430,15 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": "AMD",
-      "headline": "Anthropic Earns \u201c$80 a Year per Watt\u201d of GPUs, Says Modal\u2019s CEO. That\u2019s Good News for SpaceX",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=64b8d64c94f3fca5cb72c32c7de1853e4b80668baebbc263bf701369ca71ac3c",
-      "is_watchlist": true,
-      "timestamp": "2026-11-25T23:41:46+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Altimeter\u2019s Brad Gerstner Says Nvidia Was Priced for \u201cNegative Growth for 2028 and 2029.\u201d Wall Street Expects 29%",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=d770f4fdc86e5b30c9d3d6a4d9cf85135d8e263481f11187b0825a7388865971",
-      "is_watchlist": true,
-      "timestamp": "2026-11-25T23:39:02+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
+      "ticker": null,
+      "headline": "New Trump tariffs would likely increase sugar prices in the US - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOUJSZDlKMEI2OHVpZjlzVFhrbXlSVFpZRHFCMWFSSVVHRmZhcG9WVHlObTdFVGhUdjROUmRCYWYyRmFMQjNaMTlsOEktdVcyYlR6YjlMQUtiTXhPRm8wSTVRWGNLbllNVTVxR3VocFcxa1ZEQlZyeEpOTXk2ZUdENjczRl9zYnA4ODJQaEM4eHo4ZnNZdWZGOGdneVZ0ZjFDMGc?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-11-25T23:41:00+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
     },
     {
       "type": "news",
@@ -540,6 +576,18 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": "IWM",
+      "headline": "Well-Constructed Public Markets Portfolios For Family Offices",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2d3a20221a18b01e427013c8543ffe00e574e6abfe74e6148e14f7e9e0590f8c",
+      "is_watchlist": true,
+      "timestamp": "2026-11-25T22:45:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
       "ticker": null,
       "headline": "I hate that Jensen Huang is back at Nvidia, but I love what it\u2019s done for my 401(k). Am I a hypocrite?",
       "source": "MarketWatch",
@@ -643,6 +691,17 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
+      "headline": "How the Trump administration determined Jensen Huang is not a national security threat - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ0IzSk1IWkpMeGFmZWlDR2RseE11U3ZSbXlIOGdQalJyOS1rakJjUUxYZDYwd2ZYZERTQTdNNTQzR1dVMmRwVU1KNmhxc2ZtOXhwczJJckVxT0dUSHJnZEJpUnp0MXVVX1VqSElzQkJLc25neHJEZEYzZ0R5LXdnb01hNGZaTFFrbEc3c1haRVZpUUFldnRZY3NqVmlSRGVNVEloQ1Q2Q29VQzlRSWxtSUdnVHNIUGVwZ2VuekdHS1I1UQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-11-25T21:55:12+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
       "headline": "US stocks fall further as fears over AI intensify",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
@@ -650,18 +709,6 @@ window.theBriefLive = {
       "timestamp": "2026-11-25T21:43:18+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "IWM",
-      "headline": "GDP Per Capita: Q3 2026 Second Estimate",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=1f4933c335c820a70df5faa8ad41328a8e128a8ba167e36418e85bfc3c53c9cb",
-      "is_watchlist": true,
-      "timestamp": "2026-11-25T21:40:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -694,6 +741,17 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-11-25T21:26:36+00:00",
       "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Macy's Thanksgiving Day Parade postponed due to weather for first time in 100 years - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObWhPYmVCWGllQUlkVVlDc2xCb1puNVJmRzRxb0M0TkxUXzJhUF96ZW9HalhkbHdCODVNcW40ZXZrTEhWR0ZpUHZZU1JmZ29TbXdZR2ZLMlNnMzJ2eUhaUXp4VkJOV2RvVnNweTdWbkFuUWptYmRCblc5aXBtOXlQSy1TSHpHQjRrUUpuYXIweEZtbldKSTltWG9US2p3eGZ6UTlBSjE5YW1qdGNsdVI3Y0wxeURLdF9IS1d3c3NuNVpxdTJfQmN5UmpjZ1ZZbFlW?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-11-25T21:13:00+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -758,12 +816,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Vance says he was assured Jensen Huang was not under DOJ investigation",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
+      "headline": "Volatility-weary investors side swiped as tariff mayhem adds to tech pain - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZGd2TDZySmQ2VXE4QUhfUG1OOGU3S3l4eWVDMGFKLWNVRlp1dE1zYnNmOUNYTGpQeGZtS3RrWC11R0x0aEo2YnBsU2Y1NTEwT2V2eF9fQmhfLXc1ekFmajRGUWg0NVZheFBtUy15RWd6NkpsZzFSZTY1M1FIYjI5b2htVWVYemdvRDQyTUFQbw?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-11-25T20:28:42+00:00",
-      "relevance_score": 1.5,
+      "timestamp": "2026-11-25T20:50:19+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
     },
     {
@@ -780,39 +838,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
-      "is_watchlist": false,
-      "timestamp": "2026-11-25T20:07:57+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "We're buying more of a stock down big from its July highs",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/11/25/were-buying-more-of-a-stock-down-big-from-its-july-highs.html",
-      "is_watchlist": false,
-      "timestamp": "2026-11-25T19:55:18+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Pakistan's PIA to shift UK flights to own fleet after Norse Atlantic suspension - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTkFGakJWZVBjNkpWNGJSajBSZFVudDhWdVhpYU4xWjROeWRjZ05JMHpDa0oxekJDeUUxQTVIVHc3cUZYQktSbmV1bVFZT2VsR0tJVW1NWk9maVVmU0RrY1J0U050cU14S2s5MEZLS28xM3lIVDEzcThxbmlGWXBvOGxaZkNEbEZJdGN5aFRxSndmU0RhSGVyN0tsaS1SWkl1WFJ2ajZZcWJnMEJSS2NZd3A0QUp4MFdPRk1jWlg2SWdhaEFqdlpLZlRTT1JLcVla?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-11-25T19:32:39+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "GEV",
       "headline": "Why Do Analysts Keep Chopping GE Vernova Stock?",
       "source": "Yahoo",
@@ -822,17 +847,6 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html",
-      "is_watchlist": false,
-      "timestamp": "2026-11-25T19:12:45+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -961,18 +975,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=c018b13d720d9da22680c2b030127b0199d5595f552b0acfb9b4a589d0e61c1e",
       "is_watchlist": true,
       "timestamp": "2026-11-25T15:46:00+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "DG",
-      "headline": "How Should Investors Play Target Stock After Its Q3 Earnings Beat?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=82406ddfd004cec2462b870f268e8f3e20e0d7bee2c63e1f917eed5169c125fe",
-      "is_watchlist": true,
-      "timestamp": "2026-11-25T15:12:00+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"

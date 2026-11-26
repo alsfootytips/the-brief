@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-26T03:52:09.820916+00:00",
+  "generated_at": "2026-11-26T04:16:19.598374+00:00",
   "gainers": [
     {
       "ticker": "TPL",
@@ -94,7 +94,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Thanksgiving Table Talk: AI Vs. Consumption\""
+      "move_reason": "News: \"Well-Constructed Public Markets Portfolios For Family Offices\""
     },
     {
       "ticker": "APA",
@@ -306,7 +306,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Big AI Buyers Want a Second Source. Is AMD (AMD) It?\""
+      "move_reason": "News: \"Why Retail Investors Are Watching AMD and AI Infrastructure Stocks After SpaceX Satellite ...\""
     },
     {
       "ticker": "APA",
@@ -342,7 +342,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Zacks.com featured highlights include Dollar General, Powell Industries and Reinsurance Gr...\""
+      "move_reason": "News: \"Dollar General (DG) Is Being Sued By 20 States Over Alleged Deceptive Pricing\""
     },
     {
       "ticker": "GEV",
@@ -366,7 +366,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Thanksgiving Table Talk: AI Vs. Consumption\""
+      "move_reason": "News: \"Well-Constructed Public Markets Portfolios For Family Offices\""
     },
     {
       "ticker": "NBIS",
