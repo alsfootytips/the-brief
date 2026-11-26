@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-26T20:43:52.421100+00:00",
+  "generated_at": "2026-11-26T23:00:43.439822+00:00",
   "gainers": [
     {
       "ticker": "TPL",
@@ -95,7 +95,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Alphabet Stocks Slip 2.13% as Credit Swaps Hit Record Amid $9.1 Billion Cash Burn\""
+      "move_reason": "News: \"3 AI Infrastructure Stocks Retail Investors Are Watching As Compute Spending Shifts\""
     },
     {
       "ticker": "XLB",
@@ -142,7 +142,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This AI Investing Prodigy Lost 65% in a Single Quarter and Is Still Up 88.5% in 2026. Here...\""
+      "move_reason": "News: \"Nebius (NBIS) Stock Could Be Undervalued As AI Sector Optimism Returns\""
     },
     {
       "ticker": "OXY",
@@ -203,7 +203,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Anthropic Stock Is Now Trading as ANT. Should You Buy Today or Wait?\""
+      "move_reason": "News: \"The Nasdaq Composite Is in a Correction, but These 3 Dividend Stocks Are Near 52-Week High...\""
     },
     {
       "ticker": "XLK",
@@ -308,7 +308,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Alphabet Stocks Slip 2.13% as Credit Swaps Hit Record Amid $9.1 Billion Cash Burn\""
+      "move_reason": "News: \"3 AI Infrastructure Stocks Retail Investors Are Watching As Compute Spending Shifts\""
     },
     {
       "ticker": "DG",
@@ -356,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"This AI Investing Prodigy Lost 65% in a Single Quarter and Is Still Up 88.5% in 2026. Here...\""
+      "move_reason": "News: \"Nebius (NBIS) Stock Could Be Undervalued As AI Sector Optimism Returns\""
     },
     {
       "ticker": "NVDA",
@@ -368,7 +368,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Anthropic Stock Is Now Trading as ANT. Should You Buy Today or Wait?\""
+      "move_reason": "News: \"The Nasdaq Composite Is in a Correction, but These 3 Dividend Stocks Are Near 52-Week High...\""
     },
     {
       "ticker": "OSCR",

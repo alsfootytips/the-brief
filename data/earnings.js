@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-11-26T20:43:52+00:00",
+  "generated_at": "2026-11-26T23:00:43+00:00",
   "by_date": {
     "2026-12-03": [
       {
@@ -497,7 +497,7 @@ window.theBriefEarnings = {
       {
         "ticker": "CANG",
         "date": "2026-11-30",
-        "hour": "",
+        "hour": "amc",
         "eps_estimate": -0.1122,
         "revenue_estimate": 61049040,
         "is_watchlist": false
