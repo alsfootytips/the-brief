@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-26T14:12:42.265070+00:00",
+  "generated_at": "2026-11-26T20:43:52.421100+00:00",
   "gainers": [
     {
       "ticker": "TPL",
@@ -30,7 +30,7 @@ window.theBriefMovers = {
       "name": "META",
       "price": 612.39,
       "change_pct": 3.83,
-      "volume_ratio": 1.02,
+      "volume_ratio": 1.03,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -54,7 +54,7 @@ window.theBriefMovers = {
       "name": "VUAG.L",
       "price": 106.84,
       "change_pct": 3.03,
-      "volume_ratio": 0.37,
+      "volume_ratio": 0.46,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -66,7 +66,7 @@ window.theBriefMovers = {
       "name": "VWRP.L",
       "price": 136.8,
       "change_pct": 2.87,
-      "volume_ratio": 0.39,
+      "volume_ratio": 0.62,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -90,12 +90,12 @@ window.theBriefMovers = {
       "name": "CoreWeave",
       "price": 43.56,
       "change_pct": 2.24,
-      "volume_ratio": 1.04,
+      "volume_ratio": 1.05,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Evercore Cut Its CoreWeave Target to $80 From $100. It Still Sees 88% Upside\""
+      "move_reason": "News: \"Alphabet Stocks Slip 2.13% as Credit Swaps Hit Record Amid $9.1 Billion Cash Burn\""
     },
     {
       "ticker": "XLB",
@@ -118,7 +118,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Thanksgiving Talks: How To Answer 7 Dinner-Table Questions\""
+      "move_reason": "News: \"Trump Pulls The Strings, Fed Foots The Bill\""
     },
     {
       "ticker": "APA",
@@ -137,12 +137,12 @@ window.theBriefMovers = {
       "name": "Nebius Group",
       "price": 88.24,
       "change_pct": 1.08,
-      "volume_ratio": 0.96,
+      "volume_ratio": 0.97,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Evercore Cut Its CoreWeave Target to $80 From $100. It Still Sees 88% Upside\""
+      "move_reason": "News: \"This AI Investing Prodigy Lost 65% in a Single Quarter and Is Still Up 88.5% in 2026. Here...\""
     },
     {
       "ticker": "OXY",
@@ -154,7 +154,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How Warren Buffett Makes Billions from Dividends: Top 10 Stocks\""
+      "move_reason": "News: \"Are Oils-Energy Stocks Lagging  Occidental Petroleum (OXY) This Year?\""
     },
     {
       "ticker": "TTD",
@@ -198,12 +198,12 @@ window.theBriefMovers = {
       "name": "NVIDIA",
       "price": 151.22,
       "change_pct": -2.68,
-      "volume_ratio": 0.73,
+      "volume_ratio": 0.74,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Makes A Record $115.8 Billion In Revenue. Now S&P Warns Its Credit Rating Could Be ...\""
+      "move_reason": "News: \"Anthropic Stock Is Now Trading as ANT. Should You Buy Today or Wait?\""
     },
     {
       "ticker": "XLK",
@@ -255,7 +255,7 @@ window.theBriefMovers = {
       "name": "SPDR S&P 500 ETF",
       "price": 716.7,
       "change_pct": -0.29,
-      "volume_ratio": 0.8,
+      "volume_ratio": 0.81,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false,
@@ -279,12 +279,12 @@ window.theBriefMovers = {
       "name": "Advanced Micro Devices",
       "price": 413.81,
       "change_pct": 0.13,
-      "volume_ratio": 0.87,
+      "volume_ratio": 0.88,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"NVIDIA's Data Center Sales Jump 110%: Can NVDA Keep the Pace Ahead?\""
+      "move_reason": "News: \"5 Most Oversold Semiconductor Stocks to Buy for 2027\""
     },
     {
       "ticker": "APA",
@@ -303,12 +303,12 @@ window.theBriefMovers = {
       "name": "CoreWeave",
       "price": 43.56,
       "change_pct": 2.24,
-      "volume_ratio": 1.04,
+      "volume_ratio": 1.05,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Evercore Cut Its CoreWeave Target to $80 From $100. It Still Sees 88% Upside\""
+      "move_reason": "News: \"Alphabet Stocks Slip 2.13% as Credit Swaps Hit Record Amid $9.1 Billion Cash Burn\""
     },
     {
       "ticker": "DG",
@@ -320,7 +320,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dollar General (DG) Is Being Sued By 20 States Over Alleged Deceptive Pricing\""
+      "move_reason": "News: \"DG vs. ROST: Which Stock Is the Better Value Option?\""
     },
     {
       "ticker": "GEV",
@@ -344,31 +344,31 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Thanksgiving Talks: How To Answer 7 Dinner-Table Questions\""
+      "move_reason": "News: \"Trump Pulls The Strings, Fed Foots The Bill\""
     },
     {
       "ticker": "NBIS",
       "name": "Nebius Group",
       "price": 88.24,
       "change_pct": 1.08,
-      "volume_ratio": 0.96,
+      "volume_ratio": 0.97,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Evercore Cut Its CoreWeave Target to $80 From $100. It Still Sees 88% Upside\""
+      "move_reason": "News: \"This AI Investing Prodigy Lost 65% in a Single Quarter and Is Still Up 88.5% in 2026. Here...\""
     },
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
       "price": 151.22,
       "change_pct": -2.68,
-      "volume_ratio": 0.73,
+      "volume_ratio": 0.74,
       "is_watchlist": true,
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Makes A Record $115.8 Billion In Revenue. Now S&P Warns Its Credit Rating Could Be ...\""
+      "move_reason": "News: \"Anthropic Stock Is Now Trading as ANT. Should You Buy Today or Wait?\""
     },
     {
       "ticker": "OSCR",
@@ -392,7 +392,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"How Warren Buffett Makes Billions from Dividends: Top 10 Stocks\""
+      "move_reason": "News: \"Are Oils-Energy Stocks Lagging  Occidental Petroleum (OXY) This Year?\""
     },
     {
       "ticker": "PWR",
@@ -480,7 +480,7 @@ window.theBriefMovers = {
       "name": "SPDR S&P 500 ETF",
       "price": 716.7,
       "change_pct": -0.29,
-      "volume_ratio": 0.8,
+      "volume_ratio": 0.81,
       "is_watchlist": false,
       "is_index": true,
       "is_sector": false
@@ -563,7 +563,7 @@ window.theBriefMovers = {
       "name": "Consumer Staples Select",
       "price": 92.3,
       "change_pct": 0.46,
-      "volume_ratio": 0.87,
+      "volume_ratio": 0.88,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": true

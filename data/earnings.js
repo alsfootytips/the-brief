@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-11-26T14:12:42+00:00",
+  "generated_at": "2026-11-26T20:43:52+00:00",
   "by_date": {
     "2026-12-03": [
       {
@@ -126,14 +126,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 0.7576,
         "revenue_estimate": 383847358,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "HOFT",
-        "date": "2026-12-03",
-        "hour": "",
-        "eps_estimate": 0.306,
-        "revenue_estimate": 71181210,
         "is_watchlist": false
       },
       {
@@ -273,14 +265,6 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
-        "ticker": "PPIH",
-        "date": "2026-12-03",
-        "hour": "",
-        "eps_estimate": 0.5202,
-        "revenue_estimate": 65280000,
-        "is_watchlist": false
-      },
-      {
         "ticker": "REX",
         "date": "2026-12-03",
         "hour": "bmo",
@@ -366,14 +350,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": 0.0984,
         "revenue_estimate": 96004572,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "YEXT",
-        "date": "2026-12-03",
-        "hour": "",
-        "eps_estimate": 0.1938,
-        "revenue_estimate": 114036000,
         "is_watchlist": false
       }
     ],
@@ -686,14 +662,6 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": 0.3929,
         "revenue_estimate": 332346186,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "CANG",
-        "date": "2026-12-01",
-        "hour": "",
-        "eps_estimate": -0.1122,
-        "revenue_estimate": 61049040,
         "is_watchlist": false
       },
       {
@@ -1497,6 +1465,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "ANTA",
+        "date": "2026-12-08",
+        "hour": "",
+        "eps_estimate": 0.1224,
+        "revenue_estimate": 11679000,
+        "is_watchlist": false
+      },
+      {
         "ticker": "AVAV",
         "date": "2026-12-08",
         "hour": "",
@@ -1679,6 +1655,14 @@ window.theBriefEarnings = {
         "eps_estimate": 0.0407,
         "revenue_estimate": 1504786518,
         "is_watchlist": false
+      },
+      {
+        "ticker": "YEXT",
+        "date": "2026-12-08",
+        "hour": "",
+        "eps_estimate": 0.1938,
+        "revenue_estimate": 114036000,
+        "is_watchlist": false
       }
     ],
     "2026-12-09": [
@@ -1763,19 +1747,19 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "KEQU",
+        "date": "2026-12-09",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
         "ticker": "KFY",
         "date": "2026-12-09",
         "hour": "",
         "eps_estimate": 1.3787,
         "revenue_estimate": 881338625,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "LOVE",
-        "date": "2026-12-09",
-        "hour": "",
-        "eps_estimate": -0.6895,
-        "revenue_estimate": 146840903,
         "is_watchlist": false
       },
       {
@@ -1819,6 +1803,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "PPIH",
+        "date": "2026-12-09",
+        "hour": "",
+        "eps_estimate": 0.5202,
+        "revenue_estimate": 65280000,
+        "is_watchlist": false
+      },
+      {
         "ticker": "RH",
         "date": "2026-12-09",
         "hour": "",
@@ -1848,14 +1840,6 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": null,
         "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "VRA",
-        "date": "2026-12-09",
-        "hour": "",
-        "eps_estimate": -0.202,
-        "revenue_estimate": 57689180,
         "is_watchlist": false
       },
       {
@@ -1957,6 +1941,14 @@ window.theBriefEarnings = {
         "is_watchlist": false
       },
       {
+        "ticker": "HOFT",
+        "date": "2026-12-10",
+        "hour": "",
+        "eps_estimate": 0.306,
+        "revenue_estimate": 71181210,
+        "is_watchlist": false
+      },
+      {
         "ticker": "HYFT",
         "date": "2026-12-10",
         "hour": "",
@@ -2010,6 +2002,14 @@ window.theBriefEarnings = {
         "hour": "bmo",
         "eps_estimate": null,
         "revenue_estimate": null,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "LOVE",
+        "date": "2026-12-10",
+        "hour": "",
+        "eps_estimate": -0.6895,
+        "revenue_estimate": 146840903,
         "is_watchlist": false
       },
       {
@@ -2082,6 +2082,14 @@ window.theBriefEarnings = {
         "hour": "",
         "eps_estimate": -0.0816,
         "revenue_estimate": 332722776,
+        "is_watchlist": false
+      },
+      {
+        "ticker": "VRA",
+        "date": "2026-12-10",
+        "hour": "",
+        "eps_estimate": -0.202,
+        "revenue_estimate": 57689180,
         "is_watchlist": false
       }
     ]
