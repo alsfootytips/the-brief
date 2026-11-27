@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-26T23:00:43.439822+00:00",
+  "generated_at": "2026-11-27T03:53:40.233549+00:00",
   "gainers": [
     {
       "ticker": "TPL",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Texas Pacific Land Corporation (TPL) M&A Call Presentation - SlideShow\""
+      "move_reason": "News: \"Texas Pacific Land to acquire EagleRock in $3bn transaction\""
     },
     {
       "ticker": "OSCR",
@@ -54,7 +54,7 @@ window.theBriefMovers = {
       "name": "VUAG.L",
       "price": 106.84,
       "change_pct": 3.03,
-      "volume_ratio": 0.46,
+      "volume_ratio": 0.62,
       "is_watchlist": false,
       "is_index": false,
       "is_sector": false,
@@ -118,7 +118,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Trump Pulls The Strings, Fed Foots The Bill\""
+      "move_reason": "News: \"Chicago Fed National Activity Index: Economic Growth Decreased In October\""
     },
     {
       "ticker": "APA",
@@ -166,7 +166,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Trade Desk Stock Is Headed for Its First Back-to-Back Losing Years. Its Only Other Ful...\""
+      "move_reason": "News: \"What Changed At Trade Desk, And What Didn't?\""
     },
     {
       "ticker": "XLRE",
@@ -203,7 +203,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Nasdaq Composite Is in a Correction, but These 3 Dividend Stocks Are Near 52-Week High...\""
+      "move_reason": "News: \"1 Incredibly Cheap Artificial Intelligence (AI) Stock to Buy Before It Doubles in 2027\""
     },
     {
       "ticker": "XLK",
@@ -344,7 +344,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Trump Pulls The Strings, Fed Foots The Bill\""
+      "move_reason": "News: \"Chicago Fed National Activity Index: Economic Growth Decreased In October\""
     },
     {
       "ticker": "NBIS",
@@ -368,7 +368,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Nasdaq Composite Is in a Correction, but These 3 Dividend Stocks Are Near 52-Week High...\""
+      "move_reason": "News: \"1 Incredibly Cheap Artificial Intelligence (AI) Stock to Buy Before It Doubles in 2027\""
     },
     {
       "ticker": "OSCR",
@@ -416,7 +416,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Texas Pacific Land Corporation (TPL) M&A Call Presentation - SlideShow\""
+      "move_reason": "News: \"Texas Pacific Land to acquire EagleRock in $3bn transaction\""
     },
     {
       "ticker": "TTD",
@@ -428,7 +428,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Trade Desk Stock Is Headed for Its First Back-to-Back Losing Years. Its Only Other Ful...\""
+      "move_reason": "News: \"What Changed At Trade Desk, And What Didn't?\""
     },
     {
       "ticker": "XLE",
