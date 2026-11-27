@@ -1,5 +1,5 @@
 window.theBriefLive = {
-  "generated_at": "2026-11-27T20:29:26.630757+00:00",
+  "generated_at": "2026-11-27T23:00:04.580460+00:00",
   "events": [
     {
       "type": "earnings_upcoming",
@@ -16,12 +16,48 @@ window.theBriefLive = {
     },
     {
       "type": "mover",
+      "ticker": "TPL",
+      "name": "Texas Pacific Land",
+      "change_pct": 7.01,
+      "price": 279.69,
+      "is_watchlist": true,
+      "timestamp": "2026-11-27T23:00:04.578395+00:00",
+      "relevance_score": 4.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover",
+      "ticker": "PLTR",
+      "name": "PLTR",
+      "change_pct": 5.14,
+      "price": 172.0,
+      "is_watchlist": false,
+      "timestamp": "2026-11-27T23:00:04.578392+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low",
+      "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover",
       "ticker": "NBIS",
       "name": "Nebius Group",
-      "change_pct": 4.48,
-      "price": 88.8,
+      "change_pct": 4.78,
+      "price": 89.06,
       "is_watchlist": true,
-      "timestamp": "2026-11-27T20:29:26.485315+00:00",
+      "timestamp": "2026-11-27T23:00:04.578389+00:00",
+      "relevance_score": 4.5,
+      "relevance_tier": "medium",
+      "relevance_label": "Big Move"
+    },
+    {
+      "type": "mover",
+      "ticker": "GEV",
+      "name": "GE Vernova",
+      "change_pct": 3.01,
+      "price": 736.5,
+      "is_watchlist": true,
+      "timestamp": "2026-11-27T23:00:04.578380+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -30,10 +66,10 @@ window.theBriefLive = {
       "type": "mover",
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "change_pct": 4.18,
-      "price": 423.0,
+      "change_pct": 4.15,
+      "price": 422.9,
       "is_watchlist": true,
-      "timestamp": "2026-11-27T20:29:26.485300+00:00",
+      "timestamp": "2026-11-27T23:00:04.578372+00:00",
       "relevance_score": 4.5,
       "relevance_tier": "medium",
       "relevance_label": "Big Move"
@@ -41,24 +77,194 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "Oil notches first weekly gain in November on supply fears",
+      "headline": "HeartSciences to exchange $3.3 million in debt for Class A common stock after merger",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/brent-trades-near-months-high-as-mideast-conflict-threatens-supply-5052810",
+      "url": "https://www.investing.com/news/sec-filings/heartsciences-to-exchange-33-million-in-debt-for-class-a-common-stock-after-merger-93CH-5053961",
       "is_watchlist": false,
-      "timestamp": "2026-11-27T20:18:20+00:00",
+      "timestamp": "2026-11-27T22:44:21+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "S&P lifts South Africa ratings on improving fiscal position",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/economy-news/sp-lifts-south-africa-ratings-on-improving-fiscal-position-5053922",
+      "is_watchlist": false,
+      "timestamp": "2026-11-27T22:42:19+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
     },
     {
       "type": "news",
       "ticker": null,
-      "headline": "Is today\u2019s Black Friday tech rebound a real rally\u2014or a dead cat bounce?",
+      "headline": "Olenox Industries issues unregistered shares for board fees, acquisition, and services",
       "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/is-todays-black-friday-tech-rebound-a-real-rallyor-a-dead-cat-bounce-5053485",
+      "url": "https://www.investing.com/news/sec-filings/olenox-industries-issues-unregistered-shares-for-board-fees-acquisition-and-services-93CH-5053960",
       "is_watchlist": false,
-      "timestamp": "2026-11-27T20:16:41+00:00",
+      "timestamp": "2026-11-27T22:40:40+00:00",
+      "relevance_score": 1.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Silver Bow Mining reaches proposed $799,799 EPA settlement for Superfund site",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/sec-filings/silver-bow-mining-reaches-proposed-799799-epa-settlement-for-superfund-site-93CH-5053959",
+      "is_watchlist": false,
+      "timestamp": "2026-11-27T22:36:25+00:00",
       "relevance_score": 0.0,
       "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "iQSTEL receives Nasdaq notice on minimum bid price requirement",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/sec-filings/iqstel-receives-nasdaq-notice-on-minimum-bid-price-requirement-93CH-5053957",
+      "is_watchlist": false,
+      "timestamp": "2026-11-27T22:32:51+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "IES Holdings CEO buys $41,150 in common stock",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/insider-trading-news/ies-holdings-ceo-buys-41150-in-common-stock-93CH-5053955",
+      "is_watchlist": false,
+      "timestamp": "2026-11-27T22:30:50+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Viatris director W. Don Cornwell to retire from board effective December 1",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/sec-filings/viatris-director-w-don-cornwell-to-retire-from-board-effective-december-1-93CH-5053945",
+      "is_watchlist": false,
+      "timestamp": "2026-11-27T22:29:12+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Miller Industries regains NYSE compliance after audit committee change",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/news/sec-filings/miller-industries-regains-nyse-compliance-after-audit-committee-change-93CH-5053944",
+      "is_watchlist": false,
+      "timestamp": "2026-11-27T22:25:09+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+      "is_watchlist": false,
+      "timestamp": "2026-11-27T22:00:57+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Billionaire Chase Coleman\u2019s Tiger Global Raised Its Cerebras Stake 48% to $790 Million",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=157bab7006e16a9eaba041f568718eced7841420efee12833f6fe2254f526c93",
+      "is_watchlist": true,
+      "timestamp": "2026-11-27T21:37:57+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BNY Mellon Strategic Municipals declares $0.03 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4677111-bny-mellon-strategic-municipals-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-27T21:27:47+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend",
+      "source": "Seeking Alpha Market",
+      "url": "https://seekingalpha.com/news/4677110-bny-mellon-strategic-municipal-bond-fund-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "is_watchlist": false,
+      "timestamp": "2026-11-27T21:24:32+00:00",
+      "relevance_score": 0.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Son of Hamas chief survives Israeli strike, Hamas says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXhxUTlzbVROVWJBME9JOGtIQnZUczNMMXdBTUV0QlByWWRCWThyeXlfcDA0T2MyaHlVbFlFSW0wbkpjbGd1WXVjQkZQaDNuZFM1VFkxaU9fN2lXUGtwa0xmQ0xHZHVaYko0M3FfVmdmd0l1LUpJOVhrNF9vTzk2OUJ0bVB4MU9JNnFCWFdESncyd0NBbHJodGpyUlRLNXRRRjhDYXJTRQ?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-11-27T21:11:04+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
+      "ticker": "AMD",
+      "headline": "Jensen Huang Is Back. Nvidia\u2019s (NVDA) Bull Case Remains",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a3adb5dfaf174dffb6f21e2a31c6eadd3eb5208d57c2c682d0a5fd92dc772fb4",
+      "is_watchlist": true,
+      "timestamp": "2026-11-27T21:06:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Jensen Huang Is Back. Nvidia\u2019s (NVDA) Bull Case Remains",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a3adb5dfaf174dffb6f21e2a31c6eadd3eb5208d57c2c682d0a5fd92dc772fb4",
+      "is_watchlist": true,
+      "timestamp": "2026-11-27T21:06:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0?oc=5",
+      "is_watchlist": false,
+      "timestamp": "2026-11-27T20:56:01+00:00",
+      "relevance_score": 4.0,
+      "relevance_tier": "medium",
+      "relevance_label": "Macro"
+    },
+    {
+      "type": "news",
+      "ticker": "NVDA",
+      "headline": "Can Record Black Friday Spending Lift Amazon Stock?",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7aa445f3c05f8dbd715315f2c351988e8a2e6eb98f4c2803720b3f3d8d50d033",
+      "is_watchlist": true,
+      "timestamp": "2026-11-27T20:35:00+00:00",
+      "relevance_score": 2.0,
+      "relevance_tier": "low",
+      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -85,80 +291,13 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "AI Financial Corp CFO transitions to subsidiary as company changes fiscal year",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/sec-filings/ai-financial-corp-cfo-transitions-to-subsidiary-as-company-changes-fiscal-year-93CH-5053830",
+      "headline": "US disables ship trying to leave Iran, as Tehran vows to confront blockade - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzhtZElCdnJJN0hCYkdsQ1lTWHc5UDRtNGE4cF9sWE14dlpacmk2blU5cXJMTHp0MGNaMElaQzdSem91dXNpNVRtd1k4ekZza09jVEpubTh3cjlpbE9CNWdMSU1seV9vNDFEeGQ1aDZBY1J1R0JoNVdlcjJaQnlWcU5Ib3ZISHVmNHA4eklQclI2WDIzR0VtNVp0NEJjaDZfcTlKNHRNbW54bGF2TExrR1NaSFJvLUxRcnc?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-11-27T20:12:44+00:00",
-      "relevance_score": 0.0,
+      "timestamp": "2026-11-27T20:06:57+00:00",
+      "relevance_score": 2.5,
       "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "US disables ship trying to leave Iran, as Tehran vows to confront blockade",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/commodities-news/us-disables-ship-trying-to-leave-iran-as-tehran-vows-to-confront-blockade-5053767",
-      "is_watchlist": false,
-      "timestamp": "2026-11-27T20:12:22+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Millions of Americans are retiring\u2014lifting this wealth stock 13%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/millions-of-americans-are-retiringlifting-this-wealth-stock-13-5053441",
-      "is_watchlist": false,
-      "timestamp": "2026-11-27T20:11:46+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Market Swings Spooked Retail Traders\u2014And Lifted CME Group Up 18%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/market-swings-spooked-retail-tradersand-lifted-cme-group-up-18-5053438",
-      "is_watchlist": false,
-      "timestamp": "2026-11-27T20:11:36+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "AI Chip Stocks Swung Wildly\u2014While Warren Buffett\u2019s Apple Climbed 26%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/ai-chip-stocks-swung-wildlywhile-warren-buffetts-apple-climbed-26-5053436",
-      "is_watchlist": false,
-      "timestamp": "2026-11-27T20:11:29+00:00",
-      "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Small Businesses Are Fighting Costs\u2014This HR Stock Surged 23%",
-      "source": "Investing.com News",
-      "url": "https://www.investing.com/news/stock-market-news/small-businesses-are-fighting-coststhis-hr-stock-surged-23-5053432",
-      "is_watchlist": false,
-      "timestamp": "2026-11-27T20:11:21+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "TSLA Stock Clocks Best Week In 18 Months: Tesla Reportedly Eyes Buying German Toolmaker Amid Cybercab, Optimus Scaling Plans",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=ca84633dd52240b00db7b72a75d92570875cda4eec12ac7da9ffc80aa5298d64",
-      "is_watchlist": true,
-      "timestamp": "2026-11-27T19:55:54+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
     },
     {
       "type": "news",
@@ -179,42 +318,6 @@ window.theBriefLive = {
       "url": "https://finnhub.io/api/news?id=daa551d96a3a7a3a1f9668075bf933140959befbc52062dc93c5be0e73509c6f",
       "is_watchlist": true,
       "timestamp": "2026-11-27T19:54:29+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "EXCLUSIVE Hackers breach US Air Force flagship Cloud One computing platform - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-11-27T19:49:22+00:00",
-      "relevance_score": 4.0,
-      "relevance_tier": "medium",
-      "relevance_label": "Macro"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Should You Buy Nvidia Stock Before CEO Jensen Huang Testifies in Front of Congress on Dec. 1 and Dec. 3?",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6485c9afc0ccda7c8349157b048306d43cc7dfa4db44f087308da73de51263b5",
-      "is_watchlist": true,
-      "timestamp": "2026-11-27T19:48:09+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": "NVDA",
-      "headline": "Sports Betting and the Way We Make Money",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=0581f7e3543b3c4d43e1038aa0f5b21f355461e7d619018c374ce2ad6e49f154",
-      "is_watchlist": true,
-      "timestamp": "2026-11-27T19:44:23+00:00",
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
@@ -289,28 +392,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "Astera Labs climbs 9% amid broad rally in technology shares",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4677097-astera-labs-climbs-9-percent-amid-broad-rally-in-technology-shares?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-27T19:07:37+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Catalyst Watch: Jobs report, Jensen Huang in DC, and Cyber Monday",
-      "source": "Seeking Alpha Market",
-      "url": "https://seekingalpha.com/news/4677053-catalyst-watch-jobs-report-jensen-huang-in-dc-and-cyber-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "is_watchlist": false,
-      "timestamp": "2026-11-27T19:00:07+00:00",
-      "relevance_score": 0.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "CRWV",
       "headline": "Dell's Strong Results Fail to Ease Concerns About AI Spending Durability, UBS Says",
       "source": "Yahoo",
@@ -353,17 +434,6 @@ window.theBriefLive = {
       "is_watchlist": false,
       "timestamp": "2026-11-27T18:40:00+00:00",
       "relevance_score": 1.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Son of Hamas chief survives Israeli strike, Hamas says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXhxUTlzbVROVWJBME9JOGtIQnZUczNMMXdBTUV0QlByWWRCWThyeXlfcDA0T2MyaHlVbFlFSW0wbkpjbGd1WXVjQkZQaDNuZFM1VFkxaU9fN2lXUGtwa0xmQ0xHZHVaYko0M3FfVmdmd0l1LUpJOVhrNF9vTzk2OUJ0bVB4MU9JNnFCWFdESncyd0NBbHJodGpyUlRLNXRRRjhDYXJTRQ?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-11-27T18:33:44+00:00",
-      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -432,29 +502,6 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "US disables ship trying to leave Iran, as Tehran vows to confront blockade - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzhtZElCdnJJN0hCYkdsQ1lTWHc5UDRtNGE4cF9sWE14dlpacmk2blU5cXJMTHp0MGNaMElaQzdSem91dXNpNVRtd1k4ekZza09jVEpubTh3cjlpbE9CNWdMSU1seV9vNDFEeGQ1aDZBY1J1R0JoNVdlcjJaQnlWcU5Ib3ZISHVmNHA4eklQclI2WDIzR0VtNVp0NEJjaDZfcTlKNHRNbW54bGF2TExrR1NaSFJvLUxRcnc?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-11-27T18:01:54+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
-      "ticker": "AMD",
-      "headline": "Not AMD. This Is the 1 Company Nvidia Should Worry About Most.",
-      "source": "Yahoo",
-      "url": "https://finnhub.io/api/news?id=6f2097fac680351b4ce1c65f00d9185bf46a5849bfd117b281efa732e51b436c",
-      "is_watchlist": true,
-      "timestamp": "2026-11-27T17:35:02+00:00",
-      "relevance_score": 2.0,
-      "relevance_tier": "low",
-      "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
       "headline": "Clearing out my parents\u2019 house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
@@ -512,12 +559,12 @@ window.theBriefLive = {
     {
       "type": "news",
       "ticker": null,
-      "headline": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
+      "headline": "At least eight found dead on migrant boat off Spain's Canary Islands - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOFg3b1hQNEFySWI3WEZRY21RRGFIQndWTWhVZkdpYUlVczFmR2hiSnZaemxZTzFqYU1uSThFbEVMSkgyVFR1SXE3UEpBd09jOWNzcW9IaXl0TXZIS3k2VXlEUDBVcEJjc25UOHBEXzhJcFBCX2YtdXpqLVVMN1lmVFliYWJ0QnY0YUhOOWJGblFRaXlmbFFpMUZ0aWdvRHRWQ0E4RFd3?oc=5",
       "is_watchlist": false,
-      "timestamp": "2026-11-27T16:43:14+00:00",
-      "relevance_score": 2.5,
+      "timestamp": "2026-11-27T16:43:46+00:00",
+      "relevance_score": 1.0,
       "relevance_tier": "low"
     },
     {
@@ -651,17 +698,6 @@ window.theBriefLive = {
     },
     {
       "type": "news",
-      "ticker": null,
-      "headline": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html",
-      "is_watchlist": false,
-      "timestamp": "2026-11-27T14:12:55+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
-    },
-    {
-      "type": "news",
       "ticker": "DG",
       "headline": "American Eagle Gears Up for Q3 Earnings: What Should Investors Expect?",
       "source": "Yahoo",
@@ -731,6 +767,17 @@ window.theBriefLive = {
     },
     {
       "type": "news",
+      "ticker": null,
+      "headline": "New car prices are at a record high. Here's where to look for deals",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/11/27/new-car-buying-deals-buying-tips.html",
+      "is_watchlist": false,
+      "timestamp": "2026-11-27T13:15:01+00:00",
+      "relevance_score": 1.0,
+      "relevance_tier": "low"
+    },
+    {
+      "type": "news",
       "ticker": "OXY",
       "headline": "5 Top-Ranked Stocks Likely to Deliver Earnings Beats",
       "source": "Yahoo",
@@ -740,17 +787,6 @@ window.theBriefLive = {
       "relevance_score": 3.5,
       "relevance_tier": "medium",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Trump backs Iraqi leader's efforts to assert more state authority - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdE9aRmVNN0dTb3V4aExjamVrY0F0X3hVb3g5ZWZZY1B1bVNzb2wwQkFXdi1ka3d2RFk1M1FDVGdUSXkwLTlRU3p0Q0RsRHM4cUsxcm5JOVFUN1U5bF9hYWtBVzZRYmhSVHEyaW8tZExhLVhfZmhZWHRXZzRTTXlONm9wTjRwNkxfY2MxVjZUUExpTGdqMU1jSDVxNXRNclIxa1hsRXcxTzhycGcxbW9vRDV0czJ4dw?oc=5",
-      "is_watchlist": false,
-      "timestamp": "2026-11-27T13:11:44+00:00",
-      "relevance_score": 2.5,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -787,6 +823,17 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
+    },
+    {
+      "type": "news",
+      "ticker": null,
+      "headline": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
+      "source": "CNBC Top",
+      "url": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html",
+      "is_watchlist": false,
+      "timestamp": "2026-11-27T10:13:44+00:00",
+      "relevance_score": 2.5,
+      "relevance_tier": "low"
     },
     {
       "type": "news",
@@ -1121,17 +1168,6 @@ window.theBriefLive = {
       "relevance_score": 2.0,
       "relevance_tier": "low",
       "relevance_label": "Watchlist"
-    },
-    {
-      "type": "news",
-      "ticker": null,
-      "headline": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-      "source": "CNBC Top",
-      "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
-      "is_watchlist": false,
-      "timestamp": "2026-11-25T16:17:13+00:00",
-      "relevance_score": 1.0,
-      "relevance_tier": "low"
     },
     {
       "type": "news",
