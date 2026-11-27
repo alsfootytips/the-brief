@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-27T03:53:40.233549+00:00",
+  "generated_at": "2026-11-27T04:55:48.528024+00:00",
   "gainers": [
     {
       "ticker": "TPL",
@@ -182,18 +182,6 @@ window.theBriefMovers = {
   ],
   "losers": [
     {
-      "ticker": "PWR",
-      "name": "Quanta Services",
-      "price": 565.47,
-      "change_pct": -4.1,
-      "volume_ratio": 1.3,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"Wedbush Initiates Coverage of Quanta Services at Outperform\""
-    },
-    {
       "ticker": "NVDA",
       "name": "NVIDIA",
       "price": 151.22,
@@ -203,7 +191,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 Incredibly Cheap Artificial Intelligence (AI) Stock to Buy Before It Doubles in 2027\""
+      "move_reason": "News: \"5 Best Quantum Computing Stocks To Buy for 2027\""
     },
     {
       "ticker": "XLK",
@@ -284,7 +272,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"5 Most Oversold Semiconductor Stocks to Buy for 2027\""
+      "move_reason": "News: \"Eric Trump-Backed Robot Startup\u2019s Employees Lose Health Insurance After Weeks Without Pay ...\""
     },
     {
       "ticker": "APA",
@@ -332,7 +320,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Energy Transition Update - Green Rain Energy Expands With Innovative EV Charging Deal\""
+      "move_reason": "News: \"GE Vernova (GEV) Faces a Delivery Test as Its Backlog Reaches $197 Billion\""
     },
     {
       "ticker": "IWM",
@@ -368,7 +356,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"1 Incredibly Cheap Artificial Intelligence (AI) Stock to Buy Before It Doubles in 2027\""
+      "move_reason": "News: \"5 Best Quantum Computing Stocks To Buy for 2027\""
     },
     {
       "ticker": "OSCR",
@@ -393,18 +381,6 @@ window.theBriefMovers = {
       "is_sector": false,
       "market_state": null,
       "move_reason": "News: \"Are Oils-Energy Stocks Lagging  Occidental Petroleum (OXY) This Year?\""
-    },
-    {
-      "ticker": "PWR",
-      "name": "Quanta Services",
-      "price": 565.47,
-      "change_pct": -4.1,
-      "volume_ratio": 1.3,
-      "is_watchlist": true,
-      "is_index": false,
-      "is_sector": false,
-      "market_state": null,
-      "move_reason": "News: \"Wedbush Initiates Coverage of Quanta Services at Outperform\""
     },
     {
       "ticker": "TPL",
