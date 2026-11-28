@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-28T03:40:04.205521+00:00",
+  "generated_at": "2026-11-28T04:40:51.221657+00:00",
   "gainers": [
     {
       "ticker": "TPL",
@@ -288,7 +288,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Apple Is Beating the Rest of the \"Magnificent Seven\" in 2026. Can It Do It Again in 2027?\""
+      "move_reason": "News: \"Nvidia Stock Has Swung 5% or More in a Single Day 5 Times in November. Here's How Big a Po...\""
     },
     {
       "ticker": "OSCR",
