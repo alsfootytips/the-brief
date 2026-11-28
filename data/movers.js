@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-28T04:40:51.221657+00:00",
+  "generated_at": "2026-11-28T13:39:27.643306+00:00",
   "gainers": [
     {
       "ticker": "TPL",
@@ -47,7 +47,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jensen Huang Is Back. Nvidia\u2019s (NVDA) Bull Case Remains\""
+      "move_reason": "News: \"Dan Ives Calls Nvidia\u2019s China and Asia Exposure a \u201cContainable 15% to 20%\u201d of Revenue. Hua...\""
     },
     {
       "ticker": "META",
@@ -71,7 +71,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova\u2019s Backlog Reached $197 Billion. Can It Turn Orders Into Earnings?\""
+      "move_reason": "News: \"Caterpillar Soars 10% in a Week as Jensen Huang\u2019s Return Revives the AI Trade. Is It Still...\""
     },
     {
       "ticker": "XLK",
@@ -94,7 +94,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dell's Strong Results Fail to Ease Concerns About AI Spending Durability, UBS Says\""
+      "move_reason": "News: \"SpaceX Is \u201ca CoreWeave With Some Rockets,\u201d per Patrick Boyle. Its AI Unit Is Now Over Half...\""
     },
     {
       "ticker": "APA",
@@ -165,7 +165,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Big Four Recession Indicators: Real Personal Income\""
+      "move_reason": "News: \"Weekly Indicators: Deterioration To Neutral Spreads Among Short Leading Indicators\""
     },
     {
       "ticker": "XLY",
@@ -204,7 +204,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Jensen Huang Is Back. Nvidia\u2019s (NVDA) Bull Case Remains\""
+      "move_reason": "News: \"Dan Ives Calls Nvidia\u2019s China and Asia Exposure a \u201cContainable 15% to 20%\u201d of Revenue. Hua...\""
     },
     {
       "ticker": "APA",
@@ -228,7 +228,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Dell's Strong Results Fail to Ease Concerns About AI Spending Durability, UBS Says\""
+      "move_reason": "News: \"SpaceX Is \u201ca CoreWeave With Some Rockets,\u201d per Patrick Boyle. Its AI Unit Is Now Over Half...\""
     },
     {
       "ticker": "DG",
@@ -252,7 +252,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"GE Vernova\u2019s Backlog Reached $197 Billion. Can It Turn Orders Into Earnings?\""
+      "move_reason": "News: \"Caterpillar Soars 10% in a Week as Jensen Huang\u2019s Return Revives the AI Trade. Is It Still...\""
     },
     {
       "ticker": "IWM",
@@ -264,7 +264,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The Big Four Recession Indicators: Real Personal Income\""
+      "move_reason": "News: \"Weekly Indicators: Deterioration To Neutral Spreads Among Short Leading Indicators\""
     },
     {
       "ticker": "NBIS",
@@ -288,7 +288,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Nvidia Stock Has Swung 5% or More in a Single Day 5 Times in November. Here's How Big a Po...\""
+      "move_reason": "News: \"Stocks are chasing a rare buy signal as markets brace for a potential Fed hike: Chart of t...\""
     },
     {
       "ticker": "OSCR",

@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-11-28T04:40:51+00:00",
+  "generated_at": "2026-11-28T13:39:27+00:00",
   "by_date": {
     "2026-12-03": [
       {
@@ -350,6 +350,16 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": 0.0984,
         "revenue_estimate": 96004572,
+        "is_watchlist": false
+      }
+    ],
+    "2026-11-29": [
+      {
+        "ticker": "WILC",
+        "date": "2026-11-29",
+        "hour": "",
+        "eps_estimate": null,
+        "revenue_estimate": null,
         "is_watchlist": false
       }
     ],
