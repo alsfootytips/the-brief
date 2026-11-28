@@ -1,5 +1,5 @@
 window.theBriefEarnings = {
-  "generated_at": "2026-11-27T23:00:04+00:00",
+  "generated_at": "2026-11-28T03:40:04+00:00",
   "by_date": {
     "2026-12-03": [
       {
@@ -350,72 +350,6 @@ window.theBriefEarnings = {
         "hour": "amc",
         "eps_estimate": 0.0984,
         "revenue_estimate": 96004572,
-        "is_watchlist": false
-      }
-    ],
-    "2026-11-27": [
-      {
-        "ticker": "ATXG",
-        "date": "2026-11-27",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "CUEN",
-        "date": "2026-11-27",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "DRCT",
-        "date": "2026-11-27",
-        "hour": "",
-        "eps_estimate": -16.524,
-        "revenue_estimate": 9688980,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "DSL",
-        "date": "2026-11-27",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "PHYTF",
-        "date": "2026-11-27",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "SCLX",
-        "date": "2026-11-27",
-        "hour": "",
-        "eps_estimate": null,
-        "revenue_estimate": null,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "SSKN",
-        "date": "2026-11-27",
-        "hour": "",
-        "eps_estimate": -0.3692,
-        "revenue_estimate": 7867770,
-        "is_watchlist": false
-      },
-      {
-        "ticker": "XYF",
-        "date": "2026-11-27",
-        "hour": "bmo",
-        "eps_estimate": null,
-        "revenue_estimate": null,
         "is_watchlist": false
       }
     ],
@@ -1069,7 +1003,7 @@ window.theBriefEarnings = {
       {
         "ticker": "KNOP",
         "date": "2026-12-04",
-        "hour": "",
+        "hour": "bmo",
         "eps_estimate": 0.2193,
         "revenue_estimate": 94711590,
         "is_watchlist": false

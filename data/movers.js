@@ -1,5 +1,5 @@
 window.theBriefMovers = {
-  "generated_at": "2026-11-27T23:00:04.576647+00:00",
+  "generated_at": "2026-11-28T03:40:04.205521+00:00",
   "gainers": [
     {
       "ticker": "TPL",
@@ -11,7 +11,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Texas Pacific Land (TPL) Stock Looks Expensive On Its 107% Five Year Run\""
+      "move_reason": "News: \"Dividend Champion, Contender, And Challenger Highlights: Week November 29\""
     },
     {
       "ticker": "PLTR",
@@ -153,7 +153,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The S&P 500's 2025 Thanksgiving Leftovers One Year Later\""
+      "move_reason": "News: \"Trade Desk (TTD) Stock May Be 28% Undervalued Despite Kokai Lawsuit Pressure\""
     },
     {
       "ticker": "IWM",
@@ -165,7 +165,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Most Consumers Are Tapped Out This Black Friday\""
+      "move_reason": "News: \"The Big Four Recession Indicators: Real Personal Income\""
     },
     {
       "ticker": "XLY",
@@ -264,7 +264,7 @@ window.theBriefMovers = {
       "is_index": true,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Most Consumers Are Tapped Out This Black Friday\""
+      "move_reason": "News: \"The Big Four Recession Indicators: Real Personal Income\""
     },
     {
       "ticker": "NBIS",
@@ -288,7 +288,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Billionaire Chase Coleman\u2019s Tiger Global Raised Its Cerebras Stake 48% to $790 Million\""
+      "move_reason": "News: \"Apple Is Beating the Rest of the \"Magnificent Seven\" in 2026. Can It Do It Again in 2027?\""
     },
     {
       "ticker": "OSCR",
@@ -300,7 +300,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Best Growth Stocks to Buy for November 25th\""
+      "move_reason": "News: \"Here's Why Investors Should Stay Neutral on AON Stock for Now\""
     },
     {
       "ticker": "OXY",
@@ -336,7 +336,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"Texas Pacific Land (TPL) Stock Looks Expensive On Its 107% Five Year Run\""
+      "move_reason": "News: \"Dividend Champion, Contender, And Challenger Highlights: Week November 29\""
     },
     {
       "ticker": "TTD",
@@ -348,7 +348,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": false,
       "market_state": null,
-      "move_reason": "News: \"The S&P 500's 2025 Thanksgiving Leftovers One Year Later\""
+      "move_reason": "News: \"Trade Desk (TTD) Stock May Be 28% Undervalued Despite Kokai Lawsuit Pressure\""
     },
     {
       "ticker": "XLE",
@@ -360,7 +360,7 @@ window.theBriefMovers = {
       "is_index": false,
       "is_sector": true,
       "market_state": null,
-      "move_reason": "News: \"Commodities: Copper And Gold Rebound While Oil Extends Gains\""
+      "move_reason": "News: \"Sector Update: Energy Stocks Rise Friday Afternoon\""
     }
   ],
   "indices": [
@@ -584,30 +584,6 @@ window.theBriefMovers = {
         "drawdown"
       ],
       "narrative": "<strong>NVDA</strong> has been beaten down hard and now trades at a low valuation \u2014 value setup.",
-      "sector_etf": "XLK"
-    },
-    {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices",
-      "price": 422.9,
-      "change_pct": 4.15,
-      "score": 5.0,
-      "signals": [
-        "3 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "10 insider sells vs 0 buys (last 90 days)"
-      ],
-      "reasons": [
-        "3 news items in the last 3 days",
-        "1 SEC filing in the last 7 days",
-        "10 insider sells vs 0 buys (last 90 days)"
-      ],
-      "tags": [
-        "news-flow",
-        "filing",
-        "insider-selling"
-      ],
-      "narrative": "<strong>AMD</strong> just filed material disclosures with the SEC.",
       "sector_etf": "XLK"
     },
     {
